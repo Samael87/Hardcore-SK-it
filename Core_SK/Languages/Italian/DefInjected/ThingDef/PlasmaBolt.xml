@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_PlasmaBolt.label>Plasma bolt</Ammo_PlasmaBolt.label>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_Plasma.label>Plasma bolt</Bullet_Plasma.label>
+  <Bullet_PlasmaSniper.label>Plasma bolt</Bullet_PlasmaSniper.label>
+
+
+</LanguageData>

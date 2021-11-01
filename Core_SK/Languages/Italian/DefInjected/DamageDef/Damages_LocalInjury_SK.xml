@@ -1,48 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Optic.label>Микроволны</Optic.label>
-	<Optic.deathMessage>{0} умирает от микроволнового излучения.</Optic.deathMessage>
+  <Optic.label>Optic</Optic.label>
+  <Optic.deathMessage>{0} has been shot to death.</Optic.deathMessage>
 
-	<Plasma.label>Плазма</Plasma.label>
-	<Plasma.deathMessage>{0} расплавляется от плазмы.</Plasma.deathMessage>
-	<PlasmaFlame.label>Плазма</PlasmaFlame.label>
-	<PlasmaFlame.deathMessage>{0} расплавляется от плазмы.</PlasmaFlame.deathMessage>
+  <Plasma.label>Plasma</Plasma.label>
+  <Plasma.deathMessage>{0} has been melted.</Plasma.deathMessage>
 
-	<Microwave.label>Сверхвысокая частота</Microwave.label>
-	<Microwave.deathMessage>{0} сгорает заживо.</Microwave.deathMessage>
+  <PlasmaFlame.label>Plasma</PlasmaFlame.label>
+  <PlasmaFlame.deathMessage>{0} has been melted.</PlasmaFlame.deathMessage>
 
-	<AntiMateriel.label>Антиматерия</AntiMateriel.label>
-	<AntiMateriel.deathMessage>{0} умирает от попадания антиматерией.</AntiMateriel.deathMessage>
+  <Microwave.label>Microwave</Microwave.label>
+  <Microwave.deathMessage>{0} has burned alive.</Microwave.deathMessage>
 
-	<Fragment.label>Осколок</Fragment.label>
-	<Fragment.deathMessage>{0} умирает от попадания осколка.</Fragment.deathMessage>
+  <LaserBurn.label>Laser-burn</LaserBurn.label>
+  <LaserBurn.deathMessage>{0} has burned to death.</LaserBurn.deathMessage>
 
-	<ArmorPiercing.label>Бронебойный снаряд</ArmorPiercing.label>
-	<ArmorPiercing.deathMessage>{0} умирает от попадания бронебойного снаряда.</ArmorPiercing.deathMessage>
+  <ElectricShock.label>Electric Shock</ElectricShock.label>
+  <ElectricShock.deathMessage>{0} shocked to death.</ElectricShock.deathMessage>
 
-	<LaserBurn.label>Ожог лазером</LaserBurn.label>
-	<LaserBurn.deathMessage>{0} сгорает заживо.</LaserBurn.deathMessage>
+  <BioticShock.label>Biotic Shock</BioticShock.label>
+  <BioticShock.deathMessage>{0} shocked to death.</BioticShock.deathMessage>
 
-	<ElectricShock.label>Электрошок</ElectricShock.label>
-	<ElectricShock.deathMessage>{0} умирает от электричества.</ElectricShock.deathMessage>
+  <KineticPulse.label>Kinetic Pulse</KineticPulse.label>
+  <KineticPulse.deathMessage>{0} has been shattered.</KineticPulse.deathMessage>
 
-	<BioticShock.label>Биотический шок</BioticShock.label>
-	<BioticShock.deathMessage>{0} умирает от биошока.</BioticShock.deathMessage>
+  <Dart.label>dart</Dart.label>
+  <Dart.deathMessage>{0} has been shot to death by an arrow.</Dart.deathMessage>
 
-	<KineticPulse.label>Кинетический импульс</KineticPulse.label>
-	<KineticPulse.deathMessage>{0} умирает от кинетического импульса.</KineticPulse.deathMessage>
+  <Poison.label>poison</Poison.label>
+  <Poison.deathMessage>{0} has been shot to death by an arrow.</Poison.deathMessage>
 
-	<Dart.label>Дротик</Dart.label>
-	<Dart.deathMessage>{0} умерает от смертельного попадания.</Dart.deathMessage>
+  <DiseaseBite.label>disease bite</DiseaseBite.label>
+  <DiseaseBite.deathMessage>{0} has been bitten to death.</DiseaseBite.deathMessage>
 
-	<DiseaseBite.label>Заражающий укус</DiseaseBite.label>
-	<DiseaseBite.deathMessage>{0} умирает от заражающего укуса.</DiseaseBite.deathMessage>
+  <Acid.label>Acid</Acid.label>
+  <Acid.deathMessage>{0} has melted to death.</Acid.deathMessage>
 
-	<Acid.label>Кислота</Acid.label>
-	<Acid.deathMessage>{0} расплавляется заживо от кислоты.</Acid.deathMessage>
+  <AcidPoison.label>Acid Poison</AcidPoison.label>
+  <AcidPoison.deathMessage>{0} has been impaled to death.</AcidPoison.deathMessage>
 
-	<AcidPoison.label>Кислотный яд</AcidPoison.label>
-	<AcidPoison.deathMessage>{0}  умирает от кислотного яда.</AcidPoison.deathMessage>
 
 </LanguageData>

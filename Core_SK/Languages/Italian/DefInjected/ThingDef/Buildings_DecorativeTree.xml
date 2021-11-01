@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ElectricTreePot.label>Electric tree pot</ElectricTreePot.label>
+  <ElectricTreePot.description>Special electric pot is suitable for new year tree.</ElectricTreePot.description>
+  <ElectricTreePot_Blueprint.label>Electric tree pot (blueprint)</ElectricTreePot_Blueprint.label>
+  <ElectricTreePot_Blueprint_Install.label>Electric tree pot (blueprint)</ElectricTreePot_Blueprint_Install.label>
+  <ElectricTreePot_Frame.label>Electric tree pot (building)</ElectricTreePot_Frame.label>
+  <ElectricTreePot_Frame.description>Special electric pot is suitable for new year tree.</ElectricTreePot_Frame.description>
+
+  <NewYearTree.label>New year tree</NewYearTree.label>
+  <NewYearTree.description>New year tree with a pleasant smell will decorate any interior well.</NewYearTree.description>
+
+
+</LanguageData>

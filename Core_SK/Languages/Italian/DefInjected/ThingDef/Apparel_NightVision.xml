@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_SimpleNightVision.label>night vision monocular</Apparel_SimpleNightVision.label>
+  <Apparel_SimpleNightVision.description>A simple, monocular night vision device, worn strapped to the head.</Apparel_SimpleNightVision.description>
+
+  <Apparel_AdvancedNightVision.label>advanced night vision goggles</Apparel_AdvancedNightVision.label>
+  <Apparel_AdvancedNightVision.description>An set of advanced night vision goggles offering detailed, panoramic vision when fighting in the dark.</Apparel_AdvancedNightVision.description>
+
+
+</LanguageData>

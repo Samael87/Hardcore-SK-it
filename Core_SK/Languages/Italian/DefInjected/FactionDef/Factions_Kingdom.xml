@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<MedievalKingdom.label>Королевство</MedievalKingdom.label>
-	<MedievalKingdom.pawnsPlural>королевство</MedievalKingdom.pawnsPlural>
-	<MedievalKingdom.leaderTitle>король</MedievalKingdom.leaderTitle>
+  <MedievalKingdom.label>Kingdom</MedievalKingdom.label>
+  <MedievalKingdom.pawnsPlural>kingdom</MedievalKingdom.pawnsPlural>
+  <MedievalKingdom.leaderTitle>king</MedievalKingdom.leaderTitle>
+
 
 </LanguageData>

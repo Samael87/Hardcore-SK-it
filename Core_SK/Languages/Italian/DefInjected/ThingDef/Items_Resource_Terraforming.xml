@@ -1,16 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Dirt.label>Куча грязи</Dirt.label>
-	<Dirt.description>Куча грязи выкопанная из земли.</Dirt.description>
+  <!-- Terraforming -->
 
-	<Fertilizer.label>Удобрения</Fertilizer.label>
-	<Fertilizer.description>Удобрения улучшают почву для ускорения роста растений.</Fertilizer.description>
+  <Dirt.label>Pile of dirt</Dirt.label>
+  <Dirt.description>Simple soil dug out of the ground.</Dirt.description>
 
-	<RottedMeat.label>Испорченное мясо</RottedMeat.label>
-	<RottedMeat.description>Когда то это было мясом, но теперь это не что иное как отвратительная гниющая субстанция. Может пригодиться для создания удобрения, но не более.</RottedMeat.description>
+  <SandResource.label>Sand</SandResource.label>
+  <SandResource.description>Sand can be crushed from Rubble or gathered from the ground. It is a necessary ingredient in making Glass Batch and Silicon.</SandResource.description>
 
-	<RottedMush.label>Гниль</RottedMush.label>
-	<RottedMush.description>Чтобы это ни было, теперь это просто отвратительная гниющая субстанция. Может пригодиться для создания удобрения, но не более.</RottedMush.description>
+  <CrushedStone.label>rubble</CrushedStone.label>
+  <CrushedStone.description>Rough Rubble stones are created by smashing stone chunks or blocks. It can be gathered from gravel on the ground. It is a useful ingredient for concrete. It can also be smashed further to produce Sand.</CrushedStone.description>
+
+  <Compost.label>compost</Compost.label>
+  <Compost.description>A mix of food wastes. Rather disgusting, but useful if you want to make fertilizer.</Compost.description>
+
+  <Fertilizer.label>fertilizer</Fertilizer.label>
+  <Fertilizer.description>Fertilizer enhances soil to speed the growth of plants.</Fertilizer.description>
+
+  <RottedMeat.label>rotted meat</RottedMeat.label>
+  <RottedMeat.description>This apparently used to be meat of some sort, but now it's just a disgusting pile of rotted mush. Useful for making compost, perhaps, but not for much else.</RottedMeat.description>
+
+  <RottedMush.label>rotted mush</RottedMush.label>
+  <RottedMush.description>Whatever this used to be, it's now just a disgusting pile of rotted mush. Useful for making compost, perhaps, but not for much else.</RottedMush.description>
+
 
 </LanguageData>

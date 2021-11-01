@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BuildFlamethrowerRM.label>Build RM2 Flamethrower</BuildFlamethrowerRM.label>
+  <BuildFlamethrowerRM.description>Unconventional flamethrower design that uses replaceable canisters of pressurized fuel canisters instead of a back-mounted tank. Less encumbering but needs to reload frequently.</BuildFlamethrowerRM.description>
+  <BuildFlamethrowerRM.jobString>Building RM2 Flamethrower.</BuildFlamethrowerRM.jobString>
+
+  <BuildFireExtinguisher.label>Build Fire Extinguisher</BuildFireExtinguisher.label>
+  <BuildFireExtinguisher.description>A gun loaded with expanding foam. It can be used to extinguish fires. Produces 1.</BuildFireExtinguisher.description>
+  <BuildFireExtinguisher.jobString>Building Fire Extinguisher.</BuildFireExtinguisher.jobString>
+
+
+</LanguageData>

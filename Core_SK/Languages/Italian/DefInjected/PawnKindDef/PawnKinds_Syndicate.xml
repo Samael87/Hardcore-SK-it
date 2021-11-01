@@ -1,52 +1,137 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SyndicateProspector.label>Разведчик синдиката</SyndicateProspector.label>
-  <SyndicateProspector.labelPlural>Разведчики синдиката</SyndicateProspector.labelPlural>
+  <!-- Prospector -->
 
-  <SyndicateStriker.label>Страйкер синдиката</SyndicateStriker.label>
-  <SyndicateStriker.labelPlural>Страйкеры синдиката</SyndicateStriker.labelPlural>
+  <SyndicateProspector.label>Syndicate Prospector</SyndicateProspector.label>
+  <SyndicateProspector.labelPlural>Syndicate Prospectors</SyndicateProspector.labelPlural>
+  <SyndicateProspector.labelMale>male Syndicate Prospector</SyndicateProspector.labelMale>
+  <SyndicateProspector.labelMalePlural>male Syndicate Prospectors</SyndicateProspector.labelMalePlural>
+  <SyndicateProspector.labelFemale>female Syndicate Prospector</SyndicateProspector.labelFemale>
+  <SyndicateProspector.labelFemalePlural>female Syndicate Prospectors</SyndicateProspector.labelFemalePlural>
 
-  <SyndicateHunter.label>Охотник синдиката</SyndicateHunter.label>
-  <SyndicateHunter.labelPlural>Охотники синдиката</SyndicateHunter.labelPlural>
+  <SyndicateProspector_Acidifier.label>Syndicate Prospector</SyndicateProspector_Acidifier.label>
+  <SyndicateProspector_Acidifier.labelPlural>Syndicate Prospectors</SyndicateProspector_Acidifier.labelPlural>
+  <SyndicateProspector_Acidifier.labelMale>male Syndicate Prospector</SyndicateProspector_Acidifier.labelMale>
+  <SyndicateProspector_Acidifier.labelMalePlural>male Syndicate Prospectors</SyndicateProspector_Acidifier.labelMalePlural>
+  <SyndicateProspector_Acidifier.labelFemale>female Syndicate Prospector</SyndicateProspector_Acidifier.labelFemale>
+  <SyndicateProspector_Acidifier.labelFemalePlural>female Syndicate Prospectors</SyndicateProspector_Acidifier.labelFemalePlural>
 
-  <SyndicateHawkeye.label>Орлиный глаз синдиката</SyndicateHawkeye.label>
-  <SyndicateHawkeye.labelPlural>Орлиный глаз синдиката</SyndicateHawkeye.labelPlural>
 
-  <SyndicateDevastator.label>Разрушитель синдиката</SyndicateDevastator.label>
-  <SyndicateDevastator.labelPlural>Разрушители синдиката</SyndicateDevastator.labelPlural>
+  <!-- Striker -->
 
-  <SyndicateDevastatorHeavy.label>Опустошитель синдиката</SyndicateDevastatorHeavy.label>
-  <SyndicateDevastatorHeavy.labelPlural>Опустошители синдиката</SyndicateDevastatorHeavy.labelPlural>
+  <SyndicateStriker.label>Syndicate Striker</SyndicateStriker.label>
+  <SyndicateStriker.labelPlural>Syndicate Strikers</SyndicateStriker.labelPlural>
+  <SyndicateStriker.labelMale>male Syndicate Striker</SyndicateStriker.labelMale>
+  <SyndicateStriker.labelMalePlural>male Syndicate Strikers</SyndicateStriker.labelMalePlural>
+  <SyndicateStriker.labelFemale>female Syndicate Striker</SyndicateStriker.labelFemale>
+  <SyndicateStriker.labelFemalePlural>female Syndicate Strikers</SyndicateStriker.labelFemalePlural>
 
-  <SyndicateAnnihilator.label>Аннигилятор синдиката</SyndicateAnnihilator.label>
-  <SyndicateAnnihilator.labelPlural>Аннигиляторы синдиката</SyndicateAnnihilator.labelPlural>
+  <SyndicateStriker_Acidifier.label>Syndicate Striker</SyndicateStriker_Acidifier.label>
+  <SyndicateStriker_Acidifier.labelPlural>Syndicate Strikers</SyndicateStriker_Acidifier.labelPlural>
+  <SyndicateStriker_Acidifier.labelMale>male Syndicate Striker</SyndicateStriker_Acidifier.labelMale>
+  <SyndicateStriker_Acidifier.labelMalePlural>male Syndicate Strikers</SyndicateStriker_Acidifier.labelMalePlural>
+  <SyndicateStriker_Acidifier.labelFemale>female Syndicate Striker</SyndicateStriker_Acidifier.labelFemale>
+  <SyndicateStriker_Acidifier.labelFemalePlural>female Syndicate Strikers</SyndicateStriker_Acidifier.labelFemalePlural>
 
-  <SyndicateBloodborne.label>Порождение крови синдиката</SyndicateBloodborne.label>
-  <SyndicateBloodborne.labelPlural>Порождения крови синдиката</SyndicateBloodborne.labelPlural>
 
-  <SyndicateProspector_Acidifier.label>Разведчик синдиката</SyndicateProspector_Acidifier.label>
-  <SyndicateProspector_Acidifier.labelPlural>Разведчики синдиката</SyndicateProspector_Acidifier.labelPlural>
+  <!-- Hunter -->
 
-  <SyndicateStriker_Acidifier.label>Страйкер синдиката</SyndicateStriker_Acidifier.label>
-  <SyndicateStriker_Acidifier.labelPlural>Страйкеры синдиката</SyndicateStriker_Acidifier.labelPlural>
+  <SyndicateHunter.label>Syndicate Hunter</SyndicateHunter.label>
+  <SyndicateHunter.labelPlural>Syndicate Hunters</SyndicateHunter.labelPlural>
+  <SyndicateHunter.labelMale>male Syndicate Hunter</SyndicateHunter.labelMale>
+  <SyndicateHunter.labelMalePlural>male Syndicate Hunters</SyndicateHunter.labelMalePlural>
+  <SyndicateHunter.labelFemale>female Syndicate Hunter</SyndicateHunter.labelFemale>
+  <SyndicateHunter.labelFemalePlural>female Syndicate Hunters</SyndicateHunter.labelFemalePlural>
 
-  <SyndicateHunter_Acidifier.label>Охотник синдиката</SyndicateHunter_Acidifier.label>
-  <SyndicateHunter_Acidifier.labelPlural>Охотники синдиката</SyndicateHunter_Acidifier.labelPlural>
+  <SyndicateHunter_Acidifier.label>Syndicate Hunter</SyndicateHunter_Acidifier.label>
+  <SyndicateHunter_Acidifier.labelPlural>Syndicate Hunters</SyndicateHunter_Acidifier.labelPlural>
+  <SyndicateHunter_Acidifier.labelMale>male Syndicate Hunter</SyndicateHunter_Acidifier.labelMale>
+  <SyndicateHunter_Acidifier.labelMalePlural>male Syndicate Hunters</SyndicateHunter_Acidifier.labelMalePlural>
+  <SyndicateHunter_Acidifier.labelFemale>female Syndicate Hunter</SyndicateHunter_Acidifier.labelFemale>
+  <SyndicateHunter_Acidifier.labelFemalePlural>female Syndicate Hunters</SyndicateHunter_Acidifier.labelFemalePlural>
 
-  <SyndicateHawkeye_Acidifier.label>Орлиный глаз синдиката</SyndicateHawkeye_Acidifier.label>
-  <SyndicateHawkeye_Acidifier.labelPlural>Орлиный глаз синдиката</SyndicateHawkeye_Acidifier.labelPlural>
 
-  <SyndicateDevastator_Acidifier.label>Разрушитель синдиката</SyndicateDevastator_Acidifier.label>
-  <SyndicateDevastator_Acidifier.labelPlural>Разрушители синдиката</SyndicateDevastator_Acidifier.labelPlural>
+  <!-- Hawkeye -->
 
-  <SyndicateDevastatorHeavy_Acidifier.label>Опустошитель синдиката</SyndicateDevastatorHeavy_Acidifier.label>
-  <SyndicateDevastatorHeavy_Acidifier.labelPlural>Опустошители синдиката</SyndicateDevastatorHeavy_Acidifier.labelPlural>
+  <SyndicateHawkeye.label>Syndicate Hawkeye</SyndicateHawkeye.label>
+  <SyndicateHawkeye.labelPlural>Syndicate Hawkeyes</SyndicateHawkeye.labelPlural>
+  <SyndicateHawkeye.labelMale>male Syndicate Hawkeye</SyndicateHawkeye.labelMale>
+  <SyndicateHawkeye.labelMalePlural>male Syndicate Hawkeyes</SyndicateHawkeye.labelMalePlural>
+  <SyndicateHawkeye.labelFemale>female Syndicate Hawkeye</SyndicateHawkeye.labelFemale>
+  <SyndicateHawkeye.labelFemalePlural>female Syndicate Hawkeyes</SyndicateHawkeye.labelFemalePlural>
 
-  <SyndicateAnnihilator_Acidifier.label>Аннигилятор синдиката</SyndicateAnnihilator_Acidifier.label>
-  <SyndicateAnnihilator_Acidifier.labelPlural>Аннигиляторы синдиката</SyndicateAnnihilator_Acidifier.labelPlural>
+  <SyndicateHawkeye_Acidifier.label>Syndicate Hawkeye</SyndicateHawkeye_Acidifier.label>
+  <SyndicateHawkeye_Acidifier.labelPlural>Syndicate Hawkeyes</SyndicateHawkeye_Acidifier.labelPlural>
+  <SyndicateHawkeye_Acidifier.labelMale>male Syndicate Hawkeye</SyndicateHawkeye_Acidifier.labelMale>
+  <SyndicateHawkeye_Acidifier.labelMalePlural>male Syndicate Hawkeyes</SyndicateHawkeye_Acidifier.labelMalePlural>
+  <SyndicateHawkeye_Acidifier.labelFemale>female Syndicate Hawkeye</SyndicateHawkeye_Acidifier.labelFemale>
+  <SyndicateHawkeye_Acidifier.labelFemalePlural>female Syndicate Hawkeyes</SyndicateHawkeye_Acidifier.labelFemalePlural>
 
-  <SyndicateBloodborne_Acidifier.label>Порождение крови синдиката</SyndicateBloodborne_Acidifier.label>
-  <SyndicateBloodborne_Acidifier.labelPlural>Порождения крови синдиката</SyndicateBloodborne_Acidifier.labelPlural>
+
+  <!-- Devastator -->
+
+  <SyndicateDevastator.label>Syndicate Devastator</SyndicateDevastator.label>
+  <SyndicateDevastator.labelPlural>Syndicate Devastators</SyndicateDevastator.labelPlural>
+  <SyndicateDevastator.labelMale>male Syndicate Devastator</SyndicateDevastator.labelMale>
+  <SyndicateDevastator.labelMalePlural>male Syndicate Devastators</SyndicateDevastator.labelMalePlural>
+  <SyndicateDevastator.labelFemale>female Syndicate Devastator</SyndicateDevastator.labelFemale>
+  <SyndicateDevastator.labelFemalePlural>female Syndicate Devastators</SyndicateDevastator.labelFemalePlural>
+
+  <SyndicateDevastator_Acidifier.label>Syndicate Devastator</SyndicateDevastator_Acidifier.label>
+  <SyndicateDevastator_Acidifier.labelPlural>Syndicate Devastators</SyndicateDevastator_Acidifier.labelPlural>
+  <SyndicateDevastator_Acidifier.labelMale>male Syndicate Devastator</SyndicateDevastator_Acidifier.labelMale>
+  <SyndicateDevastator_Acidifier.labelMalePlural>male Syndicate Devastators</SyndicateDevastator_Acidifier.labelMalePlural>
+  <SyndicateDevastator_Acidifier.labelFemale>female Syndicate Devastator</SyndicateDevastator_Acidifier.labelFemale>
+  <SyndicateDevastator_Acidifier.labelFemalePlural>female Syndicate Devastators</SyndicateDevastator_Acidifier.labelFemalePlural>
+
+  <SyndicateDevastatorHeavy.label>Syndicate Devastator</SyndicateDevastatorHeavy.label>
+  <SyndicateDevastatorHeavy.labelPlural>Syndicate Devastators</SyndicateDevastatorHeavy.labelPlural>
+  <SyndicateDevastatorHeavy.labelMale>male Syndicate Devastator</SyndicateDevastatorHeavy.labelMale>
+  <SyndicateDevastatorHeavy.labelMalePlural>male Syndicate Devastators</SyndicateDevastatorHeavy.labelMalePlural>
+  <SyndicateDevastatorHeavy.labelFemale>female Syndicate Devastator</SyndicateDevastatorHeavy.labelFemale>
+  <SyndicateDevastatorHeavy.labelFemalePlural>female Syndicate Devastators</SyndicateDevastatorHeavy.labelFemalePlural>
+
+  <SyndicateDevastatorHeavy_Acidifier.label>Syndicate Devastator</SyndicateDevastatorHeavy_Acidifier.label>
+  <SyndicateDevastatorHeavy_Acidifier.labelPlural>Syndicate Devastators</SyndicateDevastatorHeavy_Acidifier.labelPlural>
+  <SyndicateDevastatorHeavy_Acidifier.labelMale>male Syndicate Devastator</SyndicateDevastatorHeavy_Acidifier.labelMale>
+  <SyndicateDevastatorHeavy_Acidifier.labelMalePlural>male Syndicate Devastators</SyndicateDevastatorHeavy_Acidifier.labelMalePlural>
+  <SyndicateDevastatorHeavy_Acidifier.labelFemale>female Syndicate Devastator</SyndicateDevastatorHeavy_Acidifier.labelFemale>
+  <SyndicateDevastatorHeavy_Acidifier.labelFemalePlural>female Syndicate Devastators</SyndicateDevastatorHeavy_Acidifier.labelFemalePlural>
+
+
+  <!-- Annihilator -->
+
+  <SyndicateAnnihilator.label>Syndicate Annihilator</SyndicateAnnihilator.label>
+  <SyndicateAnnihilator.labelPlural>Syndicate Annihilators</SyndicateAnnihilator.labelPlural>
+  <SyndicateAnnihilator.labelMale>male Syndicate Annihilator</SyndicateAnnihilator.labelMale>
+  <SyndicateAnnihilator.labelMalePlural>male Syndicate Annihilators</SyndicateAnnihilator.labelMalePlural>
+  <SyndicateAnnihilator.labelFemale>female Syndicate Annihilator</SyndicateAnnihilator.labelFemale>
+  <SyndicateAnnihilator.labelFemalePlural>female Syndicate Annihilators</SyndicateAnnihilator.labelFemalePlural>
+
+  <SyndicateAnnihilator_Acidifier.label>Syndicate Annihilator</SyndicateAnnihilator_Acidifier.label>
+  <SyndicateAnnihilator_Acidifier.labelPlural>Syndicate Annihilators</SyndicateAnnihilator_Acidifier.labelPlural>
+  <SyndicateAnnihilator_Acidifier.labelMale>male Syndicate Annihilator</SyndicateAnnihilator_Acidifier.labelMale>
+  <SyndicateAnnihilator_Acidifier.labelMalePlural>male Syndicate Annihilators</SyndicateAnnihilator_Acidifier.labelMalePlural>
+  <SyndicateAnnihilator_Acidifier.labelFemale>female Syndicate Annihilator</SyndicateAnnihilator_Acidifier.labelFemale>
+  <SyndicateAnnihilator_Acidifier.labelFemalePlural>female Syndicate Annihilators</SyndicateAnnihilator_Acidifier.labelFemalePlural>
+
+
+  <!-- Bloodborne -->
+
+  <SyndicateBloodborne.label>Syndicate bloodborne</SyndicateBloodborne.label>
+  <SyndicateBloodborne.labelPlural>Syndicate bloodbornes</SyndicateBloodborne.labelPlural>
+  <SyndicateBloodborne.labelMale>male Syndicate bloodborne</SyndicateBloodborne.labelMale>
+  <SyndicateBloodborne.labelMalePlural>male Syndicate bloodbornes</SyndicateBloodborne.labelMalePlural>
+  <SyndicateBloodborne.labelFemale>female Syndicate bloodborne</SyndicateBloodborne.labelFemale>
+  <SyndicateBloodborne.labelFemalePlural>female Syndicate bloodbornes</SyndicateBloodborne.labelFemalePlural>
+
+  <SyndicateBloodborne_Acidifier.label>Syndicate bloodborne</SyndicateBloodborne_Acidifier.label>
+  <SyndicateBloodborne_Acidifier.labelPlural>Syndicate bloodbornes</SyndicateBloodborne_Acidifier.labelPlural>
+  <SyndicateBloodborne_Acidifier.labelMale>male Syndicate bloodborne</SyndicateBloodborne_Acidifier.labelMale>
+  <SyndicateBloodborne_Acidifier.labelMalePlural>male Syndicate bloodbornes</SyndicateBloodborne_Acidifier.labelMalePlural>
+  <SyndicateBloodborne_Acidifier.labelFemale>female Syndicate bloodborne</SyndicateBloodborne_Acidifier.labelFemale>
+  <SyndicateBloodborne_Acidifier.labelFemalePlural>female Syndicate bloodbornes</SyndicateBloodborne_Acidifier.labelFemalePlural>
+
 
 </LanguageData>

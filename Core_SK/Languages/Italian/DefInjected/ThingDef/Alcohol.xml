@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <cider.label>Apple cider</cider.label>
+  <cider.description>A bottle of sweet alcohol made from apples.</cider.description>
+  <cider.ingestible.ingestCommandString>Drink {0}</cider.ingestible.ingestCommandString>
+  <cider.ingestible.ingestReportString>Drinking {0}.</cider.ingestible.ingestReportString>
+
+  <rum.label>Rum</rum.label>
+  <rum.description>A bottle filled with alcoholic rum. Why is the rum gone?</rum.description>
+  <rum.ingestible.ingestCommandString>Drink {0}</rum.ingestible.ingestCommandString>
+  <rum.ingestible.ingestReportString>Drinking {0}.</rum.ingestible.ingestReportString>
+
+  <Wine.label>Wine</Wine.label>
+  <Wine.description>A sweet alcohol from grapes. From private Reserves often stolen and smuggled.</Wine.description>
+  <Wine.ingestible.ingestCommandString>Drink {0}</Wine.ingestible.ingestCommandString>
+  <Wine.ingestible.ingestReportString>Drinking {0}.</Wine.ingestible.ingestReportString>
+
+  <strawberrywine.label>Berry Wine</strawberrywine.label>
+  <strawberrywine.description>A bottle of sweet, pinkish alcohol made from strawberries.</strawberrywine.description>
+  <strawberrywine.ingestible.ingestCommandString>Drink {0}</strawberrywine.ingestible.ingestCommandString>
+  <strawberrywine.ingestible.ingestReportString>Drinking {0}.</strawberrywine.ingestible.ingestReportString>
+
+  <saki.label>Sake</saki.label>
+  <saki.description>A bottle of crisp, refreshing alcohol made from rice.</saki.description>
+  <saki.ingestible.ingestCommandString>Drink {0}</saki.ingestible.ingestCommandString>
+  <saki.ingestible.ingestReportString>Drinking {0}.</saki.ingestible.ingestReportString>
+
+  <vodka.label>Vodka</vodka.label>
+  <vodka.description>A bottle of clear, potato-based alcohol.</vodka.description>
+  <vodka.ingestible.ingestCommandString>Drink {0}</vodka.ingestible.ingestCommandString>
+  <vodka.ingestible.ingestReportString>Drinking {0}.</vodka.ingestible.ingestReportString>
+
+  <tequila.label>Tequila</tequila.label>
+  <tequila.description>A potent liquor made of agave. It has a picture of what looks like a naked and inebriated female cat person on the bottle. Once discovered by a certain Orassan, she quickly perfected the recipe and it became a very popular drink on Orassia and developed an even more storied reputation.</tequila.description>
+  <tequila.ingestible.ingestCommandString>Drink {0}</tequila.ingestible.ingestCommandString>
+  <tequila.ingestible.ingestReportString>Drinking {0}.</tequila.ingestible.ingestReportString>
+
+  <whisky.label>Whiskey</whisky.label>
+  <whisky.description>A bottle of golden, corn-based alcohol.</whisky.description>
+  <whisky.ingestible.ingestCommandString>Drink {0}</whisky.ingestible.ingestCommandString>
+  <whisky.ingestible.ingestReportString>Drinking {0}.</whisky.ingestible.ingestReportString>
+
+  <Moonshine.label>Moonshine</Moonshine.label>
+  <Moonshine.description>A bottle of alcohol</Moonshine.description>
+  <Moonshine.ingestible.ingestCommandString>Drink {0}</Moonshine.ingestible.ingestCommandString>
+  <Moonshine.ingestible.ingestReportString>Drinking {0}.</Moonshine.ingestible.ingestReportString>
+
+  <Gin.label>Gin</Gin.label>
+  <Gin.description>A bottle of alcohol</Gin.description>
+  <Gin.ingestible.ingestCommandString>Drink {0}</Gin.ingestible.ingestCommandString>
+  <Gin.ingestible.ingestReportString>Drinking {0}.</Gin.ingestible.ingestReportString>
+
+  <Brandy.label>Brandy</Brandy.label>
+  <Brandy.description>A bottle of alcohol</Brandy.description>
+  <Brandy.ingestible.ingestCommandString>Drink {0}</Brandy.ingestible.ingestCommandString>
+  <Brandy.ingestible.ingestReportString>Drinking {0}.</Brandy.ingestible.ingestReportString>
+
+  <Cognac.label>Cognac</Cognac.label>
+  <Cognac.description>A bottle of alcohol</Cognac.description>
+  <Cognac.ingestible.ingestCommandString>Drink {0}</Cognac.ingestible.ingestCommandString>
+  <Cognac.ingestible.ingestReportString>Drinking {0}.</Cognac.ingestible.ingestReportString>
+
+  <Kahlua.label>Kahlua</Kahlua.label>
+  <Kahlua.description>A bottle of alcohol</Kahlua.description>
+  <Kahlua.ingestible.ingestCommandString>Drink {0}</Kahlua.ingestible.ingestCommandString>
+  <Kahlua.ingestible.ingestReportString>Drinking {0}.</Kahlua.ingestible.ingestReportString>
+
+  <Arak.label>Arak</Arak.label>
+  <Arak.description>A bottle of alcohol</Arak.description>
+  <Arak.ingestible.ingestCommandString>Drink {0}</Arak.ingestible.ingestCommandString>
+  <Arak.ingestible.ingestReportString>Drinking {0}.</Arak.ingestible.ingestReportString>
+
+  <Applejack.label>Applejack</Applejack.label>
+  <Applejack.description>A bottle of alcohol</Applejack.description>
+  <Applejack.ingestible.ingestCommandString>Drink {0}</Applejack.ingestible.ingestCommandString>
+  <Applejack.ingestible.ingestReportString>Drinking {0}.</Applejack.ingestible.ingestReportString>
+
+  <Patreonbrew.label>Patreonbrew</Patreonbrew.label>
+  <Patreonbrew.description>A bottle of charming, supporter-based alcohol.</Patreonbrew.description>
+  <Patreonbrew.ingestible.ingestCommandString>Drink {0}</Patreonbrew.ingestible.ingestCommandString>
+  <Patreonbrew.ingestible.ingestReportString>Drinking {0}.</Patreonbrew.ingestible.ingestReportString>
+
+
+</LanguageData>

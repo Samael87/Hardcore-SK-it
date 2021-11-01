@@ -1,11 +1,68 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Tornado.label>смерч</Tornado.label>
-	<Tornado.letterLabel>Смерч</Tornado.letterLabel>
-	<Tornado.letterText>В небе образовался смерч!\n\nОн пройдет через эту местность, оставив после себя след из разрушений.</Tornado.letterText>
+  <!-- Good -->
 
-  <ToxicWeather.label>токсичные осадки (дождь)</ToxicWeather.label>
-  <ToxicWeather.letterLabel>Токсичные осадки</ToxicWeather.letterLabel>
+  <ResourcePodCrash.label>resource pod crash</ResourcePodCrash.label>
+  <PsychicSoothe.label>psychic soothe</PsychicSoothe.label>
+  <SelfTame.label>self-tame</SelfTame.label>
+
+  <AmbrosiaSprout.label>ambrosia sprout</AmbrosiaSprout.label>
+  <AmbrosiaSprout.letterLabel>Ambrosia sprout</AmbrosiaSprout.letterLabel>
+  <AmbrosiaSprout.letterText>A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit.</AmbrosiaSprout.letterText>
+
+  <FarmAnimalsWanderIn.label>farm animals wander in</FarmAnimalsWanderIn.label>
+
+  <WandererJoin.label>wanderer join</WandererJoin.label>
+  <WandererJoin.letterLabel>Wanderer joins: {PAWN_nameDef}</WandererJoin.letterLabel>
+  <WandererJoin.letterText>A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing.</WandererJoin.letterText>
+
+  <RefugeePodCrash.label>transport pod crash</RefugeePodCrash.label>
+
+
+  <!-- Neutral -->
+
+  <RefugeeChased.label>chased refugee</RefugeeChased.label>
+  <ThrumboPasses.label>thrumbos pass</ThrumboPasses.label>
+
+  <RansomDemand.label>ransom demand</RansomDemand.label>
+  <RansomDemand.letterLabel>Ransom demand</RansomDemand.letterLabel>
+
+  <MeteoriteImpact.label>meteorite impact</MeteoriteImpact.label>
+  <MeteoriteImpact.letterLabel>Meteorite</MeteoriteImpact.letterLabel>
+  <MeteoriteImpact.letterText>A large meteorite has struck ground in the area. It has left behind a lump of {0}.</MeteoriteImpact.letterText>
+
+  <HerdMigration.label>herd migration</HerdMigration.label>
+  <HerdMigration.letterLabel>Animal migration: {0}</HerdMigration.letterLabel>
+  <HerdMigration.letterText>A group of {0} is passing through the area.\n\nThey won't attack unless provoked.</HerdMigration.letterText>
+
+  <WildManWandersIn.label>wild man wanders in</WildManWandersIn.label>
+  <WildManWandersIn.letterLabel>{PAWN_kind} wanders in</WildManWandersIn.letterLabel>
+  <WildManWandersIn.letterText>A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}.</WildManWandersIn.letterText>
+
+
+  <!-- Bad -->
+
+  <PsychicDrone.label>psychic drone</PsychicDrone.label>
+
+  <ToxicFallout.label>toxic fallout</ToxicFallout.label>
+  <ToxicFallout.letterLabel>Toxic fallout</ToxicFallout.letterLabel>
+
+  <VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
+  <VolcanicWinter.letterLabel>Volcanic winter</VolcanicWinter.letterLabel>
+
+  <HeatWave.label>heat wave</HeatWave.label>
+  <HeatWave.letterLabel>Heat wave</HeatWave.letterLabel>
+
+  <ColdSnap.label>cold snap</ColdSnap.label>
+  <ColdSnap.letterLabel>Cold snap</ColdSnap.letterLabel>
+
+  <Flashstorm.label>flashstorm</Flashstorm.label>
+  <Flashstorm.letterLabel>Flashstorm</Flashstorm.letterLabel>
+
+  <ShortCircuit.label>short circuit</ShortCircuit.label>
+  <CropBlight.label>crop blight</CropBlight.label>
+  <Alphabeavers.label>alphabeavers</Alphabeavers.label>
+
 
 </LanguageData>

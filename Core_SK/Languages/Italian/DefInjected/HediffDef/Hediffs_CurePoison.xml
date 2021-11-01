@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AntidoteBasic.label>simple Antidote</AntidoteBasic.label>
+  <AntidoteBasic.description>A simple antidote. Helps fight poisons, but negatively affects consciousness.</AntidoteBasic.description>
+  <AntidoteBasic.labelNoun>an antidots</AntidoteBasic.labelNoun>
+  <AntidoteBasic.stages.0.label>initial</AntidoteBasic.stages.0.label>
+  <AntidoteBasic.stages.1.label>resistance to poisons</AntidoteBasic.stages.1.label>
+
+  <AntidoteSafe.label>safe Antidote</AntidoteSafe.label>
+  <AntidoteSafe.description>A safe antidote. Helps fight poisons without side effects</AntidoteSafe.description>
+  <AntidoteSafe.labelNoun>an safe antidots</AntidoteSafe.labelNoun>
+  <AntidoteSafe.stages.0.label>initial</AntidoteSafe.stages.0.label>
+  <AntidoteSafe.stages.1.label>resistance to poisons</AntidoteSafe.stages.1.label>
+
+
+</LanguageData>

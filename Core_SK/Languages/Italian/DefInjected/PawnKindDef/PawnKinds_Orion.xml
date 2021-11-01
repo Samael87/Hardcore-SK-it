@@ -1,76 +1,105 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <OrionChaser.label>Преследователь ориона</OrionChaser.label>
-  <OrionChaser.labelPlural>Преследователи ориона</OrionChaser.labelPlural>
+  <!-- Chaser -->
 
-  <OrionSunderer.label>Разделитель ориона</OrionSunderer.label>
-  <OrionSunderer.labelPlural>Разделители ориона</OrionSunderer.labelPlural>
-  <OrionSunderer.labelMale>Разделитель ориона</OrionSunderer.labelMale>
-  <OrionSunderer.labelMalePlural>Разделители ориона</OrionSunderer.labelMalePlural>
-  <OrionSunderer.labelFemale>Разделитель ориона</OrionSunderer.labelFemale>
-  <OrionSunderer.labelFemalePlural>Разделители ориона</OrionSunderer.labelFemalePlural>
+  <OrionChaser.label>Orion Chaser</OrionChaser.label>
+  <OrionChaser.labelPlural>Orion Chasers</OrionChaser.labelPlural>
 
-  <OrionSundererHeavy.label>Опустошитель ориона</OrionSundererHeavy.label>
-  <OrionSundererHeavy.labelPlural>Опустошители ориона</OrionSundererHeavy.labelPlural>
+  <OrionChaser_Acidifier.label>Orion Chaser</OrionChaser_Acidifier.label>
+  <OrionChaser_Acidifier.labelPlural>Orion Chasers</OrionChaser_Acidifier.labelPlural>
 
-  <OrionHunter.label>Охотник ориона</OrionHunter.label>
-  <OrionHunter.labelPlural>Охотники ориона</OrionHunter.labelPlural>
 
-  <OrionHawkeye.label>Орлиный глаз ориона</OrionHawkeye.label>
-  <OrionHawkeye.labelPlural>Орлиный глаз ориона</OrionHawkeye.labelPlural>
-  <OrionHawkeye.labelMale>Орлиный глаз ориона</OrionHawkeye.labelMale>
-  <OrionHawkeye.labelMalePlural>Орлиный глаз ориона</OrionHawkeye.labelMalePlural>
-  <OrionHawkeye.labelFemale>Орлиный глаз ориона</OrionHawkeye.labelFemale>
-  <OrionHawkeye.labelFemalePlural>Орлиный глаз ориона</OrionHawkeye.labelFemalePlural>
+  <!-- Sunderer -->
 
-  <OrionRager.label>Неистовый ориона</OrionRager.label>
-  <OrionRager.labelPlural>Неистовые ориона</OrionRager.labelPlural>
+  <OrionSunderer.label>Orion Sunderer</OrionSunderer.label>
+  <OrionSunderer.labelPlural>Orion Sunderers</OrionSunderer.labelPlural>
+  <OrionSunderer.labelMale>male Orion Sunderer</OrionSunderer.labelMale>
+  <OrionSunderer.labelMalePlural>male Orion Sunderers</OrionSunderer.labelMalePlural>
+  <OrionSunderer.labelFemale>female Orion Sunderer</OrionSunderer.labelFemale>
+  <OrionSunderer.labelFemalePlural>female Orion Sunderers</OrionSunderer.labelFemalePlural>
 
-  <OrionSunRiser.label>Божественный ориона</OrionSunRiser.label>
-  <OrionSunRiser.labelPlural>Божественные ориона</OrionSunRiser.labelPlural>
-  <OrionSunRiser.labelMale>Божественный ориона</OrionSunRiser.labelMale>
-  <OrionSunRiser.labelMalePlural>Божественные ориона</OrionSunRiser.labelMalePlural>
-  <OrionSunRiser.labelFemale>Божественный ориона</OrionSunRiser.labelFemale>
-  <OrionSunRiser.labelFemalePlural>Божественные ориона</OrionSunRiser.labelFemalePlural>
+  <OrionSunderer_Acidifier.label>Orion Sunderer</OrionSunderer_Acidifier.label>
+  <OrionSunderer_Acidifier.labelPlural>Orion Sunderers</OrionSunderer_Acidifier.labelPlural>
+  <OrionSunderer_Acidifier.labelMale>male Orion Sunderer</OrionSunderer_Acidifier.labelMale>
+  <OrionSunderer_Acidifier.labelMalePlural>male Orion Sunderers</OrionSunderer_Acidifier.labelMalePlural>
+  <OrionSunderer_Acidifier.labelFemale>female Orion Sunderer</OrionSunderer_Acidifier.labelFemale>
+  <OrionSunderer_Acidifier.labelFemalePlural>female Orion Sunderers</OrionSunderer_Acidifier.labelFemalePlural>
 
-  <OrionBloodborne.label>Порождение крови ориона</OrionBloodborne.label>
-  <OrionBloodborne.labelPlural>Порождения крови ориона</OrionBloodborne.labelPlural>
+  <OrionSundererHeavy.label>Orion Sunderer</OrionSundererHeavy.label>
+  <OrionSundererHeavy.labelPlural>Orion Sunderers</OrionSundererHeavy.labelPlural>
+  <OrionSundererHeavy.labelMale>male Orion Sunderer</OrionSundererHeavy.labelMale>
+  <OrionSundererHeavy.labelMalePlural>male Orion Sunderers</OrionSundererHeavy.labelMalePlural>
+  <OrionSundererHeavy.labelFemale>female Orion Sunderer</OrionSundererHeavy.labelFemale>
+  <OrionSundererHeavy.labelFemalePlural>female Orion Sunderers</OrionSundererHeavy.labelFemalePlural>
 
-  <OrionChaser_Acidifier.label>Преследователь ориона</OrionChaser_Acidifier.label>
-  <OrionChaser_Acidifier.labelPlural>Преследователи ориона</OrionChaser_Acidifier.labelPlural>
+  <OrionSundererHeavy_Acidifier.label>Orion Sunderer</OrionSundererHeavy_Acidifier.label>
+  <OrionSundererHeavy_Acidifier.labelPlural>Orion Sunderers</OrionSundererHeavy_Acidifier.labelPlural>
+  <OrionSundererHeavy_Acidifier.labelMale>male Orion Sunderer</OrionSundererHeavy_Acidifier.labelMale>
+  <OrionSundererHeavy_Acidifier.labelMalePlural>male Orion Sunderers</OrionSundererHeavy_Acidifier.labelMalePlural>
+  <OrionSundererHeavy_Acidifier.labelFemale>female Orion Sunderer</OrionSundererHeavy_Acidifier.labelFemale>
+  <OrionSundererHeavy_Acidifier.labelFemalePlural>female Orion Sunderers</OrionSundererHeavy_Acidifier.labelFemalePlural>
 
-  <OrionSunderer_Acidifier.label>Разделитель ориона</OrionSunderer_Acidifier.label>
-  <OrionSunderer_Acidifier.labelPlural>Разделители ориона</OrionSunderer_Acidifier.labelPlural>
-  <OrionSunderer_Acidifier.labelMale>Разделитель ориона</OrionSunderer_Acidifier.labelMale>
-  <OrionSunderer_Acidifier.labelMalePlural>Разделители ориона</OrionSunderer_Acidifier.labelMalePlural>
-  <OrionSunderer_Acidifier.labelFemale>Разделитель ориона</OrionSunderer_Acidifier.labelFemale>
-  <OrionSunderer_Acidifier.labelFemalePlural>Разделители ориона</OrionSunderer_Acidifier.labelFemalePlural>
 
-  <OrionSundererHeavy_Acidifier.label>Опустошитель ориона</OrionSundererHeavy_Acidifier.label>
-  <OrionSundererHeavy_Acidifier.labelPlural>Опустошители ориона</OrionSundererHeavy_Acidifier.labelPlural>
+  <!-- Hunter -->
 
-  <OrionHunter_Acidifier.label>Охотник ориона</OrionHunter_Acidifier.label>
-  <OrionHunter_Acidifier.labelPlural>Охотники ориона</OrionHunter_Acidifier.labelPlural>
+  <OrionHunter.label>Orion Hunter</OrionHunter.label>
+  <OrionHunter.labelPlural>Orion Hunters</OrionHunter.labelPlural>
 
-  <OrionHawkeye_Acidifier.label>Орлиный глаз ориона</OrionHawkeye_Acidifier.label>
-  <OrionHawkeye_Acidifier.labelPlural>Орлиный глаз ориона</OrionHawkeye_Acidifier.labelPlural>
-  <OrionHawkeye_Acidifier.labelMale>Орлиный глаз ориона</OrionHawkeye_Acidifier.labelMale>
-  <OrionHawkeye_Acidifier.labelMalePlural>Орлиный глаз ориона</OrionHawkeye_Acidifier.labelMalePlural>
-  <OrionHawkeye_Acidifier.labelFemale>Орлиный глаз ориона</OrionHawkeye_Acidifier.labelFemale>
-  <OrionHawkeye_Acidifier.labelFemalePlural>Орлиный глаз ориона</OrionHawkeye_Acidifier.labelFemalePlural>
+  <OrionHunter_Acidifier.label>Orion Hunter</OrionHunter_Acidifier.label>
+  <OrionHunter_Acidifier.labelPlural>Orion Hunters</OrionHunter_Acidifier.labelPlural>
 
-  <OrionRager_Acidifier.label>Неистовый ориона</OrionRager_Acidifier.label>
-  <OrionRager_Acidifier.labelPlural>Неистовые ориона</OrionRager_Acidifier.labelPlural>
 
-  <OrionSunRiser_Acidifier.label>Божественный ориона</OrionSunRiser_Acidifier.label>
-  <OrionSunRiser_Acidifier.labelPlural>Божественные ориона</OrionSunRiser_Acidifier.labelPlural>
-  <OrionSunRiser_Acidifier.labelMale>Божественный ориона</OrionSunRiser_Acidifier.labelMale>
-  <OrionSunRiser_Acidifier.labelMalePlural>Божественные ориона</OrionSunRiser_Acidifier.labelMalePlural>
-  <OrionSunRiser_Acidifier.labelFemale>Божественный ориона</OrionSunRiser_Acidifier.labelFemale>
-  <OrionSunRiser_Acidifier.labelFemalePlural>Божественные ориона</OrionSunRiser_Acidifier.labelFemalePlural>
+  <!-- Hawkeye -->
 
-  <OrionBloodborne_Acidifier.label>Порождение крови ориона</OrionBloodborne_Acidifier.label>
-  <OrionBloodborne_Acidifier.labelPlural>Порождения крови ориона</OrionBloodborne_Acidifier.labelPlural>
+  <OrionHawkeye.label>Orion Hawkeye</OrionHawkeye.label>
+  <OrionHawkeye.labelPlural>Orion Hawkeyes</OrionHawkeye.labelPlural>
+  <OrionHawkeye.labelMale>male Orion Hawkeye</OrionHawkeye.labelMale>
+  <OrionHawkeye.labelMalePlural>male Orion Hawkeyes</OrionHawkeye.labelMalePlural>
+  <OrionHawkeye.labelFemale>female Orion Hawkeye</OrionHawkeye.labelFemale>
+  <OrionHawkeye.labelFemalePlural>female Orion Hawkeyes</OrionHawkeye.labelFemalePlural>
+
+  <OrionHawkeye_Acidifier.label>Orion Hawkeye</OrionHawkeye_Acidifier.label>
+  <OrionHawkeye_Acidifier.labelPlural>Orion Hawkeyes</OrionHawkeye_Acidifier.labelPlural>
+  <OrionHawkeye_Acidifier.labelMale>male Orion Hawkeye</OrionHawkeye_Acidifier.labelMale>
+  <OrionHawkeye_Acidifier.labelMalePlural>male Orion Hawkeyes</OrionHawkeye_Acidifier.labelMalePlural>
+  <OrionHawkeye_Acidifier.labelFemale>female Orion Hawkeye</OrionHawkeye_Acidifier.labelFemale>
+  <OrionHawkeye_Acidifier.labelFemalePlural>female Orion Hawkeyes</OrionHawkeye_Acidifier.labelFemalePlural>
+
+
+  <!-- Rager -->
+
+  <OrionRager.label>Orion Rager</OrionRager.label>
+  <OrionRager.labelPlural>Orion Ragers</OrionRager.labelPlural>
+
+  <OrionRager_Acidifier.label>Orion Rager</OrionRager_Acidifier.label>
+  <OrionRager_Acidifier.labelPlural>Orion Ragers</OrionRager_Acidifier.labelPlural>
+
+
+  <!-- Sunriser -->
+
+  <OrionSunRiser.label>Orion Sun Riser</OrionSunRiser.label>
+  <OrionSunRiser.labelPlural>Orion Sun Risers</OrionSunRiser.labelPlural>
+  <OrionSunRiser.labelMale>male Orion Sun Riser</OrionSunRiser.labelMale>
+  <OrionSunRiser.labelMalePlural>male Orion Sun Risers</OrionSunRiser.labelMalePlural>
+  <OrionSunRiser.labelFemale>female Orion Sun Riser</OrionSunRiser.labelFemale>
+  <OrionSunRiser.labelFemalePlural>female Orion Sun Risers</OrionSunRiser.labelFemalePlural>
+
+  <OrionSunRiser_Acidifier.label>Orion Sun Riser</OrionSunRiser_Acidifier.label>
+  <OrionSunRiser_Acidifier.labelPlural>Orion Sun Risers</OrionSunRiser_Acidifier.labelPlural>
+  <OrionSunRiser_Acidifier.labelMale>male Orion Sun Riser</OrionSunRiser_Acidifier.labelMale>
+  <OrionSunRiser_Acidifier.labelMalePlural>male Orion Sun Risers</OrionSunRiser_Acidifier.labelMalePlural>
+  <OrionSunRiser_Acidifier.labelFemale>female Orion Sun Riser</OrionSunRiser_Acidifier.labelFemale>
+  <OrionSunRiser_Acidifier.labelFemalePlural>female Orion Sun Risers</OrionSunRiser_Acidifier.labelFemalePlural>
+
+
+  <!-- Bloodborne -->
+
+  <OrionBloodborne.label>Orion bloodborne</OrionBloodborne.label>
+  <OrionBloodborne.labelPlural>Orion bloodbornes</OrionBloodborne.labelPlural>
+
+  <OrionBloodborne_Acidifier.label>Orion bloodborne</OrionBloodborne_Acidifier.label>
+  <OrionBloodborne_Acidifier.labelPlural>Orion bloodbornes</OrionBloodborne_Acidifier.labelPlural>
+
 
 </LanguageData>

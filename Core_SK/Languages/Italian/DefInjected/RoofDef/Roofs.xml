@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RoofTransparent.label>transparent roof</RoofTransparent.label>
+  <RoofTransparent.description>Transparent roofing lets the light through, but keeps the weather out!</RoofTransparent.description>
+
+  <RoofSolar.label>solar roof</RoofSolar.label>
+  <RoofSolar.description>Solar roofing generates power on your roof. Requires a Solar Controller to function.</RoofSolar.description>
+
+
+  <!-- This is basically an abstract but attribute will lead to errors... -->
+
+  <ThickStoneRoof.label>thick stone roof</ThickStoneRoof.label>
+  <ThickStoneRoof.description>Thick stone roofing. Helps keep out the drop pods and mortar rounds.</ThickStoneRoof.description>
+
+  <JadeThickStoneRoof.label>jade thick stone roof</JadeThickStoneRoof.label>
+  <JadeThickStoneRoof.description>jade thick stone roof</JadeThickStoneRoof.description>
+
+  <SandstoneThickStoneRoof.label>sandstone thick stone roof</SandstoneThickStoneRoof.label>
+  <SandstoneThickStoneRoof.description>sandstone thick stone roof</SandstoneThickStoneRoof.description>
+
+  <GraniteThickStoneRoof.label>granite thick stone roof</GraniteThickStoneRoof.label>
+  <GraniteThickStoneRoof.description>granite thick stone roof</GraniteThickStoneRoof.description>
+
+  <LimestoneThickStoneRoof.label>limestone thick stone roof</LimestoneThickStoneRoof.label>
+  <LimestoneThickStoneRoof.description>limestone thick stone roof</LimestoneThickStoneRoof.description>
+
+  <SlateThickStoneRoof.label>slate thick stone roof</SlateThickStoneRoof.label>
+  <SlateThickStoneRoof.description>slate thick stone roof</SlateThickStoneRoof.description>
+
+  <MarbleThickStoneRoof.label>marble thick stone roof</MarbleThickStoneRoof.label>
+  <MarbleThickStoneRoof.description>marble thick stone roof</MarbleThickStoneRoof.description>
+
+  <BlockLavaThickStoneRoof.label>lava block thick stone roof</BlockLavaThickStoneRoof.label>
+  <BlockLavaThickStoneRoof.description>lava thick stone roof</BlockLavaThickStoneRoof.description>
+
+  <AmberThickStoneRoof.label>amber thick stone roof</AmberThickStoneRoof.label>
+  <AmberThickStoneRoof.description>amber thick stone roof</AmberThickStoneRoof.description>
+
+  <ReinforcedConcreteThickStoneRoof.label>reinforced concrete thick stone roof</ReinforcedConcreteThickStoneRoof.label>
+  <ReinforcedConcreteThickStoneRoof.description>reinforced concrete thick stone roof</ReinforcedConcreteThickStoneRoof.description>
+
+  <CarbonAlloyThickStoneRoof.label>carbon alloy thick stone roof</CarbonAlloyThickStoneRoof.label>
+  <CarbonAlloyThickStoneRoof.description>carbon alloy thick stone roof</CarbonAlloyThickStoneRoof.description>
+
+  <ZF_BasaltThickStoneRoof.label>basalt thick stone roof</ZF_BasaltThickStoneRoof.label>
+  <ZF_BasaltThickStoneRoof.description>basalt thick stone roof</ZF_BasaltThickStoneRoof.description>
+
+  <ZF_ClayThickStoneRoof.label>clay thick stone roof</ZF_ClayThickStoneRoof.label>
+  <ZF_ClayThickStoneRoof.description>clay thick stone roof</ZF_ClayThickStoneRoof.description>
+
+
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SaltedMeat.label>salted meat</SaltedMeat.label>
+  <SaltedMeat.description>Meat that has been cured with salt.</SaltedMeat.description>
+
+  <PickledVeg.label>Pickled Vegetable</PickledVeg.label>
+  <PickledVeg.description>Vegetables that have been preserved in a salty brine.</PickledVeg.description>
+
+  <ExtraCannedFood.label>Extra Canned Meal</ExtraCannedFood.label>
+  <ExtraCannedFood.description>A meal preserved in cans to prevent it from going bad.</ExtraCannedFood.description>
+
+  <BasicCannedFood.label>Basic Canned Meal</BasicCannedFood.label>
+  <BasicCannedFood.description>A meal preserved in cans to prevent it from going bad.</BasicCannedFood.description>
+
+  <MetalCannedMeat_prime.label>Canned prime meat</MetalCannedMeat_prime.label>
+  <MetalCannedMeat_prime.description>Prime meat preserved in cans to prevent it from going bad.</MetalCannedMeat_prime.description>
+
+  <MetalCannedMeat_raw.label>Canned raw meat</MetalCannedMeat_raw.label>
+  <MetalCannedMeat_raw.description>Meat preserved in cans to prevent it from going bad.</MetalCannedMeat_raw.description>
+
+  <driedfruit.label>Dried Fruit</driedfruit.label>
+  <driedfruit.description>Fruit that has had the water removed to increase it's shelf life.</driedfruit.description>
+
+  <MealJerky.label>Jerky</MealJerky.label>
+  <MealJerky.description>Jerky made from raw meat. Max 5 eaten at a time.</MealJerky.description>
+
+  <Pemmican.label>Pemmican</Pemmican.label>
+  <Pemmican.description>A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling.</Pemmican.description>
+
+
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LeaderWarrior.description>Warrior</LeaderWarrior.description>
+  <LeaderWarrior.label>Leader - Warrior</LeaderWarrior.label>
+  <LeaderWarrior.stages.0.label>Level 1</LeaderWarrior.stages.0.label>
+  <LeaderWarrior.stages.1.label>Level 2</LeaderWarrior.stages.1.label>
+  <LeaderWarrior.stages.2.label>Level 3</LeaderWarrior.stages.2.label>
+  <LeaderWarrior.stages.3.label>Level 4</LeaderWarrior.stages.3.label>
+  <LeaderWarrior.stages.4.label>Level 5</LeaderWarrior.stages.4.label>
+
+  <LeaderWarlord.description>Warlord Aura</LeaderWarlord.description>
+  <LeaderWarlord.label>Leader - Warlord</LeaderWarlord.label>
+  <LeaderWarlord.stages.0.label>Level 1</LeaderWarlord.stages.0.label>
+  <LeaderWarlord.stages.1.label>Level 2</LeaderWarlord.stages.1.label>
+  <LeaderWarlord.stages.2.label>Level 3</LeaderWarlord.stages.2.label>
+  <LeaderWarlord.stages.3.label>Level 4</LeaderWarlord.stages.3.label>
+  <LeaderWarlord.stages.4.label>Level 5</LeaderWarlord.stages.4.label>
+
+  <LeaderAvenger.description>Avenger</LeaderAvenger.description>
+  <LeaderAvenger.label>Leader - Avenger</LeaderAvenger.label>
+  <LeaderAvenger.stages.0.label>Level 1</LeaderAvenger.stages.0.label>
+  <LeaderAvenger.stages.1.label>Level 2</LeaderAvenger.stages.1.label>
+  <LeaderAvenger.stages.2.label>Level 3</LeaderAvenger.stages.2.label>
+  <LeaderAvenger.stages.3.label>Level 4</LeaderAvenger.stages.3.label>
+  <LeaderAvenger.stages.4.label>Level 5</LeaderAvenger.stages.4.label>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_9x44mmCharged.label>9x44mm Charged cartridge (needle)</Ammo_9x44mmCharged.label>
+  <Ammo_9x44mmCharged.description>Mechanoid-built needle-caliber charged shot ammo used in medium weapons.</Ammo_9x44mmCharged.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_9x44mmCharged.label>9x44mm charge needle shot</Bullet_9x44mmCharged.label>
+
+
+</LanguageData>

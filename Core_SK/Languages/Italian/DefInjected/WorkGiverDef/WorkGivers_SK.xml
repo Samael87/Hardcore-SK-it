@@ -1,153 +1,196 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- 
-	label - отображается названием в расширенных приоритетах. 
-	verb - отображается при наведении в расширенных приоритетах.
-	gerund - отображается при прямом приказе (клике правой кнопкой). С заглавной буквы.
--->
 
-	<UF_WorkGiver_TakeProductOutOfUniversalFermenter.label>Брать продукт из ферментера</UF_WorkGiver_TakeProductOutOfUniversalFermenter.label>
-	<UF_WorkGiver_TakeProductOutOfUniversalFermenter.verb>Берет продукт</UF_WorkGiver_TakeProductOutOfUniversalFermenter.verb>
-	<UF_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>Берет продукт из</UF_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>
+  <!-- Hauling -->
 
-	<UF_WorkGiver_FillUniversalFermenter.label>Заполнять ферментеры</UF_WorkGiver_FillUniversalFermenter.label>
-	<UF_WorkGiver_FillUniversalFermenter.verb>Заполняет</UF_WorkGiver_FillUniversalFermenter.verb>
-	<UF_WorkGiver_FillUniversalFermenter.gerund>Заполняет</UF_WorkGiver_FillUniversalFermenter.gerund>
+  <DoBillsCremate.label>do cremation bills</DoBillsCremate.label>
+  <DoBillsCremate.verb>cremate</DoBillsCremate.verb>
+  <DoBillsCremate.gerund>cremating at</DoBillsCremate.gerund>
 
-	<CookRefuel.label>Заправлять столы продуктов питания</CookRefuel.label>
-	<CookRefuel.verb>Заправляет</CookRefuel.verb>
-	<CookRefuel.gerund>Заправляет</CookRefuel.gerund>
 
-	<DoBillsGrindStone.label>Размалывать зерно</DoBillsGrindStone.label>
-	<DoBillsGrindStone.verb>Размалывает зерно, используя</DoBillsGrindStone.verb>
-	<DoBillsGrindStone.gerund>Размалывает зерно, используя</DoBillsGrindStone.gerund>
+  <!-- Hauling: Deliver resources -->
 
-	<DoBillsMending.label>Ремонтировать одежду</DoBillsMending.label>
-	<DoBillsMending.verb>Ремонтирует одежду, используя</DoBillsMending.verb>
-	<DoBillsMending.gerund>Ремонтирует, используя</DoBillsMending.gerund>
+  <HaulDeliverResourcesToFrames.label>deliver resources to frames (hauler)</HaulDeliverResourcesToFrames.label>
+  <HaulDeliverResourcesToFrames.verb>deliver resources to</HaulDeliverResourcesToFrames.verb>
+  <HaulDeliverResourcesToFrames.gerund>delivering resources to</HaulDeliverResourcesToFrames.gerund>
 
-	<DoBillsRecycling.label>Перерабатывать вещи</DoBillsRecycling.label>
-	<DoBillsRecycling.verb>Перерабатывает</DoBillsRecycling.verb>
-	<DoBillsRecycling.gerund>Перерабатывает</DoBillsRecycling.gerund>
+  <HaulDeliverResourcesToBlueprints.label>deliver resources to blueprints (hauler)</HaulDeliverResourcesToBlueprints.label>
+  <HaulDeliverResourcesToBlueprints.verb>deliver resources to</HaulDeliverResourcesToBlueprints.verb>
+  <HaulDeliverResourcesToBlueprints.gerund>delivering resources to</HaulDeliverResourcesToBlueprints.gerund>
 
-	<DoBillsMedical.label>Работать с медицинским крафтом</DoBillsMedical.label>
-	<DoBillsMedical.verb>Работать с</DoBillsMedical.verb>
-	<DoBillsMedical.gerund>Работает с</DoBillsMedical.gerund>
 
-	<DoBillsUseSaltMine.label>Работа в соляной шахте</DoBillsUseSaltMine.label>
-	<DoBillsUseSaltMine.verb>Добывает в соляной шахте</DoBillsUseSaltMine.verb>
-	<DoBillsUseSaltMine.gerund>Добывает</DoBillsUseSaltMine.gerund>
+  <!-- Hauling: Haul priority -->
 
-	<DoBillsTableElectronics.label>Делать электронику</DoBillsTableElectronics.label>
-	<DoBillsTableElectronics.verb>Делает электронику, используя</DoBillsTableElectronics.verb>
-	<DoBillsTableElectronics.gerund>Делает электронику, используя</DoBillsTableElectronics.gerund>
+  <HaulPriorityHighPriorityOverride.label>High haul priority</HaulPriorityHighPriorityOverride.label>
+  <HaulPriorityHighPriorityOverride.verb>haul</HaulPriorityHighPriorityOverride.verb>
+  <HaulPriorityHighPriorityOverride.gerund>hauling</HaulPriorityHighPriorityOverride.gerund>
 
-	<DoBillsTableLoom.label>Прясть ткани</DoBillsTableLoom.label>
-	<DoBillsTableLoom.verb>Прясть ткань, используя</DoBillsTableLoom.verb>
-	<DoBillsTableLoom.gerund>Прядет ткань, используя</DoBillsTableLoom.gerund>
+  <HaulPriorityMisc.label>Haul priority</HaulPriorityMisc.label>
+  <HaulPriorityMisc.verb>haul</HaulPriorityMisc.verb>
+  <HaulPriorityMisc.gerund>hauling</HaulPriorityMisc.gerund>
 
-	<DoBillsTableChemlab.label>Работать в лаборатории</DoBillsTableChemlab.label>
-	<DoBillsTableChemlab.verb>Работать в лаборатории, используя</DoBillsTableChemlab.verb>
-	<DoBillsTableChemlab.gerund>Работает, используя</DoBillsTableChemlab.gerund>
 
-	<DoBillsSmeltMetal_Hand.label>Плавить металлы</DoBillsSmeltMetal_Hand.label>
-	<DoBillsSmeltMetal_Hand.verb>Плавить металл, используя</DoBillsSmeltMetal_Hand.verb>
-	<DoBillsSmeltMetal_Hand.gerund>Плавить металл, используя</DoBillsSmeltMetal_Hand.gerund>
+  <!-- Collecting -->
 
-	<DoBillsMakeGlass.label>Производить стёкла</DoBillsMakeGlass.label>
-	<DoBillsMakeGlass.verb>Производит стекло</DoBillsMakeGlass.verb>
-	<DoBillsMakeGlass.gerund>Производит стекло, используя</DoBillsMakeGlass.gerund>
+  <CollectSand.label>collect sand</CollectSand.label>
+  <CollectSand.verb>collect</CollectSand.verb>
+  <CollectSand.gerund>collecting</CollectSand.gerund>
 
-	<DoBillsMakeWoodPlanks.label>Работать с деревом</DoBillsMakeWoodPlanks.label>
-	<DoBillsMakeWoodPlanks.verb>Работать</DoBillsMakeWoodPlanks.verb>
-	<DoBillsMakeWoodPlanks.gerund>Работать, используя</DoBillsMakeWoodPlanks.gerund>
+  <CollectClay.label>collect clay</CollectClay.label>
+  <CollectClay.verb>collect</CollectClay.verb>
+  <CollectClay.gerund>collecting</CollectClay.gerund>
 
-	<DoBillsKiln.label>Работать с горном</DoBillsKiln.label>
-	<DoBillsKiln.verb>Работает, используя</DoBillsKiln.verb>
-	<DoBillsKiln.gerund>Работает, используя</DoBillsKiln.gerund>
+  <CollectPeat.label>collect peat</CollectPeat.label>
+  <CollectPeat.verb>collect</CollectPeat.verb>
+  <CollectPeat.gerund>collecting</CollectPeat.gerund>
 
-	<DoBillsMatterfab.label>Работать с фабрикатором</DoBillsMatterfab.label>
-	<DoBillsMatterfab.verb>Работает с фабрикатором, используя</DoBillsMatterfab.verb>
-	<DoBillsMatterfab.gerund>Работает, используя</DoBillsMatterfab.gerund>
+  <CollectCrushedstone.label>collect crushed stone</CollectCrushedstone.label>
+  <CollectCrushedstone.verb>collect</CollectCrushedstone.verb>
+  <CollectCrushedstone.gerund>collecting</CollectCrushedstone.gerund>
 
-	<DoBillsConvert.label>Конвертировать материю</DoBillsConvert.label>
-	<DoBillsConvert.verb>Конвертирует, используя</DoBillsConvert.verb>
-	<DoBillsConvert.gerund>Конвертирует материю, используя</DoBillsConvert.gerund>
 
-	<CollectSand.label>Собирать песок</CollectSand.label>
-	<CollectSand.verb>Собирает</CollectSand.verb>
-	<CollectSand.gerund>Собирает песок</CollectSand.gerund>
+  <!-- Firefighter -->
 
-	<CollectClay.label>Собирать глину</CollectClay.label>
-	<CollectClay.verb>Собирает</CollectClay.verb>
-	<CollectClay.gerund>Собирает глину</CollectClay.gerund>
+  <FightFires.label>fight fires</FightFires.label>
+  <FightFires.verb>extinguish</FightFires.verb>
+  <FightFires.gerund>extinguishing</FightFires.gerund>
 
-	<CollectPeat.label>Собирать торф</CollectPeat.label>
-	<CollectPeat.verb>Собирает</CollectPeat.verb>
-	<CollectPeat.gerund>Собирает торф</CollectPeat.gerund>
 
-	<CollectCrushedstone.label>Собирать щебень</CollectCrushedstone.label>
-	<CollectCrushedstone.verb>Собирает щебень</CollectCrushedstone.verb>
-	<CollectCrushedstone.gerund>Собирает щебень</CollectCrushedstone.gerund>
+  <!-- Cooking -->
 
-	<DoBillsBake.label>Печь на верстаке</DoBillsBake.label>
-	<DoBillsBake.verb>Печет, используя</DoBillsBake.verb>
-	<DoBillsBake.gerund>Печет, используя</DoBillsBake.gerund>
+  <DoBillsButcherFlesh.label>butcher creatures</DoBillsButcherFlesh.label>
+  <DoBillsButcherFlesh.verb>butcher</DoBillsButcherFlesh.verb>
+  <DoBillsButcherFlesh.gerund>butchering at</DoBillsButcherFlesh.gerund>
 
-	<QRY_MineQuarry.label>Работать в карьере</QRY_MineQuarry.label>
-	<QRY_MineQuarry.verb>Добывать, используя</QRY_MineQuarry.verb>
-	<QRY_MineQuarry.gerund>Добывает, используя</QRY_MineQuarry.gerund>
+  <DoBillsKitchenTable.label>prepare meals</DoBillsKitchenTable.label>
+  <DoBillsKitchenTable.verb>prepare</DoBillsKitchenTable.verb>
+  <DoBillsKitchenTable.gerund>preparing</DoBillsKitchenTable.gerund>
 
-	<RefuelBurner.label>Заправлять топливом</RefuelBurner.label>
-	<RefuelBurner.verb>Заправить топливом</RefuelBurner.verb>
-	<RefuelBurner.gerund>Заправлять топливом</RefuelBurner.gerund>
+  <DoBillsCook.label>cook meals</DoBillsCook.label>
+  <DoBillsCook.verb>cook</DoBillsCook.verb>
+  <DoBillsCook.gerund>cooking at</DoBillsCook.gerund>
 
-	<HaulPriorityHighPriorityOverride.label>Переносить высокий приоритет переноски</HaulPriorityHighPriorityOverride.label>
-	<HaulPriorityHighPriorityOverride.verb>Переносить</HaulPriorityHighPriorityOverride.verb>
-	<HaulPriorityHighPriorityOverride.gerund>Перенести</HaulPriorityHighPriorityOverride.gerund>
+  <DoBillsCookCampfire.label>cook meals at campfire</DoBillsCookCampfire.label>
+  <DoBillsCookCampfire.verb>cook</DoBillsCookCampfire.verb>
+  <DoBillsCookCampfire.gerund>cooking at</DoBillsCookCampfire.gerund>
 
-	<HaulPriorityMisc.label>Переносить приоритетную переноску</HaulPriorityMisc.label>
-	<HaulPriorityMisc.verb>Переносить</HaulPriorityMisc.verb>
-	<HaulPriorityMisc.gerund>Перенести</HaulPriorityMisc.gerund>
+  <DoBillsBake.label>do candy table bills</DoBillsBake.label>
+  <DoBillsBake.verb>candymaking</DoBillsBake.verb>
+  <DoBillsBake.gerund>candymaking</DoBillsBake.gerund>
 
-	<DoBillsTableSurrogates.label>Производить протезы</DoBillsTableSurrogates.label>
-	<DoBillsTableSurrogates.verb>Работает, используя</DoBillsTableSurrogates.verb>
-	<DoBillsTableSurrogates.gerund>Работает, используя</DoBillsTableSurrogates.gerund>
+  <DoBillsGrindStone.label>grind bulk grains</DoBillsGrindStone.label>
+  <DoBillsGrindStone.verb>mill</DoBillsGrindStone.verb>
+  <DoBillsGrindStone.gerund>milling</DoBillsGrindStone.gerund>
 
-	<DoBillsMixconcrete.label>Замешивать бетон</DoBillsMixconcrete.label>
-	<DoBillsMixconcrete.verb>Замешивает, используя</DoBillsMixconcrete.verb>
-	<DoBillsMixconcrete.gerund>Замешивает бетон, используя</DoBillsMixconcrete.gerund>
 
-	<DoBillOilRefinery.label>Работать на хим. станции</DoBillOilRefinery.label>
-	<DoBillOilRefinery.verb>Работает, используя</DoBillOilRefinery.verb>
-	<DoBillOilRefinery.gerund>Работает, используя</DoBillOilRefinery.gerund>
+  <!-- Smithing -->
 
-	<DoBillsWeaponCraftingWorkTable.label>Изготавливать оружие</DoBillsWeaponCraftingWorkTable.label>
-	<DoBillsWeaponCraftingWorkTable.verb>Изготавливает оружие, используя</DoBillsWeaponCraftingWorkTable.verb>
-	<DoBillsWeaponCraftingWorkTable.gerund>Изготавливает оружие, используя</DoBillsWeaponCraftingWorkTable.gerund>
+  <DoBillsMakeWeapons.label>smithing</DoBillsMakeWeapons.label>
+  <DoBillsMakeWeapons.verb>smith</DoBillsMakeWeapons.verb>
+  <DoBillsMakeWeapons.gerund>smithing at</DoBillsMakeWeapons.gerund>
 
-	<DoBillsMakePainting.label>Рисовать на холсте</DoBillsMakePainting.label>
-	<DoBillsMakePainting.verb>Рисует, используя</DoBillsMakePainting.verb>
-	<DoBillsMakePainting.gerund>Рисует, используя</DoBillsMakePainting.gerund>
+  <DoBillsBrew.label>brew liquors</DoBillsBrew.label>
+  <DoBillsBrew.verb>brew</DoBillsBrew.verb>
+  <DoBillsBrew.gerund>brewing at</DoBillsBrew.gerund>
 
-	<HaulDeliverResourcesToFrames.label>Поднести материалы для незавершенных построек</HaulDeliverResourcesToFrames.label>
-	<HaulDeliverResourcesToFrames.verb>Подносит материалы к</HaulDeliverResourcesToFrames.verb>
-	<HaulDeliverResourcesToFrames.gerund>Поднести материалы к</HaulDeliverResourcesToFrames.gerund>
+  <DoBillsFabricationBench.label>do assembling craft</DoBillsFabricationBench.label>
+  <DoBillsFabricationBench.verb>produce components</DoBillsFabricationBench.verb>
+  <DoBillsFabricationBench.gerund>producing components at</DoBillsFabricationBench.gerund>
 
-	<HaulDeliverResourcesToBlueprints.label>Поднести материалы для проектов построек</HaulDeliverResourcesToBlueprints.label>
-	<HaulDeliverResourcesToBlueprints.verb>Подносит материалы к</HaulDeliverResourcesToBlueprints.verb>
-	<HaulDeliverResourcesToBlueprints.gerund>Поднести материалы к</HaulDeliverResourcesToBlueprints.gerund>
 
-	<StudyMechanoidTerraformer.label>Исследовать терраформер механоидов</StudyMechanoidTerraformer.label>
-	<StudyMechanoidTerraformer.verb>Исследует странный артефакт, используя</StudyMechanoidTerraformer.verb>
-	<StudyMechanoidTerraformer.gerund>Исследовать странный артефакт, используя</StudyMechanoidTerraformer.gerund>
+  <!-- Crafting - apparel -->
 
-	<StudyAncientStargate.label>Исследовать странный артефакт</StudyAncientStargate.label>
-	<StudyAncientStargate.verb>Исследует странный артефакт, используя</StudyAncientStargate.verb>
-	<StudyAncientStargate.gerund>Исследовать странный артефакт, используя</StudyAncientStargate.gerund>
+  <DoBillsMakeApparel.label>tailor apparel</DoBillsMakeApparel.label>
+  <DoBillsMakeApparel.verb>tailor</DoBillsMakeApparel.verb>
+  <DoBillsMakeApparel.gerund>tailoring at</DoBillsMakeApparel.gerund>
 
-	<HollyWash.label>стирать одежду</HollyWash.label>
-	<HollyWash.verb>стирать в</HollyWash.verb>
-	<HollyWash.gerund>стирать в</HollyWash.gerund>
+
+  <!-- Crafting - Misc -->
+
+  <DoBillsMakeWoodPlanks.label>do sawmill bills</DoBillsMakeWoodPlanks.label>
+  <DoBillsMakeWoodPlanks.verb>saw logs</DoBillsMakeWoodPlanks.verb>
+  <DoBillsMakeWoodPlanks.gerund>sawing logs</DoBillsMakeWoodPlanks.gerund>
+
+  <DoBillsKiln.label>do bills with Kiln</DoBillsKiln.label>
+  <DoBillsKiln.verb>work</DoBillsKiln.verb>
+  <DoBillsKiln.gerund>working</DoBillsKiln.gerund>
+
+  <DoBillsSmeltMetal_Hand.label>smelt metals</DoBillsSmeltMetal_Hand.label>
+  <DoBillsSmeltMetal_Hand.verb>smelt metal</DoBillsSmeltMetal_Hand.verb>
+  <DoBillsSmeltMetal_Hand.gerund>smelting metal</DoBillsSmeltMetal_Hand.gerund>
+
+  <DoBillsTableElectronics.label>make electronics</DoBillsTableElectronics.label>
+  <DoBillsTableElectronics.verb>make electronics</DoBillsTableElectronics.verb>
+  <DoBillsTableElectronics.gerund>making electronics</DoBillsTableElectronics.gerund>
+
+  <DoBillsTableLoom.label>do table loom bills</DoBillsTableLoom.label>
+  <DoBillsTableLoom.verb>make cloth</DoBillsTableLoom.verb>
+  <DoBillsTableLoom.gerund>making cloth</DoBillsTableLoom.gerund>
+
+  <DoBillsStonecut.label>cut stone</DoBillsStonecut.label>
+  <DoBillsStonecut.verb>stonecut</DoBillsStonecut.verb>
+  <DoBillsStonecut.gerund>stonecutting at</DoBillsStonecut.gerund>
+
+  <DoBillsUseCraftingSpot.label>do bills at neolitic craft</DoBillsUseCraftingSpot.label>
+  <DoBillsUseCraftingSpot.verb>craft</DoBillsUseCraftingSpot.verb>
+  <DoBillsUseCraftingSpot.gerund>crafting at</DoBillsUseCraftingSpot.gerund>
+
+  <DoBillsMatterfab.label>do matter fab bills</DoBillsMatterfab.label>
+  <DoBillsMatterfab.verb>fabricate</DoBillsMatterfab.verb>
+  <DoBillsMatterfab.gerund>fabricating</DoBillsMatterfab.gerund>
+
+  <DoBillsTableSurrogates.label>crafting prostheses</DoBillsTableSurrogates.label>
+  <DoBillsTableSurrogates.verb>create</DoBillsTableSurrogates.verb>
+  <DoBillsTableSurrogates.gerund>creating</DoBillsTableSurrogates.gerund>
+
+  <DoBillsMixconcrete.label>mixing concrete</DoBillsMixconcrete.label>
+  <DoBillsMixconcrete.verb>mix</DoBillsMixconcrete.verb>
+  <DoBillsMixconcrete.gerund>mixing</DoBillsMixconcrete.gerund>
+
+  <DoBillsTableChemlab.label>do chemlab bills</DoBillsTableChemlab.label>
+  <DoBillsTableChemlab.verb>craft</DoBillsTableChemlab.verb>
+  <DoBillsTableChemlab.gerund>crafting</DoBillsTableChemlab.gerund>
+
+  <DoBillsMakeGlass.label>do glasswork bills</DoBillsMakeGlass.label>
+  <DoBillsMakeGlass.verb>produce glass from</DoBillsMakeGlass.verb>
+  <DoBillsMakeGlass.gerund>producing glass at</DoBillsMakeGlass.gerund>
+
+  <DoBillsWeaponCraftingWorkTable.label>craft ranged weapon</DoBillsWeaponCraftingWorkTable.label>
+  <DoBillsWeaponCraftingWorkTable.verb>Weapon craft</DoBillsWeaponCraftingWorkTable.verb>
+  <DoBillsWeaponCraftingWorkTable.gerund>Crafting weapon</DoBillsWeaponCraftingWorkTable.gerund>
+
+  <DoBillsConvert.label>do matter converter bills</DoBillsConvert.label>
+  <DoBillsConvert.verb>Use</DoBillsConvert.verb>
+  <DoBillsConvert.gerund>convert matter at</DoBillsConvert.gerund>
+
+
+  <!-- Crafting: Mending -->
+
+  <DoBillsMending.label>mend</DoBillsMending.label>
+  <DoBillsMending.verb>mend</DoBillsMending.verb>
+  <DoBillsMending.gerund>mending</DoBillsMending.gerund>
+
+  <DoBillsRecycling.label>recycle</DoBillsRecycling.label>
+  <DoBillsRecycling.verb>recycle</DoBillsRecycling.verb>
+  <DoBillsRecycling.gerund>recycling</DoBillsRecycling.gerund>
+
+
+  <!-- Doctor -->
+
+  <DoBillsMedical.label>do medical craft</DoBillsMedical.label>
+  <DoBillsMedical.verb>extract</DoBillsMedical.verb>
+  <DoBillsMedical.gerund>extracting</DoBillsMedical.gerund>
+
+
+  <!-- Art -->
+
+  <DoBillsMakePainting.label>do easel bills</DoBillsMakePainting.label>
+  <DoBillsMakePainting.verb>paint</DoBillsMakePainting.verb>
+  <DoBillsMakePainting.gerund>painting at</DoBillsMakePainting.gerund>
+
+  <DoBillsUseSaltMine.label>do bills at salt mine</DoBillsUseSaltMine.label>
+  <DoBillsUseSaltMine.verb>mine</DoBillsUseSaltMine.verb>
+  <DoBillsUseSaltMine.gerund>mining</DoBillsUseSaltMine.gerund>
+
 
 </LanguageData>

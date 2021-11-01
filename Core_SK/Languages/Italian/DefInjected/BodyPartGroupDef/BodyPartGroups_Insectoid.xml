@@ -1,16 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <LegLeftClaws.label>когти левой задней лапы</LegLeftClaws.label>
-  <LegLeftClaws.labelShort>когти</LegLeftClaws.labelShort>
+  <LegLeftClaws.label>left leg claws</LegLeftClaws.label>
+  <LegLeftClaws.labelShort>claws</LegLeftClaws.labelShort>
 
-  <LegRightClaws.label>когти правой задней лапы</LegRightClaws.label>
-  <LegRightClaws.labelShort>когти</LegRightClaws.labelShort>
+  <LegRightClaws.label>right leg claws</LegRightClaws.label>
+  <LegRightClaws.labelShort>claws</LegRightClaws.labelShort>
 
-  <AntisLeftForeleg.label>левая передняя лапа</AntisLeftForeleg.label>
-  <AntisLeftForeleg.labelShort>лапа</AntisLeftForeleg.labelShort>
+  <AntisLeftForeleg.label>left foreleg</AntisLeftForeleg.label>
+  <AntisLeftForeleg.labelShort>foreleg</AntisLeftForeleg.labelShort>
 
-  <AntisRightForeleg.label>правая передняя лапа</AntisRightForeleg.label>
-  <AntisRightForeleg.labelShort>лапа</AntisRightForeleg.labelShort>
+  <AntisRightForeleg.label>right foreleg</AntisRightForeleg.label>
+  <AntisRightForeleg.labelShort>foreleg</AntisRightForeleg.labelShort>
+
 
 </LanguageData>

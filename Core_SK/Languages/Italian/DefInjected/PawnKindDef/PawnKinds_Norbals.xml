@@ -1,77 +1,110 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <NorbalWarrior.label>вармонгер норбалов</NorbalWarrior.label>
-  <NorbalWarrior.labelPlural>вармонгеры норбалов</NorbalWarrior.labelPlural>
-  <NorbalWarrior.labelMale>вармонгер норбалов</NorbalWarrior.labelMale>
-  <NorbalWarrior.labelMalePlural>вармонгеры норбалов</NorbalWarrior.labelMalePlural>
-  <NorbalWarrior.labelFemale>вармонгерша норбалов</NorbalWarrior.labelFemale>
-  <NorbalWarrior.labelFemalePlural>вармонгерши норбалов</NorbalWarrior.labelFemalePlural>
+  <!-- Warrior -->
 
-  <NorbalTrader.label>торговец норбалов</NorbalTrader.label>
-  <NorbalTrader.labelPlural>торговцы норбалов</NorbalTrader.labelPlural>
-  <NorbalTrader.labelMale>торговец норбалов</NorbalTrader.labelMale>
-  <NorbalTrader.labelMalePlural>торговцы норбалов</NorbalTrader.labelMalePlural>
-  <NorbalTrader.labelFemale>торговка норбалов</NorbalTrader.labelFemale>
-  <NorbalTrader.labelFemalePlural>торговки норбалов</NorbalTrader.labelFemalePlural>
+  <NorbalWarrior.label>Warmonger</NorbalWarrior.label>
+  <NorbalWarrior.labelPlural>Warmongers</NorbalWarrior.labelPlural>
+  <NorbalWarrior.labelMale>male Warmonger</NorbalWarrior.labelMale>
+  <NorbalWarrior.labelMalePlural>male Warmongers</NorbalWarrior.labelMalePlural>
+  <NorbalWarrior.labelFemale>female Warmonger</NorbalWarrior.labelFemale>
+  <NorbalWarrior.labelFemalePlural>female Warmongers</NorbalWarrior.labelFemalePlural>
 
-  <NorbalRager.label>берсеркер норбалов</NorbalRager.label>
-  <NorbalRager.labelPlural>берсеркеры норбалов</NorbalRager.labelPlural>
-  <NorbalRager.labelMale>берсеркер норбалов</NorbalRager.labelMale>
-  <NorbalRager.labelMalePlural>берсеркеры норбалов</NorbalRager.labelMalePlural>
-  <NorbalRager.labelFemale>берсеркерша норбалов</NorbalRager.labelFemale>
-  <NorbalRager.labelFemalePlural>берсеркерши норбалов</NorbalRager.labelFemalePlural>
 
-  <NorbalDestroyer.label>Громовержец норбалов</NorbalDestroyer.label>
-  <NorbalDestroyer.labelPlural>Громовержцы норбалов</NorbalDestroyer.labelPlural>
-  <NorbalDestroyer.labelMale>Громовержец норбалов</NorbalDestroyer.labelMale>
-  <NorbalDestroyer.labelMalePlural>Громовержцы норбалов</NorbalDestroyer.labelMalePlural>
-  <NorbalDestroyer.labelFemale>Громовержец норбалов</NorbalDestroyer.labelFemale>
-  <NorbalDestroyer.labelFemalePlural>Громовержцы норбалов</NorbalDestroyer.labelFemalePlural>
+  <!-- Trader -->
 
-  <NorbalArcher.label>скример норбалов</NorbalArcher.label>
-  <NorbalArcher.labelPlural>скримеры норбалов</NorbalArcher.labelPlural>
-  <NorbalArcher.labelMale>скример норбалов</NorbalArcher.labelMale>
-  <NorbalArcher.labelMalePlural>скримеры норбалов</NorbalArcher.labelMalePlural>
-  <NorbalArcher.labelFemale>скримерша норбалов</NorbalArcher.labelFemale>
-  <NorbalArcher.labelFemalePlural>скримерши норбалов</NorbalArcher.labelFemalePlural>
+  <NorbalTrader.label>Norbal trader</NorbalTrader.label>
+  <NorbalTrader.labelPlural>Norbal traders</NorbalTrader.labelPlural>
+  <NorbalTrader.labelMale>male Norbal trader</NorbalTrader.labelMale>
+  <NorbalTrader.labelMalePlural>male Norbal traders</NorbalTrader.labelMalePlural>
+  <NorbalTrader.labelFemale>female Norbal trader</NorbalTrader.labelFemale>
+  <NorbalTrader.labelFemalePlural>female Norbal traders</NorbalTrader.labelFemalePlural>
 
-  <NorbalSage.label>сейдж норбалов</NorbalSage.label>
-  <NorbalSage.labelPlural>сейджи норбалов</NorbalSage.labelPlural>
-  <NorbalSage.labelMale>сейдж норбалов</NorbalSage.labelMale>
-  <NorbalSage.labelMalePlural>сейдж норбалов</NorbalSage.labelMalePlural>
-  <NorbalSage.labelFemale>сейджа норбалов</NorbalSage.labelFemale>
-  <NorbalSage.labelFemalePlural>сейджи норбалов</NorbalSage.labelFemalePlural>
 
-  <NorbalGrandSage.label>конунг норбалов</NorbalGrandSage.label>
-  <NorbalGrandSage.labelPlural>конунги норбалов</NorbalGrandSage.labelPlural>
-  <NorbalGrandSage.labelMale>конунг норбалов</NorbalGrandSage.labelMale>
-  <NorbalGrandSage.labelMalePlural>конунги норбалов</NorbalGrandSage.labelMalePlural>
-  <NorbalGrandSage.labelFemale>конунг норбалов</NorbalGrandSage.labelFemale>
-  <NorbalGrandSage.labelFemalePlural>конунги норбалов</NorbalGrandSage.labelFemalePlural>
+  <!-- Rager -->
 
-  <NorbalHero.label>херсир</NorbalHero.label>
-  <NorbalHero.labelPlural>херсиры</NorbalHero.labelPlural>
-  <NorbalHero.labelMale>херсир</NorbalHero.labelMale>
-  <NorbalHero.labelMalePlural>херсиры</NorbalHero.labelMalePlural>
-  <NorbalHero.labelFemale>херсир</NorbalHero.labelFemale>
-  <NorbalHero.labelFemalePlural>херсиры</NorbalHero.labelFemalePlural>
+  <NorbalRager.label>Berserker</NorbalRager.label>
+  <NorbalRager.labelPlural>Berserkers</NorbalRager.labelPlural>
+  <NorbalRager.labelMale>male Berserker</NorbalRager.labelMale>
+  <NorbalRager.labelMalePlural>male Berserkers</NorbalRager.labelMalePlural>
+  <NorbalRager.labelFemale>female Berserker</NorbalRager.labelFemale>
+  <NorbalRager.labelFemalePlural>female Berserkers</NorbalRager.labelFemalePlural>
 
-  <NorbalThane.label>ярл</NorbalThane.label>
-  <NorbalThane.labelPlural>ярлы</NorbalThane.labelPlural>
-  <NorbalThane.labelMale>ярл</NorbalThane.labelMale>
-  <NorbalThane.labelMalePlural>ярлы</NorbalThane.labelMalePlural>
-  <NorbalThane.labelFemale>ярл</NorbalThane.labelFemale>
-  <NorbalThane.labelFemalePlural>ярлы</NorbalThane.labelFemalePlural>
 
-  <NorbalSnorb.label>тралл</NorbalSnorb.label>
-  <NorbalSnorb.labelPlural>Траллы</NorbalSnorb.labelPlural>
+  <!-- Destroyer -->
 
-  <NorbalKarl.label>карл</NorbalKarl.label>
-  <NorbalKarl.labelPlural>карлы</NorbalKarl.labelPlural>
-  <NorbalKarl.labelMale>карл</NorbalKarl.labelMale>
-  <NorbalKarl.labelMalePlural>карлы</NorbalKarl.labelMalePlural>
-  <NorbalKarl.labelFemale>карл</NorbalKarl.labelFemale>
-  <NorbalKarl.labelFemalePlural>карлы</NorbalKarl.labelFemalePlural>
+  <NorbalDestroyer.label>Thunderer</NorbalDestroyer.label>
+  <NorbalDestroyer.labelPlural>Thunderers</NorbalDestroyer.labelPlural>
+  <NorbalDestroyer.labelMale>male Thunderer</NorbalDestroyer.labelMale>
+  <NorbalDestroyer.labelMalePlural>male Thunderers</NorbalDestroyer.labelMalePlural>
+  <NorbalDestroyer.labelFemale>female Thunderer</NorbalDestroyer.labelFemale>
+  <NorbalDestroyer.labelFemalePlural>female Thunderers</NorbalDestroyer.labelFemalePlural>
+
+
+  <!-- Skirmisher -->
+
+  <NorbalArcher.label>Skirmisher</NorbalArcher.label>
+  <NorbalArcher.labelPlural>Skirmishers</NorbalArcher.labelPlural>
+  <NorbalArcher.labelMale>male Skirmisher</NorbalArcher.labelMale>
+  <NorbalArcher.labelMalePlural>male Skirmishers</NorbalArcher.labelMalePlural>
+  <NorbalArcher.labelFemale>female Skirmisher</NorbalArcher.labelFemale>
+  <NorbalArcher.labelFemalePlural>female Skirmishers</NorbalArcher.labelFemalePlural>
+
+
+  <!-- Sage -->
+
+  <NorbalSage.label>Sage</NorbalSage.label>
+  <NorbalSage.labelPlural>Sages</NorbalSage.labelPlural>
+  <NorbalSage.labelMale>male Sage</NorbalSage.labelMale>
+  <NorbalSage.labelMalePlural>male Sages</NorbalSage.labelMalePlural>
+  <NorbalSage.labelFemale>female Sage</NorbalSage.labelFemale>
+  <NorbalSage.labelFemalePlural>female Sages</NorbalSage.labelFemalePlural>
+
+
+  <!-- Konungr -->
+
+  <NorbalGrandSage.label>Konungr</NorbalGrandSage.label>
+  <NorbalGrandSage.labelPlural>Konungrs</NorbalGrandSage.labelPlural>
+  <NorbalGrandSage.labelMale>male Konungr</NorbalGrandSage.labelMale>
+  <NorbalGrandSage.labelMalePlural>male Konungrs</NorbalGrandSage.labelMalePlural>
+  <NorbalGrandSage.labelFemale>female Konungr</NorbalGrandSage.labelFemale>
+  <NorbalGrandSage.labelFemalePlural>female Konungrs</NorbalGrandSage.labelFemalePlural>
+
+
+  <!-- Hersir -->
+
+  <NorbalHero.label>Hersir</NorbalHero.label>
+  <NorbalHero.labelPlural>Hersirs</NorbalHero.labelPlural>
+  <NorbalHero.labelMale>male Hersir</NorbalHero.labelMale>
+  <NorbalHero.labelMalePlural>male Hersirs</NorbalHero.labelMalePlural>
+  <NorbalHero.labelFemale>female Hersir</NorbalHero.labelFemale>
+  <NorbalHero.labelFemalePlural>female Hersirs</NorbalHero.labelFemalePlural>
+
+
+  <!-- Jarl -->
+
+  <NorbalThane.label>Jarl</NorbalThane.label>
+  <NorbalThane.labelPlural>Jarls</NorbalThane.labelPlural>
+  <NorbalThane.labelMale>male Jarl</NorbalThane.labelMale>
+  <NorbalThane.labelMalePlural>male Jarls</NorbalThane.labelMalePlural>
+  <NorbalThane.labelFemale>female Jarl</NorbalThane.labelFemale>
+  <NorbalThane.labelFemalePlural>female Jarls</NorbalThane.labelFemalePlural>
+
+
+  <!-- Thrall -->
+
+  <NorbalSnorb.label>Thrall</NorbalSnorb.label>
+  <NorbalSnorb.labelPlural>Thralls</NorbalSnorb.labelPlural>
+
+
+  <!-- Karl -->
+
+  <NorbalKarl.label>Karl</NorbalKarl.label>
+  <NorbalKarl.labelPlural>Karls</NorbalKarl.labelPlural>
+  <NorbalKarl.labelMale>male Karl</NorbalKarl.labelMale>
+  <NorbalKarl.labelMalePlural>male Karls</NorbalKarl.labelMalePlural>
+  <NorbalKarl.labelFemale>female Karl</NorbalKarl.labelFemale>
+  <NorbalKarl.labelFemalePlural>female Karls</NorbalKarl.labelFemalePlural>
+
 
 </LanguageData>

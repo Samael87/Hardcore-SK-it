@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_PlasmaBolt.label>make Plasma charged  bolt cartridge x80</MakeAmmo_PlasmaBolt.label>
+  <MakeAmmo_PlasmaBolt.description>Craft 80 Plasma charged  bolt cartridges.</MakeAmmo_PlasmaBolt.description>
+  <MakeAmmo_PlasmaBolt.jobString>Making Plasma charged  bolt cartridges.</MakeAmmo_PlasmaBolt.jobString>
+
+
+</LanguageData>

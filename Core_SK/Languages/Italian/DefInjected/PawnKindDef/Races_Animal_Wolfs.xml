@@ -3,11 +3,80 @@
 
   <!-- Wolves -->
 
-  <Rimwolf.label>черный волк</Rimwolf.label>
-  <Rimwolf.labelPlural>черные волки</Rimwolf.labelPlural>
-  <Rimwolf.lifeStages.0.label>щенок черного волка</Rimwolf.lifeStages.0.label>
-  <Rimwolf.lifeStages.0.labelPlural>щенки черного волка</Rimwolf.lifeStages.0.labelPlural>
-  <Rimwolf.lifeStages.1.label>молодой черный волк</Rimwolf.lifeStages.1.label>
-  <Rimwolf.lifeStages.1.labelPlural>молодые черные волки</Rimwolf.lifeStages.1.labelPlural>
+  <Wolf_Timber.label>timber wolf</Wolf_Timber.label>
+  <Wolf_Timber.labelPlural>timber wolves</Wolf_Timber.labelPlural>
+  <Wolf_Timber.labelMale>male timber wolf</Wolf_Timber.labelMale>
+  <Wolf_Timber.labelMalePlural>male timber wolves</Wolf_Timber.labelMalePlural>
+  <Wolf_Timber.labelFemale>female timber wolf</Wolf_Timber.labelFemale>
+  <Wolf_Timber.labelFemalePlural>female timber wolves</Wolf_Timber.labelFemalePlural>
+  <Wolf_Timber.lifeStages.0.label>timber wolf puppy</Wolf_Timber.lifeStages.0.label>
+  <Wolf_Timber.lifeStages.0.labelPlural>timber wolf puppies</Wolf_Timber.lifeStages.0.labelPlural>
+  <Wolf_Timber.lifeStages.0.labelMale>male timber wolf puppy</Wolf_Timber.lifeStages.0.labelMale>
+  <Wolf_Timber.lifeStages.0.labelMalePlural>male timber wolf puppies</Wolf_Timber.lifeStages.0.labelMalePlural>
+  <Wolf_Timber.lifeStages.0.labelFemale>female timber wolf puppy</Wolf_Timber.lifeStages.0.labelFemale>
+  <Wolf_Timber.lifeStages.0.labelFemalePlural>female timber wolf puppies</Wolf_Timber.lifeStages.0.labelFemalePlural>
+  <Wolf_Timber.lifeStages.1.label>timber wolf</Wolf_Timber.lifeStages.1.label>
+  <Wolf_Timber.lifeStages.1.labelPlural>timber wolves</Wolf_Timber.lifeStages.1.labelPlural>
+  <Wolf_Timber.lifeStages.1.labelMale>male timber wolf</Wolf_Timber.lifeStages.1.labelMale>
+  <Wolf_Timber.lifeStages.1.labelMalePlural>male timber wolfs</Wolf_Timber.lifeStages.1.labelMalePlural>
+  <Wolf_Timber.lifeStages.1.labelFemale>female timber wolf</Wolf_Timber.lifeStages.1.labelFemale>
+  <Wolf_Timber.lifeStages.1.labelFemalePlural>female timber wolfs</Wolf_Timber.lifeStages.1.labelFemalePlural>
+  <Wolf_Timber.lifeStages.2.label>timber wolf</Wolf_Timber.lifeStages.2.label>
+  <Wolf_Timber.lifeStages.2.labelPlural>timber wolves</Wolf_Timber.lifeStages.2.labelPlural>
+  <Wolf_Timber.lifeStages.2.labelMale>male timber wolf</Wolf_Timber.lifeStages.2.labelMale>
+  <Wolf_Timber.lifeStages.2.labelMalePlural>male timber wolfs</Wolf_Timber.lifeStages.2.labelMalePlural>
+  <Wolf_Timber.lifeStages.2.labelFemale>female timber wolf</Wolf_Timber.lifeStages.2.labelFemale>
+  <Wolf_Timber.lifeStages.2.labelFemalePlural>female timber wolfs</Wolf_Timber.lifeStages.2.labelFemalePlural>
+
+  <Wolf_Arctic.label>arctic wolf</Wolf_Arctic.label>
+  <Wolf_Arctic.labelPlural>arctic wolves</Wolf_Arctic.labelPlural>
+  <Wolf_Arctic.labelMale>male arctic wolf</Wolf_Arctic.labelMale>
+  <Wolf_Arctic.labelMalePlural>male arctic wolves</Wolf_Arctic.labelMalePlural>
+  <Wolf_Arctic.labelFemale>female arctic wolf</Wolf_Arctic.labelFemale>
+  <Wolf_Arctic.labelFemalePlural>female arctic wolves</Wolf_Arctic.labelFemalePlural>
+  <Wolf_Arctic.lifeStages.0.label>arctic wolf puppy</Wolf_Arctic.lifeStages.0.label>
+  <Wolf_Arctic.lifeStages.0.labelPlural>arctic wolf puppies</Wolf_Arctic.lifeStages.0.labelPlural>
+  <Wolf_Arctic.lifeStages.0.labelMale>male arctic wolf puppy</Wolf_Arctic.lifeStages.0.labelMale>
+  <Wolf_Arctic.lifeStages.0.labelMalePlural>male arctic wolf puppies</Wolf_Arctic.lifeStages.0.labelMalePlural>
+  <Wolf_Arctic.lifeStages.0.labelFemale>female arctic wolf puppy</Wolf_Arctic.lifeStages.0.labelFemale>
+  <Wolf_Arctic.lifeStages.0.labelFemalePlural>female arctic wolf puppies</Wolf_Arctic.lifeStages.0.labelFemalePlural>
+  <Wolf_Arctic.lifeStages.1.label>arctic wolf</Wolf_Arctic.lifeStages.1.label>
+  <Wolf_Arctic.lifeStages.1.labelPlural>arctic wolves</Wolf_Arctic.lifeStages.1.labelPlural>
+  <Wolf_Arctic.lifeStages.1.labelMale>male arctic wolf</Wolf_Arctic.lifeStages.1.labelMale>
+  <Wolf_Arctic.lifeStages.1.labelMalePlural>male arctic wolfs</Wolf_Arctic.lifeStages.1.labelMalePlural>
+  <Wolf_Arctic.lifeStages.1.labelFemale>female arctic wolf</Wolf_Arctic.lifeStages.1.labelFemale>
+  <Wolf_Arctic.lifeStages.1.labelFemalePlural>female arctic wolfs</Wolf_Arctic.lifeStages.1.labelFemalePlural>
+  <Wolf_Arctic.lifeStages.2.label>arctic wolf</Wolf_Arctic.lifeStages.2.label>
+  <Wolf_Arctic.lifeStages.2.labelPlural>arctic wolves</Wolf_Arctic.lifeStages.2.labelPlural>
+  <Wolf_Arctic.lifeStages.2.labelMale>male arctic wolf</Wolf_Arctic.lifeStages.2.labelMale>
+  <Wolf_Arctic.lifeStages.2.labelMalePlural>male arctic wolfs</Wolf_Arctic.lifeStages.2.labelMalePlural>
+  <Wolf_Arctic.lifeStages.2.labelFemale>female arctic wolf</Wolf_Arctic.lifeStages.2.labelFemale>
+  <Wolf_Arctic.lifeStages.2.labelFemalePlural>female arctic wolfs</Wolf_Arctic.lifeStages.2.labelFemalePlural>
+
+  <Rimwolf.label>black wolf</Rimwolf.label>
+  <Rimwolf.labelPlural>black wolves</Rimwolf.labelPlural>
+  <Rimwolf.labelMale>male black wolf</Rimwolf.labelMale>
+  <Rimwolf.labelMalePlural>male black wolves</Rimwolf.labelMalePlural>
+  <Rimwolf.labelFemale>female black wolf</Rimwolf.labelFemale>
+  <Rimwolf.labelFemalePlural>female black wolves</Rimwolf.labelFemalePlural>
+  <Rimwolf.lifeStages.0.label>blackwolf puppy</Rimwolf.lifeStages.0.label>
+  <Rimwolf.lifeStages.0.labelPlural>blackwolf puppies</Rimwolf.lifeStages.0.labelPlural>
+  <Rimwolf.lifeStages.0.labelMale>male blackwolf puppy</Rimwolf.lifeStages.0.labelMale>
+  <Rimwolf.lifeStages.0.labelMalePlural>male blackwolf puppies</Rimwolf.lifeStages.0.labelMalePlural>
+  <Rimwolf.lifeStages.0.labelFemale>female blackwolf puppy</Rimwolf.lifeStages.0.labelFemale>
+  <Rimwolf.lifeStages.0.labelFemalePlural>female blackwolf puppies</Rimwolf.lifeStages.0.labelFemalePlural>
+  <Rimwolf.lifeStages.1.label>black wolf</Rimwolf.lifeStages.1.label>
+  <Rimwolf.lifeStages.1.labelPlural>black wolves</Rimwolf.lifeStages.1.labelPlural>
+  <Rimwolf.lifeStages.1.labelMale>male black wolf</Rimwolf.lifeStages.1.labelMale>
+  <Rimwolf.lifeStages.1.labelMalePlural>male black wolfs</Rimwolf.lifeStages.1.labelMalePlural>
+  <Rimwolf.lifeStages.1.labelFemale>female black wolf</Rimwolf.lifeStages.1.labelFemale>
+  <Rimwolf.lifeStages.1.labelFemalePlural>female black wolfs</Rimwolf.lifeStages.1.labelFemalePlural>
+  <Rimwolf.lifeStages.2.label>black wolf</Rimwolf.lifeStages.2.label>
+  <Rimwolf.lifeStages.2.labelPlural>black wolves</Rimwolf.lifeStages.2.labelPlural>
+  <Rimwolf.lifeStages.2.labelMale>male black wolf</Rimwolf.lifeStages.2.labelMale>
+  <Rimwolf.lifeStages.2.labelMalePlural>male black wolfs</Rimwolf.lifeStages.2.labelMalePlural>
+  <Rimwolf.lifeStages.2.labelFemale>female black wolf</Rimwolf.lifeStages.2.labelFemale>
+  <Rimwolf.lifeStages.2.labelFemalePlural>female black wolfs</Rimwolf.lifeStages.2.labelFemalePlural>
+
 
 </LanguageData>

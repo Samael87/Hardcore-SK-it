@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_BlasterBolt.label>Blaster bolt</Ammo_BlasterBolt.label>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_Blaster.label>Blaster bolt</Bullet_Blaster.label>
+
+
+</LanguageData>

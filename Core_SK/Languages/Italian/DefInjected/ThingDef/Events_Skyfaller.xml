@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DropPodFlying.label>flying drop pod</DropPodFlying.label>
+  <ShipWreckFlying.label>flying ship wreck</ShipWreckFlying.label>
+  <DebrisFlying.label>flying debris</DebrisFlying.label>
+  <MeteoriteFlying.label>flying meteorite</MeteoriteFlying.label>
+  <Crater.label>crater</Crater.label>
+  <Tornado.label>tornado</Tornado.label>
+  <SandTornado.label>sand tornado</SandTornado.label>
+  <IceVortex.label>ice vortex</IceVortex.label>
+
+
+</LanguageData>

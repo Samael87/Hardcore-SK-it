@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<StrangeHeart.label>сердце</StrangeHeart.label>
-    <Tailblunt.label>хвост</Tailblunt.label>
+  <StrangeHeart.label>Heart</StrangeHeart.label>
+  <Tailblunt.label>Tail</Tailblunt.label>
+
 
 </LanguageData>

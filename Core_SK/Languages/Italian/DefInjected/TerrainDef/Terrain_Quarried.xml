@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QRY_QuarriedGround.label>quarried ground</QRY_QuarriedGround.label>
+  <QRY_QuarriedGround.tools.0.label>dirt</QRY_QuarriedGround.tools.0.label>
+
+  <QRY_QuarriedGroundWall.label>quarried ground</QRY_QuarriedGroundWall.label>
+  <QRY_QuarriedGroundWall.tools.0.label>dirt</QRY_QuarriedGroundWall.tools.0.label>
+
+  <QRY_ReclaimedSoil.label>reclaimed soil</QRY_ReclaimedSoil.label>
+  <QRY_ReclaimedSoil.tools.0.label>dirt</QRY_ReclaimedSoil.tools.0.label>
+
+
+</LanguageData>

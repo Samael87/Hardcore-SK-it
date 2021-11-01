@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeElectronicComponents.label>Assemble electronic components</MakeElectronicComponents.label>
+  <MakeElectronicComponents.description>Assemble electronic components. Vital part of all electronics. Produces 5.</MakeElectronicComponents.description>
+  <MakeElectronicComponents.jobString>Assembling electronic components.</MakeElectronicComponents.jobString>
+
+  <MakeIntegratedCircuits.label>Assemble integrated circuits</MakeIntegratedCircuits.label>
+  <MakeIntegratedCircuits.description>Assemble integrated circuits. Used in the creation of higher tier electronics. Produces 5.</MakeIntegratedCircuits.description>
+  <MakeIntegratedCircuits.jobString>Assembling integrated circuits.</MakeIntegratedCircuits.jobString>
+
+  <MakeMicrochipIntegratedCircuits.label>Assemble microchip integrated circuit</MakeMicrochipIntegratedCircuits.label>
+  <MakeMicrochipIntegratedCircuits.description>Assemble a microchip integrated circuit. Used in high tier electronics. Produces 1.</MakeMicrochipIntegratedCircuits.description>
+  <MakeMicrochipIntegratedCircuits.jobString>Assembling a microchip integrated circuit.</MakeMicrochipIntegratedCircuits.jobString>
+
+  <MakeBioelectronicDevices.label>Assemble bioelectronic device</MakeBioelectronicDevices.label>
+  <MakeBioelectronicDevices.description>Assemble a bioelectronic device. Used in high tier electronics and bionics. Produces 1.</MakeBioelectronicDevices.description>
+  <MakeBioelectronicDevices.jobString>Assembling a bioelectronic device.</MakeBioelectronicDevices.jobString>
+
+  <DisassembleAIPersonaCore.label>Disassemble AI persona core</DisassembleAIPersonaCore.label>
+  <DisassembleAIPersonaCore.description>Disassemble an AI persona core to get high-tech alloys.</DisassembleAIPersonaCore.description>
+  <DisassembleAIPersonaCore.jobString>Disassembling an AI persona core.</DisassembleAIPersonaCore.jobString>
+
+  <MakeMineralSonarModule.label>Assemble mineral sonar module</MakeMineralSonarModule.label>
+  <MakeMineralSonarModule.description>Assemble a mineral sonar module using metal alloy for the packaging box and electronic components for the computing module. Produces 1.</MakeMineralSonarModule.description>
+  <MakeMineralSonarModule.jobString>Assembling a mineral sonar module.</MakeMineralSonarModule.jobString>
+
+
+</LanguageData>

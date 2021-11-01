@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakePizza.label>bake pizza</MakePizza.label>
+  <MakePizza.description>Bakes a pizza from many ingredients. Scrumptious! Produces 3.</MakePizza.description>
+  <MakePizza.jobString>Baking pizza.</MakePizza.jobString>
+
+  <MakePieBlueberry.label>bake fruit pies</MakePieBlueberry.label>
+  <MakePieBlueberry.description>Bake tasty fruit pies. Produces 2.</MakePieBlueberry.description>
+  <MakePieBlueberry.jobString>Baking fruit pies.</MakePieBlueberry.jobString>
+
+  <MakeTaffy.label>cook taffy candies</MakeTaffy.label>
+  <MakeTaffy.description>Turns sugar into taffy. Taffy is a type of sweet, chewable candy. Produces 5.</MakeTaffy.description>
+  <MakeTaffy.jobString>Cooking taffy candies.</MakeTaffy.jobString>
+
+  <MakeCookies.label>bake chocolate cookies</MakeCookies.label>
+  <MakeCookies.description>Bakes cookies from flour, sugar and chocolate; using grandma's recipe. Produces 10.</MakeCookies.description>
+  <MakeCookies.jobString>Baking chocolate cookies.</MakeCookies.jobString>
+
+  <MakeSweetBun.label>bake sweet rolls</MakeSweetBun.label>
+  <MakeSweetBun.description>Bakes sweet rolls covered in sugary icying. Produces 5.</MakeSweetBun.description>
+  <MakeSweetBun.jobString>Baking sweet rolls.</MakeSweetBun.jobString>
+
+
+</LanguageData>

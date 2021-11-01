@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_StoneBall.label>make stone balls x5</MakeAmmo_StoneBall.label>
+  <MakeAmmo_StoneBall.description>Craft stone balls.</MakeAmmo_StoneBall.description>
+  <MakeAmmo_StoneBall.jobString>Making stone balls.</MakeAmmo_StoneBall.jobString>
+
+  <MakeAmmo_ExplosiveBall.label>make explosive balls x5</MakeAmmo_ExplosiveBall.label>
+  <MakeAmmo_ExplosiveBall.description>Craft explosive balls.</MakeAmmo_ExplosiveBall.description>
+  <MakeAmmo_ExplosiveBall.jobString>Making explosive balls.</MakeAmmo_ExplosiveBall.jobString>
+
+
+</LanguageData>

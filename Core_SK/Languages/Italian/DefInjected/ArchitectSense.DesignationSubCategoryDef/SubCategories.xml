@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Structure -->
+
+  <SubCategory_Bridges.label>bridges</SubCategory_Bridges.label>
+  <SubCategory_Bridges.description>Water crossing bridges.</SubCategory_Bridges.description>
+
+
+  <!-- Power -->
+
+  <SubCategory_PowerConduit.label>power conduits</SubCategory_PowerConduit.label>
+  <SubCategory_PowerConduit.description>A set of electrical cables for moving power around.</SubCategory_PowerConduit.description>
+
+  <SubCategory_Switchers.label>switchers</SubCategory_Switchers.label>
+  <SubCategory_Switchers.description>Switches power on/off.</SubCategory_Switchers.description>
+
+  <SubCategory_Battery.label>batteries</SubCategory_Battery.label>
+  <SubCategory_Battery.description>Stores electricity when there is excess power and yields it when there is not.</SubCategory_Battery.description>
+
+  <SubCategory_RenewablePower.label>renewable power</SubCategory_RenewablePower.label>
+  <SubCategory_RenewablePower.description>Use power from renewable resourses.</SubCategory_RenewablePower.description>
+
+  <SubCategory_ConvectionalPower.label>convectional power</SubCategory_ConvectionalPower.label>
+  <SubCategory_ConvectionalPower.description>Use power generation from Convectional resources of this planet.</SubCategory_ConvectionalPower.description>
+
+  <SubCategory_PlasmaPower.label>plasma power</SubCategory_PlasmaPower.label>
+  <SubCategory_PlasmaPower.description>Build eco-friendy plasma power plants.</SubCategory_PlasmaPower.description>
+
+
+  <!-- Furniture -->
+
+  <SubCategory_SpecialBeds.label>special beds</SubCategory_SpecialBeds.label>
+  <SubCategory_SpecialBeds.description>A special beds for some various needs.</SubCategory_SpecialBeds.description>
+
+  <SubCategory_StandartBeds.label>standard beds</SubCategory_StandartBeds.label>
+  <SubCategory_StandartBeds.description>A simple bed for one pawn.</SubCategory_StandartBeds.description>
+
+  <SubCategory_DoubleBeds.label>double beds</SubCategory_DoubleBeds.label>
+  <SubCategory_DoubleBeds.description>Double-wide bed that fits two people.</SubCategory_DoubleBeds.description>
+
+  <SubCategory_HospitalBeds.label>hospital beds</SubCategory_HospitalBeds.label>
+  <SubCategory_HospitalBeds.description>A beds specially designed for injured people.</SubCategory_HospitalBeds.description>
+
+  <SubCategory_AdvancedBeds.label>advanced beds</SubCategory_AdvancedBeds.label>
+  <SubCategory_AdvancedBeds.description>A futuristic beds with high rest effectiveness.</SubCategory_AdvancedBeds.description>
+
+  <SubCategory_AnimalFurniture.label>animal furniture</SubCategory_AnimalFurniture.label>
+  <SubCategory_AnimalFurniture.description>Beds and sleeping places for animals.</SubCategory_AnimalFurniture.description>
+
+  <SubCategory_Seats.label>seats</SubCategory_Seats.label>
+  <SubCategory_Seats.description>Stools and benches for every taste.</SubCategory_Seats.description>
+
+  <SubCategory_ComfortableSeats.label>comfortable seats</SubCategory_ComfortableSeats.label>
+  <SubCategory_ComfortableSeats.description>Chairs, sofas, couch for great relaxation.</SubCategory_ComfortableSeats.description>
+
+  <SubCategory_RoyaltyStuff.label>royalty stuff</SubCategory_RoyaltyStuff.label>
+  <SubCategory_RoyaltyStuff.description>Drapes, thrones for royalty person.</SubCategory_RoyaltyStuff.description>
+
+  <SubCategory_TablesN.label>neolitic tables</SubCategory_TablesN.label>
+  <SubCategory_TablesN.description>Dining tables, side tables and coffee tables.</SubCategory_TablesN.description>
+
+  <SubCategory_Tables.label>modern tables</SubCategory_Tables.label>
+  <SubCategory_Tables.description>Dining tables, side tables and coffee tables.</SubCategory_Tables.description>
+
+  <SubCategory_TablesM.label>millenium tables</SubCategory_TablesM.label>
+  <SubCategory_TablesM.description>Dining tables, side tables and coffee tables.</SubCategory_TablesM.description>
+
+  <SubCategory_SpTables.label>Specific tables</SubCategory_SpTables.label>
+  <SubCategory_SpTables.description>Specific tables.</SubCategory_SpTables.description>
+
+  <SubCategory_ClothLockers.label>cloth lockers</SubCategory_ClothLockers.label>
+  <SubCategory_ClothLockers.description>A locker that can store a set clothing for easy outfit swapping.</SubCategory_ClothLockers.description>
+
+  <SubCategory_Books.label>Books</SubCategory_Books.label>
+  <SubCategory_Books.description>Furniture for the placement and use books.</SubCategory_Books.description>
+
+
+  <!-- Accessories -->
+
+  <SubCategory_PlantPots.label>Plant pots</SubCategory_PlantPots.label>
+  <SubCategory_PlantPots.description>A plant pot can hold decorative flowers to improve the mood of people nearby.</SubCategory_PlantPots.description>
+
+  <SubCategory_Pallets.label>Warehouse Storage</SubCategory_Pallets.label>
+  <SubCategory_Pallets.description>Uncategorized industrial storage which doesn't protect contents from the elements.</SubCategory_Pallets.description>
+
+  <SubCategory_Containers.label>Uncovered Storage</SubCategory_Containers.label>
+  <SubCategory_Containers.description>General indoor storage.</SubCategory_Containers.description>
+
+  <SubCategory_FoodContainers.label>Food/drug Storage</SubCategory_FoodContainers.label>
+  <SubCategory_FoodContainers.description>Stores or preserves food and drugs.</SubCategory_FoodContainers.description>
+
+  <SubCategory_ApparelStorage.label>Apparel and textiles</SubCategory_ApparelStorage.label>
+  <SubCategory_ApparelStorage.description>Haulers carry apparel here for storage.</SubCategory_ApparelStorage.description>
+
+  <SubCategory_AmmoContainers.label>arsenal</SubCategory_AmmoContainers.label>
+  <SubCategory_AmmoContainers.description>Stores and safeguard weapons and ammo.</SubCategory_AmmoContainers.description>
+
+  <SubCategory_Shelfs.label>Barn/animal Storage</SubCategory_Shelfs.label>
+  <SubCategory_Shelfs.description>Stores everything from seeds to feed.</SubCategory_Shelfs.description>
+
+  <SubCategory_OutdoorStorage.label>Covered Storage</SubCategory_OutdoorStorage.label>
+  <SubCategory_OutdoorStorage.description>General storage which protects from the elements.</SubCategory_OutdoorStorage.description>
+
+  <SubCategory_Refrigerators.label>refrigerators</SubCategory_Refrigerators.label>
+  <SubCategory_Refrigerators.description>Uses electricity to preserve food.</SubCategory_Refrigerators.description>
+
+  <SubCategory_Lights.label>fueled lights</SubCategory_Lights.label>
+  <SubCategory_Lights.description>Fueled lights that need fuel for work.</SubCategory_Lights.description>
+
+  <SubCategory_Lamps.label>electric lamps</SubCategory_Lamps.label>
+  <SubCategory_Lamps.description>Lamp that lights an area.</SubCategory_Lamps.description>
+
+  <SubCategory_DarkLamps.label>dark lamps</SubCategory_DarkLamps.label>
+  <SubCategory_DarkLamps.description>Lamp that lights an area with dark light.</SubCategory_DarkLamps.description>
+
+  <SubCategory_LEDLamps.label>electric LED lamps</SubCategory_LEDLamps.label>
+  <SubCategory_LEDLamps.description>LED lamp that lights an area.</SubCategory_LEDLamps.description>
+
+  <SubCategory_FloorLight.label>floor lights</SubCategory_FloorLight.label>
+  <SubCategory_FloorLight.description>A square floor light integrated into the ground.</SubCategory_FloorLight.description>
+
+
+  <!-- <ArchitectSense.DesignationSubCategoryDef>
+		<defName>SubCategory_LEDLights</defName>
+		<label>LED lights</label>
+		<description>Сonstruction of more efficient and powerful lights.</description>
+		<defNames>
+			<li>RopeLight</li>
+			<li>LEDCentreStrip</li>
+			<li>LEDCornerStrip</li>
+			<li>LEDCornerStripCorner</li>
+			<li>LEDSecurityLamp</li>
+			<li>LEDSpotLight</li>
+		</defNames>
+		<designationCategory>Accessories</designationCategory>
+		<debug>false</debug>
+	</ArchitectSense.DesignationSubCategoryDef> -->
+
+  <SubCategory_QuantumRelay.label>Quantum relay</SubCategory_QuantumRelay.label>
+  <SubCategory_QuantumRelay.description>A remote extension for a quantum warehouse.</SubCategory_QuantumRelay.description>
+
+  <SubCategory_QuantumStockpile.label>Quantum stockpile</SubCategory_QuantumStockpile.label>
+  <SubCategory_QuantumStockpile.description>An advanced storage solution, when placed under a stockpile zone will attempt to pile up adjacent items on top of itself.</SubCategory_QuantumStockpile.description>
+
+  <SubCategory_QuantumWarehouse.label>Quantum warehouse</SubCategory_QuantumWarehouse.label>
+  <SubCategory_QuantumWarehouse.description>A supplement to quantum stockpiles, when placed under a stockpile zone will network all quantum stockpiles in the zone to minimize amount of incomplete item stacks and distribute stacks across all quantum stockpile cells..</SubCategory_QuantumWarehouse.description>
+
+  <SubCategory_AncientRugs.label>Ancient mats</SubCategory_AncientRugs.label>
+  <SubCategory_AncientRugs.description>An ancient rugs to make home warmer.</SubCategory_AncientRugs.description>
+
+  <SubCategory_DoorMats.label>Door mats</SubCategory_DoorMats.label>
+  <SubCategory_DoorMats.description>A doormat to clean your feet.</SubCategory_DoorMats.description>
+
+  <SubCategory_SquareRugs.label>Square rugs</SubCategory_SquareRugs.label>
+  <SubCategory_SquareRugs.description>A small square area rug.</SubCategory_SquareRugs.description>
+
+  <SubCategory_RoundRugs.label>Round rugs</SubCategory_RoundRugs.label>
+  <SubCategory_RoundRugs.description>A round area rug.</SubCategory_RoundRugs.description>
+
+  <SubCategory_RectangleRugs.label>Rectangle rugs</SubCategory_RectangleRugs.label>
+  <SubCategory_RectangleRugs.description>A rectangular area rug.</SubCategory_RectangleRugs.description>
+
+  <SubCategory_RunnerRugs.label>Runner rugs</SubCategory_RunnerRugs.label>
+  <SubCategory_RunnerRugs.description>A thin hallway rug.</SubCategory_RunnerRugs.description>
+
+  <SubCategory_ModernRugs.label>Modern mats</SubCategory_ModernRugs.label>
+  <SubCategory_ModernRugs.description>A modern mats gives the room a modern style.</SubCategory_ModernRugs.description>
+
+
+  <!-- Production -->
+
+  <SubCategory_ButcherTable.label>butchering</SubCategory_ButcherTable.label>
+  <SubCategory_ButcherTable.description>A table for butchering dead creatures into pieces of raw meat.</SubCategory_ButcherTable.description>
+
+  <SubCategory_Stove.label>prepare food</SubCategory_Stove.label>
+  <SubCategory_Stove.description>Stuff for preparing foods.</SubCategory_Stove.description>
+
+  <SubCategory_CookingStuff.label>cooking stuff</SubCategory_CookingStuff.label>
+  <SubCategory_CookingStuff.description>Various stuff for prepare candy, canning, coffee, tobacco etc.</SubCategory_CookingStuff.description>
+
+  <SubCategory_SpecialFoods.label>special foods</SubCategory_SpecialFoods.label>
+  <SubCategory_SpecialFoods.description>Some special foods.</SubCategory_SpecialFoods.description>
+
+  <SubCategory_Brewery.label>brewery</SubCategory_Brewery.label>
+  <SubCategory_Brewery.description>A work station with all the equipment needed to brew alcogol drinks.</SubCategory_Brewery.description>
+
+  <SubCategory_DryingRack.label>drying racks</SubCategory_DryingRack.label>
+  <SubCategory_DryingRack.description>Drying rack used for drying meat or leaves.</SubCategory_DryingRack.description>
+
+  <SubCategory_Fishing.label>Fishing</SubCategory_Fishing.label>
+  <SubCategory_Fishing.description>Fish industry buildings.</SubCategory_Fishing.description>
+
+  <SubCategory_AssemblyBench.label>assembling benches</SubCategory_AssemblyBench.label>
+  <SubCategory_AssemblyBench.description>A table for the assembling of components, wires, mechanisms and advanced mechanisms.</SubCategory_AssemblyBench.description>
+
+  <SubCategory_Sawmills.label>sawmill</SubCategory_Sawmills.label>
+  <SubCategory_Sawmills.description>Workbench with saw for cutting logs into planks and kindling..</SubCategory_Sawmills.description>
+
+  <SubCategory_Furnaces.label>furnace</SubCategory_Furnaces.label>
+  <SubCategory_Furnaces.description>Previously furnace used for smelting.</SubCategory_Furnaces.description>
+
+  <SubCategory_Machining.label>machining</SubCategory_Machining.label>
+  <SubCategory_Machining.description>Worktable primarily used with the rocks, stone chunks, rubble or sand.</SubCategory_Machining.description>
+
+  <SubCategory_Smithy.label>smithy</SubCategory_Smithy.label>
+  <SubCategory_Smithy.description>Used to craft various weapons, apparel and devices.</SubCategory_Smithy.description>
+
+  <SubCategory_Mining.label>mining</SubCategory_Mining.label>
+  <SubCategory_Mining.description>Accessories for mineral product mining.</SubCategory_Mining.description>
+
+  <SubCategory_Sewing.label>sewing</SubCategory_Sewing.label>
+  <SubCategory_Sewing.description>Worktables for crafting various apparel stuff.</SubCategory_Sewing.description>
+
+  <SubCategory_ConcreteMixers.label>concrete mixers</SubCategory_ConcreteMixers.label>
+  <SubCategory_ConcreteMixers.description>Concrete is mixed from rubble and sand.</SubCategory_ConcreteMixers.description>
+
+  <SubCategory_CraftWeapons.label>weapon crafts</SubCategory_CraftWeapons.label>
+  <SubCategory_CraftWeapons.description>A workbenches with crafting weapons and ammo.</SubCategory_CraftWeapons.description>
+
+  <SubCategory_Medicine.label>medicine</SubCategory_Medicine.label>
+  <SubCategory_Medicine.description>Tables that is used to craft various medicine and other devices.</SubCategory_Medicine.description>
+
+  <SubCategory_Prosthetics.label>prosthetics bench</SubCategory_Prosthetics.label>
+  <SubCategory_Prosthetics.description>A workbench equipped for production of various prosthetics.</SubCategory_Prosthetics.description>
+
+  <SubCategory_Composters.label>composter</SubCategory_Composters.label>
+  <SubCategory_Composters.description>Special compost devices.</SubCategory_Composters.description>
+
+  <SubCategory_Conversion.label>conversion</SubCategory_Conversion.label>
+  <SubCategory_Conversion.description>Special building for converting.</SubCategory_Conversion.description>
+
+  <SubCategory_Hydroponics.label>hydroponics</SubCategory_Hydroponics.label>
+  <SubCategory_Hydroponics.description>A hydroponic basin can grow plants quickly.</SubCategory_Hydroponics.description>
+
+  <SubCategory_Hightech.label>hightech</SubCategory_Hightech.label>
+  <SubCategory_Hightech.description>To build petrochemical plant and gas centrifuge.</SubCategory_Hightech.description>
+
+  <SubCategory_FuturisticDevices.label>futuristic devices</SubCategory_FuturisticDevices.label>
+  <SubCategory_FuturisticDevices.description>To build matter fab or hadron collider.</SubCategory_FuturisticDevices.description>
+
+
+  <!-- Joy -->
+
+  <SubCategory_TableGames.label>table games</SubCategory_TableGames.label>
+  <SubCategory_TableGames.description>A table specially made for playing games.</SubCategory_TableGames.description>
+
+  <SubCategory_TV.label>television</SubCategory_TV.label>
+  <SubCategory_TV.description>Colonist needs to watch old movies.</SubCategory_TV.description>
+
+
+  <!-- Security -->
+
+  <SubCategory_Fortifications.label>fortifications</SubCategory_Fortifications.label>
+  <SubCategory_Fortifications.description>Manned medieval siege weapons.</SubCategory_Fortifications.description>
+
+  <SubCategory_Traps.label>traps</SubCategory_Traps.label>
+  <SubCategory_Traps.description>Special traps for defend.</SubCategory_Traps.description>
+
+  <SubCategory_MedievalTurrets.label>medieval weapons</SubCategory_MedievalTurrets.label>
+  <SubCategory_MedievalTurrets.description>Manned medieval siege weapons.</SubCategory_MedievalTurrets.description>
+
+  <SubCategory_Machineguns.label>machineguns</SubCategory_Machineguns.label>
+  <SubCategory_Machineguns.description>Various types of mounted machineguns.</SubCategory_Machineguns.description>
+
+  <SubCategory_ACannons.label>autocannons</SubCategory_ACannons.label>
+  <SubCategory_ACannons.description>Various types of automatic cannon weapons.</SubCategory_ACannons.description>
+
+  <SubCategory_Cannons.label>heavy cannons</SubCategory_Cannons.label>
+  <SubCategory_Cannons.description>Various types of cannon weapons.</SubCategory_Cannons.description>
+
+  <SubCategory_Mortars.label>mortars</SubCategory_Mortars.label>
+  <SubCategory_Mortars.description>Various types of grenade launchers.</SubCategory_Mortars.description>
+
+  <SubCategory_RocketLaunchers.label>rocket launchers</SubCategory_RocketLaunchers.label>
+  <SubCategory_RocketLaunchers.description>A huge power missile systems.</SubCategory_RocketLaunchers.description>
+
+  <SubCategory_SentryTurrets.label>sentry turrets</SubCategory_SentryTurrets.label>
+  <SubCategory_SentryTurrets.description>An AI-controlled turret that automatically fires at nearby enemies.</SubCategory_SentryTurrets.description>
+
+
+  <!-- Misc -->
+
+  <SubCategory_Spots.label>Spots</SubCategory_Spots.label>
+  <SubCategory_Spots.description>Designates a various spots.</SubCategory_Spots.description>
+
+  <SubCategory_Graves.label>Grave</SubCategory_Graves.label>
+  <SubCategory_Graves.description>Place the deceased in graves to give them a decent final resting place.</SubCategory_Graves.description>
+
+  <SubCategory_ResearchBenches.label>research benches</SubCategory_ResearchBenches.label>
+  <SubCategory_ResearchBenches.description>Researchers work here to discover new things.</SubCategory_ResearchBenches.description>
+
+  <SubCategory_Trade.label>Trade</SubCategory_Trade.label>
+  <SubCategory_Trade.description>Facilities used for trade and communication.</SubCategory_Trade.description>
+
+  <SubCategory_Facilities.label>Facilities</SubCategory_Facilities.label>
+  <SubCategory_Facilities.description>A special buildings that can be linked to another buildings to increase its effectiveness.</SubCategory_Facilities.description>
+
+  <SubCategory_Scaners.label>scaners</SubCategory_Scaners.label>
+  <SubCategory_Scaners.description>Special scaners to detect hidden minerals.</SubCategory_Scaners.description>
+
+  <SubCategory_Transportation.label>Transportation</SubCategory_Transportation.label>
+  <SubCategory_Transportation.description>Arrange transportation between colonies.</SubCategory_Transportation.description>
+
+  <SubCategory_MFacilities.label>Medical facilities</SubCategory_MFacilities.label>
+  <SubCategory_MFacilities.description>A special buildings that can be linked to another buildings to increase its effectiveness.</SubCategory_MFacilities.description>
+
+  <SubCategory_TrainingFacilities.label>train facilities</SubCategory_TrainingFacilities.label>
+  <SubCategory_TrainingFacilities.description>A special buildings that can be linked to another buildings to increase its effectiveness.</SubCategory_TrainingFacilities.description>
+
+  <SubCategory_Computers.label>Computers</SubCategory_Computers.label>
+
+  <SubCategory_ManagerDesks.label>Manager desks</SubCategory_ManagerDesks.label>
+  <SubCategory_ManagerDesks.description>A special building required to allow a manager to do his work.</SubCategory_ManagerDesks.description>
+
+  <SubCategory_NanoDevices.label>Nano devices</SubCategory_NanoDevices.label>
+  <SubCategory_NanoDevices.description>A special buildings for storage and copying.</SubCategory_NanoDevices.description>
+
+  <SubCategory_Robots.label>Robots</SubCategory_Robots.label>
+  <SubCategory_Robots.description>This stations with a specialized robot.</SubCategory_Robots.description>
+
+
+  <!-- Temperature -->
+
+  <SubCategory_Vents.label>vents</SubCategory_Vents.label>
+  <SubCategory_Vents.description>Vent used for equalizing the temperature between two rooms</SubCategory_Vents.description>
+
+  <SubCategory_Heaters.label>heaters</SubCategory_Heaters.label>
+  <SubCategory_Heaters.description>An electrical devices that converts electricity into heat.</SubCategory_Heaters.description>
+
+  <SubCategory_Coolers.label>coolers</SubCategory_Coolers.label>
+  <SubCategory_Coolers.description>An electrical device that fits into a wall and pushes cold air into a room.</SubCategory_Coolers.description>
+
+  <SubCategory_PassiveCoolers.label>passive coolers</SubCategory_PassiveCoolers.label>
+  <SubCategory_PassiveCoolers.description>Coolers using evaporation to cool the area a small ammount.</SubCategory_PassiveCoolers.description>
+
+  <SubCategory_DuckPipes.label>pipe components</SubCategory_DuckPipes.label>
+  <SubCategory_DuckPipes.description>A pipe for moving air around.</SubCategory_DuckPipes.description>
+
+  <SubCategory_DuckComponents.label>duct components</SubCategory_DuckComponents.label>
+  <SubCategory_DuckComponents.description>A duct building that pushes air to network.</SubCategory_DuckComponents.description>
+
+
+  <!-- SK_category_terraform -->
+
+  <SubCategory_Terraforming.label>Terraforming</SubCategory_Terraforming.label>
+  <SubCategory_Terraforming.description>Special devices for terraforming territory.</SubCategory_Terraforming.description>
+
+
+  <!-- Floors -->
+
+  <SubCategory_ConcreteSurface.label>Concrete surface</SubCategory_ConcreteSurface.label>
+  <SubCategory_ConcreteSurface.description>Concrete based surface tiles.</SubCategory_ConcreteSurface.description>
+
+  <SubCategory_MetalTiles.label>metal tile</SubCategory_MetalTiles.label>
+  <SubCategory_MetalTiles.description>Metal square tiles, for that spaceship look.</SubCategory_MetalTiles.description>
+
+  <SubCategory_PlateMetalTiles.label>plate metal tile</SubCategory_PlateMetalTiles.label>
+  <SubCategory_PlateMetalTiles.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean.</SubCategory_PlateMetalTiles.description>
+
+  <SubCategory_PreciousMetalTiles.label>precious metal tile</SubCategory_PreciousMetalTiles.label>
+  <SubCategory_PreciousMetalTiles.description>Expensive and slow to build precious metal tiles.</SubCategory_PreciousMetalTiles.description>
+
+  <SubCategory_SmallBrickTile.label>Small brick tile</SubCategory_SmallBrickTile.label>
+  <SubCategory_SmallBrickTile.description>Smaller bricks laid in an interlocking pattern. Takes slightly longer to make than the regular variety.</SubCategory_SmallBrickTile.description>
+
+  <SubCategory_MediumBrickTile.label>Medium brick tile</SubCategory_MediumBrickTile.label>
+  <SubCategory_MediumBrickTile.description>Bricks laid in an interlocking pattern.</SubCategory_MediumBrickTile.description>
+
+  <SubCategory_MediterraneanBricks.label>Mediterranean bricks</SubCategory_MediterraneanBricks.label>
+  <SubCategory_MediterraneanBricks.description>Bricks laid in a circular interlocking pattern.</SubCategory_MediterraneanBricks.description>
+
+  <SubCategory_UnevenBricks.label>Uneven bricks</SubCategory_UnevenBricks.label>
+  <SubCategory_UnevenBricks.description>Bricks of various sizes laid on the floor. Perfect for that rustic look.</SubCategory_UnevenBricks.description>
+
+  <SubCategory_HerringboneBricks.label>Herringbone bricks</SubCategory_HerringboneBricks.label>
+  <SubCategory_HerringboneBricks.description>Bricks laid in an interlocking pattern.</SubCategory_HerringboneBricks.description>
+
+  <SubCategory_PrimitiveWoodFloors.label>primitive floor</SubCategory_PrimitiveWoodFloors.label>
+  <SubCategory_PrimitiveWoodFloors.description>Primitive wood, bamboo, hay floors.</SubCategory_PrimitiveWoodFloors.description>
+
+  <SubCategory_WoodFloors.label>wood floor</SubCategory_WoodFloors.label>
+  <SubCategory_WoodFloors.description>Wood panels.</SubCategory_WoodFloors.description>
+
+  <SubCategory_BambooFloors.label>Bamboo floor</SubCategory_BambooFloors.label>
+  <SubCategory_BambooFloors.description>Bamboo panels.</SubCategory_BambooFloors.description>
+
+  <SubCategory_RedWoodFloors.label>Red Wood floor</SubCategory_RedWoodFloors.label>
+  <SubCategory_RedWoodFloors.description>Red Wood panels.</SubCategory_RedWoodFloors.description>
+
+  <SubCategory_SoftCarpet.label>Soft carpet</SubCategory_SoftCarpet.label>
+  <SubCategory_SoftCarpet.description>Stunning carpet that is soft and relaxing.</SubCategory_SoftCarpet.description>
+
+  <SubCategory_SoftCarpetAdditional.label>Soft carpet</SubCategory_SoftCarpetAdditional.label>
+  <SubCategory_SoftCarpetAdditional.description>Stunning carpet that is soft and relaxing.</SubCategory_SoftCarpetAdditional.description>
+
+  <SubCategory_CheckeredCarpet.label>Checkered carpet</SubCategory_CheckeredCarpet.label>
+  <SubCategory_CheckeredCarpet.description>Checker board pattern carpets.</SubCategory_CheckeredCarpet.description>
+
+  <SubCategory_VanillaFloor.label>Solid stone floors</SubCategory_VanillaFloor.label>
+  <SubCategory_VanillaFloor.description>Solid stone tiles for a castle feeling.</SubCategory_VanillaFloor.description>
+
+  <SubCategory_Flagstone.label>Flagstone</SubCategory_Flagstone.label>
+  <SubCategory_Flagstone.description>Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</SubCategory_Flagstone.description>
+
+  <SubCategory_RoughStone.label>Rough stone</SubCategory_RoughStone.label>
+  <SubCategory_RoughStone.description>Stone paving with random square and rectangular slabs.</SubCategory_RoughStone.description>
+
+  <SubCategory_StoneSlabs.label>stone slabs</SubCategory_StoneSlabs.label>
+  <SubCategory_StoneSlabs.description>Stone flooring made with square slabs.</SubCategory_StoneSlabs.description>
+
+  <SubCategory_StoneHexPaving.label>stone hex paving</SubCategory_StoneHexPaving.label>
+  <SubCategory_StoneHexPaving.description>Stone paving with hexagonal tiles.</SubCategory_StoneHexPaving.description>
+
+  <SubCategory_StoneMosaicPaving.label>Stone mosaic paving</SubCategory_StoneMosaicPaving.label>
+  <SubCategory_StoneMosaicPaving.description>Stone paving with a light/dark mosaic.</SubCategory_StoneMosaicPaving.description>
+
+  <SubCategory_StoneRoughPaving.label>Stone rough paving</SubCategory_StoneRoughPaving.label>
+  <SubCategory_StoneRoughPaving.description>Rough stone paving.</SubCategory_StoneRoughPaving.description>
+
+  <SubCategory_StoneRandomPaving.label>Stone random paving</SubCategory_StoneRandomPaving.label>
+  <SubCategory_StoneRandomPaving.description>Stone paving with random square and rectangular slabs.</SubCategory_StoneRandomPaving.description>
+
+  <SubCategory_StoneStaggered.label>Stone staggered tile</SubCategory_StoneStaggered.label>
+  <SubCategory_StoneStaggered.description>Stone tiles with rounded corners laid in a staggered pattern.</SubCategory_StoneStaggered.description>
+
+  <SubCategory_CobbleFloor.label>Cobble floor</SubCategory_CobbleFloor.label>
+  <SubCategory_CobbleFloor.description>Simple cobblestone flooring constructed only using small rocks found nearby.</SubCategory_CobbleFloor.description>
+
+  <SubCategory_PolishStoneTile.label>Polish stone tile</SubCategory_PolishStoneTile.label>
+  <SubCategory_PolishStoneTile.description>Smoothed and polished stone tiles. Time-consuming to make, but easy to keep clean.</SubCategory_PolishStoneTile.description>
+
+
+  <!-- Terraform -->
+
+  <SubCategory_RockDirt.label>Rock dirt to...</SubCategory_RockDirt.label>
+  <SubCategory_RockDirt.description>Terraform the rock dirt tile into another type.</SubCategory_RockDirt.description>
+
+  <SubCategory_Sand.label>Sand to...</SubCategory_Sand.label>
+  <SubCategory_Sand.description>Terraform the sand tile into another type.</SubCategory_Sand.description>
+
+  <SubCategory_Gravel.label>Gravel to...</SubCategory_Gravel.label>
+  <SubCategory_Gravel.description>Terraform the gravel tile into another type.</SubCategory_Gravel.description>
+
+  <SubCategory_Soil.label>Soil to...</SubCategory_Soil.label>
+  <SubCategory_Soil.description>Gather resources from the soil tile by terraforming.</SubCategory_Soil.description>
+
+  <SubCategory_SoilMarshy.label>Marshy soil to...</SubCategory_SoilMarshy.label>
+  <SubCategory_SoilMarshy.description>Gather resources from the soil tile by terraforming.</SubCategory_SoilMarshy.description>
+
+  <SubCategory_Marsh.label>Marsh to...</SubCategory_Marsh.label>
+  <SubCategory_Marsh.description>Gather resources from the soil tile by terraforming.</SubCategory_Marsh.description>
+
+  <SubCategory_WaterShallow.label>Shallow water to...</SubCategory_WaterShallow.label>
+  <SubCategory_WaterShallow.description>Gather resources from the soil tile by terraforming.</SubCategory_WaterShallow.description>
+
+  <SubCategory_Cultivate.label>Cultivate</SubCategory_Cultivate.label>
+  <SubCategory_Cultivate.description>Gather resources from the soil tile by terraforming.</SubCategory_Cultivate.description>
+
+  <SubCategory_Misc.label>Misc</SubCategory_Misc.label>
+  <SubCategory_Misc.description>Terraform special tiles</SubCategory_Misc.description>
+
+  <SubCategory_Gather.label>Gather</SubCategory_Gather.label>
+  <SubCategory_Gather.description>Gather resources from tiles</SubCategory_Gather.description>
+
+
+</LanguageData>

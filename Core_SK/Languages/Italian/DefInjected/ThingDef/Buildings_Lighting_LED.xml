@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- LED LIGHTS -->
+
+  <RopeLight.label>LED rope light</RopeLight.label>
+  <RopeLight.description>This LED rope light can be placed over walls and other buildings. It requires 2 W and can be used to help move power around otherwise inaccessable areas.</RopeLight.description>
+  <RopeLight_Blueprint.label>LED rope light (blueprint)</RopeLight_Blueprint.label>
+  <RopeLight_Blueprint_Install.label>LED rope light (blueprint)</RopeLight_Blueprint_Install.label>
+  <RopeLight_Frame.label>LED rope light (building)</RopeLight_Frame.label>
+  <RopeLight_Frame.description>This LED rope light can be placed over walls and other buildings. It requires 2 W and can be used to help move power around otherwise inaccessable areas.</RopeLight_Frame.description>
+
+
+  <!-- Standing LED Lighting -->
+
+  <StandingLampLEDsmall.label>standing LED lamp (small)</StandingLampLEDsmall.label>
+  <StandingLampLEDsmall.description>A standing LED lamp that lights an small area. Requires 5 W.</StandingLampLEDsmall.description>
+  <StandingLampLEDsmall_Blueprint.label>standing LED lamp (small) (blueprint)</StandingLampLEDsmall_Blueprint.label>
+  <StandingLampLEDsmall_Blueprint_Install.label>standing LED lamp (small) (blueprint)</StandingLampLEDsmall_Blueprint_Install.label>
+  <StandingLampLEDsmall_Frame.label>standing LED lamp (small) (building)</StandingLampLEDsmall_Frame.label>
+  <StandingLampLEDsmall_Frame.description>A standing LED lamp that lights an small area. Requires 5 W.</StandingLampLEDsmall_Frame.description>
+
+  <StandingLampLEDnormal.label>standing LED lamp (normal)</StandingLampLEDnormal.label>
+  <StandingLampLEDnormal.description>A standing LED lamp that lights an area. Requires 10 W.</StandingLampLEDnormal.description>
+  <StandingLampLEDnormal_Blueprint.label>standing LED lamp (normal) (blueprint)</StandingLampLEDnormal_Blueprint.label>
+  <StandingLampLEDnormal_Blueprint_Install.label>standing LED lamp (normal) (blueprint)</StandingLampLEDnormal_Blueprint_Install.label>
+  <StandingLampLEDnormal_Frame.label>standing LED lamp (normal) (building)</StandingLampLEDnormal_Frame.label>
+  <StandingLampLEDnormal_Frame.description>A standing LED lamp that lights an area. Requires 10 W.</StandingLampLEDnormal_Frame.description>
+
+  <StandingLampLEDlarge.label>standing LED lamp (large)</StandingLampLEDlarge.label>
+  <StandingLampLEDlarge.description>A standing LED lamp that lights an large area. Requires 15 W.</StandingLampLEDlarge.description>
+  <StandingLampLEDlarge_Blueprint.label>standing LED lamp (large) (blueprint)</StandingLampLEDlarge_Blueprint.label>
+  <StandingLampLEDlarge_Blueprint_Install.label>standing LED lamp (large) (blueprint)</StandingLampLEDlarge_Blueprint_Install.label>
+  <StandingLampLEDlarge_Frame.label>standing LED lamp (large) (building)</StandingLampLEDlarge_Frame.label>
+  <StandingLampLEDlarge_Frame.description>A standing LED lamp that lights an large area. Requires 15 W.</StandingLampLEDlarge_Frame.description>
+
+  <CeilingLEDLamp.label>ceiling LED lamp</CeilingLEDLamp.label>
+  <CeilingLEDLamp.description>A ceiling LED lamp that lights an area. People need light to move and work at full speed. Must be placed under a roof. Requires 10 W.</CeilingLEDLamp.description>
+  <CeilingLEDLamp_Blueprint.label>ceiling LED lamp (blueprint)</CeilingLEDLamp_Blueprint.label>
+  <CeilingLEDLamp_Blueprint_Install.label>ceiling LED lamp (blueprint)</CeilingLEDLamp_Blueprint_Install.label>
+  <CeilingLEDLamp_Frame.label>ceiling LED lamp (building)</CeilingLEDLamp_Frame.label>
+  <CeilingLEDLamp_Frame.description>A ceiling LED lamp that lights an area. People need light to move and work at full speed. Must be placed under a roof. Requires 10 W.</CeilingLEDLamp_Frame.description>
+
+  <StandingDarkLampLEDnormal.label>standing LED dark lamp (normal)</StandingDarkLampLEDnormal.label>
+  <StandingDarkLampLEDnormal.description>A standing LED lamp that lights an area. Requires 7 W.</StandingDarkLampLEDnormal.description>
+  <StandingDarkLampLEDnormal_Blueprint.label>standing LED dark lamp (normal) (blueprint)</StandingDarkLampLEDnormal_Blueprint.label>
+  <StandingDarkLampLEDnormal_Blueprint_Install.label>standing LED dark lamp (normal) (blueprint)</StandingDarkLampLEDnormal_Blueprint_Install.label>
+  <StandingDarkLampLEDnormal_Frame.label>standing LED dark lamp (normal) (building)</StandingDarkLampLEDnormal_Frame.label>
+  <StandingDarkLampLEDnormal_Frame.description>A standing LED lamp that lights an area. Requires 7 W.</StandingDarkLampLEDnormal_Frame.description>
+
+  <CeilingLEDDarkLamp.label>ceiling LED dark lamp</CeilingLEDDarkLamp.label>
+  <CeilingLEDDarkLamp.description>A ceiling LED lamp that lights an area. People need light to move and work at full speed. Must be placed under a roof. Requires 7 W.</CeilingLEDDarkLamp.description>
+  <CeilingLEDDarkLamp_Blueprint.label>ceiling LED dark lamp (blueprint)</CeilingLEDDarkLamp_Blueprint.label>
+  <CeilingLEDDarkLamp_Blueprint_Install.label>ceiling LED dark lamp (blueprint)</CeilingLEDDarkLamp_Blueprint_Install.label>
+  <CeilingLEDDarkLamp_Frame.label>ceiling LED dark lamp (building)</CeilingLEDDarkLamp_Frame.label>
+  <CeilingLEDDarkLamp_Frame.description>A ceiling LED lamp that lights an area. People need light to move and work at full speed. Must be placed under a roof. Requires 7 W.</CeilingLEDDarkLamp_Frame.description>
+
+
+</LanguageData>

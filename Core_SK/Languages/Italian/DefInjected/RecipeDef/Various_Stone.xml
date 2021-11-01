@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Stone solids, chunks, and blocks -->
+
+  <Make_StoneBlocksSandstone.label>Make Sandstone Blocks</Make_StoneBlocksSandstone.label>
+  <Make_StoneBlocksSandstone.description>Cuts sandstone chunks into usable blocks.</Make_StoneBlocksSandstone.description>
+  <Make_StoneBlocksSandstone.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksSandstone.jobString>
+
+  <Make_StoneBlocksGranite.label>Make Granite Blocks</Make_StoneBlocksGranite.label>
+  <Make_StoneBlocksGranite.description>Cuts granite chunks into usable blocks.</Make_StoneBlocksGranite.description>
+  <Make_StoneBlocksGranite.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksGranite.jobString>
+
+  <Make_StoneBlocksLimestone.label>Make Limestone Blocks</Make_StoneBlocksLimestone.label>
+  <Make_StoneBlocksLimestone.description>Cuts limestone chunks into usable blocks.</Make_StoneBlocksLimestone.description>
+  <Make_StoneBlocksLimestone.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksLimestone.jobString>
+
+  <Make_StoneBlocksSlate.label>Make Slate Blocks</Make_StoneBlocksSlate.label>
+  <Make_StoneBlocksSlate.description>Cuts slate chunks into usable blocks.</Make_StoneBlocksSlate.description>
+  <Make_StoneBlocksSlate.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksSlate.jobString>
+
+  <Make_StoneBlocksMarble.label>Make Marble Blocks</Make_StoneBlocksMarble.label>
+  <Make_StoneBlocksMarble.description>Cuts marble chunks into usable blocks.</Make_StoneBlocksMarble.description>
+  <Make_StoneBlocksMarble.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksMarble.jobString>
+
+
+</LanguageData>

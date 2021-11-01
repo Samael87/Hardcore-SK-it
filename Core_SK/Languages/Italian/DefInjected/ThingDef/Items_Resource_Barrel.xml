@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Luxury -->
+
+  <ReinforcedBarrel.label>reinforced barrel</ReinforcedBarrel.label>
+  <ReinforcedBarrel.description>A large barrel for projectile-based weapons like mortars. In order to hold the high launch pressures, it is specially reinforced and cannot be manufactured at a small scale.</ReinforcedBarrel.description>
+
+
+</LanguageData>

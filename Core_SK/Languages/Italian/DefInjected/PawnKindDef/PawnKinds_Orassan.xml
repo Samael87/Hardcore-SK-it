@@ -1,88 +1,124 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <OrassanRefugee.label>Беглец фелинов</OrassanRefugee.label>
-  <OrassanRefugee.labelPlural>Беглецы фелинов</OrassanRefugee.labelPlural>
-  <OrassanRefugee.labelMale>Беглец фелинов</OrassanRefugee.labelMale>
-  <OrassanRefugee.labelMalePlural>Беглецы фелинов</OrassanRefugee.labelMalePlural>
-  <OrassanRefugee.labelFemale>Беглец фелинов</OrassanRefugee.labelFemale>
-  <OrassanRefugee.labelFemalePlural>Беглецы фелинов</OrassanRefugee.labelFemalePlural>
+  <!-- Refugee -->
 
-  <OrassanVillager.label>Житель деревни фелинов</OrassanVillager.label>
-  <OrassanVillager.labelPlural>Жители деревни фелинов</OrassanVillager.labelPlural>
-  <OrassanVillager.labelMale>Житель деревни фелинов</OrassanVillager.labelMale>
-  <OrassanVillager.labelMalePlural>Жители деревни фелинов</OrassanVillager.labelMalePlural>
-  <OrassanVillager.labelFemale>Житель деревни фелинов</OrassanVillager.labelFemale>
-  <OrassanVillager.labelFemalePlural>Жители деревни фелинов</OrassanVillager.labelFemalePlural>
+  <OrassanRefugee.label>orassan refugee</OrassanRefugee.label>
+  <OrassanRefugee.labelPlural>orassan refugees</OrassanRefugee.labelPlural>
+  <OrassanRefugee.labelMale>male orassan refugee</OrassanRefugee.labelMale>
+  <OrassanRefugee.labelMalePlural>male orassan refugees</OrassanRefugee.labelMalePlural>
+  <OrassanRefugee.labelFemale>female orassan refugee</OrassanRefugee.labelFemale>
+  <OrassanRefugee.labelFemalePlural>female orassan refugees</OrassanRefugee.labelFemalePlural>
 
-  <OrassanWindrunner.label>Погонщик фелинов</OrassanWindrunner.label>
-  <OrassanWindrunner.labelPlural>Погонщики фелинов</OrassanWindrunner.labelPlural>
-  <OrassanWindrunner.labelMale>Погонщик фелинов</OrassanWindrunner.labelMale>
-  <OrassanWindrunner.labelMalePlural>Погонщики фелинов</OrassanWindrunner.labelMalePlural>
-  <OrassanWindrunner.labelFemale>Погонщик фелинов</OrassanWindrunner.labelFemale>
-  <OrassanWindrunner.labelFemalePlural>Погонщики фелинов</OrassanWindrunner.labelFemalePlural>
 
-  <OrassanElder.label>Старейшина фелинов</OrassanElder.label>
-  <OrassanElder.labelPlural>Старейшины фелинов</OrassanElder.labelPlural>
-  <OrassanElder.labelMale>Старейшина фелинов</OrassanElder.labelMale>
-  <OrassanElder.labelMalePlural>Старейшины фелинов</OrassanElder.labelMalePlural>
-  <OrassanElder.labelFemale>Старейшина фелинов</OrassanElder.labelFemale>
-  <OrassanElder.labelFemalePlural>Старейшины фелинов</OrassanElder.labelFemalePlural>
+  <!-- Villager -->
 
-  <OrassanTrader.label>Торговец фелинов</OrassanTrader.label>
-  <OrassanTrader.labelPlural>Торговцы фелинов</OrassanTrader.labelPlural>
-  <OrassanTrader.labelMale>Торговец фелинов</OrassanTrader.labelMale>
-  <OrassanTrader.labelMalePlural>Торговцы фелинов</OrassanTrader.labelMalePlural>
-  <OrassanTrader.labelFemale>Торговец фелинов</OrassanTrader.labelFemale>
-  <OrassanTrader.labelFemalePlural>Торговцы фелинов</OrassanTrader.labelFemalePlural>
+  <OrassanVillager.label>orassan villager</OrassanVillager.label>
+  <OrassanVillager.labelPlural>orassan villagers</OrassanVillager.labelPlural>
+  <OrassanVillager.labelMale>male orassan villager</OrassanVillager.labelMale>
+  <OrassanVillager.labelMalePlural>male orassan villagers</OrassanVillager.labelMalePlural>
+  <OrassanVillager.labelFemale>female orassan villager</OrassanVillager.labelFemale>
+  <OrassanVillager.labelFemalePlural>female orassan villagers</OrassanVillager.labelFemalePlural>
 
-  <OrassanAdventurer.label>Разведчик фелинов</OrassanAdventurer.label>
-  <OrassanAdventurer.labelPlural>Разведчики фелинов</OrassanAdventurer.labelPlural>
-  <OrassanAdventurer.labelMale>Разведчик фелинов</OrassanAdventurer.labelMale>
-  <OrassanAdventurer.labelMalePlural>Разведчики фелинов</OrassanAdventurer.labelMalePlural>
-  <OrassanAdventurer.labelFemale>Разведчик фелинов</OrassanAdventurer.labelFemale>
-  <OrassanAdventurer.labelFemalePlural>Разведчики фелинов</OrassanAdventurer.labelFemalePlural>
 
-  <OrassanHunter.label>Охотник фелинов</OrassanHunter.label>
-  <OrassanHunter.labelPlural>Охотники фелинов</OrassanHunter.labelPlural>
-  <OrassanHunter.labelMale>Охотник фелинов</OrassanHunter.labelMale>
-  <OrassanHunter.labelMalePlural>Охотники фелинов</OrassanHunter.labelMalePlural>
-  <OrassanHunter.labelFemale>Охотница фелинов</OrassanHunter.labelFemale>
-  <OrassanHunter.labelFemalePlural>Охотницы фелинов</OrassanHunter.labelFemalePlural>
+  <!-- Windrunner -->
 
-  <OrassanPredator.label>Хищник фелинов</OrassanPredator.label>
-  <OrassanPredator.labelPlural>Хищники фелинов</OrassanPredator.labelPlural>
-  <OrassanPredator.labelMale>Хищник фелинов</OrassanPredator.labelMale>
-  <OrassanPredator.labelMalePlural>Хищники фелинов</OrassanPredator.labelMalePlural>
-  <OrassanPredator.labelFemale>Хищница фелинов</OrassanPredator.labelFemale>
-  <OrassanPredator.labelFemalePlural>Хищницы фелинов</OrassanPredator.labelFemalePlural>
+  <OrassanWindrunner.label>Orassan windrunner</OrassanWindrunner.label>
+  <OrassanWindrunner.labelPlural>Orassan windrunners</OrassanWindrunner.labelPlural>
+  <OrassanWindrunner.labelMale>male Orassan windrunner</OrassanWindrunner.labelMale>
+  <OrassanWindrunner.labelMalePlural>male Orassan windrunners</OrassanWindrunner.labelMalePlural>
+  <OrassanWindrunner.labelFemale>female Orassan windrunner</OrassanWindrunner.labelFemale>
+  <OrassanWindrunner.labelFemalePlural>female Orassan windrunners</OrassanWindrunner.labelFemalePlural>
 
-  <OrassanTacticalEngineer.label>Инженер фелинов</OrassanTacticalEngineer.label>
-  <OrassanTacticalEngineer.labelPlural>Инженеры фелинов</OrassanTacticalEngineer.labelPlural>
-  <OrassanTacticalEngineer.labelMale>Инженер фелинов</OrassanTacticalEngineer.labelMale>
-  <OrassanTacticalEngineer.labelMalePlural>Инженеры фелинов</OrassanTacticalEngineer.labelMalePlural>
-  <OrassanTacticalEngineer.labelFemale>Инженер фелинов</OrassanTacticalEngineer.labelFemale>
-  <OrassanTacticalEngineer.labelFemalePlural>Инженеры фелинов</OrassanTacticalEngineer.labelFemalePlural>
 
-  <OrassanTacticalSniper.label>Снайпер фелинов</OrassanTacticalSniper.label>
-  <OrassanTacticalSniper.labelPlural>Снайперы фелинов</OrassanTacticalSniper.labelPlural>
-  <OrassanTacticalSniper.labelMale>Снайпер фелинов</OrassanTacticalSniper.labelMale>
-  <OrassanTacticalSniper.labelMalePlural>Снайперы фелинов</OrassanTacticalSniper.labelMalePlural>
-  <OrassanTacticalSniper.labelFemale>Снайпер фелинов</OrassanTacticalSniper.labelFemale>
-  <OrassanTacticalSniper.labelFemalePlural>Снайперы фелинов</OrassanTacticalSniper.labelFemalePlural>
+  <!-- Elder -->
 
-  <OrassanTacticalDemolisher.label>Разрушитель фелинов</OrassanTacticalDemolisher.label>
-  <OrassanTacticalDemolisher.labelPlural>Разрушители фелинов</OrassanTacticalDemolisher.labelPlural>
-  <OrassanTacticalDemolisher.labelMale>Разрушитель фелинов</OrassanTacticalDemolisher.labelMale>
-  <OrassanTacticalDemolisher.labelMalePlural>Разрушители фелинов</OrassanTacticalDemolisher.labelMalePlural>
-  <OrassanTacticalDemolisher.labelFemale>Разрушитель фелинов</OrassanTacticalDemolisher.labelFemale>
-  <OrassanTacticalDemolisher.labelFemalePlural>Разрушители фелинов</OrassanTacticalDemolisher.labelFemalePlural>
+  <OrassanElder.label>Orassan elder</OrassanElder.label>
+  <OrassanElder.labelPlural>Orassan elders</OrassanElder.labelPlural>
+  <OrassanElder.labelMale>male Orassan elder</OrassanElder.labelMale>
+  <OrassanElder.labelMalePlural>male Orassan elders</OrassanElder.labelMalePlural>
+  <OrassanElder.labelFemale>female Orassan elder</OrassanElder.labelFemale>
+  <OrassanElder.labelFemalePlural>female Orassan elders</OrassanElder.labelFemalePlural>
 
-  <OrassanTacticalCommander.label>Чоммандер фелинов</OrassanTacticalCommander.label>
-  <OrassanTacticalCommander.labelPlural>Чоммандеры фелинов</OrassanTacticalCommander.labelPlural>
-  <OrassanTacticalCommander.labelMale>Чоммандер фелинов</OrassanTacticalCommander.labelMale>
-  <OrassanTacticalCommander.labelMalePlural>Чоммандеры фелинов</OrassanTacticalCommander.labelMalePlural>
-  <OrassanTacticalCommander.labelFemale>Чоммандер фелинов</OrassanTacticalCommander.labelFemale>
-  <OrassanTacticalCommander.labelFemalePlural>Чоммандеры фелинов</OrassanTacticalCommander.labelFemalePlural>
+
+  <!-- Trader -->
+
+  <OrassanTrader.label>Orassan trader</OrassanTrader.label>
+  <OrassanTrader.labelPlural>Orassan traders</OrassanTrader.labelPlural>
+  <OrassanTrader.labelMale>male Orassan trader</OrassanTrader.labelMale>
+  <OrassanTrader.labelMalePlural>male Orassan traders</OrassanTrader.labelMalePlural>
+  <OrassanTrader.labelFemale>female Orassan trader</OrassanTrader.labelFemale>
+  <OrassanTrader.labelFemalePlural>female Orassan traders</OrassanTrader.labelFemalePlural>
+
+
+  <!-- Adventurer -->
+
+  <OrassanAdventurer.label>Orassan adventurer</OrassanAdventurer.label>
+  <OrassanAdventurer.labelPlural>Orassan adventurers</OrassanAdventurer.labelPlural>
+  <OrassanAdventurer.labelMale>male Orassan adventurer</OrassanAdventurer.labelMale>
+  <OrassanAdventurer.labelMalePlural>male Orassan adventurers</OrassanAdventurer.labelMalePlural>
+  <OrassanAdventurer.labelFemale>female Orassan adventurer</OrassanAdventurer.labelFemale>
+  <OrassanAdventurer.labelFemalePlural>female Orassan adventurers</OrassanAdventurer.labelFemalePlural>
+
+
+  <!-- Hunter -->
+
+  <OrassanHunter.label>Orassan hunter</OrassanHunter.label>
+  <OrassanHunter.labelPlural>Orassan hunters</OrassanHunter.labelPlural>
+  <OrassanHunter.labelMale>male Orassan hunter</OrassanHunter.labelMale>
+  <OrassanHunter.labelMalePlural>male Orassan hunters</OrassanHunter.labelMalePlural>
+  <OrassanHunter.labelFemale>female Orassan hunter</OrassanHunter.labelFemale>
+  <OrassanHunter.labelFemalePlural>female Orassan hunters</OrassanHunter.labelFemalePlural>
+
+
+  <!-- Predator -->
+
+  <OrassanPredator.label>Orassan predator</OrassanPredator.label>
+  <OrassanPredator.labelPlural>Orassan predators</OrassanPredator.labelPlural>
+  <OrassanPredator.labelMale>male Orassan predator</OrassanPredator.labelMale>
+  <OrassanPredator.labelMalePlural>male Orassan predators</OrassanPredator.labelMalePlural>
+  <OrassanPredator.labelFemale>female Orassan predator</OrassanPredator.labelFemale>
+  <OrassanPredator.labelFemalePlural>female Orassan predators</OrassanPredator.labelFemalePlural>
+
+
+  <!-- Tactical Engineer -->
+
+  <OrassanTacticalEngineer.label>tactical engineer</OrassanTacticalEngineer.label>
+  <OrassanTacticalEngineer.labelPlural>tactical engineers</OrassanTacticalEngineer.labelPlural>
+  <OrassanTacticalEngineer.labelMale>male tactical engineer</OrassanTacticalEngineer.labelMale>
+  <OrassanTacticalEngineer.labelMalePlural>male tactical engineers</OrassanTacticalEngineer.labelMalePlural>
+  <OrassanTacticalEngineer.labelFemale>female tactical engineer</OrassanTacticalEngineer.labelFemale>
+  <OrassanTacticalEngineer.labelFemalePlural>female tactical engineers</OrassanTacticalEngineer.labelFemalePlural>
+
+
+  <!-- Tactical Sniper -->
+
+  <OrassanTacticalSniper.label>tactical sniper</OrassanTacticalSniper.label>
+  <OrassanTacticalSniper.labelPlural>tactical snipers</OrassanTacticalSniper.labelPlural>
+  <OrassanTacticalSniper.labelMale>male tactical sniper</OrassanTacticalSniper.labelMale>
+  <OrassanTacticalSniper.labelMalePlural>male tactical snipers</OrassanTacticalSniper.labelMalePlural>
+  <OrassanTacticalSniper.labelFemale>female tactical sniper</OrassanTacticalSniper.labelFemale>
+  <OrassanTacticalSniper.labelFemalePlural>female tactical snipers</OrassanTacticalSniper.labelFemalePlural>
+
+
+  <!-- Tactical Demolisher -->
+
+  <OrassanTacticalDemolisher.label>tactical demolisher</OrassanTacticalDemolisher.label>
+  <OrassanTacticalDemolisher.labelPlural>tactical demolishers</OrassanTacticalDemolisher.labelPlural>
+  <OrassanTacticalDemolisher.labelMale>male tactical demolisher</OrassanTacticalDemolisher.labelMale>
+  <OrassanTacticalDemolisher.labelMalePlural>male tactical demolishers</OrassanTacticalDemolisher.labelMalePlural>
+  <OrassanTacticalDemolisher.labelFemale>female tactical demolisher</OrassanTacticalDemolisher.labelFemale>
+  <OrassanTacticalDemolisher.labelFemalePlural>female tactical demolishers</OrassanTacticalDemolisher.labelFemalePlural>
+
+
+  <!-- Tactical Commander -->
+
+  <OrassanTacticalCommander.label>tactical commander</OrassanTacticalCommander.label>
+  <OrassanTacticalCommander.labelPlural>tactical commanders</OrassanTacticalCommander.labelPlural>
+  <OrassanTacticalCommander.labelMale>male tactical commander</OrassanTacticalCommander.labelMale>
+  <OrassanTacticalCommander.labelMalePlural>male tactical commanders</OrassanTacticalCommander.labelMalePlural>
+  <OrassanTacticalCommander.labelFemale>female tactical commander</OrassanTacticalCommander.labelFemale>
+  <OrassanTacticalCommander.labelFemalePlural>female tactical commanders</OrassanTacticalCommander.labelFemalePlural>
+
 
 </LanguageData>

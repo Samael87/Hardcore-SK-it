@@ -1,40 +1,40 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<oHead.label>голова</oHead.label> 
-	<oSkull.label>череп</oSkull.label> 
-	<oBrain.label>мозг</oBrain.label> 
-	<oEye.label>глаз</oEye.label> 
-	<oEar.label>ухо</oEar.label> 
-	<oNose.label>нос</oNose.label> 
-	<oJaw.label>челюсть</oJaw.label> 
-	<oNeck.label>шея</oNeck.label> 
-	<oRibcage.label>рёбра</oRibcage.label> 
-	<oSpine.label>ость</oSpine.label> 
-	<oLeg.label>нога</oLeg.label> 
-	<oFoot.label>ступня</oFoot.label> 
-	<oHeart.label>сердце</oHeart.label> 
-	<oLung.label>лёгкое</oLung.label> 
-	<oKidney.label>почка</oKidney.label> 
-	<oLiver.label>печень</oLiver.label> 
-	<oStomach.label>желудок</oStomach.label> 
-	<oTorso.label>торс</oTorso.label> 
-	<oShoulder.label>плечо</oShoulder.label> 
-	<oArm.label>рука</oArm.label> 
-	<oHand.label>кисть</oHand.label> 	
-	<oFinger.label>палец</oFinger.label> 
-	<oToe.label>палец ноги</oToe.label> 
+  <oHead.label>head</oHead.label>
+  <oSkull.label>skull</oSkull.label>
+  <oBrain.label>brain</oBrain.label>
+  <oEye.label>eye</oEye.label>
+  <oEar.label>ear</oEar.label>
+  <oNose.label>nose</oNose.label>
+  <oJaw.label>jaw</oJaw.label>
+  <oNeck.label>neck</oNeck.label>
+  <oRibcage.label>ribcage</oRibcage.label>
+  <oSpine.label>spine</oSpine.label>
+  <oLeg.label>leg</oLeg.label>
+  <oFoot.label>foot</oFoot.label>
+  <oHeart.label>heart</oHeart.label>
+  <oLung.label>lung</oLung.label>
+  <oKidney.label>kidney</oKidney.label>
+  <oLiver.label>liver</oLiver.label>
+  <oStomach.label>stomach</oStomach.label>
+  <oTorso.label>torso</oTorso.label>
+  <oShoulder.label>shoulder</oShoulder.label>
+  <oArm.label>arm</oArm.label>
+  <oHand.label>hand</oHand.label>
+  <oFinger.label>finger</oFinger.label>
+  <oToe.label>toe</oToe.label>
 
 
   <!-- Bones -->
 
-	<oClavicle.label>ключица</oClavicle.label> 
-	<oSternum.label>грудина</oSternum.label> 
-	<oHumerus.label>плечевая кость</oHumerus.label> 
-	<oRadius.label>предплечье</oRadius.label> 
-	<oPelvis.label>таз</oPelvis.label> 
-	<oFemur.label>бедро</oFemur.label> 
-	<oTibia.label>голень</oTibia.label> 
-	
+  <oClavicle.label>clavicle</oClavicle.label>
+  <oSternum.label>sternum</oSternum.label>
+  <oHumerus.label>humerus</oHumerus.label>
+  <oRadius.label>radius</oRadius.label>
+  <oPelvis.label>pelvis</oPelvis.label>
+  <oFemur.label>femur</oFemur.label>
+  <oTibia.label>tibia</oTibia.label>
+
 
 </LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_SimpleHelmet.label>simple helmet</Apparel_SimpleHelmet.label>
+  <Apparel_SimpleHelmet.description>A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons.</Apparel_SimpleHelmet.description>
+
+  <Apparel_AdvancedHelmet.label>Advanced Helmet</Apparel_AdvancedHelmet.label>
+  <Apparel_AdvancedHelmet.description>A lightweight armored combat helmet that protects your head and ears.</Apparel_AdvancedHelmet.description>
+
+  <Marine_Helmet.label>Marine Ballistic Helmet</Marine_Helmet.label>
+  <Marine_Helmet.description>A marine helmet designed to protect against ballistics. This is a standard issue item for Colonial Marines.</Marine_Helmet.description>
+
+  <Jaffa_BasicHelmet.label>Scout Helmet</Jaffa_BasicHelmet.label>
+  <Jaffa_BasicHelmet.description>This basic scout helmet doesn't offer great protection, but it is lightweight.</Jaffa_BasicHelmet.description>
+
+  <USCM_CamoHelmet.label>Camo Ballistic Helmet</USCM_CamoHelmet.label>
+  <USCM_CamoHelmet.description>A camouflaged version of the marine ballistic helmet. It is a standard issue item for Colonial Marines.</USCM_CamoHelmet.description>
+
+  <Apparel_PC.label>Peaked cap</Apparel_PC.label>
+  <Apparel_PC.description>Peaked officer hat. Quite rare these days... Very light and comfy, made out of unknown material. Makes you look like real war hero.</Apparel_PC.description>
+
+  <Apparel_Ushanka.label>Cosmic Ushanka</Apparel_Ushanka.label>
+  <Apparel_Ushanka.description>Thick and soft hat of ancient design used to keep you warm during coldest winters. Slightly more durable than tuque.</Apparel_Ushanka.description>
+
+  <Apparello_Medband.label>Medic's Bandana</Apparello_Medband.label>
+  <Apparello_Medband.description>A medic's bandana. It is used to easily point out medics in a crowd.</Apparello_Medband.description>
+
+  <Apparello_Headset.label>Headset with Bandana</Apparello_Headset.label>
+  <Apparello_Headset.description>Common usage for these has been in communication. It is wireless and doesn't work, but it gives the impression that you're somehow more social!</Apparello_Headset.description>
+
+  <Apparello_Beret.label>Beret</Apparello_Beret.label>
+  <Apparello_Beret.description>A soft and warm military cap. It is very common amongst off-duty soldiers. Uniforms with berets commonly inspire respect.</Apparello_Beret.description>
+
+
+</LanguageData>

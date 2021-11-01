@@ -1,14 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<MechanoidTerraformer.label>Террафомер механоидов</MechanoidTerraformer.label>
-	<MechanoidTerraformer.description>Этот странный артефакт, кажется, изменил местную погоду. Вы должны послать кого-нибудь для его изучения.
-Но будьте осторожны, эта штука инопланетного происхождения!</MechanoidTerraformer.description>
+  <MechanoidTerraformer.label>Strange artifact</MechanoidTerraformer.label>
+  <MechanoidTerraformer.description>This strange artifact seems to modify the local weather. You should send someone to study it.
+Be careful however, this thing stinks mechanoid technology...</MechanoidTerraformer.description>
 
-	<MechanoidPylon.label>Пилон терраформера</MechanoidPylon.label>
-	<MechanoidPylon.description>Пилон терраформера, каким-то образом взаимодействует с терраформером, высвобождая огромное количество энергии!</MechanoidPylon.description>
+  <MechanoidPylon.label>Mechanoid pylon</MechanoidPylon.label>
+  <MechanoidPylon.description>A mechanoid pylon, used to harness the sky's power. It seems to be protected by a shield powered by the terraformer.</MechanoidPylon.description>
 
-	<MechanoidPylonDestructible.label>Пилон терраформера</MechanoidPylonDestructible.label>
-	<MechanoidPylonDestructible.description>Пилон терраформера, каким-то образом взаимодействует с терраформером, высвобождая огромное количество энергии!</MechanoidPylonDestructible.description>
-	
+  <MechanoidPylonDestructible.label>Mechanoid pylon</MechanoidPylonDestructible.label>
+  <MechanoidPylonDestructible.description>A mechanoid pylon, used to harness the sky's power. It seems to be protected by a shield powered by the terraformer.</MechanoidPylonDestructible.description>
+
+
 </LanguageData>

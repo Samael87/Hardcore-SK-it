@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<MedicalDrink.label>антибиотики</MedicalDrink.label>
-	<MedicalDrink.stages.0.label>(не видимо)</MedicalDrink.stages.0.label>
-	<MedicalDrink.stages.1.label>нормальное самочувствие</MedicalDrink.stages.1.label>
-	<MedicalDrink.stages.2.label>хорошее самочувствие</MedicalDrink.stages.2.label>
-	<MedicalDrink.stages.3.label>великолепное самочувствие</MedicalDrink.stages.3.label>
-	<MedicalDrink.stages.4.label>передозировка</MedicalDrink.stages.4.label>
-	<MedicalDrink.stages.5.label>истощение</MedicalDrink.stages.5.label>
-	<MedicalDrink.labelNoun>антибиотики</MedicalDrink.labelNoun>
+  <MedicalDrink.label>antibiotics</MedicalDrink.label>
+  <MedicalDrink.description>A concentrated extract of Healroot and some hops. Tastes awful but boosts the immune system.</MedicalDrink.description>
+  <MedicalDrink.labelNoun>an antibiotics</MedicalDrink.labelNoun>
+  <MedicalDrink.stages.0.label>buzzed-hidden</MedicalDrink.stages.0.label>
+  <MedicalDrink.stages.1.label>feeling better</MedicalDrink.stages.1.label>
+  <MedicalDrink.stages.2.label>boosted immunedefency</MedicalDrink.stages.2.label>
+  <MedicalDrink.stages.3.label>hammered</MedicalDrink.stages.3.label>
+  <MedicalDrink.stages.4.label>overdose</MedicalDrink.stages.4.label>
+  <MedicalDrink.stages.5.label>serious overdose</MedicalDrink.stages.5.label>
 
-	<ActivatedCarbonConsumed.label>Активированный уголь</ActivatedCarbonConsumed.label>
-	<ActivatedCarbonConsumed.description>Употреблен активированный уголь</ActivatedCarbonConsumed.description>
+
 </LanguageData>

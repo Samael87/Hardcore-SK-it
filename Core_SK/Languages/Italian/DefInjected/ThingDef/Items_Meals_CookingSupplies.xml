@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IceCream.label>Ice Cream</IceCream.label>
+  <IceCream.description>A special desert that is not only extreamly tasty, but also helps to ease heatstrokes.</IceCream.description>
+
+  <Chocomilk.label>Chocolate Milk</Chocomilk.label>
+  <Chocomilk.description>Chocolate added to milk.</Chocomilk.description>
+
+  <Caramel.label>Caramel</Caramel.label>
+  <Caramel.description>A sweet candy made from sugar.</Caramel.description>
+
+  <Chocolate.label>Chocolate</Chocolate.label>
+  <Chocolate.description>A delicious preparation of cocoa seeds ground together with sugar and vanilla. Very pleasurable to eat, but not very nutritious.</Chocolate.description>
+
+  <Cheese.label>cheese</Cheese.label>
+  <Cheese.description>A piece of cheese.</Cheese.description>
+
+  <AgedCheese.label>aged cheese</AgedCheese.label>
+  <AgedCheese.description>A piece of elite aged cheese.</AgedCheese.description>
+
+
+</LanguageData>

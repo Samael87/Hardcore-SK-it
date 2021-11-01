@@ -1,10 +1,69 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
- 	<!-- EN: camelhair -->
-	<WoolDromedary.label>верблюжья шерсть</WoolDromedary.label>
-	<!-- EN: Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent heat insulation due to its thermostatic properties. -->
-	<WoolDromedary.description>Одежду из шерсти верблюда обычно носят путешественники в пустыне, чтобы защититься от жары. Она обеспечивает превосходную изоляцию благодаря своим термостатическим свойствам.</WoolDromedary.description>
-	<WoolDromedary.stuffProps.stuffAdjective>верблюжьей шерсти</WoolDromedary.stuffProps.stuffAdjective>
+  <!-- Fabric, leather, etc -->
+
+  <Cloth.label>cloth</Cloth.label>
+  <Cloth.description>Cloth is woven from the raw organic fibers of a Cotton Bush. These fibers are called Raw Cotton.</Cloth.description>
+  <Cloth.stuffProps.stuffAdjective>cloth</Cloth.stuffProps.stuffAdjective>
+
+  <WoolMegasloth.label>Megasloth wool</WoolMegasloth.label>
+  <WoolMegasloth.description>While somewhat coarse, Megasloth wool's long fibers make it very strong. It is very warm.</WoolMegasloth.description>
+  <WoolMegasloth.stuffProps.stuffAdjective>Megasloth wool</WoolMegasloth.stuffProps.stuffAdjective>
+
+  <WoolMuffalo.label>Muffalo wool</WoolMuffalo.label>
+  <WoolMuffalo.description>Muffalo Wool is soft, light and provides very good insulation. Wool clothes can keep the body warm even in extreme conditions.</WoolMuffalo.description>
+  <WoolMuffalo.stuffProps.stuffAdjective>Muffalo wool</WoolMuffalo.stuffProps.stuffAdjective>
+
+  <WoolDromedary.label>Dromedary hair</WoolDromedary.label>
+  <WoolDromedary.description>Dromedary Hair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties.</WoolDromedary.description>
+  <WoolDromedary.stuffProps.stuffAdjective>Dromedary hair</WoolDromedary.stuffProps.stuffAdjective>
+
+  <WoolAlpaca.label>Alpaca wool</WoolAlpaca.label>
+  <WoolAlpaca.description>This is the remarkably soft wool of an Alpaca. It is useful for clothing.</WoolAlpaca.description>
+  <WoolAlpaca.stuffProps.stuffAdjective>Alpaca wool</WoolAlpaca.stuffProps.stuffAdjective>
+
+  <WoolBison.label>Bison wool</WoolBison.label>
+  <WoolBison.description>Thick and coarse wool of a bison. Quite warm.</WoolBison.description>
+  <WoolBison.stuffProps.stuffAdjective>Bison wool</WoolBison.stuffProps.stuffAdjective>
+
+  <WoolSheep.label>sheep wool</WoolSheep.label>
+  <WoolSheep.description>Sheep's wool. It provides good insulation.</WoolSheep.description>
+  <WoolSheep.stuffProps.stuffAdjective>Ram Wool</WoolSheep.stuffProps.stuffAdjective>
+
+  <HempCloth.label>Hemp</HempCloth.label>
+  <HempCloth.description>Hemp is a type of cloth woven from Weed. It is the same weed that people like to light up and smoke. Watch out for fire sources!</HempCloth.description>
+  <HempCloth.stuffProps.stuffAdjective>Hemp</HempCloth.stuffProps.stuffAdjective>
+
+  <Velour.label>Velour</Velour.label>
+  <Velour.stuffProps.stuffAdjective>velour</Velour.stuffProps.stuffAdjective>
+
+  <Flaxcloth.label>Linen cloth</Flaxcloth.label>
+  <Flaxcloth.description>A fabric designed for making clothes. It is soft, light, and strong.</Flaxcloth.description>
+  <Flaxcloth.stuffProps.stuffAdjective>Linen cloth</Flaxcloth.stuffProps.stuffAdjective>
+
+  <DevilstrandCloth.label>Devilstrand cloth</DevilstrandCloth.label>
+  <DevilstrandCloth.description>Fabric spun from microfibers extracted from silk-producing Devilstrand Mushrooms. Very tough, but insulates no better than Cloth.</DevilstrandCloth.description>
+  <DevilstrandCloth.stuffProps.stuffAdjective>Devilstrand cloth</DevilstrandCloth.stuffProps.stuffAdjective>
+
+  <Synthread.label>Synthread</Synthread.label>
+  <Synthread.description>Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well.</Synthread.description>
+  <Synthread.stuffProps.stuffAdjective>Synthread</Synthread.stuffProps.stuffAdjective>
+
+  <Hyperweave.label>Hyperweave</Hyperweave.label>
+  <Hyperweave.description>High-tech nano-fibers woven into sheets. It is somewhat heavy, but is incredibly difficult to break. The secrets of its production are known only to the most advanced GlitterWorld cultures.</Hyperweave.description>
+  <Hyperweave.stuffProps.stuffAdjective>Hyperweave</Hyperweave.stuffProps.stuffAdjective>
+
+  <Kevlar.label>Kevlar</Kevlar.label>
+  <Kevlar.description>Kevlar is a woven combination of plastic and synthetic fibers that is often used for combat-related protective armor.</Kevlar.description>
+  <Kevlar.stuffProps.stuffAdjective>Kevlar</Kevlar.stuffProps.stuffAdjective>
+
+  <ChitinPlating.label>Chitin plating</ChitinPlating.label>
+  <ChitinPlating.description>A modified version of the insect exoskeleton. Has increased durability and ease of use as a textile.</ChitinPlating.description>
+  <ChitinPlating.stuffProps.stuffAdjective>Chitin plating</ChitinPlating.stuffProps.stuffAdjective>
+
+  <Compaste.label>Compound paste</Compaste.label>
+  <Compaste.description>A bottle of compound paste, used for various crafting processes. The label reads: "DO NOT DRINK! Avoid sticking your fingers on surfaces after use!".</Compaste.description>
+
 
 </LanguageData>

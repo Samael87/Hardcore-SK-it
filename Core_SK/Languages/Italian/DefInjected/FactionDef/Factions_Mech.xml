@@ -3,10 +3,9 @@
 
   <!-- Special sub-humanlike factions -->
 
-  <!--[Core] <Mechanoid.label>рой механоидов</Mechanoid.label>-->
-  <Mechanoid.description>Улей древних самовоспроизводящихся машин.</Mechanoid.description>
-  <!--[Core] <Mechanoid.fixedName>рой механоидов</Mechanoid.fixedName>-->
-  <!--[Core] <Mechanoid.pawnsPlural>механоиды</Mechanoid.pawnsPlural>-->
+  <Mechanoid.label>Mechanoid hive</Mechanoid.label>
+  <Mechanoid.description>A hive of ancient self-replicating machines.</Mechanoid.description>
+  <Mechanoid.pawnsPlural>mechanoids</Mechanoid.pawnsPlural>
 
 
 </LanguageData>

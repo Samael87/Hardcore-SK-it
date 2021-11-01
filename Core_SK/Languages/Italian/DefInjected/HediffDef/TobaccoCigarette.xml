@@ -1,16 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<NicotineHigh.label>никотин</NicotineHigh.label>
+  <NicotineHigh.label>high on nicotine</NicotineHigh.label>
+  <NicotineHigh.description>I feel more confident after smoking.</NicotineHigh.description>
 
-	<!-- Nicotine addiction -->
 
-	<NicotineTolerance.label>действие никотина</NicotineTolerance.label>
-	<NicotineTolerance.stages.0.label>слабое</NicotineTolerance.stages.0.label>
-	<NicotineTolerance.stages.1.label>высокое</NicotineTolerance.stages.1.label>
-	<NicotineTolerance.stages.2.label>сильное</NicotineTolerance.stages.2.label>
+  <!-- Nicotine addiction -->
 
-	<NicotineAddiction.label>никотиновая зависимость</NicotineAddiction.label>
-	<NicotineAddiction.stages.1.label>приятное забытие</NicotineAddiction.stages.1.label>
+  <NicotineTolerance.label>Nicotine tolerance</NicotineTolerance.label>
+  <NicotineTolerance.description>A built-up tolerance to nicotine. The more severe this tolerance is, the more nicotine it takes to get the same effect.</NicotineTolerance.description>
+
+  <NicotineAddiction.label>Nicotine dependence</NicotineAddiction.label>
+  <NicotineAddiction.description>A chemical addiction to nicotine. Long-term presence of nicotine has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\nWithout regular doses of nicotine, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</NicotineAddiction.description>
+  <NicotineAddiction.stages.1.label>withdrawal</NicotineAddiction.stages.1.label>
+
 
 </LanguageData>

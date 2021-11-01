@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hitech -->
+
+  <MeleeWeapon_PoweredShortsword.label>Powered shortsword</MeleeWeapon_PoweredShortsword.label>
+  <MeleeWeapon_PoweredShortsword.description>A highly-advanced short sword. Commonly used by Glitterworld assault troops, the blade is coated in a field of ionized plasma, helping it cut through enemy armor.</MeleeWeapon_PoweredShortsword.description>
+  <MeleeWeapon_PoweredShortsword.tools.0.label>handle</MeleeWeapon_PoweredShortsword.tools.0.label>
+  <MeleeWeapon_PoweredShortsword.tools.1.label>point</MeleeWeapon_PoweredShortsword.tools.1.label>
+  <MeleeWeapon_PoweredShortsword.tools.2.label>blade</MeleeWeapon_PoweredShortsword.tools.2.label>
+
+  <MeleeWeapon_WraithBlade.label>Wraith blade</MeleeWeapon_WraithBlade.label>
+  <MeleeWeapon_WraithBlade.description>Highly advanced melee weapon. When active it emits a constant stream of ionized plasma that can cut through almost any armor. It's otherworldly appearance earned it the moniker and inspired many norbal folktales.</MeleeWeapon_WraithBlade.description>
+  <MeleeWeapon_WraithBlade.tools.0.label>handle</MeleeWeapon_WraithBlade.tools.0.label>
+  <MeleeWeapon_WraithBlade.tools.1.label>point</MeleeWeapon_WraithBlade.tools.1.label>
+  <MeleeWeapon_WraithBlade.tools.2.label>edge</MeleeWeapon_WraithBlade.tools.2.label>
+
+
+</LanguageData>

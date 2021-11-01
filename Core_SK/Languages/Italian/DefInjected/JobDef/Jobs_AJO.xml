@@ -1,24 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<PlayGo.reportString> Играет в Го.</PlayGo.reportString>
-	<PlayCards.reportString>Играет в карты.</PlayCards.reportString>
-	<PlayReversi.reportString>Играет в "Реверси".</PlayReversi.reportString>
-	<PlayRimColony.reportString>Играет в "РимКолония".</PlayRimColony.reportString>
-	<ReadBook.reportString>Читает книгу.</ReadBook.reportString>
+  <PlayGo.reportString>Playing Go.</PlayGo.reportString>
+  <PlayCards.reportString>Playing a card game.</PlayCards.reportString>
+  <PlayReversi.reportString>Playing Reversi.</PlayReversi.reportString>
+  <PlayRimColony.reportString>Playing RimColony.</PlayRimColony.reportString>
+  <ReadBook.reportString>Reading a book.</ReadBook.reportString>
 
-	<Doodle.reportString>Рисует.</Doodle.reportString>
-	<InterpretArt.reportString>Восхищается картиной.</InterpretArt.reportString>
-	<PlayArcadeRS.reportString>Играет в "Ром".</PlayArcadeRS.reportString>
-	<PlayArcadeMC.reportString>Играет в "Майнкрафт".</PlayArcadeMC.reportString>
-	<PlayArcadeHL.reportString>Играет в "Халва".</PlayArcadeHL.reportString>
-	<PlayArcadeES.reportString>Играет в "Елдер Сконс".</PlayArcadeES.reportString>
-	<PlayArcadeBG.reportString>Играет в "Багитетрис".</PlayArcadeBG.reportString>
-	<PlayArcadeCB.reportString>Играет в "Повар хакаси".</PlayArcadeCB.reportString>
-	<PlayArcadePS.reportString>Играет в "Растения против салямов".</PlayArcadePS.reportString>
-	<PlayArcadePK.reportString>Играет в "Психо пицца".</PlayArcadePK.reportString>
-	<PlayArcadeSP.reportString>Играет в "Выгребная яма".</PlayArcadeSP.reportString>
-	<PlayArcadeTZ.reportString>Играет в "Зимз".</PlayArcadeTZ.reportString>
-	<PlayArcadeTV.reportString>Играет в "Поиск выживших".</PlayArcadeTV.reportString>
+
+  <!-- <JobDef>
+		<defName>GetMassage</defName>
+		<driverClass>JobDriver_WatchBuilding</driverClass>
+		<reportString>Getting a massage.</reportString>
+		<joyDuration>4000</joyDuration>
+		<joyMaxParticipants>1</joyMaxParticipants>
+		<joyGainRate>1</joyGainRate>
+		<joyKind>Meditative</joyKind>
+	</JobDef> -->
+
+  <Doodle.reportString>Doodling.</Doodle.reportString>
+  <InterpretArt.reportString>Interpreting artwork.</InterpretArt.reportString>
+  <PlayArcadeRS.reportString>Playing Rum Swirled.</PlayArcadeRS.reportString>
+  <PlayArcadeMC.reportString>Playing MintCraft.</PlayArcadeMC.reportString>
+  <PlayArcadeHL.reportString>Playing Halva Life.</PlayArcadeHL.reportString>
+  <PlayArcadeES.reportString>Playing Elder Scones.</PlayArcadeES.reportString>
+  <PlayArcadeBG.reportString>Playing Baguettris.</PlayArcadeBG.reportString>
+  <PlayArcadeCB.reportString>Playing Cooking Baba.</PlayArcadeCB.reportString>
+  <PlayArcadePS.reportString>Playing Plants Vs. Salamis.</PlayArcadePS.reportString>
+  <PlayArcadePK.reportString>Playing Psycho Knots.</PlayArcadePK.reportString>
+  <PlayArcadeSP.reportString>Playing Speltunky.</PlayArcadeSP.reportString>
+  <PlayArcadeTZ.reportString>Playing The Zimz.</PlayArcadeTZ.reportString>
+  <PlayArcadeTV.reportString>Playing Trauma Vendor.</PlayArcadeTV.reportString>
+
 
 </LanguageData>

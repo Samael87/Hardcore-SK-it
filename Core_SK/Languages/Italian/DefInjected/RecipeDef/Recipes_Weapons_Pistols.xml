@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BuildHandGun.label>Build Colt M1911</BuildHandGun.label>
+  <BuildHandGun.description>Builds an ancient pattern automatic pistol. Weak and short range, but quick.\nCaliber: .45 ACP</BuildHandGun.description>
+  <BuildHandGun.jobString>Building Colt M1911.</BuildHandGun.jobString>
+
+  <BuildDeringerPistol.label>Build Smith&amp;Wesson M1917</BuildDeringerPistol.label>
+  <BuildDeringerPistol.description>Builds a Smith&amp;Wesson M1917 revolver. Accurate at short range only.  Moderately damaging with a short aim and cooldown period.\nCaliber: .45 ACP</BuildDeringerPistol.description>
+  <BuildDeringerPistol.jobString>Building Smith&amp;Wesson M1917.</BuildDeringerPistol.jobString>
+
+  <BuildSphinxPistol.label>Build Sphinx AT 2000</BuildSphinxPistol.label>
+  <BuildSphinxPistol.description>Builds a Sphinx AT 2000, a high quality and highly durable handgun that is used by elite forces and sport shooters. Great accuracy, moderate damage but a tad slow.\nCaliber: 9x19mm Para</BuildSphinxPistol.description>
+  <BuildSphinxPistol.jobString>Building Sphinx AT 2000.</BuildSphinxPistol.jobString>
+
+  <BuildVektorCP.label>Build Vektor CP1</BuildVektorCP.label>
+  <BuildVektorCP.description>Builds a Vektor CP1, an ergonomical handgun with a drastically non-rectangular design. Good accuracy and low recoil, but weak with a slightly lower range.\nCaliber: 9x19mm Para</BuildVektorCP.description>
+  <BuildVektorCP.jobString>Building Vektor CP1.</BuildVektorCP.jobString>
+
+  <BuildParaOrdnancePFourteenFortyfive.label>Build Para Ordnance P14-45</BuildParaOrdnancePFourteenFortyfive.label>
+  <BuildParaOrdnancePFourteenFortyfive.description>Builds a Para Ordnance P14-45m. High accuracy and above average range, average fire rate and damage.\nCaliber: .45 ACP</BuildParaOrdnancePFourteenFortyfive.description>
+  <BuildParaOrdnancePFourteenFortyfive.jobString>Building Para Ordnance P14-45</BuildParaOrdnancePFourteenFortyfive.jobString>
+
+  <BuildTecnine.label>Build TEC-9</BuildTecnine.label>
+  <BuildTecnine.description>Builds a Tec-9 lightweight semi-automatic pistol with a quick draw, low damage and very high firerate. Operates at a short range.\nCaliber: 9x19mm Para</BuildTecnine.description>
+  <BuildTecnine.jobString>Building TEC-9.</BuildTecnine.jobString>
+
+  <Build93RBurstPistol.label>Build Beretta 93R</Build93RBurstPistol.label>
+  <Build93RBurstPistol.description>Builds a Beretta 93R, a nice-looking machinepistol with a very fast burstfire mode. Low stopping power and hits up to pistol range.\nCaliber: 9x19mm Para</Build93RBurstPistol.description>
+  <Build93RBurstPistol.jobString>Building Beretta 93R.</Build93RBurstPistol.jobString>
+
+
+</LanguageData>

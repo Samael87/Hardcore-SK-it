@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparello_Moron.label>Kettlehat</Apparello_Moron.label>
+  <Apparello_Moron.description>A helmet with a large metal brim for extra protection; favored by peasant but seen as unfit for nobility.</Apparello_Moron.description>
+
+  <MedievalArmor_NasalHelmet.label>Nasal Helmet</MedievalArmor_NasalHelmet.label>
+  <MedievalArmor_NasalHelmet.description>A simple helmet with a slight innovation: a bar that extended down over the nose, provding better protection to the face but somewhat obscuring vision.</MedievalArmor_NasalHelmet.description>
+
+  <Apparello_NorbalKing.label>Horned Cap</Apparello_NorbalKing.label>
+  <Apparello_NorbalKing.description>A decorated, hardened leather cap. Often worn by the most revered and skilled combatants of Norbal communities.</Apparello_NorbalKing.description>
+
+  <Apparel_HatHood.label>Draped hood</Apparel_HatHood.label>
+  <Apparel_HatHood.description>A draped hood which covers the head and ears.</Apparel_HatHood.description>
+
+
+</LanguageData>

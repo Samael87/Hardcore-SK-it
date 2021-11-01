@@ -1,40 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Fallout.label>Ядерная зима</Fallout.label>
-	<Fallout.description>Небольшие радиоактивные осадки.</Fallout.description>
+  <Rainstorm.label>Heavy Rainstorm</Rainstorm.label>
+  <Rainstorm.description>The lightning will start fires but the rain will put it out. The rain also reduces movement speed and shooting accuracy.</Rainstorm.description>
 
-	<Rainstorm.label>Сильный ливень</Rainstorm.label>
-	<Rainstorm.description>Из-за молний будут возникать пожары, но дождь их потушит. Также снижена скорость передвижения и точность стрельбы.</Rainstorm.description>
+  <Blizzard.label>Blizzard</Blizzard.label>
+  <Blizzard.description>A blizzard is a severe snowstorm characterized by strong sustained winds. It will last for a prolonged period of time.</Blizzard.description>
 
-	<Blizzard.label>Буран</Blizzard.label>
-	<Blizzard.description>Буран - это сильная снежная метель, которая характеризуется сильными длительными ветрами. Это будет продолжаться в течение длительного периода времени.</Blizzard.description>
+  <Fallout.label>Fallout</Fallout.label>
+  <Fallout.description>A small nuclear fallout.</Fallout.description>
 
-	<Whiteout.label>Белая мгла</Whiteout.label>
-	<Whiteout.description>Когда наступает белая мгла, видимость сильно снижается, что снижает эффективность стрелкового оружия.</Whiteout.description>
+  <Whiteout.label>Whiteout</Whiteout.label>
+  <Whiteout.description>A whiteout is taking place so visibilty is severely reduced. Due to the snow, the use of ranged weapons is a very poor choice.</Whiteout.description>
 
-	<Hurricane.label>Ураган</Hurricane.label>
-	<Hurricane.description>Сильный ветер и толстый слой облаков накрывает земли, который сильно снижает эффективность стрелкового оружия. Оставаться вне укрытия практически невозможно!</Hurricane.description>
+  <Hurricane.label>Hurricane</Hurricane.label>
+  <Hurricane.description>Extreme wind and a thick layer of clouds ravages the land. This renders ranged weapons nearly useless. Staying outside of shelter is nearly impossible.</Hurricane.description>
 
-	<NuclearWinter.label>Буран</NuclearWinter.label>
-	<NuclearWinter.description>Буран - это сильная снежная метель, которая характеризуется сильными длительными ветрами. Это будет продолжаться в течение длительного периода времени.</NuclearWinter.description>
+  <NuclearWinter.label>Nuclear winter</NuclearWinter.label>
+  <NuclearWinter.description>Nuclear winter is the severe global-climatic-cooling-effect.</NuclearWinter.description>
 
-	<ToxicRain.label>Токсичный дождь</ToxicRain.label>
-	<ToxicRain.description>Ядовит для людей и животных, может нанести небольшой вред растениям. Дождь снижает точность стрельбы, гасит огонь и замедляет передвижение.</ToxicRain.description>
+  <ToxicRain.label>toxic rain</ToxicRain.label>
+  <ToxicRain.description>Poisonous to people and animals, but save for plants. Reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</ToxicRain.description>
 
-	<ToxicFoggyRain.label>Токсичный ливень</ToxicFoggyRain.label>
-	<ToxicFoggyRain.description>Ядовит для людей и животных, может нанести небольшой вред растениям. Снижена точность стрельбы и скорость передвижения.</ToxicFoggyRain.description>
+  <ToxicFoggyRain.label>toxic foggy rain</ToxicFoggyRain.label>
+  <ToxicFoggyRain.description>Poisonous to people and animals, but save for plants. Reduces the accuracy of ranged weapon, extinguishes fire, and slows people down.</ToxicFoggyRain.description>
 
-	<ToxicRainyThunderstorm.label>Токсичный дождь с грозой</ToxicRainyThunderstorm.label>
-	<ToxicRainyThunderstorm.description>Ядовит для людей и животных, может нанести небольшой вред растениям. Из-за молний будут возникать пожары, но дождь их потушит. Также снижена скорость передвижения и точность стрельбы.</ToxicRainyThunderstorm.description>
+  <ToxicRainyThunderstorm.label>toxic rainy thunderstorm</ToxicRainyThunderstorm.label>
+  <ToxicRainyThunderstorm.description>The lightning will start fires, but the rain will put it out. Poisonous to people and animals, but save for plants. The rain also reduces movement speed and shooting accuracy.</ToxicRainyThunderstorm.description>
 
-	<ToxicSnowGentle.label>Токсичный снег</ToxicSnowGentle.label>
-	<ToxicSnowGentle.description>Ядовит для людей и животных, может нанести небольшой вред растениям. Снижает точность стрельбы, тушит пожары и замедляет передвижение.</ToxicSnowGentle.description>
+  <ToxicSnowGentle.label>toxic snow</ToxicSnowGentle.label>
+  <ToxicSnowGentle.description>Poisonous to people and animals, but save for plants. Reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</ToxicSnowGentle.description>
 
-	<ToxicFoggySnow.label>Токсичный снегопад</ToxicFoggySnow.label>
-	<ToxicFoggySnow.description>Ядовит для людей и животных, может нанести небольшой вред растениям. Снегопад снижает точность стрельбы, тушит пожары и замедляет передвижение.</ToxicFoggySnow.description>
+  <ToxicFoggySnow.label>toxic foggy snow</ToxicFoggySnow.label>
+  <ToxicFoggySnow.description>Poisonous to people and animals, but save for plants. Reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</ToxicFoggySnow.description>
 
-	<ToxicSnowHard.label>Токсичный буран</ToxicSnowHard.label>
-	<ToxicSnowHard.description>Ядовит для людей и животных, может нанести небольшой вред растениям. Метель снижает точность стрельбы, тушит пожары и замедляет передвижение.</ToxicSnowHard.description>
+  <ToxicSnowHard.label>toxic blizzard</ToxicSnowHard.label>
+  <ToxicSnowHard.description>Poisonous to people and animals, but save for plants. Reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</ToxicSnowHard.description>
+
 
 </LanguageData>

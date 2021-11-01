@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BasinWashApparel.label>Постирать вещи</BasinWashApparel.label>
-  <BasinWashApparel.description>Позволяет отмыть одежду и тем самым убрать эффект "носит одежду с трупа".</BasinWashApparel.description>
-  <BasinWashApparel.jobString>стирает</BasinWashApparel.jobString>
+  <BasinWashApparel.label>Wash clothes</BasinWashApparel.label>
+  <BasinWashApparel.description>Removes the Worn By Corpse effect from the apparel.</BasinWashApparel.description>
+  <BasinWashApparel.jobString>washing clothes.</BasinWashApparel.jobString>
+
 
 </LanguageData>

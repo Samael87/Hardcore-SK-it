@@ -1,13 +1,76 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Grenadier_Destructive_Acidifier.label>гренадер</Grenadier_Destructive_Acidifier.label>
-  <Grenadier_Destructive_Acidifier.labelPlural>гренадеры</Grenadier_Destructive_Acidifier.labelPlural>
+  <!-- Gunner -->
 
-  <Mercenary_Heavy_Acidifier.label>тяжеловооружённый наёмник</Mercenary_Heavy_Acidifier.label>
-  <Mercenary_Heavy_Acidifier.labelPlural>тяжеловооружённые наёмники</Mercenary_Heavy_Acidifier.labelPlural>
+  <Mercenary_Gunner.label>Mercenary Gunner</Mercenary_Gunner.label>
+  <Mercenary_Gunner.labelPlural>Mercenary Gunners</Mercenary_Gunner.labelPlural>
 
-  <PirateBomb.label>легкий гранатометчик</PirateBomb.label>
-  <PirateBomb.labelPlural>легкие гранатометчики</PirateBomb.labelPlural>
+  <Mercenary_Gunner_Acidifier.label>Mercenary Gunner</Mercenary_Gunner_Acidifier.label>
+  <Mercenary_Gunner_Acidifier.labelPlural>Mercenary Gunners</Mercenary_Gunner_Acidifier.labelPlural>
+
+
+  <!-- Fusilier -->
+
+  <Mercenary_Sniper.label>Mercenary fusilier</Mercenary_Sniper.label>
+  <Mercenary_Sniper.labelPlural>Mercenary fusiliers</Mercenary_Sniper.labelPlural>
+
+  <Mercenary_Sniper_Acidifier.label>Mercenary fusilier</Mercenary_Sniper_Acidifier.label>
+  <Mercenary_Sniper_Acidifier.labelPlural>Mercenary fusiliers</Mercenary_Sniper_Acidifier.labelPlural>
+
+
+  <!-- Grenadier -->
+
+  <Grenadier_Destructive.label>Grenadier</Grenadier_Destructive.label>
+  <Grenadier_Destructive.labelPlural>Grenadiers</Grenadier_Destructive.labelPlural>
+
+  <Grenadier_Destructive_Acidifier.label>Grenadier</Grenadier_Destructive_Acidifier.label>
+  <Grenadier_Destructive_Acidifier.labelPlural>Grenadiers</Grenadier_Destructive_Acidifier.labelPlural>
+
+
+  <!-- Grenadier EMP -->
+
+  <Grenadier_EMP.label>EMP grenadier</Grenadier_EMP.label>
+  <Grenadier_EMP.labelPlural>EMP grenadiers</Grenadier_EMP.labelPlural>
+
+
+  <!-- Grenadier Smoke -->
+
+  <Grenadier_Smoke.label>Smoke grenadier</Grenadier_Smoke.label>
+  <Grenadier_Smoke.labelPlural>Smoke grenadiers</Grenadier_Smoke.labelPlural>
+
+
+  <!-- Slasher -->
+
+  <Mercenary_Slasher.label>Mercenary Slasher</Mercenary_Slasher.label>
+  <Mercenary_Slasher.labelPlural>Mercenary Slashers</Mercenary_Slasher.labelPlural>
+
+  <Mercenary_Slasher_Acidifier.label>Mercenary Slasher</Mercenary_Slasher_Acidifier.label>
+  <Mercenary_Slasher_Acidifier.labelPlural>Mercenary Slashers</Mercenary_Slasher_Acidifier.labelPlural>
+
+
+  <!-- Heavy Mercenary -->
+
+  <Mercenary_Heavy.label>Heavy Mercenary</Mercenary_Heavy.label>
+  <Mercenary_Heavy.labelPlural>heavy mercenaries</Mercenary_Heavy.labelPlural>
+
+  <Mercenary_Heavy_Acidifier.label>Heavy Mercenary</Mercenary_Heavy_Acidifier.label>
+  <Mercenary_Heavy_Acidifier.labelPlural>heavy mercenaries</Mercenary_Heavy_Acidifier.labelPlural>
+
+
+  <!-- Boss -->
+
+  <PirateBoss.label>Boss</PirateBoss.label>
+  <PirateBoss.labelPlural>bosses</PirateBoss.labelPlural>
+
+
+  <!-- Elite -->
+
+  <Mercenary_Elite.label>elite mercenary</Mercenary_Elite.label>
+  <Mercenary_Elite.labelPlural>elite mercenaries</Mercenary_Elite.labelPlural>
+
+  <Mercenary_Elite_Acidifier.label>elite mercenary</Mercenary_Elite_Acidifier.label>
+  <Mercenary_Elite_Acidifier.labelPlural>elite mercenaries</Mercenary_Elite_Acidifier.labelPlural>
+
 
 </LanguageData>

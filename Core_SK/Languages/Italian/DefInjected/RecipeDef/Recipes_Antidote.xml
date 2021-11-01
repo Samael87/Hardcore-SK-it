@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeAntidoteSimple.label>Make simple antidote</MakeAntidoteSimple.label>
+  <MakeAntidoteSimple.description>Make simple antidote from poison gland. Produces 1.</MakeAntidoteSimple.description>
+  <MakeAntidoteSimple.jobString>Making simple antidote</MakeAntidoteSimple.jobString>
+
+  <MakeAntidoteSafe.label>Make safe antidote</MakeAntidoteSafe.label>
+  <MakeAntidoteSafe.description>Make safe antidote from poison gland. Produces 1.</MakeAntidoteSafe.description>
+  <MakeAntidoteSafe.jobString>Making safe antidote</MakeAntidoteSafe.jobString>
+
+  <EnterBasicAntidote.label>Remove poison</EnterBasicAntidote.label>
+  <EnterBasicAntidote.description>Removes poison from the body. New poison can come from poisoned wounds.</EnterBasicAntidote.description>
+  <EnterBasicAntidote.jobString>Removing poison</EnterBasicAntidote.jobString>
+
+  <CurePoisonArrow.label>Cure poison arrow hit</CurePoisonArrow.label>
+  <CurePoisonArrow.description>Completely heals a poisoned arrow hit</CurePoisonArrow.description>
+  <CurePoisonArrow.jobString>Removing poison arrow hit</CurePoisonArrow.jobString>
+
+  <CurePoisonScratch.label>Cure poison scratch</CurePoisonScratch.label>
+  <CurePoisonScratch.description>Completely heals a poisoned scratch</CurePoisonScratch.description>
+  <CurePoisonScratch.jobString>Removing poison scratch</CurePoisonScratch.jobString>
+
+  <CurePoisonBite.label>Cure poison bite</CurePoisonBite.label>
+  <CurePoisonBite.description>Completely heals a poisoned bite</CurePoisonBite.description>
+  <CurePoisonBite.jobString>Removing poison bite</CurePoisonBite.jobString>
+
+
+</LanguageData>

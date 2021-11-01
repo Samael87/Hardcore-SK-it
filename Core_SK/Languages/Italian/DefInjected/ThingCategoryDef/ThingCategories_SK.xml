@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Root.label>root</Root.label>
+  <Resources.label>Resources</Resources.label>
+  <Foods.label>Foods</Foods.label>
+  <FoodMeals.label>Meals</FoodMeals.label>
+  <FoodRaw.label>Raw Food</FoodRaw.label>
+  <AnimalProductRaw.label>Animal products</AnimalProductRaw.label>
+  <EggsUnfertilized.label>Eggs (Unfertilized)</EggsUnfertilized.label>
+  <EggsFertilized.label>Eggs (Fertilized)</EggsFertilized.label>
+
+
+  <!-- HARDCORE SK CATEGORIES start -->
+
+  <CookingSupplies.label>Cooking Supplies</CookingSupplies.label>
+  <LuxuryStuffs.label>Luxury Stuffs</LuxuryStuffs.label>
+  <SweetMeals.label>Sweets</SweetMeals.label>
+  <Alcohol.label>Alcohol</Alcohol.label>
+  <Energetics.label>Energy Drinks</Energetics.label>
+
+
+  <!-- Tag -->
+
+  <Drugs.label>Drugs</Drugs.label>
+  <Animalfood.label>Animal Food</Animalfood.label>
+
+
+  <!-- HARDCORE SK CATEGORIES end -->
+
+  <MeatRaw.label>Meat</MeatRaw.label>
+  <FoodFreshFish.label>Fresh Fish</FoodFreshFish.label>
+  <PlantFoodRaw.label>Vegetarian</PlantFoodRaw.label>
+
+
+  <!-- HARDCORE SK CATEGORIES start -->
+
+  <BasicPlantFoodRaw.label>Basic Food</BasicPlantFoodRaw.label>
+  <ExtraPlantFoodRaw.label>Extra Food</ExtraPlantFoodRaw.label>
+  <FruitFoodRaw.label>Fruits</FruitFoodRaw.label>
+
+
+  <!-- HARDCORE SK CATEGORIES end -->
+
+  <Manufactured.label>Manufactured</Manufactured.label>
+
+
+  <!-- HARDCORE SK CATEGORIES start -->
+
+  <Metallic.label>Metal Alloy</Metallic.label>
+  <HCMBar.label>High Conductivity</HCMBar.label>
+  <PRSBar.label>Precious</PRSBar.label>
+  <SLDBar.label>Solid</SLDBar.label>
+  <HeavyBar.label>Heavy</HeavyBar.label>
+  <USLDBar.label>Ultrasolid</USLDBar.label>
+  <USLDHBar.label>Ultrasolid heavy</USLDHBar.label>
+  <RARBar.label>Rare</RARBar.label>
+  <RADBar.label>Radioactive</RADBar.label>
+  <Ceramic.label>Ceramic</Ceramic.label>
+  <ConstructionParts.label>Construction</ConstructionParts.label>
+  <Parts.label>Parts and Mechanisms</Parts.label>
+  <Woody.label>Crafted Wood</Woody.label>
+
+
+  <!-- HARDCORE SK CATEGORIES end -->
+
+  <Textiles.label>Textiles</Textiles.label>
+  <BTextiles.label>Basic</BTextiles.label>
+  <HTextiles.label>HiTech</HTextiles.label>
+  <CTextiles.label>Component</CTextiles.label>
+  <Leathers.label>Leathers</Leathers.label>
+  <Wools.label>wools</Wools.label>
+  <Medicine.label>Medicine</Medicine.label>
+
+
+  <!-- HARDCORE SK CATEGORIES start -->
+
+  <Canware.label>Canware</Canware.label>
+  <WeaponCrate.label>Weapon Crate</WeaponCrate.label>
+  <WeaponParts.label>Weapon Components</WeaponParts.label>
+  <ElectronicsCat.label>Electronics</ElectronicsCat.label>
+  <GlassCat.label>Glassy</GlassCat.label>
+  <SuperMaterialCat.label>Super Materials</SuperMaterialCat.label>
+  <FuelCat.label>Fuel</FuelCat.label>
+  <ExplosivesCat.label>Explosives</ExplosivesCat.label>
+
+
+  <!-- HARDCORE SK CATEGORIES end -->
+
+  <ResourcesRaw.label>Raw Resources</ResourcesRaw.label>
+
+
+  <!-- tag -->
+
+  <PlantMatter.label>plant matter</PlantMatter.label>
+
+
+  <!-- HARDCORE SK CATEGORIES start -->
+
+  <SeedsCategory.label>Seeds</SeedsCategory.label>
+  <Extracted.label>Extracted</Extracted.label>
+  <Waste.label>waste</Waste.label>
+  <StoneBlocks.label>Stone Blocks</StoneBlocks.label>
+  <Metals.label>Metal Ore</Metals.label>
+  <HCM.label>High Conductivity</HCM.label>
+  <RAD.label>Radioactive</RAD.label>
+  <HVY.label>Heavy</HVY.label>
+  <PRS.label>Precious</PRS.label>
+  <SLD.label>Solid</SLD.label>
+  <RAR.label>Rare</RAR.label>
+  <Coal.label>Coal</Coal.label>
+  <Hydrocarbons.label>Hydrocarbons</Hydrocarbons.label>
+  <Chemical.label>Chemical</Chemical.label>
+
+
+  <!-- HARDCORE SK CATEGORIES end -->
+
+  <Wooden.label>Wooden</Wooden.label>
+  <Items.label>Items</Items.label>
+  <Unfinished.label>Unfinished</Unfinished.label>
+  <Artifacts.label>artifacts</Artifacts.label>
+  <InertRelics.label>inert relics</InertRelics.label>
+  <Neurotrainers.label>neurotrainers</Neurotrainers.label>
+  <NeurotrainersPsycast.label>psytrainers</NeurotrainersPsycast.label>
+  <Techprints.label>techprints</Techprints.label>
+  <Weapons.label>Weapons</Weapons.label>
+
+
+  <!-- HARDCORE SK CATEGORIES start -->
+
+  <WeaponsMelee.label>Melee Weapons</WeaponsMelee.label>
+  <AgileMelee.label>Agile</AgileMelee.label>
+  <SharpMelee.label>Sharp</SharpMelee.label>
+  <BluntMelee.label>Blunt</BluntMelee.label>
+  <HeavyMelee.label>Heavy</HeavyMelee.label>
+  <SpecialMelee.label>Special</SpecialMelee.label>
+  <WeaponsRanged.label>Ranged Weapons</WeaponsRanged.label>
+  <BowRanged.label>Bows</BowRanged.label>
+  <CrossbarRanged.label>Crossbar</CrossbarRanged.label>
+  <ThrownRanged.label>Thrown</ThrownRanged.label>
+  <Pistols.label>Pistols</Pistols.label>
+  <Shotguns.label>Shotguns</Shotguns.label>
+  <SMGs.label>SMGs</SMGs.label>
+  <Rifles.label>Rifles</Rifles.label>
+  <SRifles.label>Sniper Rifles</SRifles.label>
+  <MachineGun.label>Machineguns</MachineGun.label>
+  <Glaunchers.label>Grenade launchers</Glaunchers.label>
+  <Launchers.label>Rocket launchers</Launchers.label>
+  <Specialranged.label>Special ranged</Specialranged.label>
+  <Futuristic.label>Futuristic</Futuristic.label>
+
+
+  <!-- HARDCORE SK CATEGORIES end -->
+
+  <Grenades.label>Grenades</Grenades.label>
+
+
+  <!-- HARDCORE SK CATEGORIES start -->
+
+  <SurvivalTools.label>tools</SurvivalTools.label>
+  <SurvivalToolsNeolithic.label>basic tools</SurvivalToolsNeolithic.label>
+  <SurvivalToolsIndustrial.label>modern tools</SurvivalToolsIndustrial.label>
+  <SurvivalToolsSpacer.label>advanced tools</SurvivalToolsSpacer.label>
+  <SpecialWeapons.label>Special Weapon</SpecialWeapons.label>
+  <WeaponsTurrets.label>turrets</WeaponsTurrets.label>
+
+
+  <!-- HARDCORE SK CATEGORIES end -->
+
+  <Apparel.label>Apparel</Apparel.label>
+  <Headgear.label>Headgear</Headgear.label>
+  <AnimalHeaddressCat.label>Animal Headdress</AnimalHeaddressCat.label>
+  <HeaddressCat.label>Headdress</HeaddressCat.label>
+  <SpecialHelmetsCat.label>Special Headdress</SpecialHelmetsCat.label>
+  <MilitaryHeaddressCat.label>Military Headdress</MilitaryHeaddressCat.label>
+  <LightHelmetsCat.label>Light Helmets</LightHelmetsCat.label>
+  <MediumHelmetsCat.label>Medium Helmets</MediumHelmetsCat.label>
+  <HeavyHelmetsCat.label>Heavy Helmets</HeavyHelmetsCat.label>
+  <FullArmorCat.label>Full Armor</FullArmorCat.label>
+  <LightFullArmorCat.label>Light Armor</LightFullArmorCat.label>
+  <MediumFullArmorCat.label>Medium Armor</MediumFullArmorCat.label>
+  <HeavyFullArmorCat.label>Heavy Armor</HeavyFullArmorCat.label>
+  <UpperDressCat.label>Upper Dress</UpperDressCat.label>
+  <UpperOverdressCat.label>Upper Overdress</UpperOverdressCat.label>
+  <LightUpperArmorCat.label>Light Armor</LightUpperArmorCat.label>
+  <MediumUpperArmorCat.label>Medium Armor</MediumUpperArmorCat.label>
+  <HeavyUpperArmorCat.label>Heavy Armor</HeavyUpperArmorCat.label>
+  <PantsCat.label>Pants</PantsCat.label>
+  <UrbanPantsCat.label>Urban Pants</UrbanPantsCat.label>
+  <MilitaryPantsCat.label>Military Pants</MilitaryPantsCat.label>
+  <FullBodySuitsCat.label>Full Bodysuit</FullBodySuitsCat.label>
+  <BodySuitsCat.label>Bodysuit</BodySuitsCat.label>
+  <VestsCat.label>Vests</VestsCat.label>
+  <GlovesCat.label>Gloves</GlovesCat.label>
+  <BootsCat.label>Boots</BootsCat.label>
+  <ShieldCat.label>Shields</ShieldCat.label>
+  <AccessoriesCat.label>Accessories</AccessoriesCat.label>
+  <MedKitCat.label>Medical kits</MedKitCat.label>
+  <SpecialApparelCat.label>Special</SpecialApparelCat.label>
+  <Sets.label>Sets</Sets.label>
+  <SetCookie.label>Cook Set</SetCookie.label>
+  <SetMedical.label>Medic Set</SetMedical.label>
+  <SetSmith.label>Smith Set</SetSmith.label>
+  <SetHarvester.label>Farmer Set</SetHarvester.label>
+  <SetMiner.label>Miner Set</SetMiner.label>
+  <SetConstructor.label>Builder Set</SetConstructor.label>
+  <SetChemicalProtectionSuit.label>Hazmat Suit Set</SetChemicalProtectionSuit.label>
+  <SetGasMask.label>Gasmask Set</SetGasMask.label>
+  <SetSlaver.label>Slaver Set</SetSlaver.label>
+  <SetMedieval.label>Medieval Set</SetMedieval.label>
+  <SetBandit.label>Bandit Set</SetBandit.label>
+  <SetSecurity.label>Security Set</SetSecurity.label>
+  <SetScout.label>Scout Set</SetScout.label>
+  <SetSniper.label>Sniper Set</SetSniper.label>
+  <Setmarinearmor.label>Marine Set</Setmarinearmor.label>
+  <SetInteractor.label>Interactor Set</SetInteractor.label>
+  <Setpowerarmor.label>Power Armor Set</Setpowerarmor.label>
+  <Sethivearmor.label>Hive Armor Set</Sethivearmor.label>
+  <Setsteamarmor.label>Steam Set</Setsteamarmor.label>
+  <SetSiegearmor.label>Siege Armor Set</SetSiegearmor.label>
+  <SetSyndicate.label>Syndicate Set</SetSyndicate.label>
+  <SetCombatarmor.label>Combat Armor Set</SetCombatarmor.label>
+  <SetJet.label>Jet Set</SetJet.label>
+
+
+  <!-- Buildings -->
+
+  <Buildings.label>buildings</Buildings.label>
+  <BuildingsArt.label>art</BuildingsArt.label>
+  <BuildingsFurniture.label>furniture</BuildingsFurniture.label>
+  <BuildingsAccessories.label>accessories</BuildingsAccessories.label>
+  <BuildingsProduction.label>production</BuildingsProduction.label>
+  <BuildingsJoy.label>recreation</BuildingsJoy.label>
+  <BuildingsSecurity.label>security</BuildingsSecurity.label>
+  <BuildingsMisc.label>misc</BuildingsMisc.label>
+  <BuildingsFacilities.label>facilities</BuildingsFacilities.label>
+  <BuildingsTemperature.label>temperature</BuildingsTemperature.label>
+  <BuildingsRugs.label>rugs</BuildingsRugs.label>
+  <BuildingsPower.label>power</BuildingsPower.label>
+  <BuildingsSpecial.label>special</BuildingsSpecial.label>
+  <BodyParts.label>Body Parts</BodyParts.label>
+  <BodyPartsNatural.label>Natural</BodyPartsNatural.label>
+  <BodyPartsArtificial.label>Artificial</BodyPartsArtificial.label>
+
+
+  <!-- HARDCORE SK CATEGORIES start -->
+
+  <BasicProstheses.label>Basic Prostheses</BasicProstheses.label>
+  <SimpleProstheses.label>Simple Prostheses</SimpleProstheses.label>
+  <BodyPartsBionic.label>Bionics</BodyPartsBionic.label>
+  <CyberneticProstheses.label>Cybernetic Bionics</CyberneticProstheses.label>
+  <SyntheticOrgans.label>Synthetic Organs</SyntheticOrgans.label>
+  <OrganicOptimizer.label>organic optimizer</OrganicOptimizer.label>
+
+
+  <!-- HARDCORE SK CATEGORIES end -->
+
+  <Chunks.label>Chunks</Chunks.label>
+  <StoneChunks.label>Stone Chunks</StoneChunks.label>
+  <Animals.label>animals</Animals.label>
+  <Plants.label>plants</Plants.label>
+  <Corpses.label>Corpses</Corpses.label>
+  <CorpsesHumanlike.label>Humanlike Corpses</CorpsesHumanlike.label>
+  <CorpsesAnimal.label>Animal Corpses</CorpsesAnimal.label>
+
+
+  <!-- tag -->
+
+  <CorpsesInsect.label>insect corpses</CorpsesInsect.label>
+  <CorpsesMechanoid.label>Mechanoid Corpses</CorpsesMechanoid.label>
+
+
+</LanguageData>

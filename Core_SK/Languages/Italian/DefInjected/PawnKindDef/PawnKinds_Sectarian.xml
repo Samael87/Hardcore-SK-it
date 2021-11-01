@@ -1,28 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SectarianSoldier.label>Солдат сектантов</SectarianSoldier.label>
-  <SectarianSoldier.labelPlural>Солдаты сектантов</SectarianSoldier.labelPlural>
+  <!-- Soldier -->
 
-  <SectarianStriker.label>Страйкер сектантов</SectarianStriker.label>
-  <SectarianStriker.labelPlural>Страйкеры сектантов</SectarianStriker.labelPlural>
+  <SectarianSoldier.label>Sectarian Soldier</SectarianSoldier.label>
+  <SectarianSoldier.labelPlural>Sectarian Soldiers</SectarianSoldier.labelPlural>
 
-  <SectarianHunter.label>Охотник сектантов</SectarianHunter.label>
-  <SectarianHunter.labelPlural>Охотники сектантов</SectarianHunter.labelPlural>
 
-  <SectarianDemolisher.label>Разрушитель сектантов</SectarianDemolisher.label>
-  <SectarianDemolisher.labelPlural>Разрушители сектантов</SectarianDemolisher.labelPlural>
+  <!-- Striker -->
 
-  <SectarianEagleEye.label>Меткий глаз сектантов</SectarianEagleEye.label>
-  <SectarianEagleEye.labelPlural>Меткий глаз сектантов</SectarianEagleEye.labelPlural>
+  <SectarianStriker.label>Sectarian Striker</SectarianStriker.label>
+  <SectarianStriker.labelPlural>Sectarian Strikers</SectarianStriker.labelPlural>
 
-  <SectarianDestroyer.label>Разрушитель сектантов</SectarianDestroyer.label>
-  <SectarianDestroyer.labelPlural>Разрушители сектантов</SectarianDestroyer.labelPlural>
 
-  <SectarianTrader.label>Торговец сектантов</SectarianTrader.label>
-  <SectarianTrader.labelPlural>Торговец сектантов</SectarianTrader.labelPlural>
+  <!-- Hunter -->
 
-  <SectarianSentinel.label>Часовой сектантов</SectarianSentinel.label>
-  <SectarianSentinel.labelPlural>Часовой сектантов</SectarianSentinel.labelPlural>
+  <SectarianHunter.label>Sectarian Hunter</SectarianHunter.label>
+  <SectarianHunter.labelPlural>Sectarian Hunters</SectarianHunter.labelPlural>
+
+
+  <!-- Demolisher -->
+
+  <SectarianDemolisher.label>Sectarian Demolisher</SectarianDemolisher.label>
+  <SectarianDemolisher.labelPlural>Sectarian Demolishers</SectarianDemolisher.labelPlural>
+
+
+  <!-- EagleEye -->
+
+  <SectarianEagleEye.label>Sectarian Eagle Eye</SectarianEagleEye.label>
+  <SectarianEagleEye.labelPlural>Sectarian Eagle Eyes</SectarianEagleEye.labelPlural>
+
+
+  <!-- Destroyer -->
+
+  <SectarianDestroyer.label>Sectarian Destroyer</SectarianDestroyer.label>
+  <SectarianDestroyer.labelPlural>Sectarian Destroyers</SectarianDestroyer.labelPlural>
+
+
+  <!-- Trader -->
+
+  <SectarianTrader.label>Sectarian trader</SectarianTrader.label>
+  <SectarianTrader.labelPlural>Sectarian traders</SectarianTrader.labelPlural>
+
+
+  <!-- Sentinel -->
+
+  <SectarianSentinel.label>Sectarian Sentinel</SectarianSentinel.label>
+  <SectarianSentinel.labelPlural>Sectarian Sentinels</SectarianSentinel.labelPlural>
+
 
 </LanguageData>

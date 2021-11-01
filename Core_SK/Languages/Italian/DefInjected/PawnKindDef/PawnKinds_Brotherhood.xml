@@ -1,28 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BrotherhoodGuard.label>охранник братства</BrotherhoodGuard.label>
-  <BrotherhoodGuard.labelPlural>охранники братства</BrotherhoodGuard.labelPlural>
+  <!-- Guard -->
 
-  <BrotherhoodTrader.label>торговец братства</BrotherhoodTrader.label>
-  <BrotherhoodTrader.labelPlural>торговцы братства</BrotherhoodTrader.labelPlural>
+  <BrotherhoodGuard.label>Brotherhood Guard</BrotherhoodGuard.label>
+  <BrotherhoodGuard.labelPlural>Brotherhood Guards</BrotherhoodGuard.labelPlural>
 
-  <BrotherhoodStriker.label>страйкер братства</BrotherhoodStriker.label>
-  <BrotherhoodStriker.labelPlural>Страйкеры братства</BrotherhoodStriker.labelPlural>
 
-  <BrotherhoodProtector.label>защитник братства</BrotherhoodProtector.label>
-  <BrotherhoodProtector.labelPlural>защитники братства</BrotherhoodProtector.labelPlural>
+  <!-- Trader -->
 
-  <BrotherhoodDemolisher.label>разрушитель братства</BrotherhoodDemolisher.label>
-  <BrotherhoodDemolisher.labelPlural>разрушители братства</BrotherhoodDemolisher.labelPlural>
+  <BrotherhoodTrader.label>Brotherhood trader</BrotherhoodTrader.label>
+  <BrotherhoodTrader.labelPlural>Brotherhood traders</BrotherhoodTrader.labelPlural>
 
-  <BrotherhoodScout.label>разведчик братства</BrotherhoodScout.label>
-  <BrotherhoodScout.labelPlural>разведчики братства</BrotherhoodScout.labelPlural>
 
-  <BrotherhoodDestroyer.label>разрушитель братства</BrotherhoodDestroyer.label>
-  <BrotherhoodDestroyer.labelPlural>разрушители братства</BrotherhoodDestroyer.labelPlural>
+  <!-- Striker -->
 
-  <BrotherhoodSentinel.label>страж братства</BrotherhoodSentinel.label>
-  <BrotherhoodSentinel.labelPlural>стражи братства</BrotherhoodSentinel.labelPlural>
+  <BrotherhoodStriker.label>Brotherhood Striker</BrotherhoodStriker.label>
+  <BrotherhoodStriker.labelPlural>Brotherhood Strikers</BrotherhoodStriker.labelPlural>
+
+
+  <!-- Protector -->
+
+  <BrotherhoodProtector.label>Brotherhood Protector</BrotherhoodProtector.label>
+  <BrotherhoodProtector.labelPlural>Brotherhood Protectors</BrotherhoodProtector.labelPlural>
+
+
+  <!-- Demolisher -->
+
+  <BrotherhoodDemolisher.label>Brotherhood Demolisher</BrotherhoodDemolisher.label>
+  <BrotherhoodDemolisher.labelPlural>Brotherhood Demolishers</BrotherhoodDemolisher.labelPlural>
+
+
+  <!-- Scout -->
+
+  <BrotherhoodScout.label>Brotherhood Scout</BrotherhoodScout.label>
+  <BrotherhoodScout.labelPlural>Brotherhood Scouts</BrotherhoodScout.labelPlural>
+
+
+  <!-- Destroyer -->
+
+  <BrotherhoodDestroyer.label>Brotherhood Destroyer</BrotherhoodDestroyer.label>
+  <BrotherhoodDestroyer.labelPlural>Brotherhood Destroyers</BrotherhoodDestroyer.labelPlural>
+
+
+  <!-- Sentinel -->
+
+  <BrotherhoodSentinel.label>Brotherhood Sentinel</BrotherhoodSentinel.label>
+  <BrotherhoodSentinel.labelPlural>Brotherhood Sentinels</BrotherhoodSentinel.labelPlural>
+
 
 </LanguageData>

@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ___________________FermentingBarrel_____________________ -->
+
+  <Make_Beer.label>make beer</Make_Beer.label>
+  <Make_Beer.description>Make beer from wort. Takes 6 days to make</Make_Beer.description>
+
+  <Make_Whisky.label>make whisky</Make_Whisky.label>
+  <Make_Whisky.description>Make whisky from grain mash. Takes 7.25 days to make</Make_Whisky.description>
+
+  <Make_Sake.label>make sake</Make_Sake.label>
+  <Make_Sake.description>Make sake from sake mash. Takes 5.25 days to make</Make_Sake.description>
+
+  <Make_Cider.label>make cider</Make_Cider.label>
+  <Make_Cider.description>Make cider from cider mash. Takes 4.8 days to make</Make_Cider.description>
+
+  <Make_Rum.label>make rum</Make_Rum.label>
+  <Make_Rum.description>Make rum from rum mash. Takes 4.5 days to make</Make_Rum.description>
+
+  <Make_Berrywine.label>make berry wine</Make_Berrywine.label>
+  <Make_Berrywine.description>Make berry wine from berry mash. Takes 5.8 days to make</Make_Berrywine.description>
+
+  <Make_Vodka.label>make vodka</Make_Vodka.label>
+  <Make_Vodka.description>Make vodka from vodka mash. Takes 4.8 days to make</Make_Vodka.description>
+
+  <Make_Tequila.label>make tequila</Make_Tequila.label>
+  <Make_Tequila.description>Make tequila from tequila mash. Takes 5.6 days to make</Make_Tequila.description>
+
+  <Make_Wine.label>make wine</Make_Wine.label>
+  <Make_Wine.description>Make wine from wine mash. Takes 5.8 days to make</Make_Wine.description>
+
+
+  <!-- ___________________JerkyRack_____________________ -->
+
+  <Make_Jerky.label>make jerky</Make_Jerky.label>
+  <Make_Jerky.description>Make jerky meat. Takes 2 days to make</Make_Jerky.description>
+
+  <Make_Jerky_x5.label>make jerky x5</Make_Jerky_x5.label>
+  <Make_Jerky_x5.description>Make jerky meat x5. Takes 2 days to make</Make_Jerky_x5.description>
+
+
+  <!-- ___________________DryingRack_____________________ -->
+
+  <Make_Tobacco.label>make dried tobacco</Make_Tobacco.label>
+  <Make_Tobacco.description>Make dried tobacco. Takes 3 days to make</Make_Tobacco.description>
+
+  <Make_Tobacco_x5.label>make dried tobacco x5</Make_Tobacco_x5.label>
+  <Make_Tobacco_x5.description>Make dried tobacco x5. Takes 3 days to make</Make_Tobacco_x5.description>
+
+  <Make_Smokeleaf.label>make dried smokeleaf</Make_Smokeleaf.label>
+  <Make_Smokeleaf.description>Make dried smokeleaf. Takes 4 days to make</Make_Smokeleaf.description>
+
+  <Make_Smokeleaf_x5.label>make dried smokeleaf x5</Make_Smokeleaf_x5.label>
+  <Make_Smokeleaf_x5.description>Make dried smokeleaf x5. Takes 4 days to make</Make_Smokeleaf_x5.description>
+
+  <Make_DriedFruit.label>make dried fruit</Make_DriedFruit.label>
+  <Make_DriedFruit.description>Make dried fruit. Takes 2 days to make</Make_DriedFruit.description>
+
+  <Make_DriedFruit_x5.label>make dried fruit x5</Make_DriedFruit_x5.label>
+  <Make_DriedFruit_x5.description>Make dried fruit x5. Takes 2 days to make</Make_DriedFruit_x5.description>
+
+
+  <!-- ___________________CheeseBasin_____________________ -->
+
+  <Make_Cheese.label>make cheese</Make_Cheese.label>
+  <Make_Cheese.description>Make cheese. Takes 4 days to make</Make_Cheese.description>
+
+  <Make_Cheese_x5.label>make cheese x5</Make_Cheese_x5.label>
+  <Make_Cheese_x5.description>Make cheese x5. Takes 4 days to make</Make_Cheese_x5.description>
+
+  <Make_AgedCheese.label>make aged cheese</Make_AgedCheese.label>
+  <Make_AgedCheese.description>Make aged cheese. Takes 8 days to make</Make_AgedCheese.description>
+
+  <Make_AgedCheese_x5.label>make aged cheese x5</Make_AgedCheese_x5.label>
+  <Make_AgedCheese_x5.description>Make aged cheese x5. Takes 8 days to make</Make_AgedCheese_x5.description>
+
+
+  <!-- ___________________SilagePile_____________________ -->
+
+  <Make_Silage.label>make silage</Make_Silage.label>
+  <Make_Silage.description>Make silage from plants. Takes 20 days to make</Make_Silage.description>
+
+
+  <!-- ___________________CompostBarrel_____________________ -->
+
+  <Make_Fertilizer.label>make fertilizer</Make_Fertilizer.label>
+  <Make_Fertilizer.description>Make fertilizer. Takes 2.8 days to make</Make_Fertilizer.description>
+
+  <Make_Fertilizer_x5.label>make fertilizer x5</Make_Fertilizer_x5.label>
+  <Make_Fertilizer_x5.description>Make fertilizer x5. Takes 2.8 days to make</Make_Fertilizer_x5.description>
+
+
+  <!-- ___________________Saltpeter_pit_____________________ -->
+
+  <Make_Nitre_Body.label>Extracts nitre from body</Make_Nitre_Body.label>
+  <Make_Nitre_Body.description>Extract nitre from corpse. Takes 10 days to make</Make_Nitre_Body.description>
+
+  <Make_Nitre_Mush.label>Extracts nitre from mush</Make_Nitre_Mush.label>
+  <Make_Nitre_Mush.description>Extract nitre from rotted mush. Takes 10 days to make</Make_Nitre_Mush.description>
+
+
+  <!-- ___________________TableOrganvat_____________________ -->
+
+  <ExtractBiomatterCorpse.label>extract biomatter from corpse</ExtractBiomatterCorpse.label>
+  <ExtractBiomatterCorpse.description>Extracts BioMatter from a corpse. Produces depend on size of dead body and his wholeness. Takes 1.5 days to make</ExtractBiomatterCorpse.description>
+
+  <Grow_Eye.label>Grow eye</Grow_Eye.label>
+  <Grow_Eye.description>Grow a natural eye. Takes 1.5 days to make</Grow_Eye.description>
+
+  <Grow_Ear.label>Grow ear</Grow_Ear.label>
+  <Grow_Ear.description>Grow a natural ear. Takes 1.5 days to make</Grow_Ear.description>
+
+  <Grow_Nose.label>Grow nose</Grow_Nose.label>
+  <Grow_Nose.description>Grow a natural nose. Takes 1.5 days to make</Grow_Nose.description>
+
+  <Grow_Heart.label>Grow heart</Grow_Heart.label>
+  <Grow_Heart.description>Grow a natural heart. Takes 1.5 days to make</Grow_Heart.description>
+
+  <Grow_Lung.label>Grow lung</Grow_Lung.label>
+  <Grow_Lung.description>Grow a natural lung. Takes 1.5 days to make</Grow_Lung.description>
+
+  <Grow_Liver.label>Grow liver</Grow_Liver.label>
+  <Grow_Liver.description>Grow a natural liver. Takes 1.5 days to make</Grow_Liver.description>
+
+  <Grow_Kidney.label>Grow kidney</Grow_Kidney.label>
+  <Grow_Kidney.description>Grow a natural kidney. Takes 1.5 days to make</Grow_Kidney.description>
+
+  <Grow_Stomach.label>Grow stomach</Grow_Stomach.label>
+  <Grow_Stomach.description>Grow a natural stomach. Takes 1.5 days to make</Grow_Stomach.description>
+
+
+  <!-- ___________________BiofuelRefinery_____________________ -->
+
+  <Make_ChemfuelFromWood.label>make chemfuel from wood</Make_ChemfuelFromWood.label>
+  <Make_ChemfuelFromWood.description>Make a batch of chemfuel by extracting and condensing wood gas from logs. Takes 1.5 days to make</Make_ChemfuelFromWood.description>
+
+  <Make_ChemfuelFromOrganics.label>make chemfuel from organics</Make_ChemfuelFromOrganics.label>
+  <Make_ChemfuelFromOrganics.description>Make a batch of chemfuel by extracting biofuel from organic feedstocks. Takes 1.5 days to make</Make_ChemfuelFromOrganics.description>
+
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AITend.reportString>tending to TargetA.</AITend.reportString>
+  <AddConsciousnessBuff.reportString>applying medical aid to TargetA.</AddConsciousnessBuff.reportString>
+  <LootItem.reportString>Looting TargetA.</LootItem.reportString>
+
+
+</LanguageData>

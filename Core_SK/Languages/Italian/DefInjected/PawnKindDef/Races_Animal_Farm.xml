@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Farm -->
+
+  <Pig.label>pig</Pig.label>
+  <Pig.labelPlural>pigs</Pig.labelPlural>
+  <Pig.labelMale>male pig</Pig.labelMale>
+  <Pig.labelMalePlural>male pigs</Pig.labelMalePlural>
+  <Pig.labelFemale>sow</Pig.labelFemale>
+  <Pig.labelFemalePlural>sows</Pig.labelFemalePlural>
+  <Pig.lifeStages.0.label>piglet</Pig.lifeStages.0.label>
+  <Pig.lifeStages.0.labelPlural>piglets</Pig.lifeStages.0.labelPlural>
+  <Pig.lifeStages.0.labelMale>male piglet</Pig.lifeStages.0.labelMale>
+  <Pig.lifeStages.0.labelMalePlural>male piglets</Pig.lifeStages.0.labelMalePlural>
+  <Pig.lifeStages.0.labelFemale>female piglet</Pig.lifeStages.0.labelFemale>
+  <Pig.lifeStages.0.labelFemalePlural>female piglets</Pig.lifeStages.0.labelFemalePlural>
+  <Pig.lifeStages.1.label>pig</Pig.lifeStages.1.label>
+  <Pig.lifeStages.1.labelPlural>pig</Pig.lifeStages.1.labelPlural>
+  <Pig.lifeStages.1.labelMale>male pig</Pig.lifeStages.1.labelMale>
+  <Pig.lifeStages.1.labelMalePlural>male pigs</Pig.lifeStages.1.labelMalePlural>
+  <Pig.lifeStages.1.labelFemale>sow</Pig.lifeStages.1.labelFemale>
+  <Pig.lifeStages.1.labelFemalePlural>female pigs</Pig.lifeStages.1.labelFemalePlural>
+  <Pig.lifeStages.2.label>pig</Pig.lifeStages.2.label>
+  <Pig.lifeStages.2.labelPlural>pig</Pig.lifeStages.2.labelPlural>
+  <Pig.lifeStages.2.labelMale>male pig</Pig.lifeStages.2.labelMale>
+  <Pig.lifeStages.2.labelMalePlural>male pigs</Pig.lifeStages.2.labelMalePlural>
+  <Pig.lifeStages.2.labelFemale>sow</Pig.lifeStages.2.labelFemale>
+  <Pig.lifeStages.2.labelFemalePlural>female pigs</Pig.lifeStages.2.labelFemalePlural>
+
+  <Cow.label>cow</Cow.label>
+  <Cow.labelPlural>cows</Cow.labelPlural>
+  <Cow.labelMale>bull</Cow.labelMale>
+  <Cow.labelMalePlural>bulls</Cow.labelMalePlural>
+  <Cow.labelFemale>cow</Cow.labelFemale>
+  <Cow.labelFemalePlural>cows</Cow.labelFemalePlural>
+  <Cow.lifeStages.0.label>calf</Cow.lifeStages.0.label>
+  <Cow.lifeStages.0.labelPlural>calfs</Cow.lifeStages.0.labelPlural>
+  <Cow.lifeStages.0.labelMale>male calf</Cow.lifeStages.0.labelMale>
+  <Cow.lifeStages.0.labelMalePlural>male calfs</Cow.lifeStages.0.labelMalePlural>
+  <Cow.lifeStages.0.labelFemale>female calf</Cow.lifeStages.0.labelFemale>
+  <Cow.lifeStages.0.labelFemalePlural>female calfs</Cow.lifeStages.0.labelFemalePlural>
+  <Cow.lifeStages.1.label>cow</Cow.lifeStages.1.label>
+  <Cow.lifeStages.1.labelPlural>cow</Cow.lifeStages.1.labelPlural>
+  <Cow.lifeStages.1.labelMale>bull</Cow.lifeStages.1.labelMale>
+  <Cow.lifeStages.1.labelMalePlural>male cows</Cow.lifeStages.1.labelMalePlural>
+  <Cow.lifeStages.1.labelFemale>cow</Cow.lifeStages.1.labelFemale>
+  <Cow.lifeStages.1.labelFemalePlural>female cows</Cow.lifeStages.1.labelFemalePlural>
+  <Cow.lifeStages.2.label>cow</Cow.lifeStages.2.label>
+  <Cow.lifeStages.2.labelPlural>cow</Cow.lifeStages.2.labelPlural>
+  <Cow.lifeStages.2.labelMale>bull</Cow.lifeStages.2.labelMale>
+  <Cow.lifeStages.2.labelMalePlural>male cows</Cow.lifeStages.2.labelMalePlural>
+  <Cow.lifeStages.2.labelFemale>cow</Cow.lifeStages.2.labelFemale>
+  <Cow.lifeStages.2.labelFemalePlural>female cows</Cow.lifeStages.2.labelFemalePlural>
+
+  <Alpaca.label>Alpaca</Alpaca.label>
+  <Alpaca.labelPlural>Alpacas</Alpaca.labelPlural>
+  <Alpaca.labelMale>male Alpaca</Alpaca.labelMale>
+  <Alpaca.labelMalePlural>male Alpacas</Alpaca.labelMalePlural>
+  <Alpaca.labelFemale>female Alpaca</Alpaca.labelFemale>
+  <Alpaca.labelFemalePlural>female Alpacas</Alpaca.labelFemalePlural>
+  <Alpaca.lifeStages.0.label>Alpaca</Alpaca.lifeStages.0.label>
+  <Alpaca.lifeStages.0.labelPlural>Alpaca</Alpaca.lifeStages.0.labelPlural>
+  <Alpaca.lifeStages.0.labelMale>male Alpaca</Alpaca.lifeStages.0.labelMale>
+  <Alpaca.lifeStages.0.labelMalePlural>male Alpacas</Alpaca.lifeStages.0.labelMalePlural>
+  <Alpaca.lifeStages.0.labelFemale>female Alpaca</Alpaca.lifeStages.0.labelFemale>
+  <Alpaca.lifeStages.0.labelFemalePlural>female Alpacas</Alpaca.lifeStages.0.labelFemalePlural>
+  <Alpaca.lifeStages.1.label>Alpaca</Alpaca.lifeStages.1.label>
+  <Alpaca.lifeStages.1.labelPlural>Alpaca</Alpaca.lifeStages.1.labelPlural>
+  <Alpaca.lifeStages.1.labelMale>male Alpaca</Alpaca.lifeStages.1.labelMale>
+  <Alpaca.lifeStages.1.labelMalePlural>male Alpacas</Alpaca.lifeStages.1.labelMalePlural>
+  <Alpaca.lifeStages.1.labelFemale>female Alpaca</Alpaca.lifeStages.1.labelFemale>
+  <Alpaca.lifeStages.1.labelFemalePlural>female Alpacas</Alpaca.lifeStages.1.labelFemalePlural>
+  <Alpaca.lifeStages.2.label>Alpaca</Alpaca.lifeStages.2.label>
+  <Alpaca.lifeStages.2.labelPlural>Alpaca</Alpaca.lifeStages.2.labelPlural>
+  <Alpaca.lifeStages.2.labelMale>male Alpaca</Alpaca.lifeStages.2.labelMale>
+  <Alpaca.lifeStages.2.labelMalePlural>male Alpacas</Alpaca.lifeStages.2.labelMalePlural>
+  <Alpaca.lifeStages.2.labelFemale>female Alpaca</Alpaca.lifeStages.2.labelFemale>
+  <Alpaca.lifeStages.2.labelFemalePlural>female Alpacas</Alpaca.lifeStages.2.labelFemalePlural>
+
+  <Bison.label>bison</Bison.label>
+  <Bison.labelPlural>bisons</Bison.labelPlural>
+  <Bison.labelMale>male bison</Bison.labelMale>
+  <Bison.labelMalePlural>male bisons</Bison.labelMalePlural>
+  <Bison.labelFemale>female bison</Bison.labelFemale>
+  <Bison.labelFemalePlural>female bisons</Bison.labelFemalePlural>
+  <Bison.lifeStages.0.label>bison calf</Bison.lifeStages.0.label>
+  <Bison.lifeStages.0.labelPlural>bison calves</Bison.lifeStages.0.labelPlural>
+  <Bison.lifeStages.0.labelMale>male bison calf</Bison.lifeStages.0.labelMale>
+  <Bison.lifeStages.0.labelMalePlural>male bison calves</Bison.lifeStages.0.labelMalePlural>
+  <Bison.lifeStages.0.labelFemale>female bison calf</Bison.lifeStages.0.labelFemale>
+  <Bison.lifeStages.0.labelFemalePlural>female bison calves</Bison.lifeStages.0.labelFemalePlural>
+  <Bison.lifeStages.1.label>bison</Bison.lifeStages.1.label>
+  <Bison.lifeStages.1.labelPlural>bison</Bison.lifeStages.1.labelPlural>
+  <Bison.lifeStages.1.labelMale>male bison</Bison.lifeStages.1.labelMale>
+  <Bison.lifeStages.1.labelMalePlural>male bisons</Bison.lifeStages.1.labelMalePlural>
+  <Bison.lifeStages.1.labelFemale>female bison</Bison.lifeStages.1.labelFemale>
+  <Bison.lifeStages.1.labelFemalePlural>female bisons</Bison.lifeStages.1.labelFemalePlural>
+  <Bison.lifeStages.2.label>bison</Bison.lifeStages.2.label>
+  <Bison.lifeStages.2.labelPlural>bison</Bison.lifeStages.2.labelPlural>
+  <Bison.lifeStages.2.labelMale>male bison</Bison.lifeStages.2.labelMale>
+  <Bison.lifeStages.2.labelMalePlural>male bisons</Bison.lifeStages.2.labelMalePlural>
+  <Bison.lifeStages.2.labelFemale>female bison</Bison.lifeStages.2.labelFemale>
+  <Bison.lifeStages.2.labelFemalePlural>female bisons</Bison.lifeStages.2.labelFemalePlural>
+
+  <Goat.label>goat</Goat.label>
+  <Goat.labelPlural>goats</Goat.labelPlural>
+  <Goat.labelMale>male goat</Goat.labelMale>
+  <Goat.labelMalePlural>male goats</Goat.labelMalePlural>
+  <Goat.labelFemale>goat doe</Goat.labelFemale>
+  <Goat.labelFemalePlural>goat does</Goat.labelFemalePlural>
+  <Goat.lifeStages.0.label>baby goat</Goat.lifeStages.0.label>
+  <Goat.lifeStages.0.labelPlural>baby goats</Goat.lifeStages.0.labelPlural>
+  <Goat.lifeStages.0.labelMale>male baby goat</Goat.lifeStages.0.labelMale>
+  <Goat.lifeStages.0.labelMalePlural>male baby goats</Goat.lifeStages.0.labelMalePlural>
+  <Goat.lifeStages.0.labelFemale>female baby goat</Goat.lifeStages.0.labelFemale>
+  <Goat.lifeStages.0.labelFemalePlural>female baby goats</Goat.lifeStages.0.labelFemalePlural>
+  <Goat.lifeStages.1.label>goat</Goat.lifeStages.1.label>
+  <Goat.lifeStages.1.labelPlural>goat</Goat.lifeStages.1.labelPlural>
+  <Goat.lifeStages.1.labelMale>male goat</Goat.lifeStages.1.labelMale>
+  <Goat.lifeStages.1.labelMalePlural>male goats</Goat.lifeStages.1.labelMalePlural>
+  <Goat.lifeStages.1.labelFemale>goat doe</Goat.lifeStages.1.labelFemale>
+  <Goat.lifeStages.1.labelFemalePlural>female goats</Goat.lifeStages.1.labelFemalePlural>
+  <Goat.lifeStages.2.label>goat</Goat.lifeStages.2.label>
+  <Goat.lifeStages.2.labelPlural>goat</Goat.lifeStages.2.labelPlural>
+  <Goat.lifeStages.2.labelMale>male goat</Goat.lifeStages.2.labelMale>
+  <Goat.lifeStages.2.labelMalePlural>male goats</Goat.lifeStages.2.labelMalePlural>
+  <Goat.lifeStages.2.labelFemale>goat doe</Goat.lifeStages.2.labelFemale>
+  <Goat.lifeStages.2.labelFemalePlural>female goats</Goat.lifeStages.2.labelFemalePlural>
+
+  <Yak.label>yak</Yak.label>
+  <Yak.labelPlural>yaks</Yak.labelPlural>
+  <Yak.labelMale>yak</Yak.labelMale>
+  <Yak.labelMalePlural>yaks</Yak.labelMalePlural>
+  <Yak.labelFemale>female yak</Yak.labelFemale>
+  <Yak.labelFemalePlural>female yaks</Yak.labelFemalePlural>
+  <Yak.lifeStages.0.label>yak calf</Yak.lifeStages.0.label>
+  <Yak.lifeStages.0.labelPlural>yak calves</Yak.lifeStages.0.labelPlural>
+  <Yak.lifeStages.0.labelMale>male yak calf</Yak.lifeStages.0.labelMale>
+  <Yak.lifeStages.0.labelMalePlural>male yak calves</Yak.lifeStages.0.labelMalePlural>
+  <Yak.lifeStages.0.labelFemale>female yak calf</Yak.lifeStages.0.labelFemale>
+  <Yak.lifeStages.0.labelFemalePlural>female yak calves</Yak.lifeStages.0.labelFemalePlural>
+  <Yak.lifeStages.1.label>yak</Yak.lifeStages.1.label>
+  <Yak.lifeStages.1.labelPlural>yak</Yak.lifeStages.1.labelPlural>
+  <Yak.lifeStages.1.labelMale>yak</Yak.lifeStages.1.labelMale>
+  <Yak.lifeStages.1.labelMalePlural>male yaks</Yak.lifeStages.1.labelMalePlural>
+  <Yak.lifeStages.1.labelFemale>female yak</Yak.lifeStages.1.labelFemale>
+  <Yak.lifeStages.1.labelFemalePlural>female yaks</Yak.lifeStages.1.labelFemalePlural>
+  <Yak.lifeStages.2.label>yak</Yak.lifeStages.2.label>
+  <Yak.lifeStages.2.labelPlural>yak</Yak.lifeStages.2.labelPlural>
+  <Yak.lifeStages.2.labelMale>yak</Yak.lifeStages.2.labelMale>
+  <Yak.lifeStages.2.labelMalePlural>male yaks</Yak.lifeStages.2.labelMalePlural>
+  <Yak.lifeStages.2.labelFemale>female yak</Yak.lifeStages.2.labelFemale>
+  <Yak.lifeStages.2.labelFemalePlural>female yaks</Yak.lifeStages.2.labelFemalePlural>
+
+  <GuineaPig.label>guinea pig</GuineaPig.label>
+  <GuineaPig.labelPlural>guinea pigs</GuineaPig.labelPlural>
+  <GuineaPig.labelMale>male guinea pig</GuineaPig.labelMale>
+  <GuineaPig.labelMalePlural>male guinea pigs</GuineaPig.labelMalePlural>
+  <GuineaPig.labelFemale>female guinea pig</GuineaPig.labelFemale>
+  <GuineaPig.labelFemalePlural>female guinea pigs</GuineaPig.labelFemalePlural>
+  <GuineaPig.lifeStages.0.label>guinea pig</GuineaPig.lifeStages.0.label>
+  <GuineaPig.lifeStages.0.labelPlural>guinea pig</GuineaPig.lifeStages.0.labelPlural>
+  <GuineaPig.lifeStages.0.labelMale>male guinea pig</GuineaPig.lifeStages.0.labelMale>
+  <GuineaPig.lifeStages.0.labelMalePlural>male guinea pigs</GuineaPig.lifeStages.0.labelMalePlural>
+  <GuineaPig.lifeStages.0.labelFemale>female guinea pig</GuineaPig.lifeStages.0.labelFemale>
+  <GuineaPig.lifeStages.0.labelFemalePlural>female guinea pigs</GuineaPig.lifeStages.0.labelFemalePlural>
+  <GuineaPig.lifeStages.1.label>guinea pig</GuineaPig.lifeStages.1.label>
+  <GuineaPig.lifeStages.1.labelPlural>guinea pig</GuineaPig.lifeStages.1.labelPlural>
+  <GuineaPig.lifeStages.1.labelMale>male guinea pig</GuineaPig.lifeStages.1.labelMale>
+  <GuineaPig.lifeStages.1.labelMalePlural>male guinea pigs</GuineaPig.lifeStages.1.labelMalePlural>
+  <GuineaPig.lifeStages.1.labelFemale>female guinea pig</GuineaPig.lifeStages.1.labelFemale>
+  <GuineaPig.lifeStages.1.labelFemalePlural>female guinea pigs</GuineaPig.lifeStages.1.labelFemalePlural>
+  <GuineaPig.lifeStages.2.label>guinea pig</GuineaPig.lifeStages.2.label>
+  <GuineaPig.lifeStages.2.labelPlural>guinea pig</GuineaPig.lifeStages.2.labelPlural>
+  <GuineaPig.lifeStages.2.labelMale>male guinea pig</GuineaPig.lifeStages.2.labelMale>
+  <GuineaPig.lifeStages.2.labelMalePlural>male guinea pigs</GuineaPig.lifeStages.2.labelMalePlural>
+  <GuineaPig.lifeStages.2.labelFemale>female guinea pig</GuineaPig.lifeStages.2.labelFemale>
+  <GuineaPig.lifeStages.2.labelFemalePlural>female guinea pigs</GuineaPig.lifeStages.2.labelFemalePlural>
+
+  <Donkey.label>donkey</Donkey.label>
+  <Donkey.labelPlural>donkeys</Donkey.labelPlural>
+  <Donkey.labelMale>male donkey</Donkey.labelMale>
+  <Donkey.labelMalePlural>male donkeys</Donkey.labelMalePlural>
+  <Donkey.labelFemale>female donkey</Donkey.labelFemale>
+  <Donkey.labelFemalePlural>female donkeys</Donkey.labelFemalePlural>
+  <Donkey.lifeStages.0.label>donkey foal</Donkey.lifeStages.0.label>
+  <Donkey.lifeStages.0.labelPlural>donkey foals</Donkey.lifeStages.0.labelPlural>
+  <Donkey.lifeStages.0.labelMale>male donkey foal</Donkey.lifeStages.0.labelMale>
+  <Donkey.lifeStages.0.labelMalePlural>male donkey foals</Donkey.lifeStages.0.labelMalePlural>
+  <Donkey.lifeStages.0.labelFemale>female donkey foal</Donkey.lifeStages.0.labelFemale>
+  <Donkey.lifeStages.0.labelFemalePlural>female donkey foals</Donkey.lifeStages.0.labelFemalePlural>
+  <Donkey.lifeStages.1.label>donkey</Donkey.lifeStages.1.label>
+  <Donkey.lifeStages.1.labelPlural>donkey</Donkey.lifeStages.1.labelPlural>
+  <Donkey.lifeStages.1.labelMale>male donkey</Donkey.lifeStages.1.labelMale>
+  <Donkey.lifeStages.1.labelMalePlural>male donkeys</Donkey.lifeStages.1.labelMalePlural>
+  <Donkey.lifeStages.1.labelFemale>female donkey</Donkey.lifeStages.1.labelFemale>
+  <Donkey.lifeStages.1.labelFemalePlural>female donkeys</Donkey.lifeStages.1.labelFemalePlural>
+  <Donkey.lifeStages.2.label>donkey</Donkey.lifeStages.2.label>
+  <Donkey.lifeStages.2.labelPlural>donkey</Donkey.lifeStages.2.labelPlural>
+  <Donkey.lifeStages.2.labelMale>male donkey</Donkey.lifeStages.2.labelMale>
+  <Donkey.lifeStages.2.labelMalePlural>male donkeys</Donkey.lifeStages.2.labelMalePlural>
+  <Donkey.lifeStages.2.labelFemale>female donkey</Donkey.lifeStages.2.labelFemale>
+  <Donkey.lifeStages.2.labelFemalePlural>female donkeys</Donkey.lifeStages.2.labelFemalePlural>
+
+
+</LanguageData>

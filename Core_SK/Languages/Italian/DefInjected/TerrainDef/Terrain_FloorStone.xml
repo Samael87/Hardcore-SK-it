@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FloorStoneSlabsSandstone.label>sandstone slabs</FloorStoneSlabsSandstone.label>
+  <FloorStoneSlabsSandstone.description>Sandstone flooring made with square slabs. 
+Beauty: 4.</FloorStoneSlabsSandstone.description>
+
+  <FloorStoneSlabsGranite.label>granite slabs</FloorStoneSlabsGranite.label>
+  <FloorStoneSlabsGranite.description>Granite flooring made with square slabs.
+Beauty: 4.</FloorStoneSlabsGranite.description>
+
+  <FloorStoneSlabsLimestone.label>limestone slabs</FloorStoneSlabsLimestone.label>
+  <FloorStoneSlabsLimestone.description>Limestone flooring made with square slabs. 
+Beauty: 4.</FloorStoneSlabsLimestone.description>
+
+  <FloorStoneSlabsSlate.label>slate slabs</FloorStoneSlabsSlate.label>
+  <FloorStoneSlabsSlate.description>Slate flooring made with square slabs. 
+Beauty: 5.</FloorStoneSlabsSlate.description>
+
+  <FloorStoneSlabsMarble.label>marble slabs</FloorStoneSlabsMarble.label>
+  <FloorStoneSlabsMarble.description>Marble flooring made with square slabs. 
+Beauty: 5.</FloorStoneSlabsMarble.description>
+
+  <FloorStoneSlabsCeramics.label>Ceramic slabs</FloorStoneSlabsCeramics.label>
+  <FloorStoneSlabsCeramics.description>Ceramics flooring made with square slabs. 
+Beauty: 5.</FloorStoneSlabsCeramics.description>
+
+  <FloorStoneHexSandstone.label>sandstone hex paving</FloorStoneHexSandstone.label>
+  <FloorStoneHexSandstone.description>Sandstone paving with hexagonal tiles. 
+Beauty: 4.</FloorStoneHexSandstone.description>
+
+  <FloorStoneHexGranite.label>granite hex paving</FloorStoneHexGranite.label>
+  <FloorStoneHexGranite.description>Granite paving with hexagonal tiles.
+Beauty: 4.</FloorStoneHexGranite.description>
+
+  <FloorStoneHexLimestone.label>limestone hex paving</FloorStoneHexLimestone.label>
+  <FloorStoneHexLimestone.description>Limestone paving with hexagonal tiles. 
+Beauty: 4.</FloorStoneHexLimestone.description>
+
+  <FloorStoneHexSlate.label>slate hex paving</FloorStoneHexSlate.label>
+  <FloorStoneHexSlate.description>Slate paving with hexagonal tiles. 
+Beauty: 5.</FloorStoneHexSlate.description>
+
+  <FloorStoneHexMarble.label>marble hex paving</FloorStoneHexMarble.label>
+  <FloorStoneHexMarble.description>Marble paving with hexagonal tiles. 
+Beauty: 5.</FloorStoneHexMarble.description>
+
+  <FloorStoneHexCeramics.label>Ceramic hex paving</FloorStoneHexCeramics.label>
+  <FloorStoneHexCeramics.description>Ceramics paving with hexagonal tiles. 
+Beauty: 5.</FloorStoneHexCeramics.description>
+
+  <FloorStoneMosaicSandstone.label>sandstone mosaic paving</FloorStoneMosaicSandstone.label>
+  <FloorStoneMosaicSandstone.description>Sandstone paving with a light/dark mosaic. 
+Beauty: 4.</FloorStoneMosaicSandstone.description>
+
+  <FloorStoneMosaicGranite.label>granite mosaic paving</FloorStoneMosaicGranite.label>
+  <FloorStoneMosaicGranite.description>Granite paving with a light/dark mosaic. 
+Beauty: 4.</FloorStoneMosaicGranite.description>
+
+  <FloorStoneMosaicLimestone.label>limestone mosaic paving</FloorStoneMosaicLimestone.label>
+  <FloorStoneMosaicLimestone.description>Limestone paving with a light/dark mosaic. 
+Beauty: 4.</FloorStoneMosaicLimestone.description>
+
+  <FloorStoneMosaicSlate.label>slate mosaic paving</FloorStoneMosaicSlate.label>
+  <FloorStoneMosaicSlate.description>Slate paving with a light/dark mosaic. 
+Beauty: 5.</FloorStoneMosaicSlate.description>
+
+  <FloorStoneMosaicMarble.label>marble mosaic paving</FloorStoneMosaicMarble.label>
+  <FloorStoneMosaicMarble.description>Marble paving with a light/dark mosaic. 
+Beauty: 5.</FloorStoneMosaicMarble.description>
+
+  <FloorStoneMosaicClayBrick.label>Clay brick mosaic paving</FloorStoneMosaicClayBrick.label>
+  <FloorStoneMosaicClayBrick.description>Clay brick paving with a light/dark mosaic. 
+Beauty: 5.</FloorStoneMosaicClayBrick.description>
+
+  <FloorStoneMosaicCeramics.label>Ceramics mosaic paving</FloorStoneMosaicCeramics.label>
+  <FloorStoneMosaicCeramics.description>Ceramic paving with a light/dark mosaic. 
+Beauty: 5.</FloorStoneMosaicCeramics.description>
+
+  <FloorStoneRoughSandstone.label>rough sandstone paving</FloorStoneRoughSandstone.label>
+  <FloorStoneRoughSandstone.description>Sandstone stone paving. 
+Beauty: 2.</FloorStoneRoughSandstone.description>
+
+  <FloorStoneRoughGranite.label>rough granite paving</FloorStoneRoughGranite.label>
+  <FloorStoneRoughGranite.description>Rough stone paving.
+Beauty: 2.</FloorStoneRoughGranite.description>
+
+  <FloorStoneRoughLimestone.label>rough limestone paving</FloorStoneRoughLimestone.label>
+  <FloorStoneRoughLimestone.description>Rough stone paving.
+Beauty: 2.</FloorStoneRoughLimestone.description>
+
+  <FloorStoneRoughSlate.label>rough slate paving</FloorStoneRoughSlate.label>
+  <FloorStoneRoughSlate.description>Rough stone paving.
+Beauty: 2.</FloorStoneRoughSlate.description>
+
+  <FloorStoneRoughMarble.label>rough marble paving</FloorStoneRoughMarble.label>
+  <FloorStoneRoughMarble.description>Rough stone paving.
+Beauty: 2.</FloorStoneRoughMarble.description>
+
+  <FloorStoneRoughCeramics.label>rough Ceramic paving</FloorStoneRoughCeramics.label>
+  <FloorStoneRoughCeramics.description>Rough stone paving.
+Beauty: 2.</FloorStoneRoughCeramics.description>
+
+  <FloorStoneRandomSandstone.label>random sandstone paving</FloorStoneRandomSandstone.label>
+  <FloorStoneRandomSandstone.description>Stone paving with random square and rectangular slabs.
+Beauty: 4.</FloorStoneRandomSandstone.description>
+
+  <FloorStoneRandomGranite.label>random granite paving</FloorStoneRandomGranite.label>
+  <FloorStoneRandomGranite.description>Stone paving with random square and rectangular slabs.
+Beauty: 4.</FloorStoneRandomGranite.description>
+
+  <FloorStoneRandomLimestone.label>random limestone paving</FloorStoneRandomLimestone.label>
+  <FloorStoneRandomLimestone.description>Stone paving with random square and rectangular slabs.
+Beauty: 4.</FloorStoneRandomLimestone.description>
+
+  <FloorStoneRandomSlate.label>random slate paving</FloorStoneRandomSlate.label>
+  <FloorStoneRandomSlate.description>Stone paving with random square and rectangular slabs.
+Beauty: 5.</FloorStoneRandomSlate.description>
+
+  <FloorStoneRandomMarble.label>random marble paving</FloorStoneRandomMarble.label>
+  <FloorStoneRandomMarble.description>Stone paving with random square and rectangular slabs.
+Beauty: 5.</FloorStoneRandomMarble.description>
+
+  <FloorStoneRandomClayBrick.label>random clay brick paving</FloorStoneRandomClayBrick.label>
+  <FloorStoneRandomClayBrick.description>Stone paving with random square and rectangular slabs.
+Beauty: 5.</FloorStoneRandomClayBrick.description>
+
+  <FloorStoneRandomCeramics.label>random Ceramic paving</FloorStoneRandomCeramics.label>
+  <FloorStoneRandomCeramics.description>Stone paving with random square and rectangular slabs.
+Beauty: 5.</FloorStoneRandomCeramics.description>
+
+  <FloorStoneStaggeredSandstone.label>sandstone staggered tiles</FloorStoneStaggeredSandstone.label>
+  <FloorStoneStaggeredSandstone.description>Sandstone tiles with rounded corners laid in a staggered pattern.
+Beauty: 5.</FloorStoneStaggeredSandstone.description>
+
+  <FloorStoneStaggeredGranite.label>granite slabs</FloorStoneStaggeredGranite.label>
+  <FloorStoneStaggeredGranite.description>Granite tiles with rounded corners laid in a staggered pattern.
+Beauty: 5.</FloorStoneStaggeredGranite.description>
+
+  <FloorStoneStaggeredLimestone.label>limestone slabs</FloorStoneStaggeredLimestone.label>
+  <FloorStoneStaggeredLimestone.description>Limestone tiles with rounded corners laid in a staggered pattern.
+Beauty: 5.</FloorStoneStaggeredLimestone.description>
+
+  <FloorStoneStaggeredSlate.label>slate slabs</FloorStoneStaggeredSlate.label>
+  <FloorStoneStaggeredSlate.description>Slate tiles with rounded corners laid in a staggered pattern.
+Beauty: 5.</FloorStoneStaggeredSlate.description>
+
+  <FloorStoneStaggeredMarble.label>marble slabs</FloorStoneStaggeredMarble.label>
+  <FloorStoneStaggeredMarble.description>Marble tiles with rounded corners laid in a staggered pattern.
+Beauty: 5.</FloorStoneStaggeredMarble.description>
+
+  <FloorStoneStaggeredCeramics.label>Ceramic slabs</FloorStoneStaggeredCeramics.label>
+  <FloorStoneStaggeredCeramics.description>Ceramics tiles with rounded corners laid in a staggered pattern.
+Beauty: 5.</FloorStoneStaggeredCeramics.description>
+
+  <FloorStoneStaggeredClayBrick.label>Ceramic slabs</FloorStoneStaggeredClayBrick.label>
+  <FloorStoneStaggeredClayBrick.description>Clay brick tiles with rounded corners laid in a staggered pattern.
+Beauty: 5.</FloorStoneStaggeredClayBrick.description>
+
+
+</LanguageData>

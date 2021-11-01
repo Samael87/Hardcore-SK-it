@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Improvised turret gun -->
+
+  <Gun_MiniTurret.label>Sentry light gun</Gun_MiniTurret.label>
+  <Gun_MiniTurret.description>Jury-rigged automatic gun attached to a turret.</Gun_MiniTurret.description>
+
+
+  <!-- Blaster Turret -->
+
+  <Gun_BlasterTurret.label>Sentry blaster gun</Gun_BlasterTurret.label>
+  <Gun_BlasterTurret.description>Charge blaster attached to a turret mount.</Gun_BlasterTurret.description>
+
+
+  <!-- turret laser gun -->
+
+  <Gun_TurretSniper.label>Laser Turret Gun</Gun_TurretSniper.label>
+  <Gun_TurretSniper.description>Laser gun for turret.</Gun_TurretSniper.description>
+
+
+  <!-- Heavy Turret -->
+
+  <Gun_AutocannonTurret.label>Sentry heavy gun</Gun_AutocannonTurret.label>
+  <Gun_AutocannonTurret.description>Large caliber gun on a turret mount.</Gun_AutocannonTurret.description>
+
+
+  <!-- Automated security gun -->
+
+  <Gun_NavalGun.label>Sentry naval cannon</Gun_NavalGun.label>
+  <Gun_NavalGun.description>35mm auto naval gun for heavy turrets.</Gun_NavalGun.description>
+
+
+  <!-- Sentry rocket launcher -->
+
+  <Gun_SentryRocketLauncher.label>Sentry rocket launcher</Gun_SentryRocketLauncher.label>
+  <Gun_SentryRocketLauncher.description>Rocket launcher for turret.</Gun_SentryRocketLauncher.description>
+
+
+</LanguageData>

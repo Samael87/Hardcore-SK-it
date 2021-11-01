@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BadTrip.label>Bad Trip</BadTrip.label>
+  <BadTrip.description>You, as truly law-abiding citizens of the intergalactic Hegemony, were resting peacefully and lawfully in a medical module on a station near the Ringworld Epsilon, when a sudden attack by mechanoids interrupted your law-abiding vacation, and you and your companions had to urgently separate your module from the main station. Since there was virtually no food in your module, you made the volitional decision to disconnect and dump your bodies from the cryo-capsules and put yourselves in them, trusting that the space wind would carry you to a planet with a peaceful civilization.</BadTrip.description>
+  <BadTrip.scenario.name>Bad Trip</BadTrip.scenario.name>
+  <BadTrip.scenario.description>You, as truly law-abiding citizens of the intergalactic Hegemony, were resting peacefully and lawfully in a medical module on a station near the Ringworld Epsilon, when a sudden attack by mechanoids interrupted your law-abiding vacation, and you and your companions had to urgently separate your module from the main station. Since there was virtually no food in your module, you made the volitional decision to disconnect and dump your bodies from the cryo-capsules and put yourselves in them, trusting that the space wind would carry you to a planet with a peaceful civilization.</BadTrip.scenario.description>
+  <BadTrip.scenario.summary>A campaign of drug addicts lost in space and crashed.</BadTrip.scenario.summary>
+  <BadTrip.scenario.parts.29.text>We had two bags of flakes, seventy-five pellets of psychoid leaves, five sheets of wake-up, a saltshaker half-full of yayo, and a whole galaxy of multi-colored methadones, penoxycylines, ibuprofens, ambrosias... Also, a few cases of tequila, rum, a case of beer, a pint of vodka, and one doze of luciferium. Not that we needed all that for the trip, but once you get locked into a serious drug collection, the tendency is to push it as far as you can. </BadTrip.scenario.parts.29.text>
+
+
+</LanguageData>

@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Insectoid.label>рой Инсектоидов</Insectoid.label>
-	<Insectoid.description>Улей генно-модифицированных насекомых, которые были первоначально созданы для борьбы против вторжения Механоидов. Для этого они были запрограммированы подчиняться своей королеве в улье, как в централизованной системе. К сожалению, в тот момент, когда они попробовали человеческое мясо, насекомые стали больше интересоваться людьми, чем Механоидами и теперь представляют собой большую опасность для человечества.</Insectoid.description>
-	<Insectoid.pawnsPlural>инсектоиды</Insectoid.pawnsPlural>
-	<Insectoid.fixedName>роя Инсектоидов</Insectoid.fixedName>
+  <Insectoid.label>Insectoid hive</Insectoid.label>
+  <Insectoid.description>A hive of gene-modified insects were originally created to fight against the Mechanoid invasion. To accomplish this feat they were programmed to faithfully follow their queen in a hive-like minded system. Unfortunately, the moment they tasted human flesh the insects became more interested in humans than the mechanoids and now pose a great danger to humanity.</Insectoid.description>
+  <Insectoid.pawnsPlural>insectoids</Insectoid.pawnsPlural>
+  <Insectoid.fixedName>insectoids</Insectoid.fixedName>
+
 
 </LanguageData>

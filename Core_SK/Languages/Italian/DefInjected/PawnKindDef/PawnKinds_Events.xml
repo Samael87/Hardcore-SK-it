@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Abomination.label>Нечто</Abomination.label>
-  <Abomination.labelPlural>Нечто</Abomination.labelPlural>
-  <Abomination.labelMale>Нечто</Abomination.labelMale>
-  <Abomination.labelMalePlural>Нечто</Abomination.labelMalePlural>
-  <Abomination.labelFemale>Нечто</Abomination.labelFemale>
-  <Abomination.labelFemalePlural>Нечто</Abomination.labelFemalePlural>
+  <Abomination.label>Abomination</Abomination.label>
+  <Abomination.labelPlural>Abominations</Abomination.labelPlural>
+  <Abomination.labelMale>male Abomination</Abomination.labelMale>
+  <Abomination.labelMalePlural>male Abominations</Abomination.labelMalePlural>
+  <Abomination.labelFemale>female Abomination</Abomination.labelFemale>
+  <Abomination.labelFemalePlural>female Abominations</Abomination.labelFemalePlural>
+
 
 </LanguageData>

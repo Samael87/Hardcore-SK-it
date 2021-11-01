@@ -1,30 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <IntestinalFailure.label>кишечная недостаточность</IntestinalFailure.label>
-  <IntestinalFailure.stages.2.label>при смерти</IntestinalFailure.stages.2.label>
-  <IntestinalFailure.labelNoun>кишечная недостаточность</IntestinalFailure.labelNoun>
+  <IntestinalFailure.label>intestinal failure</IntestinalFailure.label>
+  <IntestinalFailure.labelNoun>an intestinal failure</IntestinalFailure.labelNoun>
+  <IntestinalFailure.description>Your intestines are not working well</IntestinalFailure.description>
+  <IntestinalFailure.stages.2.label>near-death</IntestinalFailure.stages.2.label>
 
-  <LiverFailure.label>острая печеночная недостаточность</LiverFailure.label>
-  <LiverFailure.stages.1.label>при смерти</LiverFailure.stages.1.label>
-  <LiverFailure.labelNoun>острая печеночная недостаточность</LiverFailure.labelNoun>
+  <LiverFailure.label>acute liver failure</LiverFailure.label>
+  <LiverFailure.labelNoun>an acute liver failure</LiverFailure.labelNoun>
+  <LiverFailure.description>Your liver is not working well</LiverFailure.description>
+  <LiverFailure.stages.1.label>near-death</LiverFailure.stages.1.label>
 
-  <KidneyFailure.label>острая почечная недостаточность</KidneyFailure.label>
-  <KidneyFailure.stages.1.label>при смерти</KidneyFailure.stages.1.label>
-  <KidneyFailure.labelNoun>острая почечная недостаточность</KidneyFailure.labelNoun>
+  <KidneyFailure.label>acute renal failure</KidneyFailure.label>
+  <KidneyFailure.labelNoun>an acute renal failure</KidneyFailure.labelNoun>
+  <KidneyFailure.description>Your renal is not working well</KidneyFailure.description>
+  <KidneyFailure.stages.1.label>near-death</KidneyFailure.stages.1.label>
 
-  <ClinicalDeathNoHeartbeat.label>нет пульса</ClinicalDeathNoHeartbeat.label>
-  <ClinicalDeathNoHeartbeat.stages.1.label>клиническая смерть</ClinicalDeathNoHeartbeat.stages.1.label>
-  <ClinicalDeathNoHeartbeat.labelNoun>нет пульса</ClinicalDeathNoHeartbeat.labelNoun>
+  <ClinicalDeathNoHeartbeat.label>no pulse</ClinicalDeathNoHeartbeat.label>
+  <ClinicalDeathNoHeartbeat.labelNoun>a clinical death</ClinicalDeathNoHeartbeat.labelNoun>
+  <ClinicalDeathNoHeartbeat.description>Heart is stop beating</ClinicalDeathNoHeartbeat.description>
+  <ClinicalDeathNoHeartbeat.stages.1.label>clinical death</ClinicalDeathNoHeartbeat.stages.1.label>
 
-  <ClinicalDeathAsphyxiation.label>асфиксия</ClinicalDeathAsphyxiation.label>
-  <ClinicalDeathAsphyxiation.stages.1.label>клиническая смерть</ClinicalDeathAsphyxiation.stages.1.label>
-  <ClinicalDeathAsphyxiation.labelNoun>асфиксия</ClinicalDeathAsphyxiation.labelNoun>
+  <ClinicalDeathAsphyxiation.label>oxygen deprivation</ClinicalDeathAsphyxiation.label>
+  <ClinicalDeathAsphyxiation.labelNoun>an oxygen deprivation</ClinicalDeathAsphyxiation.labelNoun>
+  <ClinicalDeathAsphyxiation.description>Breath stopped</ClinicalDeathAsphyxiation.description>
+  <ClinicalDeathAsphyxiation.stages.1.label>clinical death</ClinicalDeathAsphyxiation.stages.1.label>
 
-  <Coma.label>кома</Coma.label>
-  <Coma.labelNoun>кома</Coma.labelNoun>
+  <Coma.label>coma</Coma.label>
+  <Coma.labelNoun>a coma</Coma.labelNoun>
+  <Coma.description>Fell into a coma</Coma.description>
 
-  <BrainDamage.label>повреждение мозга</BrainDamage.label>
-  <VegetativeState.label>вегетативное состояние</VegetativeState.label>
+  <BrainDamage.label>brain damage</BrainDamage.label>
+  <BrainDamage.description>Brain is damaged</BrainDamage.description>
+
+  <SevereBrainDamage.label>severe brain damage</SevereBrainDamage.label>
+  <SevereBrainDamage.description>Brain is seriously damaged</SevereBrainDamage.description>
+
+  <VegetativeState.label>vegetative state</VegetativeState.label>
+  <VegetativeState.description>Is in a vegetative state</VegetativeState.description>
+
 
 </LanguageData>

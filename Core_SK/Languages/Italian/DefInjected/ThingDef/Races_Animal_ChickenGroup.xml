@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Chicken -->
+
+  <Chicken.label>chicken</Chicken.label>
+  <Chicken.description>The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often.</Chicken.description>
+  <Chicken.tools.0.label>claws</Chicken.tools.0.label>
+  <Chicken.tools.1.label>beak</Chicken.tools.1.label>
+  <Chicken.tools.2.label>head</Chicken.tools.2.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Elephant -->
+  <Chicken_Corpse.label>chicken corpse</Chicken_Corpse.label>
+  <Chicken_Corpse.description>chicken corpse</Chicken_Corpse.description>
+
+
+  <!-- Duck -->
+
+  <Duck.label>duck</Duck.label>
+  <Duck.description>A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarely.</Duck.description>
+  <Duck.tools.0.label>claws</Duck.tools.0.label>
+  <Duck.tools.1.label>beak</Duck.tools.1.label>
+  <Duck.tools.2.label>head</Duck.tools.2.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Elephant -->
+  <Duck_Corpse.label>duck corpse</Duck_Corpse.label>
+  <Duck_Corpse.description>duck corpse</Duck_Corpse.description>
+
+
+  <!-- Duck -->
+
+  <Turkey.label>turkey</Turkey.label>
+  <Turkey.description>A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild.</Turkey.description>
+  <Turkey.tools.0.label>claws</Turkey.tools.0.label>
+  <Turkey.tools.2.label>head</Turkey.tools.2.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Muffalo -->
+  <Turkey_Corpse.label>turkey corpse</Turkey_Corpse.label>
+  <Turkey_Corpse.description>turkey corpse</Turkey_Corpse.description>
+
+
+  <!-- Duck -->
+
+  <Goose.label>goose</Goose.label>
+  <Goose.description>A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch.</Goose.description>
+  <Goose.tools.0.label>claws</Goose.tools.0.label>
+  <Goose.tools.1.label>beak</Goose.tools.1.label>
+  <Goose.tools.2.label>head</Goose.tools.2.label>
+  <Goose_Leather.label>goose leather</Goose_Leather.label>
+  <Goose_Leather.description>goose leather</Goose_Leather.description>
+  <Goose_Leather.stuffProps.stuffAdjective>goose leather</Goose_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Goose_Corpse.label>goose corpse</Goose_Corpse.label>
+  <Goose_Corpse.description>goose corpse</Goose_Corpse.description>
+
+
+</LanguageData>

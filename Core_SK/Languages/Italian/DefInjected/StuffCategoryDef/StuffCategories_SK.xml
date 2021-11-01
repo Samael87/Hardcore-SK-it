@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Matty.label>Matty</Matty.label>
+  <Precious.label>Precious</Precious.label>
+  <Metallic.label>Metallic</Metallic.label>
+  <RareMetallic.label>Rare metallic</RareMetallic.label>
+  <SolidMetallic.label>Solid metallic</SolidMetallic.label>
+  <HeavyMetallic.label>Heavy metallic</HeavyMetallic.label>
+  <StrongMetallic.label>Strong metallic</StrongMetallic.label>
+  <RuggedMetallic.label>Rugged metallic</RuggedMetallic.label>
+  <Woody.label>Wooden</Woody.label>
+  <Stony.label>Stony</Stony.label>
+  <Bricks.label>Bricks</Bricks.label>
+  <Fabric.label>Fabric</Fabric.label>
+  <HF.label>Hitech Fabric</HF.label>
+  <Leathery.label>Leathery</Leathery.label>
+  <Plastic.label>Plastic</Plastic.label>
+  <Ceramic.label>Ceramic</Ceramic.label>
+  <Glass.label>Glass</Glass.label>
+  <Parts.label>Parts</Parts.label>
+  <WoodLogs.label>Wood Logs</WoodLogs.label>
+  <Kindlingstuff.label>Kindling</Kindlingstuff.label>
+  <Foods.label>Foods</Foods.label>
+  <Stuff.label>Stuff</Stuff.label>
+  <Chemical.label>Chemical</Chemical.label>
+  <Hydrocarbons.label>Hydrocarbons</Hydrocarbons.label>
+  <Paint.label>Paint</Paint.label>
+
+
+</LanguageData>

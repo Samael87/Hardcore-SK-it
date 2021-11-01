@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- REALISTIC PRODUCTION SK MOD -->
+
+  <Silicon.label>silicon</Silicon.label>
+  <Silicon.description>Silicon is the one of the most common elements in the universe by mass, but very rarely occurs as the pure free element in nature. It can be produced by smelting Sand.</Silicon.description>
+
+  <Biomatter.label>biomatter</Biomatter.label>
+  <Biomatter.description>BioMatter can be extracted from a humanlike corpse. It can be used to grow natural organs in an Organ Vat.</Biomatter.description>
+
+  <Ash.label>ash</Ash.label>
+  <Ash.description>Ash is obtained by burning corpses or other materials in a crematorium or fire pit.</Ash.description>
+
+  <ConcreteResource.label>concrete</ConcreteResource.label>
+  <ConcreteResource.description>Concrete is a composite material composed of sand and rubble. It is a fluid material that bonds into a solid material over time. It can have metals added to create reinforced concrete, a durable and solid building material.</ConcreteResource.description>
+  <ConcreteResource.stuffProps.stuffAdjective>concrete</ConcreteResource.stuffProps.stuffAdjective>
+
+  <ClayBrick.label>clay bricks</ClayBrick.label>
+  <ClayBrick.description>A brick of hardened clay baked at a kiln. It can be used for construction purposes.</ClayBrick.description>
+  <ClayBrick.stuffProps.stuffAdjective>Clay Bricks</ClayBrick.stuffProps.stuffAdjective>
+
+  <Ceramics.label>Ceramics</Ceramics.label>
+  <Ceramics.description>Glazed ceramics made using high-temperature kiln. Smooth and beautiful but fragile.</Ceramics.description>
+  <Ceramics.stuffProps.stuffAdjective>Ceramic</Ceramics.stuffProps.stuffAdjective>
+
+
+  <!-- Matter -->
+
+  <Matter.label>inorganic matter</Matter.label>
+  <Matter.description>A container of inorganic matter. It can be made at an inorganic matter converter from various types of raw resources or refined into specific resources. It can be used to feed a hadron collider for antimatter production.</Matter.description>
+
+  <PileOfBooks.label>pile of books</PileOfBooks.label>
+  <PileOfBooks.description>A random assortment of books. Most are old and discarded classics, but occasionally a good quality book can be found.</PileOfBooks.description>
+
+  <PaintingSupplies.label>painting supplies</PaintingSupplies.label>
+  <PaintingSupplies.description>A large assortment of brushes and paints. Perfect for any aspiring artist.</PaintingSupplies.description>
+  <PaintingSupplies.stuffProps.stuffAdjective>painting supplies</PaintingSupplies.stuffProps.stuffAdjective>
+
+  <MineralSonarModule.label>mineral sonar module</MineralSonarModule.label>
+  <MineralSonarModule.description>This is a mineral sonar module. When deployed on the field with some energy packs, it can scan the surrounding area for metallic objects or hidden deposits of ores.</MineralSonarModule.description>
+
+
+  <!-- mai items -->
+
+  <RobotParts.label>robot parts</RobotParts.label>
+  <RobotParts.description>These parts could be used to create a robot.</RobotParts.description>
+
+  <MendingKit.label>mending kit</MendingKit.label>
+  <MendingKit.description>Miscellaneous cloth, bits and parts. Necessary for repairing weapons and mending apparel.</MendingKit.description>
+
+
+</LanguageData>

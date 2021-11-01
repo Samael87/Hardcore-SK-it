@@ -1,22 +1,61 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<ShipMechChunk.label>Обломок технического отсека</ShipMechChunk.label> 
-	<ShipMechChunk.description>Обломок космического корабля, а точнее - одного из его служебных отсеков. Содержит массу различных устройст и приборов и может быть разобран для получения различных механизмов, проводов и электронных компонентов.</ShipMechChunk.description> 
+  <!-- Note this is a ConditionCauser -->
 
-	<CrashedShipWreck.label>Разбившийся обломок корабля</CrashedShipWreck.label> 
-	
-	<ShipWreck.label>Обломок корабля</ShipWreck.label> 
-	
-	<Totem.label>Тотем</Totem.label> 
-	<Totem.description>Целый обломок материи, обработанный скульптором и превращённый в нечто, приятное глазу.</Totem.description> 
+  <PsychicDronerShipPart.label>ship part (psychic droner)</PsychicDronerShipPart.label>
+  <PsychicDronerShipPart.description>An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a psychic disturbance device. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself.</PsychicDronerShipPart.description>
 
-	<Cairn.label>Каирн</Cairn.label> 
-	<Cairn.description>Пирамидка из обломков материи, обработанная скульптором и превращённая в нечто, приятное глазу.</Cairn.description> 
 
-	<DropPodLanded.label>Обломок спасательной капсулы</DropPodLanded.label> 
-	
-	<ShipWreckLanded.label>Обломок корабля</ShipWreckLanded.label> 
-	
-	
+  <!-- Defoliator ship part -->
+
+  <DefoliatorShipPart.label>ship part (defoliator)</DefoliatorShipPart.label>
+  <DefoliatorShipPart.description>An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests during land, to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies.</DefoliatorShipPart.description>
+
+  <ShipMechChunk.label>ship mechanics chunk</ShipMechChunk.label>
+  <ShipMechChunk.description>A chunk of a spacecraft. Can be deconstructed to yield useful mechanisms, wire and electronic components.</ShipMechChunk.description>
+
+  <CrashedShipWreck.label>crashed ship wreck</CrashedShipWreck.label>
+  <ShipWreck.label>ship wreck</ShipWreck.label>
+
+  <ShipChunk.label>Ship chunk</ShipChunk.label>
+  <ShipChunk.description>A chunk of a spacecraft. Can be deconstructed to yield useful metals and components and mechanisms.</ShipChunk.description>
+
+  <Totem.label>totem</Totem.label>
+  <Totem.description>A person-sized piece of material sculpted into an artistic form.</Totem.description>
+  <Totem_Blueprint.label>totem (blueprint)</Totem_Blueprint.label>
+  <Totem_Frame.label>totem (building)</Totem_Frame.label>
+  <Totem_Frame.description>A person-sized piece of material sculpted into an artistic form.</Totem_Frame.description>
+
+  <Cairn.label>cairn</Cairn.label>
+  <Cairn.description>A person-sized piece of material sculpted into an artistic form.</Cairn.description>
+  <Cairn_Blueprint.label>cairn (blueprint)</Cairn_Blueprint.label>
+  <Cairn_Frame.label>cairn (building)</Cairn_Frame.label>
+  <Cairn_Frame.description>A person-sized piece of material sculpted into an artistic form.</Cairn_Frame.description>
+
+  <HeadPike.label>headpike</HeadPike.label>
+  <HeadPike.description>A head stuck on a pike, ooo scary.</HeadPike.description>
+  <HeadPike_Blueprint.label>headpike (blueprint)</HeadPike_Blueprint.label>
+  <HeadPike_Frame.label>headpike (building)</HeadPike_Frame.label>
+  <HeadPike_Frame.description>A head stuck on a pike, ooo scary.</HeadPike_Frame.description>
+
+  <AncientPowerPole.label>ancient power pole</AncientPowerPole.label>
+  <AncientPowerPole.description>Part of a long gone power network. No longer functional.</AncientPowerPole.description>
+
+  <ToxicSign.label>toxic sign</ToxicSign.label>
+  <ToxicSign.description>Road sign warning of toxic danger from long ago.</ToxicSign.description>
+
+  <ToxicBarrel.label>toxic barrel</ToxicBarrel.label>
+  <ToxicBarrel.description>Barrel of toxic waste from long ago still doing damage to its environment.</ToxicBarrel.description>
+
+  <APCWreck.label>destroyed apc</APCWreck.label>
+  <APCWreck.description>Wreck of an ancient armoured military vehicle. No longer functional.</APCWreck.description>
+
+
+  <!-- Landed Skyfallers -->
+
+  <DropPodLanded.label>drop pod wreckage</DropPodLanded.label>
+  <ShipWreckLanded.label>ship wreck</ShipWreckLanded.label>
+
+
 </LanguageData>

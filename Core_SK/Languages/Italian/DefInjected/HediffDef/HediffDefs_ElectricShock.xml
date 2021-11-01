@@ -1,8 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<ElectricShock.label>электрошок</ElectricShock.label>
-	<ElectricShock.injuryProps.destroyedLabel>уничтожено</ElectricShock.injuryProps.destroyedLabel>
-	<ElectricShock.labelNoun>электрошок</ElectricShock.labelNoun>
+  <ElectricShock.label>Electroshocked</ElectricShock.label>
+  <ElectricShock.labelNoun>an electric shock</ElectricShock.labelNoun>
+  <ElectricShock.description>Electric discharge greatly reduced run speed</ElectricShock.description>
+  <ElectricShock.comps.0.labelTendedWell>bandaged</ElectricShock.comps.0.labelTendedWell>
+  <ElectricShock.comps.0.labelTendedWellInner>sutured</ElectricShock.comps.0.labelTendedWellInner>
+  <ElectricShock.comps.0.labelSolidTendedWell>set</ElectricShock.comps.0.labelSolidTendedWell>
+  <ElectricShock.injuryProps.destroyedLabel>Destroyed</ElectricShock.injuryProps.destroyedLabel>
+
 
 </LanguageData>

@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <QRY_CellsMined.label>m³ добыто в карьере</QRY_CellsMined.label>
-  <QRY_CellsMined.description>Количество кубических метров, добытых из карьера.</QRY_CellsMined.description>
+  <QRY_CellsMined.label>quarry m³ mined</QRY_CellsMined.label>
+  <QRY_CellsMined.description>The number of cubic meters I have mined out of a quarry.</QRY_CellsMined.description>
+
 
 </LanguageData>

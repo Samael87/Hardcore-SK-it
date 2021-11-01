@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Syndicate.label>группировка Синдикат</Syndicate.label>
-	<Syndicate.pawnsPlural>члены группировки Синдикат</Syndicate.pawnsPlural>
-	<Syndicate.leaderTitle>супервизор</Syndicate.leaderTitle>
+  <Syndicate.label>Syndicate faction</Syndicate.label>
+  <Syndicate.pawnsPlural>syndicate faction</Syndicate.pawnsPlural>
+  <Syndicate.leaderTitle>Supervisor</Syndicate.leaderTitle>
+
 
 </LanguageData>

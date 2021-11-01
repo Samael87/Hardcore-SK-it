@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- PROJECTILE -->
+
+  <Bullet_FireExtinguisher.label>foam</Bullet_FireExtinguisher.label>
+
+
+  <!-- FIRE EXTINGUISHER -->
+
+  <Gun_FireExtinguisher.label>Fire Extinguisher</Gun_FireExtinguisher.label>
+  <Gun_FireExtinguisher.description>A gun loaded with expanding foam, used to extinguish fires.</Gun_FireExtinguisher.description>
+
+
+</LanguageData>

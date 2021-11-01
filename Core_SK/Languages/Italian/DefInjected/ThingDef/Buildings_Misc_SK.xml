@@ -1,79 +1,471 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<TradingSpot.label>Торговая палатка</TradingSpot.label>
-	<TradingSpot.description>Обозначает место, в котором торговцы остановятся при посещении вашего поселения.</TradingSpot.description>
+  <!-- Spots -->
 
-	<FertilizerPump.label>Фертигатор</FertilizerPump.label>
-	<FertilizerPump.description>Медленно создаёт слой плодородной почвы вокруг себя.\nНужна энергия.\nПотребляемая мощность: 300 W</FertilizerPump.description>
+  <MarriageSpot.label>marriage spot</MarriageSpot.label>
+  <MarriageSpot.description>Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.</MarriageSpot.description>
+  <MarriageSpot_Blueprint.label>marriage spot (blueprint)</MarriageSpot_Blueprint.label>
+  <MarriageSpot_Frame.label>marriage spot (building)</MarriageSpot_Frame.label>
+  <MarriageSpot_Frame.description>Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.</MarriageSpot_Frame.description>
 
-	<Patterner.label>Органайзер</Patterner.label>
-	<Patterner.description>Важное место для хранения выкроек, тканей и различной текстильной продукции. Значительно повышает скорость работы за портняжными верстаками.</Patterner.description>
+  <PartySpot.label>party spot</PartySpot.label>
+  <PartySpot.description>Designates a spot where parties will be centered. Parties use an area around the spot.</PartySpot.description>
+  <PartySpot_Blueprint.label>party spot (blueprint)</PartySpot_Blueprint.label>
+  <PartySpot_Frame.label>party spot (building)</PartySpot_Frame.label>
+  <PartySpot_Frame.description>Designates a spot where parties will be centered. Parties use an area around the spot.</PartySpot_Frame.description>
 
-	<Small_ToolCabinet.label>малый шкаф с инструментами</Small_ToolCabinet.label>
-	<Small_ToolCabinet.description>Увеличивает скорость работы. Необходимо разместить рядом с верстаком. К одному верстаку можно поставить не более двух шкафов с инструментами.</Small_ToolCabinet.description>
+  <CaravanPackingSpot.label>caravan packing spot</CaravanPackingSpot.label>
+  <CaravanPackingSpot.description>Designates a spot where caravans will be formed.</CaravanPackingSpot.description>
+  <CaravanPackingSpot_Blueprint.label>caravan packing spot (blueprint)</CaravanPackingSpot_Blueprint.label>
+  <CaravanPackingSpot_Frame.label>caravan packing spot (building)</CaravanPackingSpot_Frame.label>
+  <CaravanPackingSpot_Frame.description>Designates a spot where caravans will be formed.</CaravanPackingSpot_Frame.description>
 
-	<AdvancedVitalsMonitor.label>Продвинутый томограф</AdvancedVitalsMonitor.label>
-	<AdvancedVitalsMonitor.description>Улучшенный Рентген-аппарат применяется для улучшения качества лечения. Обладает лучшими характеристиками чем обычный томограф. Необходимо разместить рядом с медицинской кроватью. Может применяться только один томограф для одной медицинской кровати.\nНужна энергия.\nПотребляемая мощность: 280 W</AdvancedVitalsMonitor.description>
+  <TradingSpot.label>trading spot</TradingSpot.label>
+  <TradingSpot.description>Designates a spot where traders will stop when visiting your colony.</TradingSpot.description>
+  <TradingSpot_Blueprint.label>trading spot (blueprint)</TradingSpot_Blueprint.label>
+  <TradingSpot_Frame.label>trading spot (building)</TradingSpot_Frame.label>
+  <TradingSpot_Frame.description>Designates a spot where traders will stop when visiting your colony.</TradingSpot_Frame.description>
 
-	<FileCabinet.label>Картотечный шкаф</FileCabinet.label>
-	<FileCabinet.description>Важное место для хранения важных документов о важных экспериментах, используемых для важных исследований по важным технологиям. Немного увеличивает скорость исследований, когда стоит рядом с научным столом.</FileCabinet.description>
+  <PrimitiveResearchBench.label>primitive research table</PrimitiveResearchBench.label>
+  <PrimitiveResearchBench.description>Study surrounding materials here to research new things.</PrimitiveResearchBench.description>
+  <PrimitiveResearchBench_Blueprint.label>primitive research table (blueprint)</PrimitiveResearchBench_Blueprint.label>
+  <PrimitiveResearchBench_Frame.label>primitive research table (building)</PrimitiveResearchBench_Frame.label>
+  <PrimitiveResearchBench_Frame.description>Study surrounding materials here to research new things.</PrimitiveResearchBench_Frame.description>
 
-	<CookingTools.label>Кухонная полка</CookingTools.label>
-	<CookingTools.description>Увеличивает скорость готовки.Необходимо разместить рядом с кухонной плитой.</CookingTools.description>
+  <SimpleResearchBench.label>research bench</SimpleResearchBench.label>
+  <SimpleResearchBench.description>A simple bench with writing implements and low-tech scientific tools. Researchers work here to discover new things.</SimpleResearchBench.description>
+  <SimpleResearchBench_Blueprint.label>research bench (blueprint)</SimpleResearchBench_Blueprint.label>
+  <SimpleResearchBench_Frame.label>research bench (building)</SimpleResearchBench_Frame.label>
+  <SimpleResearchBench_Frame.description>A simple bench with writing implements and low-tech scientific tools. Researchers work here to discover new things.</SimpleResearchBench_Frame.description>
 
-	<Holodeck.label>Голографический стол</Holodeck.label>
-	<Holodeck.description>Голограмма, предназначенная для тренировки навыка общения колонистов.</Holodeck.description>
+  <HiTechResearchBench.label>hi-tech research bench</HiTechResearchBench.label>
+  <HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.</HiTechResearchBench.description>
+  <HiTechResearchBench_Blueprint.label>hi-tech research bench (blueprint)</HiTechResearchBench_Blueprint.label>
+  <HiTechResearchBench_Frame.label>hi-tech research bench (building)</HiTechResearchBench_Frame.label>
+  <HiTechResearchBench_Frame.description>A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.</HiTechResearchBench_Frame.description>
 
-	<PunchingBag.label>Боксерская груша</PunchingBag.label>
-	<PunchingBag.description>Боксерская груша, на которой поселенцы могут отработать свои навыки ближнего боя.</PunchingBag.description>
+  <SunLamp.label>sun lamp</SunLamp.label>
+  <SunLamp.description>Lights an area brightly enough to grow crops. Requires power.</SunLamp.description>
+  <SunLamp.comps.3.offMessage>Off for plant resting period</SunLamp.comps.3.offMessage>
+  <SunLamp_Blueprint.label>sun lamp (blueprint)</SunLamp_Blueprint.label>
+  <SunLamp_Blueprint_Install.label>sun lamp (blueprint)</SunLamp_Blueprint_Install.label>
+  <SunLamp_Frame.label>sun lamp (building)</SunLamp_Frame.label>
+  <SunLamp_Frame.description>Lights an area brightly enough to grow crops. Requires power.</SunLamp_Frame.description>
 
-	<MobileMineralSonar.label>Мобильный сонар минералов</MobileMineralSonar.label> 
-	<MobileMineralSonar.description>Мобильный сонар минералов создан для поиска спрятанных залежей минералов в недрах горных массивов. Он будет сканировать ближайшие массивы автономно со встроенными аккумуляторами. Подключение к действующей энергосети ускори сканирование.</MobileMineralSonar.description> 
+  <OrbitalTradeBeacon.label>orbital trade beacon</OrbitalTradeBeacon.label>
+  <OrbitalTradeBeacon.description>Required for orbital trading. You can only sell goods that are near an orbital trade beacon. Can be placed indoors.</OrbitalTradeBeacon.description>
+  <OrbitalTradeBeacon_Blueprint.label>orbital trade beacon (blueprint)</OrbitalTradeBeacon_Blueprint.label>
+  <OrbitalTradeBeacon_Blueprint_Install.label>orbital trade beacon (blueprint)</OrbitalTradeBeacon_Blueprint_Install.label>
+  <OrbitalTradeBeacon_Frame.label>orbital trade beacon (building)</OrbitalTradeBeacon_Frame.label>
+  <OrbitalTradeBeacon_Frame.description>Required for orbital trading. You can only sell goods that are near an orbital trade beacon. Can be placed indoors.</OrbitalTradeBeacon_Frame.description>
 
-	<MiningHelmetGlower.label>Свет от шахтерской каски</MiningHelmetGlower.label> 
-	<MiningHelmetGlower.description>Свет от шахтерской каски.</MiningHelmetGlower.description> 
+  <CommsConsole.label>comms console</CommsConsole.label>
+  <CommsConsole.description>Communicate with nearby ships here for negotiation and trade.</CommsConsole.description>
+  <CommsConsole_Blueprint.label>comms console (blueprint)</CommsConsole_Blueprint.label>
+  <CommsConsole_Frame.label>comms console (building)</CommsConsole_Frame.label>
+  <CommsConsole_Frame.description>Communicate with nearby ships here for negotiation and trade.</CommsConsole_Frame.description>
 
-	<DermalRegenerator.label>Регенератор кожи</DermalRegenerator.label>
-	<DermalRegenerator.description>Специальное медицинское устройство, которое может сканировать и восстанавливать поверхности тканей.</DermalRegenerator.description>
+  <Buildings_SubspaceBurstTransponder.label>subspace burst transponder</Buildings_SubspaceBurstTransponder.label>
+  <Buildings_SubspaceBurstTransponder.description>Contacts Ships at a distance and guides them to your colony.</Buildings_SubspaceBurstTransponder.description>
+  <Buildings_SubspaceBurstTransponder_Blueprint.label>subspace burst transponder (blueprint)</Buildings_SubspaceBurstTransponder_Blueprint.label>
+  <Buildings_SubspaceBurstTransponder_Frame.label>subspace burst transponder (building)</Buildings_SubspaceBurstTransponder_Frame.label>
+  <Buildings_SubspaceBurstTransponder_Frame.description>Contacts Ships at a distance and guides them to your colony.</Buildings_SubspaceBurstTransponder_Frame.description>
 
-	<ImpactionCharge.label>Направленный заряд</ImpactionCharge.label>
-	<ImpactionCharge.description>Специальное устройство со сверхмощным направленным зарядом. Создает геотермальную скважину.</ImpactionCharge.description>
 
-	<Buildings_SubspaceBurstTransponder.label>Торговый транспондер</Buildings_SubspaceBurstTransponder.label>
-	<Buildings_SubspaceBurstTransponder.description>Делает возможным связь с торговыми кораблями на расстоянии.</Buildings_SubspaceBurstTransponder.description>
+  <!-- Facilities -->
 
-	<CounterTopModular.label>Лабораторный шкафчик</CounterTopModular.label>
-	<CounterTopModular.description>Удобный лабораторный шкафчик с ровной поверхностью.</CounterTopModular.description>
+  <MultiAnalyzer.label>multi-analyzer</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Increases research speed. Needs to be placed near a research bench. One research bench can be linked to only one multi-analyzer.</MultiAnalyzer.description>
+  <MultiAnalyzer_Blueprint.label>multi-analyzer (blueprint)</MultiAnalyzer_Blueprint.label>
+  <MultiAnalyzer_Blueprint_Install.label>multi-analyzer (blueprint)</MultiAnalyzer_Blueprint_Install.label>
+  <MultiAnalyzer_Frame.label>multi-analyzer (building)</MultiAnalyzer_Frame.label>
+  <MultiAnalyzer_Frame.description>Increases research speed. Needs to be placed near a research bench. One research bench can be linked to only one multi-analyzer.</MultiAnalyzer_Frame.description>
 
-	<LabStation.label>Лабораторная станция</LabStation.label>
-	<LabStation.description>Вспомогательная научно-исследовательская станция для расширения лабораторных исследований. Требует электричество.</LabStation.description>
+  <CounterTopModular.label>laboratory counter</CounterTopModular.label>
+  <CounterTopModular.description>A convenient countertop surface.</CounterTopModular.description>
+  <CounterTopModular_Blueprint_Install.label>laboratory counter (blueprint)</CounterTopModular_Blueprint_Install.label>
 
-	<LabTerminal.label>Исследовательский терминал</LabTerminal.label>
-	<LabTerminal.description>Компактный исследовательский терминал для расширения лабораторных работ. Требует электричество.</LabTerminal.description>
+  <LabStation.label>laboratory station</LabStation.label>
+  <LabStation.description>An auxillary research station for expanding laboratory operations. Requires power.</LabStation.description>
+  <LabStation_Blueprint.label>laboratory station (blueprint)</LabStation_Blueprint.label>
+  <LabStation_Blueprint_Install.label>laboratory station (blueprint)</LabStation_Blueprint_Install.label>
+  <LabStation_Frame.label>laboratory station (building)</LabStation_Frame.label>
+  <LabStation_Frame.description>An auxillary research station for expanding laboratory operations. Requires power.</LabStation_Frame.description>
 
-	<CaravanPackingSpot.label>Точка сбора каравана</CaravanPackingSpot.label>
-	<CaravanPackingSpot.description>Обозначает место, в котором будут формироваться караваны.</CaravanPackingSpot.description>
+  <LabTerminal.label>research terminal</LabTerminal.label>
+  <LabTerminal.description>A compact research terminal for expanding laboratory operations. Requires power.</LabTerminal.description>
+  <LabTerminal_Blueprint.label>research terminal (blueprint)</LabTerminal_Blueprint.label>
+  <LabTerminal_Blueprint_Install.label>research terminal (blueprint)</LabTerminal_Blueprint_Install.label>
+  <LabTerminal_Frame.label>research terminal (building)</LabTerminal_Frame.label>
+  <LabTerminal_Frame.description>A compact research terminal for expanding laboratory operations. Requires power.</LabTerminal_Frame.description>
 
-	<MDoor.label>Металлическая дверь</MDoor.label>
-	<MDoor.description>Металлическая дверь. Может быть открыта или закрыта вручную. Замедляет движение.</MDoor.description>
+  <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>
+  <VitalsMonitor.description>Increases patients treatment quality. Needs to be placed adjacent to a medical bed. One medical bed can be linked to only one vitals monitor.</VitalsMonitor.description>
+  <VitalsMonitor_Blueprint.label>vitals monitor (blueprint)</VitalsMonitor_Blueprint.label>
+  <VitalsMonitor_Blueprint_Install.label>vitals monitor (blueprint)</VitalsMonitor_Blueprint_Install.label>
+  <VitalsMonitor_Frame.label>vitals monitor (building)</VitalsMonitor_Frame.label>
+  <VitalsMonitor_Frame.description>Increases patients treatment quality. Needs to be placed adjacent to a medical bed. One medical bed can be linked to only one vitals monitor.</VitalsMonitor_Frame.description>
 
-	<LightningRod.label>Громоотвод</LightningRod.label>
-	<LightningRod.description>Устройство, защищающее карту от ударов молнии.\n\nРазряжает накопленную энергию после удара в течение времени. Может быть перегружен.\n\nЭти стержни были названы многими агентами сопротивления Зеона как "Рапира" благодаря своей конструкции, похожей на меч, выступающий в небо. Это символ возможного падения Зеона на милость громоотвода.</LightningRod.description>
+  <AdvancedVitalsMonitor.label>advanced vitals monitor</AdvancedVitalsMonitor.label>
+  <AdvancedVitalsMonitor.description>An advanced vitals monitor capable of diagnosing the root cause of almost any symptom. Needs to be placed adjacent to a Hi-tech medical bed.</AdvancedVitalsMonitor.description>
+  <AdvancedVitalsMonitor_Blueprint.label>advanced vitals monitor (blueprint)</AdvancedVitalsMonitor_Blueprint.label>
+  <AdvancedVitalsMonitor_Blueprint_Install.label>advanced vitals monitor (blueprint)</AdvancedVitalsMonitor_Blueprint_Install.label>
+  <AdvancedVitalsMonitor_Frame.label>advanced vitals monitor (building)</AdvancedVitalsMonitor_Frame.label>
+  <AdvancedVitalsMonitor_Frame.description>An advanced vitals monitor capable of diagnosing the root cause of almost any symptom. Needs to be placed adjacent to a Hi-tech medical bed.</AdvancedVitalsMonitor_Frame.description>
 
-	<Stargate.label>Звёздные врата</Stargate.label>
-	<Stargate.description>Таинственное сооружение, открывающее проход в другое измерение. \n\nПозволяет переносить живых существ из одной вашей игры в другую. Проход через измерение расщипляет все снаряжение на атомы.</Stargate.description>
+  <FileCabinet.label>file cabinet</FileCabinet.label>
+  <FileCabinet.description>A important place to store important documents about important experiments used for important research on important technologies. Increases research speed slightly when next to a research bench.</FileCabinet.description>
+  <FileCabinet_Blueprint.label>file cabinet (blueprint)</FileCabinet_Blueprint.label>
+  <FileCabinet_Blueprint_Install.label>file cabinet (blueprint)</FileCabinet_Blueprint_Install.label>
+  <FileCabinet_Frame.label>file cabinet (building)</FileCabinet_Frame.label>
+  <FileCabinet_Frame.description>A important place to store important documents about important experiments used for important research on important technologies. Increases research speed slightly when next to a research bench.</FileCabinet_Frame.description>
 
-	<AncientStargate.label>Неизвестное древнее сооружение</AncientStargate.label>
-	<AncientStargate.description>По слухам, это древние врата через которые путешествовали наши предки или может быть древние. \n\nПосле изучения цепочки исследований, позволит открыть портал и принять живых существ, отправленных звездными вратами из другой вашей игры.</AncientStargate.description>
+  <Patterner.label>pattern designer</Patterner.label>
+  <Patterner.description>A important place to store textiles used for increases work speed on textile benches.</Patterner.description>
+  <Patterner_Blueprint.label>pattern designer (blueprint)</Patterner_Blueprint.label>
+  <Patterner_Blueprint_Install.label>pattern designer (blueprint)</Patterner_Blueprint_Install.label>
+  <Patterner_Frame.label>pattern designer (building)</Patterner_Frame.label>
+  <Patterner_Frame.description>A important place to store textiles used for increases work speed on textile benches.</Patterner_Frame.description>
 
-	<GlowstoneMonument.label>Светокаменный монумент</GlowstoneMonument.label>
-	<GlowstoneMonument.description>Этот потрясающий монумент сделан из ограненного светящегося камня, имеющего форму идеального кристалла и излучающего яркий свет.</GlowstoneMonument.description>
+  <ToolCabinet.label>large tool cabinet</ToolCabinet.label>
+  <ToolCabinet.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tools cabinets.</ToolCabinet.description>
+  <ToolCabinet_Blueprint.label>large tool cabinet (blueprint)</ToolCabinet_Blueprint.label>
+  <ToolCabinet_Blueprint_Install.label>large tool cabinet (blueprint)</ToolCabinet_Blueprint_Install.label>
+  <ToolCabinet_Frame.label>large tool cabinet (building)</ToolCabinet_Frame.label>
+  <ToolCabinet_Frame.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tools cabinets.</ToolCabinet_Frame.description>
 
-	<HolyBasin.label>Священный стиральный тазик</HolyBasin.label>
-	<HolyBasin.description>Старый тазик позволяет отмыть одежду и тем самым убрать эффект "носит одежду с трупа".</HolyBasin.description>
-	<HolyBasin_Blueprint.label>Священный стиральный тазик (чертеж)</HolyBasin_Blueprint.label>
-	<HolyBasin_Frame.label>Священный стиральный тазик (строение)</HolyBasin_Frame.label>
-	<HolyBasin_Frame.description>Старый тазик позволяет отмыть одежду и тем самым убрать эффект "носит одежду с трупа".</HolyBasin_Frame.description>
+  <Small_ToolCabinet.label>small tool cabinet</Small_ToolCabinet.label>
+  <Small_ToolCabinet.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tool cabinets.</Small_ToolCabinet.description>
+  <Small_ToolCabinet_Blueprint.label>small tool cabinet (blueprint)</Small_ToolCabinet_Blueprint.label>
+  <Small_ToolCabinet_Blueprint_Install.label>small tool cabinet (blueprint)</Small_ToolCabinet_Blueprint_Install.label>
+  <Small_ToolCabinet_Frame.label>small tool cabinet (building)</Small_ToolCabinet_Frame.label>
+  <Small_ToolCabinet_Frame.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tool cabinets.</Small_ToolCabinet_Frame.description>
+
+  <CookingTools.label>cooking tools</CookingTools.label>
+  <CookingTools.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tool cabinets.</CookingTools.description>
+  <CookingTools_Blueprint.label>cooking tools (blueprint)</CookingTools_Blueprint.label>
+  <CookingTools_Blueprint_Install.label>cooking tools (blueprint)</CookingTools_Blueprint_Install.label>
+  <CookingTools_Frame.label>cooking tools (building)</CookingTools_Frame.label>
+  <CookingTools_Frame.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tool cabinets.</CookingTools_Frame.description>
+
+  <FirefoamPopper.label>firefoam popper</FirefoamPopper.label>
+  <FirefoamPopper.description>When touched by fire or triggered by hand, this pops and sprays a fire-extinguishing foam in a circular field around itself.</FirefoamPopper.description>
+  <FirefoamPopper.comps.2.useLabel>Trigger firefoam popper</FirefoamPopper.comps.2.useLabel>
+  <FirefoamPopper_Blueprint.label>firefoam popper (blueprint)</FirefoamPopper_Blueprint.label>
+  <FirefoamPopper_Blueprint_Install.label>firefoam popper (blueprint)</FirefoamPopper_Blueprint_Install.label>
+  <FirefoamPopper_Frame.label>firefoam popper (building)</FirefoamPopper_Frame.label>
+  <FirefoamPopper_Frame.description>When touched by fire or triggered by hand, this pops and sprays a fire-extinguishing foam in a circular field around itself.</FirefoamPopper_Frame.description>
+
+  <MoisturePump.label>moisture pump</MoisturePump.label>
+  <MoisturePump.description>Very slowly removes moisture from nearby terrain, converting marshes or shallow water into dry ground. Does not affect deep water.</MoisturePump.description>
+  <MoisturePump_Blueprint.label>moisture pump (blueprint)</MoisturePump_Blueprint.label>
+  <MoisturePump_Blueprint_Install.label>moisture pump (blueprint)</MoisturePump_Blueprint_Install.label>
+  <MoisturePump_Frame.label>moisture pump (building)</MoisturePump_Frame.label>
+  <MoisturePump_Frame.description>Very slowly removes moisture from nearby terrain, converting marshes or shallow water into dry ground. Does not affect deep water.</MoisturePump_Frame.description>
+
+  <FertilizerPump.label>terraforming pump</FertilizerPump.label>
+  <FertilizerPump.description>A single use pump that slowly expands a field of growable soil around itself. Requires power.</FertilizerPump.description>
+  <FertilizerPump_Blueprint.label>terraforming pump (blueprint)</FertilizerPump_Blueprint.label>
+  <FertilizerPump_Frame.label>terraforming pump (building)</FertilizerPump_Frame.label>
+  <FertilizerPump_Frame.description>A single use pump that slowly expands a field of growable soil around itself. Requires power.</FertilizerPump_Frame.description>
+
+  <Grave.label>grave</Grave.label>
+  <Grave.description>Place the deceased in graves to give them a decent final resting place. Can only be dug in dirt.</Grave.description>
+  <Grave_Blueprint.label>grave (blueprint)</Grave_Blueprint.label>
+  <Grave_Frame.label>grave (building)</Grave_Frame.label>
+  <Grave_Frame.description>Place the deceased in graves to give them a decent final resting place. Can only be dug in dirt.</Grave_Frame.description>
+
+  <Sarcophagus.label>sarcophagus</Sarcophagus.label>
+  <Sarcophagus.description>An ornamental burial receptacle for the honored dead.</Sarcophagus.description>
+  <Sarcophagus_Blueprint.label>sarcophagus (blueprint)</Sarcophagus_Blueprint.label>
+  <Sarcophagus_Frame.label>sarcophagus (building)</Sarcophagus_Frame.label>
+  <Sarcophagus_Frame.description>An ornamental burial receptacle for the honored dead.</Sarcophagus_Frame.description>
+
+
+  <!-- Cryptosleep casket -->
+
+  <CryptosleepCasket.label>cryptosleep casket</CryptosleepCasket.label>
+  <CryptosleepCasket.description>A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years.</CryptosleepCasket.description>
+  <CryptosleepCasket_Blueprint.label>cryptosleep casket (blueprint)</CryptosleepCasket_Blueprint.label>
+  <CryptosleepCasket_Frame.label>cryptosleep casket (building)</CryptosleepCasket_Frame.label>
+  <CryptosleepCasket_Frame.description>A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years.</CryptosleepCasket_Frame.description>
+
+  <AncientCryptosleepCasket.label>ancient cryptosleep casket</AncientCryptosleepCasket.label>
+  <AncientCryptosleepCasket.description>This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain?</AncientCryptosleepCasket.description>
+
+  <Holodeck.label>holosuite</Holodeck.label>
+  <Holodeck.description>A man-able holosuite that your colonists can use to practice their social skills with.</Holodeck.description>
+  <Holodeck_Blueprint.label>holosuite (blueprint)</Holodeck_Blueprint.label>
+  <Holodeck_Blueprint_Install.label>holosuite (blueprint)</Holodeck_Blueprint_Install.label>
+  <Holodeck_Frame.label>holosuite (building)</Holodeck_Frame.label>
+  <Holodeck_Frame.description>A man-able holosuite that your colonists can use to practice their social skills with.</Holodeck_Frame.description>
+
+  <PunchingBag.label>punching bag</PunchingBag.label>
+  <PunchingBag.description>A man-able punching bag that your colonists can use to practice their melee skills with.</PunchingBag.description>
+  <PunchingBag_Blueprint.label>punching bag (blueprint)</PunchingBag_Blueprint.label>
+  <PunchingBag_Blueprint_Install.label>punching bag (blueprint)</PunchingBag_Blueprint_Install.label>
+  <PunchingBag_Frame.label>punching bag (building)</PunchingBag_Frame.label>
+  <PunchingBag_Frame.description>A man-able punching bag that your colonists can use to practice their melee skills with.</PunchingBag_Frame.description>
+
+  <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.description>A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner_Blueprint.label>ground-penetrating scanner (blueprint)</GroundPenetratingScanner_Blueprint.label>
+  <GroundPenetratingScanner_Frame.label>ground-penetrating scanner (building)</GroundPenetratingScanner_Frame.label>
+  <GroundPenetratingScanner_Frame.description>A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof.</GroundPenetratingScanner_Frame.description>
+
+  <LongRangeMineralScanner.label>long-range mineral scanner</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.description>A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner_Blueprint.label>long-range mineral scanner (blueprint)</LongRangeMineralScanner_Blueprint.label>
+  <LongRangeMineralScanner_Frame.label>long-range mineral scanner (building)</LongRangeMineralScanner_Frame.label>
+  <LongRangeMineralScanner_Frame.description>A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it.</LongRangeMineralScanner_Frame.description>
+
+
+  <!-- Transport pods -->
+
+  <PodLauncher.label>pod launcher</PodLauncher.label>
+  <PodLauncher.description>A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other.</PodLauncher.description>
+  <PodLauncher_Blueprint.label>pod launcher (blueprint)</PodLauncher_Blueprint.label>
+  <PodLauncher_Frame.label>pod launcher (building)</PodLauncher_Frame.label>
+  <PodLauncher_Frame.description>A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other.</PodLauncher_Frame.description>
+
+  <TransportPod.label>transport pod</TransportPod.label>
+  <TransportPod.description>A launchable suborbital-travel cargo pod capable of carrying people, items, or animals. Can be used for transport, surprise attacks, or reinforcing battles.</TransportPod.description>
+  <TransportPod_Blueprint.label>transport pod (blueprint)</TransportPod_Blueprint.label>
+  <TransportPod_Frame.label>transport pod (building)</TransportPod_Frame.label>
+  <TransportPod_Frame.description>A launchable suborbital-travel cargo pod capable of carrying people, items, or animals. Can be used for transport, surprise attacks, or reinforcing battles.</TransportPod_Frame.description>
+
+  <MobileMineralSonar.label>mobile mineral sonar</MobileMineralSonar.label>
+  <MobileMineralSonar.description>The mobile mineral sonar is used to detect hidden minerals.
+- It will scan the surrounding rocks autonomously with the embedded energy packs.
+- Supplying some additional power will hasten the scan rate.</MobileMineralSonar.description>
+  <MobileMineralSonar_Blueprint.label>mobile mineral sonar (blueprint)</MobileMineralSonar_Blueprint.label>
+  <MobileMineralSonar_Blueprint_Install.label>mobile mineral sonar (blueprint)</MobileMineralSonar_Blueprint_Install.label>
+  <MobileMineralSonar_Frame.label>mobile mineral sonar (building)</MobileMineralSonar_Frame.label>
+  <MobileMineralSonar_Frame.description>The mobile mineral sonar is used to detect hidden minerals.
+- It will scan the surrounding rocks autonomously with the embedded energy packs.
+- Supplying some additional power will hasten the scan rate.</MobileMineralSonar_Frame.description>
+
+  <MiningHelmetGlower.label>mining light</MiningHelmetGlower.label>
+  <MiningHelmetGlower.description>Mining light.</MiningHelmetGlower.description>
+
+  <DermalRegenerator.label>dermal regenerator</DermalRegenerator.label>
+  <DermalRegenerator.description>A medical device able to scan and repair surface tissue.</DermalRegenerator.description>
+  <DermalRegenerator_Blueprint.label>dermal regenerator (blueprint)</DermalRegenerator_Blueprint.label>
+  <DermalRegenerator_Frame.label>dermal regenerator (building)</DermalRegenerator_Frame.label>
+  <DermalRegenerator_Frame.description>A medical device able to scan and repair surface tissue.</DermalRegenerator_Frame.description>
+
+  <ImpactionCharge.label>impaction charge</ImpactionCharge.label>
+  <ImpactionCharge.description>Detonates on command. Creates a directed blast of plasma, which impacts right down to the bedrock. Used for asteroid mining and accessing underground resources.</ImpactionCharge.description>
+  <ImpactionCharge_Blueprint.label>impaction charge (blueprint)</ImpactionCharge_Blueprint.label>
+  <ImpactionCharge_Blueprint_Install.label>impaction charge (blueprint)</ImpactionCharge_Blueprint_Install.label>
+  <ImpactionCharge_Frame.label>impaction charge (building)</ImpactionCharge_Frame.label>
+  <ImpactionCharge_Frame.description>Detonates on command. Creates a directed blast of plasma, which impacts right down to the bedrock. Used for asteroid mining and accessing underground resources.</ImpactionCharge_Frame.description>
+
+  <LightningRod.label>lightning rod</LightningRod.label>
+  <LightningRod.description>A lightning rod with an ion beam emitter for map-wide protection from lightning strikes.\n\nRequires power, but discharges power for a short while after it gets hit. Can get overwhelmed.\n\nThese rods were called by many Zeon Resistance agents as "Rapiers", due to the structure looking like a sword protruding into the sky, and is also a symbol Zeon's eventual downfall at the mercy of this lightning rod.</LightningRod.description>
+  <LightningRod_Blueprint.label>lightning rod (blueprint)</LightningRod_Blueprint.label>
+  <LightningRod_Frame.label>lightning rod (building)</LightningRod_Frame.label>
+  <LightningRod_Frame.description>A lightning rod with an ion beam emitter for map-wide protection from lightning strikes.\n\nRequires power, but discharges power for a short while after it gets hit. Can get overwhelmed.\n\nThese rods were called by many Zeon Resistance agents as "Rapiers", due to the structure looking like a sword protruding into the sky, and is also a symbol Zeon's eventual downfall at the mercy of this lightning rod.</LightningRod_Frame.description>
+
+
+  <!-- <ThingDef ParentName="SK_BuildingBase">
+		<defName>TacticalComputer</defName>
+		<label>Tactical Computer</label>
+		<description>This computer provides various informations and options.</description>
+		<thingClass>SK.Building_TacticalComputer</thingClass>
+		<category>Building</category>
+		<graphicData>
+			<texPath>Things/Building/TacticalComputer/MainComputer</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(3,3)</drawSize>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<uiIconPath>Things/Building/TacticalComputer/MainComputer_MenuIcon</uiIconPath>
+		<thingCategories>
+			<li>BuildingsMisc</li>
+		</thingCategories>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<building>
+			<uninstallWork>250</uninstallWork>
+		</building>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<pathCost>150</pathCost>
+		<tickerType>Rare</tickerType>
+		<statBases>
+			<WorkToBuild>15000</WorkToBuild>
+			<MaxHitPoints>180</MaxHitPoints>
+			<Flammability>0.0</Flammability>
+			<Beauty>18</Beauty>
+			<Mass>70</Mass>
+		</statBases>
+		<size>(3,3)</size>
+		<costList>
+			<Glass>180</Glass>
+			<Plastic>140</Plastic>
+			<Wire>120</Wire>			
+			<ComponentSpacer>10</ComponentSpacer>
+			<Microchips>4</Microchips>
+		</costList>	
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerTrader</compClass>
+				<basePowerConsumption>1800</basePowerConsumption>
+				<shortCircuitInRain>false</shortCircuitInRain>
+			</li>
+			<li Class="CompProperties_Glower">
+				<glowRadius>8</glowRadius>
+				<glowColor>(30,140,165,0)</glowColor>
+			</li>
+			<li Class="CompProperties_Breakdownable"/>
+			<li Class="CompProperties_Flickable"/>
+			<li Class="SK.CompProperties_LongRangeAnomalyScanner">
+				<radius>25</radius>
+				<mtbDays>25</mtbDays>
+				<chanceForNoSitePart>0.0001</chanceForNoSitePart>
+				<researchSensorsDef>TacticalComputerImprovedSensor</researchSensorsDef>
+			</li>
+		</comps>
+		<rotatable>true</rotatable>
+		<selectable>true</selectable>
+		<neverMultiSelect>true</neverMultiSelect>
+		<designationCategory>Misc</designationCategory>
+		<researchPrerequisites>
+			<li>SK_TelecommunicationIII</li>
+		</researchPrerequisites>
+		<tradeTags>
+			<li>Exotic</li>
+			<li>Computer</li>
+			<li>Robots</li>
+		</tradeTags>
+	</ThingDef>
+
+	<ThingDef ParentName="SK_BuildingBase">
+		<defName>TacticalComputerExtension</defName>
+		<label>Computer Terminal</label>
+		<description>This computer terminal provides remote access to some options of the tactical computer.\nNote: A Tactical Computer is needed!</description>
+		<thingClass>SK.Building_TacticalComputerExtensionTerminal</thingClass>
+		<category>Building</category>
+		<graphicData>
+			<texPath>Things/Building/TacticalComputer/Terminal_On</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<thingCategories>
+			<li>BuildingsMisc</li>
+		</thingCategories>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<building>
+			<uninstallWork>650</uninstallWork>
+		</building>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<pathCost>60</pathCost>
+		<statBases>
+			<WorkToBuild>4500</WorkToBuild>
+			<MaxHitPoints>120</MaxHitPoints>
+			<Flammability>0.0</Flammability>
+			<Beauty>12</Beauty>
+			<Mass>7</Mass>
+		</statBases>
+		<size>(1,1)</size>
+		<costList>
+			<Plastic>40</Plastic>
+			<Glass>20</Glass>
+			<ComponentSpacer>5</ComponentSpacer>
+			<Microchips>1</Microchips>
+		</costList>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerTrader</compClass>
+				<basePowerConsumption>300</basePowerConsumption>
+			</li>
+			<li Class="CompProperties_Glower">
+				<glowRadius>4</glowRadius>
+				<glowColor>(30,140,165,0)</glowColor>
+			</li>
+			<li Class="CompProperties_Breakdownable"/>
+		</comps>
+		<rotatable>true</rotatable>
+		<selectable>true</selectable>
+		<neverMultiSelect>true</neverMultiSelect>
+		<designationCategory>Misc</designationCategory>
+		<researchPrerequisites>
+			<li>SK_TelecommunicationIII</li>
+		</researchPrerequisites>
+		<placeWorkers>
+			<li>SK.PlaceWorker_NeedTacticalComputerToBeBuilt</li>
+		</placeWorkers>
+		<tradeTags>
+			<li>Exotic</li>
+			<li>Computer</li>
+			<li>Robots</li>
+		</tradeTags>
+	</ThingDef> -->
+
+  <Building_Shield.label>orbital power shield</Building_Shield.label>
+  <Building_Shield.description>Automatically switches on to protect from the orbital bombardment; tremendous power drain and considerable heating when operational.</Building_Shield.description>
+  <Building_Shield_Blueprint.label>orbital power shield (blueprint)</Building_Shield_Blueprint.label>
+  <Building_Shield_Frame.label>orbital power shield (building)</Building_Shield_Frame.label>
+  <Building_Shield_Frame.description>Automatically switches on to protect from the orbital bombardment; tremendous power drain and considerable heating when operational.</Building_Shield_Frame.description>
+
+  <BombardmentBeacon.label>bombardment beacon</BombardmentBeacon.label>
+  <BombardmentBeacon.description>A beacon. When a battleship receives this signal, it will destroy the nearest enemy base.</BombardmentBeacon.description>
+  <BombardmentBeacon_Blueprint_Install.label>bombardment beacon (blueprint)</BombardmentBeacon_Blueprint_Install.label>
+
+  <BombardmentBeaconSecond.label>safe distance bombardment beacon</BombardmentBeaconSecond.label>
+  <BombardmentBeaconSecond.description>A beacon. When a battleship receives this signal, it will destroy the nearest enemy base once you leave the area.</BombardmentBeaconSecond.description>
+  <BombardmentBeaconSecond_Blueprint_Install.label>safe distance bombardment beacon (blueprint)</BombardmentBeaconSecond_Blueprint_Install.label>
+
+  <Stargate.label>stargate</Stargate.label>
+  <Stargate.description>A Stargate allows transferring of colonists and items between colonies. You can send things through in Colony A's Stargate and load them in Colony B's Stargate. To use it place items or colonists near the Stargate and use the "add resource" or "add colonist" buttons, then use the "dial out" button. The colonists or items are now ready to be "recalled" in a different colony.</Stargate.description>
+  <Stargate_Blueprint.label>stargate (blueprint)</Stargate_Blueprint.label>
+  <Stargate_Frame.label>stargate (building)</Stargate_Frame.label>
+  <Stargate_Frame.description>A Stargate allows transferring of colonists and items between colonies. You can send things through in Colony A's Stargate and load them in Colony B's Stargate. To use it place items or colonists near the Stargate and use the "add resource" or "add colonist" buttons, then use the "dial out" button. The colonists or items are now ready to be "recalled" in a different colony.</Stargate_Frame.description>
+
+  <AncientStargate.label>an ancient unknown building</AncientStargate.label>
+  <AncientStargate.description>According to rumors, this is the ancient gate through which our ancestors traveled or maybe the ancients..</AncientStargate.description>
+
+
+  <!-- Steles R1.1 -->
+
+  <SteleLarge.label>large stele</SteleLarge.label>
+  <SteleLarge.description>A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events.</SteleLarge.description>
+  <SteleLarge_Blueprint.label>large stele (blueprint)</SteleLarge_Blueprint.label>
+  <SteleLarge_Frame.label>large stele (building)</SteleLarge_Frame.label>
+  <SteleLarge_Frame.description>A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events.</SteleLarge_Frame.description>
+
+  <SteleGrand.label>grand stele</SteleGrand.label>
+  <SteleGrand.description>A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events.</SteleGrand.description>
+  <SteleGrand_Blueprint.label>grand stele (blueprint)</SteleGrand_Blueprint.label>
+  <SteleGrand_Frame.label>grand stele (building)</SteleGrand_Frame.label>
+  <SteleGrand_Frame.description>A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events.</SteleGrand_Frame.description>
+
+  <GlowstoneMonument.label>glowstone monument</GlowstoneMonument.label>
+  <GlowstoneMonument.description>This stunning statue is made from beautifully cut glowstone, it is perfectly crystal shaped and it emits a bright light.</GlowstoneMonument.description>
+  <GlowstoneMonument_Blueprint.label>glowstone monument (blueprint)</GlowstoneMonument_Blueprint.label>
+  <GlowstoneMonument_Frame.label>glowstone monument (building)</GlowstoneMonument_Frame.label>
+  <GlowstoneMonument_Frame.description>This stunning statue is made from beautifully cut glowstone, it is perfectly crystal shaped and it emits a bright light.</GlowstoneMonument_Frame.description>
+
+  <PenMarker.label>pen marker</PenMarker.label>
+  <PenMarker.description>A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen.</PenMarker.description>
+  <PenMarker_Blueprint.label>pen marker (blueprint)</PenMarker_Blueprint.label>
+  <PenMarker_Blueprint_Install.label>pen marker (blueprint)</PenMarker_Blueprint_Install.label>
+  <PenMarker_Frame.label>pen marker (building)</PenMarker_Frame.label>
+  <PenMarker_Frame.description>A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen.</PenMarker_Frame.description>
+
 
 </LanguageData>

@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<StartWithRaidEnemy.label>Начать с атакой рейда</StartWithRaidEnemy.label>
-	<StartWithNF.label>Начать с ядерным взрывом</StartWithNF.label>
-	<StartwithCorpses.label>Начать с трупами</StartwithCorpses.label>
+  <StartWithRaidEnemy.label>Start with enemy raid</StartWithRaidEnemy.label>
+  <StartWithNF.label>Start with nuclear fallout</StartWithNF.label>
+  <StartwithCorpses.label>Start with corpses</StartwithCorpses.label>
+
 
 </LanguageData>

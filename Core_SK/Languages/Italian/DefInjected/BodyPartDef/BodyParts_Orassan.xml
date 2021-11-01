@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HandClaws.label>когти</HandClaws.label>
+  <Tail.label>tail</Tail.label>
+  <HandClaws.label>claws</HandClaws.label>
+
 
 </LanguageData>

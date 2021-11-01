@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeTincture.label>brew mushroom tincture</MakeTincture.label>
+  <MakeTincture.description>Instill mushrooms into tincture. Useful for medicine. Requires basic understanding of cooking. Produces 1.</MakeTincture.description>
+  <MakeTincture.jobString>Brewing mushroom tincture.</MakeTincture.jobString>
+
+  <MakeTincture_Bulk.label>brew bottles of mushroom tincture</MakeTincture_Bulk.label>
+  <MakeTincture_Bulk.description>Instill a few bottles of tincture from mushrooms. Useful for medicine. Requires basic understanding of cooking. Produces 4.</MakeTincture_Bulk.description>
+  <MakeTincture_Bulk.jobString>Brewing bottles of mushroom tincture.</MakeTincture_Bulk.jobString>
+
+  <MakeTinctureHealroot.label>brew healroot tincture</MakeTinctureHealroot.label>
+  <MakeTinctureHealroot.description>Instill healroot into a tincture. Useful for medicine. Requires basic understanding of cooking. Produces 1.</MakeTinctureHealroot.description>
+  <MakeTinctureHealroot.jobString>Brewing healroot tincture.</MakeTinctureHealroot.jobString>
+
+  <BrewMedicalDrink.label>Make Antibiotics</BrewMedicalDrink.label>
+  <BrewMedicalDrink.description>Make Antibiotics from healroot and hops or yeast. Requires basic understanding of cooking. Produces 1.</BrewMedicalDrink.description>
+  <BrewMedicalDrink.jobString>Brewing medical drink.</BrewMedicalDrink.jobString>
+
+
+</LanguageData>

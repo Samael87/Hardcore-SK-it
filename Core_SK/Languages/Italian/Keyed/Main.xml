@@ -1,1089 +1,1012 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<!-- Menu -->
-	<HardcoreSKproject>Rimworld project by Hardcore SK team</HardcoreSKproject>
-	<LudeonMainPage>Сайт разработчика</LudeonMainPage>
-	<HardcoreSKLudeon>Тема проекта на форуме</HardcoreSKLudeon>
-	<HardcoreSKPatreon>Проект на патреон</HardcoreSKPatreon>
-	<HardcoreskMainPage>Сайт проекта</HardcoreskMainPage>
-	<HardcoreskGitHub>Разработка на Github</HardcoreskGitHub>
-	<HardcoreskVK>Группа Вконтакте</HardcoreskVK>
-	<HardcoreDiscord>Discord канал</HardcoreDiscord>
-
-	<!-- Game speed -->
-	<EventSpeed>Скорость</EventSpeed>
-	<EventSpeedLabel>Изменить скорость</EventSpeedLabel>
-	<Slow>Медленно</Slow>
-	<Normal>Стандарт</Normal>
-	<Fast>Быстро</Fast>
-	<Half>В половину</Half>
-
-	<DiseaseSpreadLabel>Эпидемия: Распространение болезни</DiseaseSpreadLabel>
-	<DiseaseSpreadDesc>заразился</DiseaseSpreadDesc>
-
-	<WrongTerrainType>Неправильный тип местности</WrongTerrainType>
-
-	<StorytellerFrenzyLabel>в ярости</StorytellerFrenzyLabel>	
-
-	<ReyText>А ты знаешь, что такое безумие? Так вот, сейчас я тебе покажу....</ReyText>
-	<KaraText>Когда я пыталась выбраться из заточения, мне пригрозил охранник-амбал. И знаешь что? Я перерзала ему глотку.</KaraText>
-	<ZeroText>Я видел языки пламени так близко, что чувствовал, как плавится моя кожа... Интересно, сколько жара хватит тебе?</ZeroText>
-	<RendyText>Люблю создавать истории с разными исходами. Закончить твою историю быстро или помучать подольше, мм?</RendyText>
-	<PhoebeText>Кажется, я была слишком добра к тебе и позволила тебе расслабиться... Не стоило этого делать.</PhoebeText>
-	<CasText>Я очень трепетно отношусь к своим врагам, они бы выказали свое уважение, если бы были в живых...</CasText>
-
-	<!-- CCL -->
-	<!-- Colors -->
-	<SK_colorWhite>белый</SK_colorWhite>
-	<SK_colorRed>красный</SK_colorRed>
-	<SK_colorGreen>зелёный</SK_colorGreen>
-	<SK_colorBlue>синий</SK_colorBlue>
-	<SK_colorYellow>жёлтый</SK_colorYellow>
-	<SK_colorOrange>оранжевый</SK_colorOrange>
-	<SK_colorPurple>пурпурный</SK_colorPurple>
-	<SK_colorWarm>тёплый</SK_colorWarm>
-	<SK_colorCold>холодный</SK_colorCold>
-
-	<!-- Comp Replacement Strings -->
-	<SK_CompShearableGrowth>выросло</SK_CompShearableGrowth>
-	<SK_CompMilkableFullness>накоплено</SK_CompMilkableFullness>
-
-	<!-- UI Elements -->
-	<SK_CompColorLightInspect>Цвет:</SK_CompColorLightInspect>
-
-	<SK_CommandChangeColorLabel>Изменить цвет</SK_CommandChangeColorLabel>
-	<SK_CommandChangeColorDesc>ЛКМ — {0};\nПКМ — {1}</SK_CommandChangeColorDesc>
-
-	<SK_CommandChangeRoommateColorLabel>Синхронизировать цветное освещение в помещении</SK_CommandChangeRoommateColorLabel>
-	<SK_CommandChangeRoommateColorLClick>ЛКМ — только {0}</SK_CommandChangeRoommateColorLClick>
-	<SK_CommandChangeRoommateColorRClick>ПКМ — все светильники</SK_CommandChangeRoommateColorRClick>
-
-	<SK_CommandChangeTouchingPlantLabel>Синхронизировать все соприкасающиеся столы гидропоники</SK_CommandChangeTouchingPlantLabel>
-	<SK_CommandChangeRoommatePlantLabel>Синхронизировать все столы гидропоники в помещении</SK_CommandChangeRoommatePlantLabel>
-	<SK_CommandChangeRoommatePlantLClick>ЛКМ — только {0}</SK_CommandChangeRoommatePlantLClick>
-	<SK_CommandChangeRoommatePlantRClick>ПКМ — все столы</SK_CommandChangeRoommatePlantRClick>
-
-	<SK_CommandGroupOfThingsLClick>ЛКМ — в помещении</SK_CommandGroupOfThingsLClick>
-	<SK_CommandGroupOfThingsRClick>ПКМ — на карте</SK_CommandGroupOfThingsRClick>
-
-	<SK_CommandGroupOfThingsByDefLabel>Синхронизировать все соприкасающиеся {0}</SK_CommandGroupOfThingsByDefLabel>
-	<SK_CommandGroupOfThingsByLinkerLabel>Синхронизировать все связанные {0}</SK_CommandGroupOfThingsByLinkerLabel>
-
-	<SK_CommandGroupOfThingsByDefInRoomLabel>Синхронизировать все {0} в помещении</SK_CommandGroupOfThingsByDefInRoomLabel>
-	<SK_CommandGroupOfThingsByLinkerInRoomLabel>Синхронизировать все соединенные {0} в помещении</SK_CommandGroupOfThingsByLinkerInRoomLabel>
-
-	<SK_RefrigeratedStorage>В морозильнике</SK_RefrigeratedStorage>
-
-	<!-- PlaceWorkers -->
-	<SK_MessagePlacementItemSurface>Нужно разместить на поверхности!</SK_MessagePlacementItemSurface>
-	<SK_MessagePlacementMustBeUnderRoof>Нужно разместить под крышей!</SK_MessagePlacementMustBeUnderRoof>
-	<SK_MessagePlacementAgainstSupport>Нужно поставить у стенки!</SK_MessagePlacementAgainstSupport>
-	<SK_MessagePlacementCountRestricted>Должно быть не более чем: {0}!</SK_MessagePlacementCountRestricted>
-	<SK_MessagePlacementNotOn>Нельзя разместить на {0}</SK_MessagePlacementNotOn>
-	<SK_MessagePlacementNotHere>Нельзя здесь разместить</SK_MessagePlacementNotHere>
-	<SK_AlertPlaceWorkerRestrictionSupportRemovedLabel>Поддерживающая структура пропала!</SK_AlertPlaceWorkerRestrictionSupportRemovedLabel>
-	<SK_AlertPlaceWorkerRestrictionSupportRemovedDesc>Обвал из-за разрушения опоры!\n\nУничтожено:</SK_AlertPlaceWorkerRestrictionSupportRemovedDesc>
-
-	<!-- PowerSwitch -->
-	<PowerSwitch_SwitchOnOff>Переключатель: ВКЛ/Выкл.</PowerSwitch_SwitchOnOff>
-	<PowerSwitch_AutoONMotionRoom>Детектор движения ВКЛ: движение в помещении.</PowerSwitch_AutoONMotionRoom>
-	<PowerSwitch_AutoONMotionNearbyRange>Детектор движения ВКЛ: движение рядом. Диапазон:</PowerSwitch_AutoONMotionNearbyRange>
-	<PowerSwitch_AutoONEnemyNearbyRange>Детектор обнаружения противника ВКЛ. Диапазон:</PowerSwitch_AutoONEnemyNearbyRange>
-	<PowerSwitch_AutoOFFEnemyNearbyRange>Детектор обнаружения противника Выкл. Диапазон:</PowerSwitch_AutoOFFEnemyNearbyRange>
-	<PowerSwitch_TimerClickSwitchOnTime>Таймер:. Нажмите, чтобы установить время включения.</PowerSwitch_TimerClickSwitchOnTime>
-	<PowerSwitch_TimerClickSwitchOffTime>Таймер:. Нажмите, чтобы установить время отключения.</PowerSwitch_TimerClickSwitchOffTime>
-	<PowerSwitch_On>ВКЛ</PowerSwitch_On>
-	<PowerSwitch_Off>Выкл</PowerSwitch_Off>
-	<PowerSwitch_OnRange>ВКЛ - Диапазон:</PowerSwitch_OnRange>
-	<PowerSwitch_AutoMotion>Детектор движения:</PowerSwitch_AutoMotion>
-	<PowerSwitch_AutoEnemy>Детектор обнаружения противника:</PowerSwitch_AutoEnemy>
-	<PowerSwitch_Timer>Таймер</PowerSwitch_Timer>
-	<PowerSwitch_TimeOnTimeOff>{0:00}ч - {1:00}ч</PowerSwitch_TimeOnTimeOff>
-
-	<!-- DermalRegenerator -->
-	<UseDermalRegenerator>Использовать регенератор кожи</UseDermalRegenerator>
-	<Waitingforpatient>Ожидание пациента.</Waitingforpatient>
-	<ScanningTotalProgress>Сканирование... Прогресс: </ScanningTotalProgress>
-	<TreatingTotalProgress>Лечение... Прогресс: </TreatingTotalProgress>
-	<DermalRegeneratorInUse>Регенератор кожи: Уже используется.</DermalRegeneratorInUse>
-	<DermalRegeneratorNoPower>Регенератор кожи: Отсутствует электропитание.</DermalRegeneratorNoPower>
-	<DermalRegeneratorPowerInterupted>Регенератор кожи: Электропитание было нарушено.</DermalRegeneratorPowerInterupted>
-	<DermalRegeneratorPowerTreatmentComplete>Регенератор кожи: Лечение завершено.</DermalRegeneratorPowerTreatmentComplete>
-	<DermalRegeneratorNoInjuries>Регенератор кожи: Не найдено повреждений кожи.</DermalRegeneratorNoInjuries>
-
-	<!-- Ocean -->
-	<PlaceWorker.TerrainCannotSupport>Рельеф местности не может поддерживать этот объект.</PlaceWorker.TerrainCannotSupport>
-	<PlaceWorker.MustWaterSeaOrPile>Должно быть размещено на мелководье или на сваях.</PlaceWorker.MustWaterSeaOrPile>
-	<PlaceWorker.InteractivePointMustshore>Точки взаимодействия должны быть расположены на берегу.</PlaceWorker.InteractivePointMustshore>
-	<PlaceWorker.AlreadyPile>В этом месте уже есть свая.</PlaceWorker.AlreadyPile>
-
-	<!-- Caveflora -->
-	<!-- Fungiponics Basin -->
-	<CaveworldFlora.CannotGrowTooCold>Не может расти сейчас: слишком холодно</CaveworldFlora.CannotGrowTooCold>
-	<CaveworldFlora.CannotGrowTooHot>Не может расти сейчас: слишком жарко.</CaveworldFlora.CannotGrowTooHot>
-	<CaveworldFlora.Growing>Растёт.</CaveworldFlora.Growing>
-	<CaveworldFlora.MustOnRoughRock>Фунгопоника должна быть расположена на естественном каменном полу.</CaveworldFlora.MustOnRoughRock>
-	<CaveworldFlora.MustBeRoofed>Фунгопоника должна быть расположена под естественной крышей.</CaveworldFlora.MustBeRoofed>
-	<CaveworldFlora.TooClose>Другая фунгопоника слишком близко.</CaveworldFlora.TooClose>
-
-	<!-- Flora Plant -->
-	<CaveworldFlora.InCryostasis>в криостазисе</CaveworldFlora.InCryostasis>
-	<CaveworldFlora.Dying>погибает</CaveworldFlora.Dying>
-	<CaveworldFlora.Drying>засыхает</CaveworldFlora.Drying>
-	<CaveworldFlora.TooDark>слишком темно</CaveworldFlora.TooDark>
-	<CaveworldFlora.Overlit>слишком светло</CaveworldFlora.Overlit>
-	<CaveworldFlora.Unroofed>должно находиться под естественной крышей</CaveworldFlora.Unroofed>
-	<CaveworldFlora.UnadaptedSoil>неподходящая почва</CaveworldFlora.UnadaptedSoil>
-	<CaveworldFlora.TooFarFromRock>слишком далеко от скалы</CaveworldFlora.TooFarFromRock>
-	<CaveworldFlora.ClusterRootRemoved>корневище было уничтожнго</CaveworldFlora.ClusterRootRemoved>
-	<CaveworldFlora.BrokenSymbiosis>нарушенный симбиоз</CaveworldFlora.BrokenSymbiosis>
-	<CaveworldFlora.Cryostasis>криостазис</CaveworldFlora.Cryostasis>
-
-	<!-- Black Lotus -->
-	<CaveworldFlora.LetterLabelBlackLotus>Черный лотус</CaveworldFlora.LetterLabelBlackLotus>
-	<CaveworldFlora.BlackLotus>Один из ваших поселенецев был опьянен миазмами черного лотоса. Остерегайтесь, эти эманации чрезвычайно токсичны.</CaveworldFlora.BlackLotus>  
-
-
-	<PGLLabel>Применить ко всей комнате</PGLLabel>
-	<PGLDesc>Применить выбранный вами вид растений ко всей гидропонике в данной комнате.</PGLDesc>
-
-	<!-- Search -->
-	<SearchLabel>Поиск</SearchLabel>
-	<withfe> с </withfe>
-
-	<!-- Container -->
-	<Items>Вещи</Items>
-	<Container_StoredItemsCount>В хранилище: {0} / {1}</Container_StoredItemsCount>
-	<Container_Info>Инфо</Container_Info>
-	<Container_Drop>Достать</Container_Drop>
-	<RotMultiplier>Множитель порчи</RotMultiplier>
-
-	<!-- Wrong race -->
-	<CannotWearBecauseOfWrongRace>alien apparel</CannotWearBecauseOfWrongRace>
-
-
-	<!-- Repair bench -->
-	<Repair.tableTab>Вещи</Repair.tableTab>
-	<Repair.tabSuspend>Запретить</Repair.tabSuspend>
-	<Repair.tabStockpile>Нести на склад</Repair.tabStockpile>
-	<Repair.tabOutside>Брать снаружи</Repair.tabOutside>
-	<Repair.tabSearch>Радиус:</Repair.tabSearch>
-
-	<!-- Miners -->
-	<ChangeResourceLabel>Сменить ресурс</ChangeResourceLabel>
-	<ChangeResourceDesc>Нажмите чтобы сменить ресурс</ChangeResourceDesc>
-	<SelectedResourceLabel>Выбранный ресурс: {0}</SelectedResourceLabel>
-
+  <!-- SmartSpeed -->
+  <EventSpeed>Event Speed</EventSpeed>
+  <EventSpeedLabel>Change Event Speed</EventSpeedLabel>
+  <Slow>Slow</Slow>
+  <Normal>Normal</Normal>
+  <Fast>Fast</Fast>
+  <Half>Half</Half>
+
+  <CannotUseNow>Cannot use now</CannotUseNow>
+
+  <WrongTerrainType>Wrong terrain type</WrongTerrainType>
+
+  <StorytellerFrenzyLabel>frenzy</StorytellerFrenzyLabel>
+
+  <ReyText>Do you know what insanity is? So, now I will show you...</ReyText>
+  <KaraText>When I tried to get out of imprisonment, the guard threatened me. And you know what? I cut his throat.</KaraText>
+  <ZeroText>I saw flames so close that I felt my skin melt... I wonder how much heat is enough for you?</ZeroText>
+  <RendyText>I like to create stories with different outcomes. Finish your story quickly or torment a little longer, mm?</RendyText>
+  <PhoebeText>It seems I was too kind to you and let you relax... It was not worth it.</PhoebeText>
+  <CasText>I am very kind to my enemies, they would show their respect if they were alive...</CasText>
+
+  <!-- TraitChanger -->
+  <TraitChangedLabel>Trait changed</TraitChangedLabel>
+  <GainedTrait>has gained the trait</GainedTrait>
+  <LostTrait>has lost the trait</LostTrait>
+  <TraitGoodMoodA>Due to the long stay in a good mood</TraitGoodMoodA>
+  <TraitGoodMoodB>improves its the general mood.</TraitGoodMoodB>
+  <TraitBadMoodA>Due to the long stay in a bad mood</TraitBadMoodA>
+  <TraitBadMoodB>gets depressed. Having passed through fire, water and copper pipes, the character can become hardened.</TraitBadMoodB>
+  <TraitCannibal>has realized after eating human flesh... that they actually sort of like it.</TraitCannibal>
+  <TraitHardened>learned to doesn't stop at nothing to achieve goals and gain new traits.</TraitHardened>
+
+  <!-- Miner -->
+  <LightAuto>Light: Auto</LightAuto>
+  <LightOn>Light: On</LightOn>
+  <LightOff>Light: Off</LightOff>
+  <SwitchMode>Switch mode.</SwitchMode>
+
+  <!-- PlaceWorkers -->
+  <MessagePlacementOnSupport>Must place on a supporting structure!</MessagePlacementOnSupport>
+  <MustBeNearWater>Must be near water source.</MustBeNearWater>
+  <PlaceWorker.TerrainCannotSupport>The terrain cannot support this object.</PlaceWorker.TerrainCannotSupport>
+  <PlaceWorker.MustWaterSeaOrPile>Must be placed in shallow water or on the pilings.</PlaceWorker.MustWaterSeaOrPile>
+  <PlaceWorker.InteractivePointMustshore>Interaction point must be placed on the shore.</PlaceWorker.InteractivePointMustshore>
+  <PlaceWorker.AlreadyPile>The terrain here is already pilings.</PlaceWorker.AlreadyPile>
+  <ImpassableDoor>The door can be placed if there is a support structure on both sides, and if nothing block pass through the door.</ImpassableDoor>
+  <OnMudOrWaterReportString>You can not collect here. Find the right terrain with water or mud.</OnMudOrWaterReportString>
+  <NeedGenBioHopper>Need Biogenerator Hopper</NeedGenBioHopper>
+  <NeedGenBioHopperDesc>You have a BioGenerator with no hopper next to it.\n\nTo work, the BioGenerator must draw from an adjacent hopper filled with BioMatter.\n\nBuild a BioGenerator Hopper adjacent to the BioGenerator.</NeedGenBioHopperDesc>
+  <NeedFuelFeeder>Need Fuel Hopper</NeedFuelFeeder>
+  <NeedFuelFeederDesc>You have a Fuel Power Plant with no hopper next to it.\n\nTo work, the Fuel Power Plant must draw from an adjacent hopper filled with Fuel.\n\nBuild a Fuel Power Plant Hopper adjacent to the Fuel Power Plant.</NeedFuelFeederDesc>
+  <NeedGenHopper>Need Steam Generator Hopper</NeedGenHopper>
+  <NeedGenHopperDesc>You have a Steam Generator with no hopper next to it.\n\nTo work, the Steam Generator must draw from an adjacent hopper filled with Kindling or Ethanol Fuel.\n\nBuild a Steam Generator Hopper adjacent to the Steam Generator.</NeedGenHopperDesc>
+  <NeedPlasmaGenFeeder>Need Plasma Reactor Hopper</NeedPlasmaGenFeeder>
+  <NeedPlasmaGenFeederDesc>You have a Plasma Reactor with no hopper next to it.\n\nTo work, the Plasma Reactor must draw from an adjacent hopper filled with Bauxite Ore.\n\nBuild a Plasma Reactor Hopper adjacent to the Plasma Reactor.</NeedPlasmaGenFeederDesc>
+  <NeedNuclearFeeder>Need Nuclear Plant Hopper</NeedNuclearFeeder>
+  <NeedNuclearFeederDesc>You have a Nuclear Power Plant or Military Nuclear Plant with no hopper next to it.\n\nTo work, the Nuclear Power Plant/Military Nuclear Plant must draw from an adjacent hopper filled with Enriched Uranium.\n\nBuild a Nuclear Plant Hopper adjacent to the Nuclear Power Plant/Military Nuclear Plant.</NeedNuclearFeederDesc>
+  <NeedCentrifugeFeeder>Need Gas Centrifuge Hopper</NeedCentrifugeFeeder>
+  <NeedCentrifugeFeederDesc>You have a Gas Centrifuge with no hopper next to it.\n\nTo work, the Gas Centrifuge must draw from an adjacent hopper filled with Uranium Ore.\n\nBuild a Gas Centrifuge Hopper adjacent to the Gas Centrifuge.</NeedCentrifugeFeederDesc>
+  <NeedElectronicFeeder>Need Electronic Plant Hopper</NeedElectronicFeeder>
+  <NeedElectronicFeederDesc>You have an Electronic Plant with no hopper next to it.\n\nTo work, the Electronic Plant must draw from an adjacent hopper filled with Electronic Components.\n\nBuild an Electronic Plant Hopper adjacent to the Electronic Plant.</NeedElectronicFeederDesc>
+  <NeedCoalFeeder>Need Coal Power Plant Hopper</NeedCoalFeeder>
+  <NeedCoalFeederDesc>You have a Coal Power Plant with no hopper next to it.\n\nTo work, the Coal Power Plant must draw from an adjacent hopper filled with Coal Ore, Charcoal or Peat.\n\nBuild a Coal Power Plant Hopper adjacent to the a Coal Power Plant.</NeedCoalFeederDesc>
+  <AnotherGH>Too close to another Geothermal Heater.</AnotherGH>
+  <NoGeothemalSource>No nearby geothermal source. Please find it.</NoGeothemalSource>
+  <AnotherPG>Too close to another Plasma Generator.</AnotherPG>
+  <NoPlasmaGeothermalPlant>No nearby Plasma Reactor.</NoPlasmaGeothermalPlant>
+  <AnotherME>Too close to another Mine Extractor.</AnotherME>
+  <AnotherPGR>Too close to another Plasma Reactor.</AnotherPGR>
+  <AnotherFG>Too close to another Drilling Rig.</AnotherFG>
+  <AnotherGG>Too close to another Geothermal Generator.</AnotherGG>
+  <NeedOilFeeder>Need Oil Refinery Hopper</NeedOilFeeder>
+  <NeedOilFeederDesc>You have an Oil Refinery with no hopper next to it.\n\nTo work, the Oil Refinery must draw from an adjacent hopper filled with Crude Oil.\n\nBuild an Oil Refinery Hopper adjacent to the Oil Refinery.</NeedOilFeederDesc>
+  <NeedHeaterHopper>Need Coal Burner Hopper</NeedHeaterHopper>
+  <NeedHeaterHopperDesc>You have a Coal Burner with no hopper next to it.\n\nTo work, the Coal Burner must draw from an adjacent hopper filled with Coal Ore, Charcoal or Peat.\n\nBuild a Coal Burner Hopper adjacent to the Coal Burner.</NeedHeaterHopperDesc>
+  <NearWithAnotherFissure>Too close to another fissure or Mine Extractor.</NearWithAnotherFissure>
+  <NeedAntimatterReactorFeeder>Need Antimatter Reactor Hopper</NeedAntimatterReactorFeeder>
+  <NeedAntimatterReactorFeederDesc>You have an Antimatter Reactor with no hopper next to it.\n\nTo work, the Antimatter Reactor must draw from an adjacent hopper filled with Antimatter.\n\nBuild an Antimatter Reactor Hopper adjacent to the the Antimatter Reactor.</NeedAntimatterReactorFeederDesc>
+  <NeedHadronColliderFeeder>Need Hadron Collider Hopper</NeedHadronColliderFeeder>
+  <NeedHadronColliderFeederDesc>You have a Hadron Collider with no hopper next to it.\n\nTo work, the Hadron Collider must draw from an adjacent hopper filled with Inorganic Matter.\n\nBuild a Hadron Collider Hopper adjacent to the Hadron Collider.</NeedHadronColliderFeederDesc>
+
+
+  <!-- TradingSpot -->
+  <OneTradingSpotMessage>Only one trading spot allowed per map.  Removing old spot.</OneTradingSpotMessage>
+
+
+  <!-- PowerSwitch -->
+  <PowerSwitch_SwitchOnOff>Switch: On/Off.</PowerSwitch_SwitchOnOff>
+  <PowerSwitch_AutoONMotionRoom>Auto ON: Motion in room.</PowerSwitch_AutoONMotionRoom>
+  <PowerSwitch_AutoONMotionNearbyRange>Auto ON: Motion nearby. Range:</PowerSwitch_AutoONMotionNearbyRange>
+  <PowerSwitch_AutoONEnemyNearbyRange>Auto ON: Enemy nearby. Range:</PowerSwitch_AutoONEnemyNearbyRange>
+  <PowerSwitch_AutoOFFEnemyNearbyRange>Auto OFF: Enemy nearby. Range:</PowerSwitch_AutoOFFEnemyNearbyRange>
+  <PowerSwitch_TimerClickSwitchOnTime>Timer: Click to set switch-on time.</PowerSwitch_TimerClickSwitchOnTime>
+  <PowerSwitch_TimerClickSwitchOffTime>Timer: Click to set switch-off time.</PowerSwitch_TimerClickSwitchOffTime>
+  <PowerSwitch_On>On</PowerSwitch_On>
+  <PowerSwitch_Off>Off</PowerSwitch_Off>
+  <PowerSwitch_OnRange>On - Range:</PowerSwitch_OnRange>
+  <PowerSwitch_AutoMotion>Auto Motion:</PowerSwitch_AutoMotion>
+  <PowerSwitch_AutoEnemy>Auto Enemy:</PowerSwitch_AutoEnemy>
+  <PowerSwitch_Timer>Timer</PowerSwitch_Timer>
+  <PowerSwitch_TimeOnTimeOff>{0:00}h - {1:00}h</PowerSwitch_TimeOnTimeOff>
+
+  <!--  Temperature Gauge  -->
+  <TempGaugeAlert>Temperature out of range</TempGaugeAlert>
+  <TempGaugeAlertDesc>One or more thermometers are reporting a temperature that exceeds the specified alert threshold.</TempGaugeAlertDesc>
+  <TempGaugeAlertHot>Temperature too hot</TempGaugeAlertHot>
+  <TempGaugeAlertHotDesc>The temperature near one of your thermometers has exceeded the threshold of {0}.</TempGaugeAlertHotDesc>
+  <TempGaugeAlertCold>Temperature too cold</TempGaugeAlertCold>
+  <TempGaugeAlertColdDesc>The temperature near one of your thermometers has dropped below the threshold of {0}.</TempGaugeAlertColdDesc>
+  <AlertOff>Alert disabled</AlertOff>
+  <AlertOnHighTemperature>On high temp</AlertOnHighTemperature>
+  <AlertOnLowTemperature>On low temp</AlertOnLowTemperature>
+  <AlertOffDesc>Alerts are disabled.</AlertOffDesc>
+  <AlertOnHighTemperatureDesc>Will send an alert when temperature is above {0}.</AlertOnHighTemperatureDesc>
+  <AlertOnLowTemperatureDesc>Will send an alert when temperature is below {0}.</AlertOnLowTemperatureDesc>
+  <AlertGizmoDesc>Whether the thermometer sends an alert when a specified temperature is exceeded.</AlertGizmoDesc>
+
+  <!--  Nanite shield  -->
+  <ChargeShieldsLabel>Charge Shields</ChargeShieldsLabel>
+  <ChargeShieldsDesc>Enable charging Shields</ChargeShieldsDesc>
+  <ChargeShieldsOffDesc>Disable charging Shields</ChargeShieldsOffDesc>
+  <UpgradeNanoShieldLabel>Gain nanoShield</UpgradeNanoShieldLabel>
+  <ShieldsChargingLabel>Shields Charging: </ShieldsChargingLabel>
+  <ShieldsLabel>Shields: </ShieldsLabel>
+
+  <!--  PlantGrowerLinked  -->
+  <PGLLabel>Apply to whole room</PGLLabel>
+  <PGLDesc>Order to grow the same kind of plant in all hydroponic basins in this room.</PGLDesc>
+
+  <!--  Plasma Generator  -->
+  <StringPowerOutput>Power output: </StringPowerOutput>
+  <StringCharging>Charging Progress: </StringCharging>
+
+  <!--  Powerplants  -->
+  <EfficiencyTEG>Efficiency: </EfficiencyTEG>
+  <DeltaTEG>Delta: </DeltaTEG>
+  <StatusWorking>Status: Working</StatusWorking>
+  <StatusCooling>Status: Cooling</StatusCooling>
+
+
+  <!--  Subspace Burst Transponder  -->
+  <CallShipLabel>Call trader ship</CallShipLabel>
+  <CallShipDesc>You can call a trader ship, when Subspace Burst Transponder fully charged</CallShipDesc>
+  <ChargingProcess>Charging: </ChargingProcess>
+  <FullyCharged>Fully Charged</FullyCharged>
+  <TransmittingProcess>Transmitting info: </TransmittingProcess>
+  <InsufficientChargeLevel>Insufficient Charge Level to Contact Ship.</InsufficientChargeLevel>
+  <MSPowerNeeded>Power needed: </MSPowerNeeded>
+  <MSScanProcess>Scan progress: </MSScanProcess>
+  <MSScanRange>Current/max scan range: </MSScanRange>
+
+  <!--  Stargate  -->
+  <SGAddResourcesLabel>Add Resources</SGAddResourcesLabel>
+  <SGAddResourcesDesc>Add Resources</SGAddResourcesDesc>
+  <AddColonistLabel>Add Colonist</AddColonistLabel>
+  <AddColonistDesc>Add Colonist</AddColonistDesc>
+  <DialOutLabel>Dial out</DialOutLabel>
+  <DialOutDesc>Dial out</DialOutDesc>
+  <RecallSGLabel>Recall</RecallSGLabel>
+  <RecallSGDesc>Recall</RecallSGDesc>
+  <IncreasePowerLabel>Increase Power</IncreasePowerLabel>
+  <IncreasePowerDesc>Increase Power</IncreasePowerDesc>
+  <DecreasePowerLabel>Decrease Power</DecreasePowerLabel>
+  <DecreasePowerDesc>Decrease Power</DecreasePowerDesc>
+  <InsPowerAddRes>Insufficient Power to add Resources</InsPowerAddRes>
+  <InsPowerAddCol>Insufficient Power to add Colonist</InsPowerAddCol>
+  <PlsRecallOTF>Please Recall Offworld Teams First</PlsRecallOTF>
+  <InsPTEC>Insufficient power to establish connection.</InsPTEC>
+  <RecOfft>Recalling Offworld Teams</RecOfft>
+  <OffNotFound>No Offworld Teams Found</OffNotFound>
+  <BufferItemsSG>Buffer Items: </BufferItemsSG>
+  <CapacitorChargeSG>Capacitor Charge: </CapacitorChargeSG>
+
+  <!--  HaulPriority  -->
+  <IncHaulPriorityLabel>Increase Haul Priority</IncHaulPriorityLabel>
+  <IncHaulPriorityDesc>Increase the hauling priority of the designated items.</IncHaulPriorityDesc>
+  <NothingTohaul>Nothing To Haul Here!</NothingTohaul>
+  <AlreadyDesignated>Already Designated</AlreadyDesignated>
+  <PlsCancelOD>Please Cancel Override Designation</PlsCancelOD>
+  <OverHaulPriorityLabel>Override Haul Priority</OverHaulPriorityLabel>
+  <OverHaulPriorityDesc>Increase the hauling priority of the designated items</OverHaulPriorityDesc>
+  <AlreadyHighPriority>Already Highest Priority!</AlreadyHighPriority>
+
+  <!-- Itab container -->
+  <StoredItemsCount>Stored Items Count:</StoredItemsCount>
+  <Remove>Remove</Remove>
+
+  <!-- LockDoors -->
+  <UnlockDoors>Unlock doors</UnlockDoors>
+  <LockDoors>Lock doors</LockDoors>
+  <DoorAreLocked>Door are locked</DoorAreLocked>
+  <DoorAreUnlocked>Door are unlocked</DoorAreUnlocked>
+  <DoorBlocked>Door Blocked</DoorBlocked>
+  <DoorHoldOpen>Door Hold Open</DoorHoldOpen>
+  <UnlockingMote>Unlocking</UnlockingMote>
+  <LockingMote>Locking</LockingMote>
+
+  <!-- Windows + Beautiful walls -->
+  <OpeningMote>Opening</OpeningMote>
+  <ClosingMote>Closing</ClosingMote>
+  <OpenedWindow>Window is open</OpenedWindow>
+  <ClosedWindow>Window is closed</ClosedWindow>
+  <NoLightAccessString>No near light access</NoLightAccessString>
+  <OpeningWindowString>Open window</OpeningWindowString>
+  <ClosingWindowString>Close window</ClosingWindowString>
+  <HoldWindowOpenString>Window hold ppen</HoldWindowOpenString>
+  <BlockedWindowString>Window blocked</BlockedWindowString>
+  <CanBePlacedNextToDoors>Cant be placed next to doors</CanBePlacedNextToDoors>
+  <CanBePlacedNextToWindow>Cant be placed next to window</CanBePlacedNextToWindow>
+  <BuildWindowLabel>Build a window</BuildWindowLabel>
+  <BuildWindowDesc>Require the glass to build.</BuildWindowDesc>
+  <ButtonMountLights>Mount Lights</ButtonMountLights>
+  <StructureUpgradeText>Materials needed for this {0}:\n{1}</StructureUpgradeText>
+  <StructureAccept>Accept</StructureAccept>
+  <StructureCancel>Cancel</StructureCancel>
+  <WindowImpassable>Window is blocked on one or more sides.</WindowImpassable>
+  <WindowDoubleOutside>One side of the window must be inside.</WindowDoubleOutside>
+  <WindowDoubleInside>One side of the window must be outside.</WindowDoubleInside>
+
+
+  <!-- Fishing -->
+  <!-- PlaceWorker -->
+  <FishIndustry.FishingPier_InvalidBiome>No fish lives in this biome.</FishIndustry.FishingPier_InvalidBiome>
+  <FishIndustry.TooCloseFishingPier>Too close from another fishing pier.</FishIndustry.TooCloseFishingPier>
+  <FishIndustry.TooCloseFishingZone>Too close from a fishing zone.</FishIndustry.TooCloseFishingZone>
+  <FishIndustry.FishingPier_MustTouchBank>Fishing pier must touch a bank.</FishIndustry.FishingPier_MustTouchBank>
+  <FishIndustry.FishingPier_PierMustBeOnWater>Fishing pier must be placed on water.</FishIndustry.FishingPier_PierMustBeOnWater>
+  <FishIndustry.FishingPier_TooFewWater>Too few water</FishIndustry.FishingPier_TooFewWater>
+  <FishIndustry.FishingPier_ZoneMustBeOnWater>Fishing zone must be placed on water.</FishIndustry.FishingPier_ZoneMustBeOnWater>
+
+  <!-- Alerts -->
+  <FishIndustry.NeedHopperLabel>Need food hopper</FishIndustry.NeedHopperLabel>
+  <FishIndustry.NeedHopperExplanation>You have an aquaculture basin with no hopper next to it.\n\nTo breed, aquaculture basins must draw from an adjacent hopper filled with raw vegetable food or animal products.\n\nBuild a hopper adjacent to the aquaculture basin.</FishIndustry.NeedHopperExplanation>
+
+  <FishIndustry.IdleAquacultureBasinLabel>Idle aquaculture basin</FishIndustry.IdleAquacultureBasinLabel>
+  <FishIndustry.IdleAquacultureBasinExplanation>You have an idle aquaculture basin.\n\nEnsure a hunter can access it to start the breeding process. Select the basin if you want to modify the bred species.</FishIndustry.IdleAquacultureBasinExplanation>
+
+  <FishIndustry.CriticalIssueLabel>Aquaculture basin critical issue</FishIndustry.CriticalIssueLabel>
+  <FishIndustry.CriticalIssueExplanation>There is a critical issue with one of your basin.\n\nBred fishes will die if it lasts for too long! You should check the following requirements are met:\n- power supply,\n- food availability,\- correct maintenance.</FishIndustry.CriticalIssueExplanation>
+
+  <!-- Message -->
+  <FishIndustry.FishesDied>Bred fishes have died in an aquaculture basin. You should check its conditions.</FishIndustry.FishesDied>
+  <FishIndustry.FisherBitten> was bitten by a tailtheeth while fishing.</FishIndustry.FisherBitten>
+
+  <!-- Gizmo -->
+  <FishIndustry.ChangeSpecies>Change species</FishIndustry.ChangeSpecies>
+  <FishIndustry.ChangeSpeciesDescription1>The aquaculture basin will start breeding </FishIndustry.ChangeSpeciesDescription1>
+  <FishIndustry.ChangeSpeciesDescription2>once a colonist has come to change the parameters. Click to select another species.</FishIndustry.ChangeSpeciesDescription2>
+  <FishIndustry.FishLabelPluralMashgon>mashgons</FishIndustry.FishLabelPluralMashgon>
+  <FishIndustry.FishLabelPluralBlueblade>blueblades</FishIndustry.FishLabelPluralBlueblade>
+  <FishIndustry.FishLabelPluralTailteeth>tailteeths</FishIndustry.FishLabelPluralTailteeth>
+  <FishIndustry.FishDescriptionMashgon>short breeding time but low meat yield</FishIndustry.FishDescriptionMashgon>
+  <FishIndustry.FishDescriptionBlueblade>medium breeding time and decent meat yield</FishIndustry.FishDescriptionBlueblade>
+  <FishIndustry.FishDescriptionTailteeth>high breeding time but yields prime meat</FishIndustry.FishDescriptionTailteeth>
+  <FishIndustry.Breeding>Breeding </FishIndustry.Breeding>
+  <FishIndustry.BasinIsBreeding>This aquaculture basin is breeding </FishIndustry.BasinIsBreeding>
+  <FishIndustry.WaitingForEggs>Waiting for eggs</FishIndustry.WaitingForEggs>
+  <FishIndustry.ClickToCancel>Click to cancel breeding </FishIndustry.ClickToCancel>
+  <FishIndustry.EnsureHaveHunterAndEggs>Ensure you have an available hunter and some eggs (a piece of meat) to start breeding.</FishIndustry.EnsureHaveHunterAndEggs>
+  <FishIndustry.Breed>Breed </FishIndustry.Breed>
+  <FishIndustry.ClickToStart>Click to start breeding </FishIndustry.ClickToStart>
+  <FishIndustry.BreedingRequestedMashgon>Mashgons breeding requested.</FishIndustry.BreedingRequestedMashgon>
+  <FishIndustry.BreedingRequestedBlueblade>Blueblades breeding requested.</FishIndustry.BreedingRequestedBlueblade>
+  <FishIndustry.BreedingRequestedTailteeth>Tailteeths breeding requested.</FishIndustry.BreedingRequestedTailteeth>
+  <FishIndustry.BreedingRequestedButNoEggsMashgon>Mashgons breeding requested however you have no mashgon egg in storage to start breeding.</FishIndustry.BreedingRequestedButNoEggsMashgon>
+  <FishIndustry.BreedingRequestedButNoEggsBlueblade>Blueblades breeding requested however you have no blueblade egg in storage to start breeding.</FishIndustry.BreedingRequestedButNoEggsBlueblade>
+  <FishIndustry.BreedingRequestedButNoEggsTailteeth>Tailteeths breeding requested however you have no tailteeth egg in storage to start breeding.</FishIndustry.BreedingRequestedButNoEggsTailteeth>
+
+  <FishIndustry.AllowFishingLabel>Allow fishing</FishIndustry.AllowFishingLabel>
+  <FishIndustry.AllowFishingDesc>Allow your hunters to fish in this area.</FishIndustry.AllowFishingDesc>
+  <FishIndustry.AllowUsingCornLabel>Allow using grain</FishIndustry.AllowUsingCornLabel>
+  <FishIndustry.AllowUsingCornDesc>Allow your hunters to use bait to catch fishes faster and more reliably.</FishIndustry.AllowUsingCornDesc>
+
+  <!-- Inspect String -->
+  <FishIndustry.ProgressLabel>Progress: </FishIndustry.ProgressLabel>
+  <FishIndustry.ProgressLabelNotBreeding>Progress: not breeding</FishIndustry.ProgressLabelNotBreeding>
+  <FishIndustry.WaterQuality>Water quality: {0}%</FishIndustry.WaterQuality>
+  <FishIndustry.WaterQualityFishesHealth>Water quality/fishes health: {0}%/{1}%</FishIndustry.WaterQualityFishesHealth>
+  <FishIndustry.NeedsMaintenanceNow>Needs maintenance now </FishIndustry.NeedsMaintenanceNow>
+  <FishIndustry.Issue>Issue</FishIndustry.Issue>
+  <FishIndustry.Issues>Issues</FishIndustry.Issues>
+  <FishIndustry.Issue_MicroFungus>micro fungus</FishIndustry.Issue_MicroFungus>
+  <FishIndustry.Issue_NoFood>no food</FishIndustry.Issue_NoFood>
+  <FishIndustry.Issue_CriticalWaterQuality>critical water quality</FishIndustry.Issue_CriticalWaterQuality>
+  <FishIndustry.Issue_BadlyMaintained>badly maintained</FishIndustry.Issue_BadlyMaintained>
+
+  <FishIndustry.FishStock>Fish stock: {0}</FishIndustry.FishStock>
+  <FishIndustry.TooSmallZone>Too small zone</FishIndustry.TooSmallZone>
+  <FishIndustry.NotViableNow>Not viable now</FishIndustry.NotViableNow>
+  <FishIndustry.SpeciesInZone>Species in zone: </FishIndustry.SpeciesInZone>
+  <FishIndustry.AffectedBy>Affected by: </FishIndustry.AffectedBy>
+  <FishIndustry.AffectedByBiome>biome</FishIndustry.AffectedByBiome>
+  <FishIndustry.AffectedByToxicFallout>toxic fallout</FishIndustry.AffectedByToxicFallout>
+  <FishIndustry.AffectedByBadTemperature>non-ideal temperature</FishIndustry.AffectedByBadTemperature>
+
+  <!-- Letters -->
+  <FishIndustry.LetterLabelMicroFungus>Micro fungus</FishIndustry.LetterLabelMicroFungus>
+  <FishIndustry.MicroFungus>Some of your aquaculture basins have been infected by a strange aquatic fungus.\nIt seems to consume all the water's oxygen.\nLet's hope the fishes will survive this deprivation.</FishIndustry.MicroFungus>
+
+  <FishIndustry.LetterLabelSunkenTreasure>Sunken treasure!</FishIndustry.LetterLabelSunkenTreasure>
+  <FishIndustry.SunkenTreasure>{0} has found a sunken treasure while fishing! What a good catch!\n</FishIndustry.SunkenTreasure>
+
+  <DeadMarineLabel>Dead marine</DeadMarineLabel>
+  <DeadMarineDesc> has cought a dead body while fishing!\n\n'This is really disgusting but look at his gear! This guy was probably a Mining Co. security member. I wonder what happend to him...'\n"</DeadMarineDesc>
+
+  <!-- Zone -->
+  <FishIndustry.FishingZone>Fishing zone</FishIndustry.FishingZone>
+  <FishIndustry.DesignatorFishingZoneDesc>Create a zone where your colonists will try to fish.</FishIndustry.DesignatorFishingZoneDesc>
+
+  <!-- Fuel -->
+  <FuelFilter>Fuel filter</FuelFilter>
+  <InternalTemperature>Internal temperature:</InternalTemperature>
+  <OperatingTemperature>Operating temperature: </OperatingTemperature>
+  <CurrentStatus>Current status:</CurrentStatus>
+  <WStatus> working</WStatus>
+  <LTStatus> low temp</LTStatus>
+  <RefuelAt>Refuel at </RefuelAt>
+  <FuelSearchDistance>Fuel search distance: </FuelSearchDistance>
+  <BurningProgress>Burning progress:</BurningProgress>
+  <FuelAmount>Fuel amount: </FuelAmount>
+  <DepletesAfter>Depletes after: </DepletesAfter>
+  <MaxTempertarure>Max tempertarure: </MaxTempertarure>
+  <NoFuel>No fuel</NoFuel>
+  <FuelDrop>Fuel Drop</FuelDrop>
+  <FuelInfo>Fuel Info</FuelInfo>
+  <ytime> year </ytime>
+  <mtime> month </mtime>
+  <dtime> days </dtime>
+  <htime> hours </htime>
+  <lhtime>1 hour </lhtime>
+  <FuelFilterMessage>Fuel filter settings are set to default (Allow all). If you want to disable all fuel for this building, at first set Refuel to 0%</FuelFilterMessage>
+
+  <!-- Infestation event fix -->
+  <InsectHuntMessage>A predator insect has left its hive to hunt.</InsectHuntMessage>
+  <SpawnManHuntInspect>Spawning manhunter in: </SpawnManHuntInspect>
+
+  <!-- Dash -->
+  <DashEnabled>Dash Enabled</DashEnabled>
+  <Dash>Dash</Dash>
+  <DashDisabled>Dash Disabled</DashDisabled>
+  <Recharging>Recharging</Recharging>
+
+  <!-- Designator_ZoneAdd_GrowingSame -->
+  <UniformGrowZoneLabel>Uniform Grow Zone</UniformGrowZoneLabel>
+  <UniformGrowZoneDesc>A grow zone that is restricted to selecting a single soil fertility</UniformGrowZoneDesc>
+
+  <!-- ColorableStockpile -->
+  <RedLabel>Red</RedLabel>
+  <BlueLabel>Blue</BlueLabel>
+  <GreenLabel>Green</GreenLabel>
+  <AlphaLabel>Alpha</AlphaLabel>
+  <UseColorLabel>Use Color</UseColorLabel>
+  <RandomColorLabel>Random</RandomColorLabel>
+  <StockpileLabel>Stockpile</StockpileLabel>
+  <DefaultLabel>Default</DefaultLabel>
+  <CustomLabel>Custom</CustomLabel>
+  <DumpingStockpileLabel>Dumping Stockpile</DumpingStockpileLabel>
+
+  <!-- Accident Event -->
+  <accident>Accident</accident>
+  <accidentdesc> has had an unfortunate accident.</accidentdesc>
+
+  <!-- Spawned buildings -->
+  <LootLabel>Open</LootLabel>
+  <LootDesc>Search for useful things inside </LootDesc>
+  <LootThe>Loot the </LootThe>
+
+  <!-- CompAutoFlicker -->
+  <AutoFlickingLabel>Auto Flicking</AutoFlickingLabel>
+  <AutoFlickingDesc>Automatically instructs Pawns to flick on during the day and off at night</AutoFlickingDesc>
+
+  <!-- DayTime Switcher -->
+  <onLabel>On</onLabel>
+  <OffLabel>Off</OffLabel>
+  <SetTimesLabel>Set Times</SetTimesLabel>
+  <SetTimesDesc>Set the times that this switch is on or off.</SetTimesDesc>
+
+  <!-- ITab_Storage -->
+  <Refillcells>Refill cells less then</Refillcells>
+  <SearchLabel>Search</SearchLabel>
+
+  <!-- Earthquake  -->
+  <EQMess>An earthquake! Is anybody hurt? \n\nLooks like some of the buildings got severely damaged.</EQMess>
+  <EQMessLow>An earthquake! Is anybody hurt? \n\nLooks like some of the buildings got damaged.</EQMessLow>
+  <EQRichterScale>\nEarthquake richter scale: </EQRichterScale>
+  <DescEQ>Warning! EARTHQUAKE! Watch out for falling debris!</DescEQ>
+  <LabelEQ>Earthquake!</LabelEQ>
+
+  <!-- Seismic activity -->
+  <SALabel>Seismic activity</SALabel>
+  <SAMess>The Seismic activity in this region. \n\nBe careful in mountainous areas! there may be collapses.</SAMess>
+  <SARichterScale>\nRichter scale: </SARichterScale>
+
+  <!-- Orassan shipcrash -->
+  <LookLabel>Ship crash found</LookLabel>
+  <LookDiscA>We found the location of the ship wreck, perhaps spacer could have survived.</LookDiscA>
+
+  <!-- RefugeeChased -->
+  <SkilledWith>Skilled with</SkilledWith>
+  <RescuedInitial_AcceptSK>Accept</RescuedInitial_AcceptSK>
+  <RescuedInitial_RejectSK>Reject request</RescuedInitial_RejectSK>
+  <WandererInitialSK>{PAWN_nameDef} from {0} was wandering nearby and noticed you could use some help. {PAWN_pronoun} would like to join your colony for a while.</WandererInitialSK>
+  <PassionLabel>(Major)</PassionLabel>
+
+  <!-- Found hidden resources -->
+  <MDLabel>Found Hidden Resources</MDLabel>
+  <MDDesc>We have found hidden mineral deposits!</MDDesc>
+  <RMDLabel>Found Hidden Rare Minerals</RMDLabel>
+  <RMDDesc>We have found hidden rare mineral deposits!</RMDDesc>
+  <OFLabel>Found Hidden Oilfield</OFLabel>
+  <OFDesc>We have found a hidden oil field!</OFDesc>
+
+  <!-- Found treasure  -->
+  <FoundTreasure>Found Treasure</FoundTreasure>
+  <HeStash> was feeling generous and decided to give a treasured gun he was hiding to serve the colony. \n\nHe gave his </HeStash>
+  <SheStash> was feeling generous and decided to give a treasured gun she was hiding to serve the colony.\n\nShe gave her </SheStash>
+  <GunStash> gun.</GunStash>
+  <HeMoney> was feeling generous and decided its better to share his wealth for the colony. \n\nHe's decided to donate </HeMoney>
+  <SheMoney> was feeling generous and decided its better to share her wealth for the colony. \n\nShe's decided to donate </SheMoney>
+  <SilverStash> Silver to the colony.</SilverStash>
+
+  <!-- Amnesia -->
+  <Amnesia>Amnesia</Amnesia>
+  <AmnesiaHeDesc>suddenly forgot what he was doing. He can't remember what to do.</AmnesiaHeDesc>
+  <AmnesiaSheDesc>suddenly forgot what she was doing. She can't remember what to do.</AmnesiaSheDesc>
+
+  <!-- CalmWeather -->
+  <CalmWeatherLabel>Calm Weather</CalmWeatherLabel>
+  <CalmWeatherDesc>The weather just got remarkably calm. Wind turbines will be useless, but shooting will be easier.</CalmWeatherDesc>
+
+  <!-- Thanksgiving -->
+  <ThanksgivingLabel>Thanksgiving</ThanksgivingLabel>
+  <ThanksgivingDesc>One of the tribes has noticed your food stores are low. They have provided you with some food, no strings attached.\n\nThey thank you for being such good friends and they hope your friendship will be further cemented by this act.</ThanksgivingDesc>
+
+  <!-- Locusts Attack -->
+  <LabelBug>Locusts Attack</LabelBug>
+  <DescBug>Locusts have been found in your home area! Destroy them quickly or else they will eat your apparel!</DescBug>
+
+
+  <!-- The Thing -->
+  <WarnFalling>WARNING: An unknown spacecraft is falling!</WarnFalling>
+  <LabelMT>Something Strange</LabelMT>
+  <DescMT>The faces of the humans contained within the droppods looked terrified beyond belief. They must've experienced something horrifying</DescMT>
+  <TheThingLabel>Abomination!</TheThingLabel>
+  <TheThingDesc> transformed into a huge Abomination! That mysterious transmission dropped a mutated lifeform unto us! \n\nDestroy it before it slaughters all of the colonists!</TheThingDesc>
+
+  <!-- Zeon -->
+  <LetterLabelZeonPasses>Zeon</LetterLabelZeonPasses>
+  <LetterZeonPasses>Many colonies have fallen in the hands of the mechanoid boss - Zeon. Perhaps you should consider abandoning your colony.</LetterZeonPasses>
+
+  <!-- ResquePlayer -->
+  <RescueStay>Stay in Colony</RescueStay>
+  <RescueGoAway>Get Rescued</RescueGoAway>
+  <EndGame>A nearby ship from another planet cluster has received intel on the crash site based from the distress signal you dispersed during the destruction of the your ship. They have decided to come and get you and your colonists. \n\nYou can choose to end the game now and tell the rescue ship to come and get you or choose to stay, it's totally up to you.</EndGame>
+
+  <!-- Confusion -->
+  <ConfusionLabel>Confusion</ConfusionLabel>
+  <ConfusionDesc> just snapped out of confusion.</ConfusionDesc>
+
+  <!-- Hungry animal -->
+  <LetterLabelHungryAnimal>Hungry animal!</LetterLabelHungryAnimal>
+  <HungryAnimal>One of wild animals is so starved that decided to fill his stomach with your colonist or pet!</HungryAnimal>
+
+  <!-- Feenix passes -->
+  <LetterLabelFeenixPasses>Feenix wandering through!</LetterLabelFeenixPasses>
+  <LetterFeenixPasses>A Feenix is wandering through the area. \n\nThese legendary creatures are also known as fire incarnate. Said to be living fire, a Feenix heart is highly prized on the black market. \n\nWhile not inherintly hostile, even a solitary Feenix can lay waste to an entire colony if provoked. \n\nThey can be tamed and even trained, but only by the bravest - and most fireproof - of men.</LetterFeenixPasses>
+
+  <!-- Kirin passes -->
+  <LetterLabelIcicatPasses>Kirin wandering through!</LetterLabelIcicatPasses>
+  <LetterIcicatPasses>A Kirin is wandering through the area. \n\nSolitary and peaceful, these legendary creatures are also known as frost incarnate. Said to be living ice, a Kirin heart is highly prized on the black market. \n\nWhile docile, an enraged Kirin is a sight to behold. \n\nThey can be tamed and even trained, but only by the bravest - and best insulated - of men.</LetterIcicatPasses>
+
+  <!-- Raptor Arrived -->
+  <LetterLabelRaptorArrived>Raptors Arrived!</LetterLabelRaptorArrived>
+  <RaptorArrived>Raptors arrived searching for food! Stay away! Oh, yeah. Oooh, ahhh, that's how it always starts. Then later there's running and um, screaming.</RaptorArrived>
+
+  <!-- DevourersCrops -->
+  <DevourersCropsTitle>Devourers of crops</DevourersCropsTitle>
+  <DevourersCropsText>Some particularly hungry devourers of crops have made their way into your garden! They'll likely hang around and keep eating your crops (and other plants) until you deal with them.</DevourersCropsText>
+
+  <!-- Hungry critters -->
+  <HungryFlockTitle>Insects (dirty room)</HungryFlockTitle>
+  <HungryFlockText>In one of the rooms was very dirty as well as the free access to food attracted the attention of insects which are not averse to eat.</HungryFlockText>
+
+  <!-- Malaria raid -->
+  <LabelMalariaRaid>Malaria epidemic</LabelMalariaRaid>
+  <DescMalariaRaid>Our area hard-hit by the malaria. /nShould be afraid of mosquitoes!</DescMalariaRaid>
+
+  <!-- Flea raid -->
+  <LabelFleaRaid>Plague epidemic</LabelFleaRaid>
+  <DescFleaRaid>Our area hard-hit by the plague. /nFleas are carriers of the plague, be careful.</DescFleaRaid>
+
+  <GeostormLabel>Geostorm</GeostormLabel>
+  <GeostormDesc>A serious planetary scale incident following many catastrophic natural disasters. \nTomorrow, which may not be.</GeostormDesc>
+
+  <!-- Swarm -->
+  <LetterLabelSwarm>Swarm</LetterLabelSwarm>
+  <SwarmArrived>A swarm of hungry insects appeared near the colony. \nImmediately all for cover! They are here for a short while and we can wait.</SwarmArrived>
+
+  <!-- Pests -->
+  <PestsLabel>Pests!</PestsLabel>
+  <PestsDesc>Some crop-eating bugs have found their way into your growing zones. They will eat all the crops they can find if they aren't dealt with.</PestsDesc>
+
+  <!-- Animal Genocide -->
+  <LabelAG>Animal Genocide</LabelAG>
+  <DescAG>All of the non-human species within the area have mysteriously died off. \nThere must be some kind of super mysterious phenomena in this RimWorld.</DescAG>
+
+  <!-- Accidental Explosion -->
+  <LabelAE>Accidental Explosion</LabelAE>
+  <DescAE>A power plant engine malfunction has caused an explosion. The power plant has been severely damaged or destroyed.</DescAE>
+
+  <!-- >Meteor Incoming -->
+  <LabelBH>Meteor Incoming!</LabelBH>
+  <DescBH>A meteoroid has entered the planet's gravity well and is crashing down in a fiery explosion!</DescBH>
+
+  <!-- Strange Eclipse -->
+  <LabelFE>Strange Eclipse</LabelFE>
+  <DescFE>The eclipse has made </DescFE>
+  <DescFEtwo>s in the area feral. They are merging to attack your colony so prepare a defense right away!</DescFEtwo>
+
+  <!-- Eclipse Meteor-->
+  <LabelEM>Eclipse Meteor</LabelEM>
+  <DescEM>This Eclipse isn't caused by a moon, it's a large meteor passing by! \nWatch out for its separated section and crashing debris! \n\nIt might have dropped precious metals!</DescEM>
+
+  <!-- Hungry Carnivores -->
+  <LabelHC>Hungry Carnivores Arrived</LabelHC>
+  <DescHC>A pack of hungry carnivores is looking for food. Your colonists look like food.</DescHC>
+
+  <!-- Nuclear Incident -->
+  <NEDesc>WARNING!!! There was an explosion at a nuclear reactor!</NEDesc>
+  <NELabel>Nuclear Incident</NELabel>
+
+  <!-- Rage Virus -->
+  <LabelRVH>Warning: Rage Virus!</LabelRVH>
+  <DescRVH>An unknown calamity has struck! Most of the humans in the area have been driven insane and are attacking each other! Half of your colonists are affected. Hurry up and do something!</DescRVH>
+  <LabelRV>Rage Virus</LabelRV>
+  <DescRV>has been found immune by the unknown calamity.</DescRV>
+
+  <!-- Tribal migration -->
+  <TribMigrDesc>A whole tribe of travellers has arrived within the area of your colony. \n\nYou can only imagine what fate has decided for them to endure this destiny.</TribMigrDesc>
+
+  <!-- Meteor Shower -->
+  <MeteorStopLabel>Meteor Shower Stopped</MeteorStopLabel>
+  <MeteorStopDesc>The Meteor Shower has stopped. No further meteors detected.</MeteorStopDesc>
+  <LabelBMH>Meteor Shower Incoming!</LabelBMH>
+  <DescBMH>A shower of meteoroids have entered the planet's gravity well and are crashing down in fiery explosions!</DescBMH>
+
+  <!-- Razor Rain -->
+  <RazorOverLabel>Razor Rain Stopped</RazorOverLabel>
+  <RazorOverDesc>The Razor Rain seems to be letting up.</RazorOverDesc>
+  <LabelRZ>Razor Rain Imminent</LabelRZ>
+  <DescRZ>Some debris in orbit around the planet has started to fall in the area, brace yourselves.</DescRZ>
+
+  <!-- CosmicRadiation -->
+  <CosmicRadiationLevel>It seems that the radiation level has plummeted to a natural level.</CosmicRadiationLevel>
+  <LabelCR>Cosmic Radiation</LabelCR>
+  <DescCR>got through the radiation and is struggling to help the other colonists</DescCR>
+  <DescHCR>Too much radiation from the solar flare has triggered cosmic radiation upon the humans within the area. \n\nEverybody feels nauseous, younger people may have fared well but the older ones are feeling ill and needs rest.</DescHCR>
+
+  <!-- Nuclear Fallout -->
+  <LabelNF>Nuclear Fallout</LabelNF>
+  <DescNF>Oh my God! Nuclear fallout has begun! Everything is going to die! The half-life of our uranium is 100 days.</DescNF>
+
+  <!-- Plunderers -->
+  <LetterLabelPlunderersArrived>Insectoid scouts</LetterLabelPlunderersArrived>
+  <PlunderersArrived>Some scouts from perhaps a nearby insectoid hive are poking around your territory. They will no doubt act as menace to both your colonists and ecosystem while they look about. Careful, it looks as though they'll engage any colonists that get too close!</PlunderersArrived>
+  <KillingSpree> tries to kill </KillingSpree>
+
+  <!-- DeepResourcesDeposits -->
+  <DeepResourcesFound>Discovered deep resources deposits</DeepResourcesFound>
+  <DeepResourcesFoundA>Actually, we were going to collect potatoes here and stumbled upon</DeepResourcesFoundA>
+  <DeepResourcesFoundB>\n\nMaybe it's time to build a mine here?</DeepResourcesFoundB>
+
+  <!-- MoonFall -->
+  <MoonFallMessageMeteorSwarm>A swarm of meteors -- possibly smaller pieces of your ship -- crosses the sky, burning up in the atmosphere.</MoonFallMessageMeteorSwarm>
+  <MoonFallMessageMeteorSwarmTribal>A swarm of meteors flame across the sky, but none crash to the ground near you.</MoonFallMessageMeteorSwarmTribal>
+  <SkyFallLetterLabelMeteorite>Large Ship Chunk</SkyFallLetterLabelMeteorite>
+  <SkyFallMeteorite>A lump of {0} just crashed to the ground. It was presumably once part of your ship, but the forces that ripped the ship apart, followed by the heat of uncontrolled reentry, have left nothing but a misshapen mass.</SkyFallMeteorite>
+  <MoonFallLetterLabelMeteoriteTribal>Meteorite</MoonFallLetterLabelMeteoriteTribal>
+  <MoonFallMeteoriteTribal>A large meteorite has struck ground in the area. It has left behind a lump of {0}.</MoonFallMeteoriteTribal>
+  <MoonFallLetterLabelFlashstorm>Flashstorm</MoonFallLetterLabelFlashstorm>
+  <MoonFallFlashstorm>Ionization in the atmosphere from the recent cascade of ship chunks and meteorites has caused a localized flashstorm. This can cause massive fires.</MoonFallFlashstorm>
+  <MoonFallFlashstormTribal>The gods are angry again, but instead of hurling rocks, they now hurl lightning. A flashstorm has begun. Beware of fires.</MoonFallFlashstormTribal>
+  <SkyFallRefugeePodCrash>You've detected an escape pod crashing hard nearby.\n\nThe occupant is an old acquaintance from your ship, who's agreed to join you.</SkyFallRefugeePodCrash>
+
+  <!-- Suicide event  -->
+  <LabelTrySuicide>Attempted Suicide</LabelTrySuicide>
+  <DescTrySuicide> tried to commit suicide, but it did not work out.</DescTrySuicide>
+  <LabelSuicide>Prisoner Suicide</LabelSuicide>
+  <DescSuicide_A>One of your prisoners died in the cell and has left a final message behind. It reads: "Cameras everywhere. Watching. Always watching. The walls all around are moving, watching. Can't sleep, always watching. You see me and I don't see you! No lights here, no no. Watch you in the dark they do. Cameras, eyes of spies! You'll watch me no more!"</DescSuicide_A>
+  <DescSuicide_B>Your prisoner smashed it's head against the wall and has died. A small piece of paper nearby has a message that was hastily scrawled. It reads: "I thought there would be easy cash in this Colony...but instead I got trapped into something horrible. I think I'm going crazy. This food...the Warden said it was "yummy, tasty, mmm" but I don't believe it. Something tastes wrong about it. My old injuries still haunt me, like a nightmare that never ends. Even the barely audible sound of the door causes me to shudder as if it were thunder".</DescSuicide_B>
+  <DescSuicide_C>A prisoner has committed suicide shortly after asking a Colonist: "Where are my meals? I need nourishment! Muffalo meat or something! GIVE ME FOOD!"</DescSuicide_C>
+  <DescSuicide_D>A prisoner who was found dead had kept a diary with multiple entries. It reads: "A rough cough. I feel cold and hot. I caught something, a flu maybe? No ventilation in here. Cough getting worse. My mouth is dry, it tastes like rust*blood splatter covers some words*rible. I see people sometimes, they promised me a future. To think I even liked it! I was promised food, a good bed and could one day use my skills again. I believed that, but not anymore. I need*blood splatter covers more words* worth a try.</DescSuicide_D>
+  <DescSuicide_E>A prisoner was found deceased under the bed. A small note was crumpled up nearby. It angrily reads: "They wanted to operate on me! They were going to harvest me for organs! These people are crazies! YOU WON'T HARVEST ME ALIVE! I WON'T LET YOU!</DescSuicide_E>
+  <DescSuicide_F>A prisoner has succumbed. A quick look at the body shows signs of infection and gangrene in hidden areas. The pain must have be extruciating.</DescSuicide_F>
+  <DescSuicide_G>A prisoner has perished. Scrawled into the floor is a note. It reads: "Suddenly no one comes? Am I going to die here like an abandoned dog in a cage?".</DescSuicide_G>
+  <DescSuicide_H>One of your prisoners suddenly couldn't stand up. The doctor's first thought was that the prisoner's psyche was tender, overwhelmed by the anxiety and depression from imprisonment. Then the prisoner suddenly died! Upon the autopsy examination, a long fat stick was found up the prisoner's rear and had gouged the intestines. What an unfortunate circumstance.</DescSuicide_H>
+  <DescSuicide_I>A prisoner has died under mysterious circumstances. The body was found in the fetal position with its hands covering its eyes. The prisoner seems to have choked when it swallowed its own tongue.</DescSuicide_I>
+  <DescSuicide_J>A prisoner has died under mysterious circumstances. A quick inspection of the body tells the tale. The prisoner seems to have tried hanging itself with a boot lace, but the lace broke. The prisoner then tried to gnaw off the door handle, as indicated by the bloody bite marks on the door. Failing that the prisoner swallowed part of the boot, where it got lodged in the throat and the prisoner suffocated.</DescSuicide_J>
+  <DescSuicide_K>The prisoner died under mysterious circumstances. A medical summary paper was found nearby. It reads: "Patient has distemper, intestinal ticks and show signs of being in a delirious state. Patient has tried to eat it's own feet and hands. I recommend isolating the patient and attempting experimental procedures. It might have lupus."</DescSuicide_K>
+  <DescSuicide_L>A prisoner has been found dead under the bed, and a scrap of paper was found nearby. It looks like a mission report and it reads: "Here is your job. Land at the listed co-ordinates and grab some weapons, ammunition, rations and armor. Then follow us and assault the illegal colony. They shouldn't be here and we're going to enforce that. You may be a rookie but this will be easy. They won't know what hit 'em!".</DescSuicide_L>
+  <DescSuicide_M>A prisoner has died. A message was found in a notebook. It reads: "We were waiting for orders when suddenly some air defense shot down our ship! I survived by jumping in the escape pod. When the pod opened I was immediately under fire. I was caught and imprisoned. I don't know what happened to the others. I don't think I'll be leaving this place alive. If you're still monitoring me, let them know what happened and tell them to stay away from this place".</DescSuicide_M>
+  <DescSuicide_N>A prisoner has suddenly died. A strange message was found scrawed on a medical paper. It reads "They wanted to do a test procedure on me with experimental bionics and regenerative tissue. They wanted to cut off my leg. So, I passed. I'll show them that I don't need medical help! My flesh and blood is my own, a little infection won't stop me! I AM INVINCIBLE!"</DescSuicide_N>
+
+  <!-- Tent -->
+  <RepTent>Repair the tent</RepTent>
+  <TentneededRes>needed</TentneededRes>
+  <DamagedTent>Damaged tent deployed. Some walls will be missing.</DamagedTent>
+  <TentPlacementBlocked>Tent placement blocked by a item, pawn or a building. Please deploy on a suitable space.</TentPlacementBlocked>
+  <NoResFoundOne>There is no</NoResFoundOne>
+  <NoResFoundTwo>available to repair the tent</NoResFoundTwo>
+  <NoResFoundTh>Need</NoResFoundTh>
+  <TentPlacementBlockedTree>Tent placement blocked by a tree. Please deploy on a suitable space.</TentPlacementBlockedTree>
+  <TentPlacementBlockedSimple>Tent placement blocked. Please deploy on a suitable space.</TentPlacementBlockedSimple>
+  <CantPlaceTent>Cannot place a fully damaged tent.</CantPlaceTent>
+  <DeployTentAt>Deploy tent at </DeployTentAt>
+
+  <!-- Cond. deconstructor -->
+  <DeconstructConduitsLabel>Deconstruct Conduits</DeconstructConduitsLabel>
+
+  <!-- Lightning Rod -->
+  <RL_CannotChangeMod>Cannot change mode now, rod still discharging.</RL_CannotChangeMod>
+  <RL_ChangeMode>Change Mode</RL_ChangeMode>
+  <RL_PowerSavingMode>Power saving mode(Click to change modes): Does not consume power when idle, outputs a lot of power when struck, but only has a</RL_PowerSavingMode>
+  <RL_ChanceToAttract>chance to attract a lightning bolt and cools down</RL_ChanceToAttract>
+  <RL_Slower>slower</RL_Slower>
+  <RL_NormalMode>Normal mode(Click to change modes): Consumes a bit of power when idle, outputs enough power to sustain itself in a storm and has a 100% chance to attract a lightning bolt. Can attract lightning at a</RL_NormalMode>
+  <RL_ChanceOverwhelmed>chance when overwhelmed.</RL_ChanceOverwhelmed>
+  <RL_FastCooldown>Fast cooldown mode(Click to change modes): Cools down 4x faster than normal but consumes triple the amount of power. Has a 100% chance to attract a lightning bolt. Can attract lightning at a</RL_FastCooldown>
+  <RL_Cooldown>Cooldown</RL_Cooldown>
+  <RL_Standby>Standby.</RL_Standby>
+  <RL_Discharging>Discharging.</RL_Discharging>
+  <RL_Overwhelmed>Overwhelmed.</RL_Overwhelmed>
+  <RL_PowerConsumption>Power consumption</RL_PowerConsumption>
+
+
+  <!-- IonSatelliteBroadcaster -->
+  <supervize_sientist_IC>The ion cannon controller is not supervized by a skilled scientist (level 10 research).</supervize_sientist_IC>
+  <supervize_controller_IC>The ion cannon controller is not supervized.</supervize_controller_IC>
+  <controller_not_ready_IC>The ion cannon controller is not ready.</controller_not_ready_IC>
+  <CommunicationSetup_IC>Communication setup: </CommunicationSetup_IC>
+  <Connection_IC>Connection: </Connection_IC>
+  <Connecting_IC>connecting</Connecting_IC>
+  <Connected_IC>connected</Connected_IC>
+
+  <!-- NoMoreThanOne -->
+  <NoMoreThanOne>Can't to build more then one for the map!</NoMoreThanOne>
+
+  <!-- Extractors -->
+  <ChangeResourceLabel>Change resource</ChangeResourceLabel>
+  <ChangeResourceDesc>Click to change resource</ChangeResourceDesc>
+  <SelectedResourceLabel>Selected Resource: {0}</SelectedResourceLabel>
+  <OnFissureReportString>Require fissure first!</OnFissureReportString>
+  <FillFissureDesc>Fills the fissure in</FillFissureDesc>
+  <FillFissureLabel>Fill in fissure</FillFissureLabel>
+  <FillFissureReq>Are you sure you wish to fill in this fissure?</FillFissureReq>
+  <BeginDrillLabel>Start Drill</BeginDrillLabel>
+  <BeginDrillDesc>Click here to begin the drilling process.</BeginDrillDesc>
+  <PauseDrillLabel>Pause Drill</PauseDrillLabel>
+  <PauseDrillDesc>Click here to pause the drilling process.</PauseDrillDesc>
+  <ResumeDrillLabel>Resume Drill</ResumeDrillLabel>
+  <ResumeDrillDesc>Click here to resume the drilling process.</ResumeDrillDesc>
+  <OperationNotBegun>Operation has not begun</OperationNotBegun>
+  <DrillProgress>Progress: </DrillProgress>
+  <Exhaustresource>Exhaust resource in: </Exhaustresource>
+  <LetterLabelExhaustedMine>Exhausted Mine</LetterLabelExhaustedMine>
+  <ExhaustedMine>One of your Mine Extractors is exhausted. Disassemble it and build a new one.</ExhaustedMine>
+  <LetterLabelExhaustedFissure>Exhausted Oil Fissure</LetterLabelExhaustedFissure>
+  <ExhaustedFissure>One of your Oil Fissures is exhausted. Disassemble the Oil Extrator and drill a new Oil Fissure.</ExhaustedFissure>
+
+  <!-- Containers -->
+  <Items>Items</Items>
+  <Container_StoredItemsCount>Stored items count: {0} / {1}</Container_StoredItemsCount>
+  <Container_Info>Info</Container_Info>
+  <Container_Drop>Drop</Container_Drop>
+  <RotMultiplier>Rot multiplier</RotMultiplier>
+
+  <!-- Chop wood designator -->
+  <ChopWoodLabel>Cut Tree</ChopWoodLabel>
+  <ChopWoodDesc>Marks fully grown trees to be chopped down for Wood Logs.</ChopWoodDesc>
+
+  <!-- HarvestEdibles designator -->
+  <DesignatorPlantsHarvestEdibles>Harvest Edibles</DesignatorPlantsHarvestEdibles>
+  <DesignatorPlantsHarvestEdiblesDesc>Marks human edible plants to be harvested for their food or other products.</DesignatorPlantsHarvestEdiblesDesc>
+  <MessageMustDesignateHarvestableFruits>Must designate harvestable sufficiently-grown human edible plants.</MessageMustDesignateHarvestableFruits>
+
+
+  <!-- Collect designators -->
+  <DesignatorCollectSandLabel>Collect Sand</DesignatorCollectSandLabel>
+  <DesignatorCollectSandDesc>Use this to collect Sand. This is a low priority "Mining" task.</DesignatorCollectSandDesc>
+  <DesignatorCollectSandReportString>You can not collect here. You need sand terrain to collect Sand.</DesignatorCollectSandReportString>
+
+  <DesignatorCollectPeatLabel>Collect Peat</DesignatorCollectPeatLabel>
+  <DesignatorCollectPeatDesc>Use this to collect peat. This is a low priority "Mining" task.</DesignatorCollectPeatDesc>
+  <DesignatorCollectPeatReportString>You can not collect here. You need swamp terrain to collect Peat.</DesignatorCollectPeatReportString>
+
+  <DesignatorCollectCrushedstoneLabel>Collect Rubble</DesignatorCollectCrushedstoneLabel>
+  <DesignatorCollectCrushedstoneDesc>Use this to collect Rubble. This is a low priority "Mining" task.</DesignatorCollectCrushedstoneDesc>
+  <DesignatorCollectCrushedstoneReportString>You can not collect here. You need gravel terrain to collect Rubble.</DesignatorCollectCrushedstoneReportString>
+
+  <DesignatorCollectSoftClayLabel>Collect Soft Clay</DesignatorCollectSoftClayLabel>
+  <DesignatorCollectSoftClayDesc>Designate areas of mud or shallow water to collect Soft Clay. This is a low priority "Mining" task.</DesignatorCollectSoftClayDesc>
+  <DesignatorCollectSoftClayReportString>You can not collect here. You need water or mud terrain to collect Soft Clay.</DesignatorCollectSoftClayReportString>
+
+
+  <!-- Apparel mote -->
+  <EvasionLabel>Evasion</EvasionLabel>
+  <AbsorbedLabel>Absorbed</AbsorbedLabel>
+
+  <!-- Dermal Regenerator -->
+  <UseDermalRegenerator>Use Dermal Regenerator</UseDermalRegenerator>
+  <Waitingforpatient>Waiting for patient.</Waitingforpatient>
+  <ScanningTotalProgress>Scanning... Total Progress: </ScanningTotalProgress>
+  <TreatingTotalProgress>Treating... Total Progress: </TreatingTotalProgress>
+  <DermalRegeneratorInUse>Dermal Regenerator in use.</DermalRegeneratorInUse>
+  <DermalRegeneratorNoPower>Dermal Regenerator doesnt have power.</DermalRegeneratorNoPower>
+  <DermalRegeneratorPowerInterupted>Dermal Regenerator power interupted.</DermalRegeneratorPowerInterupted>
+  <DermalRegeneratorPowerTreatmentComplete>Treatment complete.</DermalRegeneratorPowerTreatmentComplete>
+  <DermalRegeneratorNoInjuries>No surface injuries discovered.</DermalRegeneratorNoInjuries>
+
+
+  <!-- Clutter -->
+  <!--  Cabinet  -->
+  <ClutterImNaked>Im naked!</ClutterImNaked>
+  <ClutterStylizeHair>Stylize Hair</ClutterStylizeHair>
+  <ClutterColorCloths>Colorize Cloths</ClutterColorCloths>
+  <ClutterColorPickerButtonOK>OK</ClutterColorPickerButtonOK>
+  <ClutterColorPickerButtonCancel>Cancel</ClutterColorPickerButtonCancel>
+  <ClutterColorPickerButtonApply>Apply</ClutterColorPickerButtonApply>
+  <ClutterColorChangerLabel>empty</ClutterColorChangerLabel>
+  <ClutterColorChangerTitle>Select Apparel Colour</ClutterColorChangerTitle>
+  <ClutterColorChangerButtonAccept>Accept</ClutterColorChangerButtonAccept>
+  <ClutterHairStylerTitle>Go Crazy!</ClutterHairStylerTitle>
+
+  <!--  Locker  -->
+  <ClutterOwnedBy>nobody</ClutterOwnedBy>
+  <ClutterLockerEmptyTxt1> Empty</ClutterLockerEmptyTxt1>
+  <ClutterLockerEmptyTxt2> Only darkness</ClutterLockerEmptyTxt2>
+  <ClutterLockerEmptyTxt3> Concentrated dust</ClutterLockerEmptyTxt3>
+  <ClutterLockerEmptyTxt4> Reverse engineered sock</ClutterLockerEmptyTxt4>
+  <ClutterMakeOwnerPart1>Make </ClutterMakeOwnerPart1>
+  <ClutterMakeOwnerPart2> owner</ClutterMakeOwnerPart2>
+  <ClutterStoreCloths>Store Cloth Set</ClutterStoreCloths>
+  <ClutterSwitchCloths>Switch Cloth Sets</ClutterSwitchCloths>
+  <ClutterButtonForceChange>Force gear change</ClutterButtonForceChange>
+  <ClutterStringOwnerIs> owner is </ClutterStringOwnerIs>
+  <ClutterStringNoOwner> has no owner.</ClutterStringNoOwner>
+  <ClutterStringStoredGun>Stored Gun: </ClutterStringStoredGun>
+  <ClutterStringStoredApparel>Stored Apparel: </ClutterStringStoredApparel>
+
+  <!-- BlastDoor -->
+  <BlastDoorJammed>The Blast Door has jammed from taking damage.\nRepair it now in order to close it immediately.</BlastDoorJammed>
+  <BlastDoorClosingSix>Blast Door closing in 6.</BlastDoorClosingSix>
+  <BlastDoorClosingFive>Blast Door closing in 5.</BlastDoorClosingFive>
+  <BlastDoorClosingFour>Blast Door closing in 4.</BlastDoorClosingFour>
+  <BlastDoorClosingThree>Blast Door closing in 3.</BlastDoorClosingThree>
+  <BlastDoorClosingTwo>Blast Door closing in 2.</BlastDoorClosingTwo>
+  <BlastDoorClosingOne>Blast Door closing in 1.</BlastDoorClosingOne>
+  <BlastDoorClosed>Blast Door closed.</BlastDoorClosed>
+  <JammedRepaired>The Jammed Blast Door has been repaired and is now closed.</JammedRepaired>
+  <JammedBudgedClosed>The Jammed Blast Door budged and is now closed.</JammedBudgedClosed>
+  <JammedBudgedWontClose>The Jammed Blast Door budged but it won't close.</JammedBudgedWontClose>
+  <BlastDoorLacksPower>Blast Door lacks power!</BlastDoorLacksPower>
+  <BlastDoorOpeningSix>Blast Door opening in 6.</BlastDoorOpeningSix>
+  <BlastDoorOpeningFive>Blast Door opening in 5.</BlastDoorOpeningFive>
+  <BlastDoorOpeningFour>Blast Door opening in 4.</BlastDoorOpeningFour>
+  <BlastDoorOpeningThree>Blast Door opening in 3.</BlastDoorOpeningThree>
+  <BlastDoorOpeningTwo>Blast Door opening in 2.</BlastDoorOpeningTwo>
+  <BlastDoorOpeningOne>Blast Door opening in 1.</BlastDoorOpeningOne>
+  <BlastDoorOpen>Blast Door open.</BlastDoorOpen>
+  <OpenBlastDoorLabel>Open</OpenBlastDoorLabel>
+  <OpenBlastDoorDesc>Open Blast Door.</OpenBlastDoorDesc>
+  <CloseBlastDoorLabel>Close</CloseBlastDoorLabel>
+  <CloseBlastDoorDesc>Closed Blast Door.</CloseBlastDoorDesc>
+
+  <!-- Nuclear Reactor -->
+  <NuclearMeltdownStart>WARNING: Nuclear reactor overheating...</NuclearMeltdownStart>
+
+  <!-- PL -->
+  <PowerAccumulatedLabel>Power accumulated: </PowerAccumulatedLabel>
+
+  <!-- Radiation -->
+  <CommandAddDangerZoneLabel>Create allow area</CommandAddDangerZoneLabel>
+  <CommandAddDangerZoneDesc>Creates an area outside radiation danger radius.</CommandAddDangerZoneDesc>
+  <DangerZoneLabel>Danger area</DangerZoneLabel>
+  <RadZoneLabel>Radiation danger area</RadZoneLabel>
+  <!-- WildAnimal -->
+  <WildAnimalHunting>Animal Hunting</WildAnimalHunting>
+  <WildAnimalHuntingDesc>A wild animal is currently hunting a member of your colony.</WildAnimalHuntingDesc>
+
+  <!-- Feast -->
+  <FeastPartyLabel>Start a feast party!</FeastPartyLabel>
+  <FeastPartyDesc>Click to start a feast party.</FeastPartyDesc>
+  <FeastNoDrafted>Not enough colonists near the table to start feast! Please draft more colonists.</FeastNoDrafted>
+  <FeastReqAlcogol>Required as a minimum</FeastReqAlcogol>
+  <FeastAlcogolNotFound>for starting feast party!</FeastAlcogolNotFound>
+
+  <!-- VeinMiner -->
+  <MineBrushLabel>Mine Brush</MineBrushLabel>
+  <MineBrushDesc>Finally a brush for mining. Use q and e to change size.</MineBrushDesc>
+  <StripMinerLabel>Strip Miner</StripMinerLabel>
+  <StripMinerDesc>Drag an area to strip mine. Use 8,4,5,6 on your !NUMBLOCK! to change spacing between strips.</StripMinerDesc>
+  <VeinMinerLabel>Vein Miner</VeinMinerLabel>
+  <VeinMinerDesc>Click on a visible ore and you will mine the whole vein.</VeinMinerDesc>
+  <VeinMinerReport>Must designate mineable and accessable ore!</VeinMinerReport>
+
+  <DiseaseSpreadLabel>Epidemic: Disease Spread</DiseaseSpreadLabel>
+  <DiseaseSpreadDesc>has been infected with</DiseaseSpreadDesc>
+
+  <!-- CaveworldFlora -->
+  <!-- Fungiponics Basin -->
+  <CaveworldFlora.CannotGrowTooCold>Cannot grow now: too cold.</CaveworldFlora.CannotGrowTooCold>
+  <CaveworldFlora.CannotGrowTooHot>Cannot grow now: too hot.</CaveworldFlora.CannotGrowTooHot>
+  <CaveworldFlora.Growing>Growing.</CaveworldFlora.Growing>
+  <CaveworldFlora.MustOnRoughRock>Fungiponics basin must be built on rough rock.</CaveworldFlora.MustOnRoughRock>
+  <CaveworldFlora.MustBeRoofed>Fungiponics basin must be roofed.</CaveworldFlora.MustBeRoofed>
+  <CaveworldFlora.TooClose>An other fungiponics basin is too close.</CaveworldFlora.TooClose>
+
+  <!-- Tend -->
+  <Tend_rescue>Tend to downed pawn </Tend_rescue>
+  <Tend_floatMenu>Patch up {0}</Tend_floatMenu>
+  <Tend_notEnoughSkill> Requires a colonist with a medical skill of 8 or higher to tend prisoner.</Tend_notEnoughSkill>
+  <target_position_is_null>target position is null!</target_position_is_null>
+
+  <!-- Flora Plant -->
+  <CaveworldFlora.InCryostasis>In cryostasis</CaveworldFlora.InCryostasis>
+  <CaveworldFlora.Dying>Dying</CaveworldFlora.Dying>
+  <CaveworldFlora.Drying>drying</CaveworldFlora.Drying>
+  <CaveworldFlora.TooDark>too dark</CaveworldFlora.TooDark>
+  <CaveworldFlora.Overlit>overlit</CaveworldFlora.Overlit>
+  <CaveworldFlora.Unroofed>unroofed</CaveworldFlora.Unroofed>
+  <CaveworldFlora.UnadaptedSoil>unadapted soil</CaveworldFlora.UnadaptedSoil>
+  <CaveworldFlora.TooFarFromRock>too far from rock</CaveworldFlora.TooFarFromRock>
+  <CaveworldFlora.ClusterRootRemoved>cluster root removed</CaveworldFlora.ClusterRootRemoved>
+  <CaveworldFlora.BrokenSymbiosis>broken symbiosis</CaveworldFlora.BrokenSymbiosis>
+  <CaveworldFlora.Cryostasis>cryostasis</CaveworldFlora.Cryostasis>
+
+  <!-- Black Lotus -->
+  <CaveworldFlora.LetterLabelBlackLotus>Black lotus</CaveworldFlora.LetterLabelBlackLotus>
+  <CaveworldFlora.BlackLotus>One of your colonists has been intoxicated by the effluvium of a black lotus. Beware, those emanations are extremely toxic.</CaveworldFlora.BlackLotus>
+
+  <!-- Terraformer -->
+  <studyreport>### Study report ###\n\nStudy subject: strange mechanoid artifact\n\n- Artifact location: </studyreport>
+  <observation>\n- Observations:\n  1. the artifact has deployed underground foundations.\n  2. some pylons have been erected near the main structure.\n  3. the artifact seems to generate powerful artificial thunderstorms.\n\n- Deductions:\n  1. this device appears to be a mechanoid terraformer.\n  2. its purpose is to re-shape the surface of this planet to prepare a large-scale invasion.\n\n- Recommandations:\n  1. proceed with *extreme* caution when attempting anything on the artifact!\n  2. deactivating the onboard beacon should be a priority to avoid future invasion.\n  3. consider re-routing the power generated during artificial thunderstorms.\n  4. further research may allow us to take advantage of those artificial thunderstorms.\n</observation>
+  <Studyreportrec>Study report</Studyreportrec>
+  <Extractionprogress>Extraction progress</Extractionprogress>
+  <Reroutingprogress>Rerouting progress</Reroutingprogress>
+  <paused>(paused)</paused>
+  <Studyprogress>Study progress</Studyprogress>
+  <Displaystudyreport>Display study report</Displaystudyreport>
+  <Pauseweathercontrollerextraction>Pause weather controller extraction</Pauseweathercontrollerextraction>
+  <Disablebeacon>Disable beacon</Disablebeacon>
+  <Extractweathercontroller>Extract weather controller</Extractweathercontroller>
+  <noskill> is not skilled enough to extract the terraformer weather controller (research level</noskill>
+  <request>is required).</request>
+  <Reroutepowernetwork>Reroute power network</Reroutepowernetwork>
+  <Pausepowerrerouting>Pause power rerouting</Pausepowerrerouting>
+  <noskill_net> is not skilled enough to reroute the terraformer power network (research level</noskill_net>
+  <request_net>is required).</request_net>
+  <Extractweathercontroller_2> 2) Extract weather controller</Extractweathercontroller_2>
+  <noskilk_ext> is not skilled enough to extract the terraformer weather controller (research level</noskilk_ext>
+  <request_ext>is required).</request_ext>
+  <reroute_power>1) Reroute power network OR</reroute_power>
+  <noskill_rer> is not skilled enough to reroute the terraformer power network (research level</noskill_rer>
+  <request_rer>is required).</request_rer>
+  <Startstudy>Start study</Startstudy>
+  <Pausestudy>Pause study</Pausestudy>
+  <noskill_study> is not skilled enough to study the strange artifact (research level </noskill_study>
+  <request_study>is required).</request_study>
+  <Scoutstrangeartifact>Scout strange artifact</Scoutstrangeartifact>
+  <Securestrangeartifact>Secure strange artifact</Securestrangeartifact>
+  <Cannot_use_incapacitated>Cannot_use_incapacitated</Cannot_use_incapacitated>
+  <Cannot_use_reserved>Cannot_use_reserved</Cannot_use_reserved>
+  <Cannot_use_no_path>Cannot_use_no_path</Cannot_use_no_path>
+  <attack>   Attacking the artifact seems to be a bad idea. You have detected some sort of emergency call sent from it.\nWhatever it is, this does not sound good at all...</attack>
+  <Invasion>Invasion</Invasion>
+  <Before_extraction>   Before its extraction, the mechanoid terraformer AI core controller somehow detected your attempts at shutting it down.\nIt had enough time to emit an emergency call. Be prepared to welcome the incoming terrafomer defending force.</Before_extraction>
+  <ResearchSkywrathController>Research Skywrath Controller</ResearchSkywrathController>
+  <Extraction>Extraction</Extraction>
+  <success_extract>   You have successfully extracted the weather controller from the mechanoid terraformer.\n\nYou can now build your own one to unleash the sky's wrath on your ennemies.</success_extract>
+  <Rerouting>Rerouting</Rerouting>
+  <success_reroute>   You have successfully rerouted the power network of the mechanoid terraformer.\n\nRemember that you need some batteries to stock the brief surges of energy generated by the thunderstorms.</success_reroute>
+  <invaders>   Beware! The mechanoid invasion has begun. This world will soon become a new mechanoid hive!</invaders>
+  <strange_thing>   You have detected a strange thing falling from the sky. It is quite bigger than a drop pod and does not emit the standard trading federation emergency call.\nYou should send someone to scout it but be careful, this stinks mechanoid technology...</strange_thing>
+  <Artifact>Artifact</Artifact>
+  <some_knowledge>has some knowledge about alien technology but </some_knowledge>
+  <terr_beacon>still failed at properly disabling the terraformer beacon.\n\nBe prepared to welcome the incoming terrafomer defending force.</terr_beacon>
+  <success_disabling> successfully disabled the terraformer beacon!\n\nYou have nothing to fear from it anymore.</success_disabling>
+  <alien_about> is not the best about alien technology, </alien_about>
+  <Evenif>Evenif</Evenif>
+  <Beacondisabled />
+  <real_crack> is a real crack in alien technology. Disabling the terraformer beacon was just another game for </real_crack>
+  <no_fear>\n\nYou have nothing to fear from it anymore.</no_fear>
+  <try_to_disable> has tried to disable the terraformer beacon but technology is not </try_to_disable>
+  <bigpassion> big passion... </bigpassion>
+  <button_press> just pressed on every button alerting by the way every nearby mechanoid shuttles.\n\nBe prepared to welcome some nasty and numerous visitors from nearby mechanoid hives!</button_press>
+  <he>he</he>
+  <his>his</his>
+  <him>him</him>
+  <she>she</she>
+  <her>her</her>
+  <it>it</it>
+  <its>its</its>
+  <Droppods>Droppods</Droppods>
+  <hear> hears the loud noise of incoming drop pods.\n\nYou should better take </hear>
+  <strange_building> is just arriving near the strange building when </strange_building>
+  <to_safety> to safety... and fast!\n</to_safety>
+  <Artifactsecured />
+  <secure_artifact>   You have secured the strange building.\n\nYou are now sure of one thing: this is a mechanoid device.\nAs usual when dealing with mechanoid technology, be really careful. You should better be prepared for anything...\n</secure_artifact>
+  <Mechanoidterraformer>Mechanoid terraformer</Mechanoidterraformer>
+  <Researcher>\nResearcher: </Researcher>
+  <repstudy> report is quite alarming!\n\n\n### Study references ###\n\nDate: </repstudy>
+  <finish_study> has finished the study of the strange artifact. </finish_study>
+  <Hurtinglanding>Hurtinglanding</Hurtinglanding>
+  <isalreadysixfeetunderRIP>isalreadysixfeetunderRIP</isalreadysixfeetunderRIP>
+  <Dontbotherlookingfor>'. Don't bother looking for </Dontbotherlookingfor>
+  <Poorrr>- Poor </Poorrr>
+  <strange_building_crash>This strange building has crushed anything under it upon landing.</strange_building_crash>
+  <things_fall>The following things have been crushed:</things_fall>
+  <Mech_drop>Mechanoid terraformer dropped on roof at </Mech_drop>
+  <offline>offline</offline>
+  <charging>charging</charging>
+  <ready>ready</ready>
+  <channeling>channeling</channeling>
+  <Supervizor_none>Supervizor: none</Supervizor_none>
+  <Supervizor>Supervizor: </Supervizor>
+  <Supervizor_sientist>Supervizor: (need a skilled scientist, min level 10 research)</Supervizor_sientist>
+  <Charge_progress>Charge progress: </Charge_progress>
+  <MT_State>State: </MT_State>
+  <Connect_r_s>Connected rate/stored: </Connect_r_s>
+  <Powerneeded>Power needed: </Powerneeded>
+  <supervize_sientist>The skywrath controller is not supervized by a skilled scientist (level 10 research).</supervize_sientist>
+  <supervize_controller>The skywrath controller is not supervized.</supervize_controller>
+  <controller_not_ready>The skywrath controller is not ready.</controller_not_ready>
+  <cannot_target>Cannot target a fogged position.</cannot_target>
+  <idlestate>idle</idlestate>
+  <landingstate>landing</landingstate>
+  <DeployingPylon>deploying pylon</DeployingPylon>
+  <StartingGenerator>starting generator</StartingGenerator>
+  <HarnessingPower>harnessing power</HarnessingPower>
+  <StoppingGenerator>stopping generator</StoppingGenerator>
+  <DeployingLightTurrets>deploying light turrets</DeployingLightTurrets>
+  <DeployingHeavyTurrets>deploying heavy turrets</DeployingHeavyTurrets>
+
+  <RimFridge.TargetTemperature>Target Temperature</RimFridge.TargetTemperature>
+  <RimFridge.CurrentTemperature>Current Temperature</RimFridge.CurrentTemperature>
+  <RimFridge.Power>Power</RimFridge.Power>
+  <RimFridge.RenameTheRefrigerator>Rename The Refrigerator</RimFridge.RenameTheRefrigerator>
+
+  <OrbitalShieldBlockBombardment>Orbital power shield blocked enemy bombardment strike!</OrbitalShieldBlockBombardment>
+  <OrbitalShieldBlockPowerBeam>Orbital power shield blocked enemy power beam strike!</OrbitalShieldBlockPowerBeam>
+
+  <AJLabel>Rescued animal join</AJLabel>
+  <AJLetter>The animal you rescued is joining the colony</AJLetter>
+  <ADJLabel>Rescued animal don't join</ADJLabel>
+  <ADJLetter>The animal you rescued isn't joining the colony</ADJLetter>
+  <!-- Traitor -->
+  <TraitorLabel>Traitor!</TraitorLabel>
+  <Traitor>A colonist named {PAWN_nameDef}, which you have accepted into your ranks, turns out to be an enemy agent from {PAWN_factionName}.
+
+You can capture him for recruitment or slavery purposes.</Traitor>
+
+  <!-- Caravan animals wander in -->
+  <CAWILabel>Caravan animals wander in</CAWILabel>
+  <CAWI>A group of {PAWN_kind}, abandoned or lost, wanders in.
+
+They seem to have belonged to some caravan, as they still carry packs with valuable items. You can collect these items if you tame them or kill them. Otherwise, they will leave the area in a couple of days.</CAWI>
+
+  <!-- Crop sprout -->
+  <CSLabel>Crop sprout</CSLabel>
+  <CS1>A large field of</CS1>
+  <CS2>has sprouted nearby. If you wait for it to grow, you will be able to harvest plenty of food! If left unharvested, it will slowly rot and disappear.</CS2>
+
+  <!-- Battle animals wander in -->
+  <BAWILabel>Battle animals wander in</BAWILabel>
+  <BAWI>A group of {0}, abandoned or lost, wanders in.
+
+They seem accustomed to human contact and are joining the colony.</BAWI>
+
+  <!-- wild men wander in -->
+  <WMWILabel>Wild men wander in</WMWILabel>
+  <WMWI>A small, pre-neolithic tribe of wild men wanders in. You can attempt to tame them.</WMWI>
+
+  <!-- Hunting party -->
+  <HPLabel>Hunting party</HPLabel>
+  <HP>A group of hunters from {0} are passing through the area. They will hunt here for a few hours and then move on.</HP>
+
+  <LetterLabelManhunterPackArrived>Manhunter pack</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack turrets that are powered down, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them.</ManhunterPackArrived>
+
+  <LetterLabelManhunterPackArrivedOld>Manhunter pack</LetterLabelManhunterPackArrivedOld>
+  <ManhunterPackArrivedOld>A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack turrets that are powered down, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them.</ManhunterPackArrivedOld>
+
+
+  <!-- Refugee chased -->
+  <RefugeeChasedTitle>Refugee chased at {0}</RefugeeChasedTitle>
+  <RefugeeChasedInitial>{PAWN_titleIndef} named {PAWN_nameDef} calls you from nearby. {PAWN_pronoun} is being chased by {2} from {3}!\n\n{PAWN_pronoun} begs for safety and offers to join your colony. {PAWN_pronoun} tells you {PAWN_pronoun} is {4} years old, but there's no time to collect more information.\n\nBe warned - if you accept, you'll have to fight off the {2} on {PAWN_possessive} tail. Their group is composed of:\n\n{5}</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>Offer safety</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>Ignore the message</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>{1_labelShort} screams in panic through the tinny speaker before you cut off the transmission.</RefugeeChasedRejected>
+
+  <AncientStargate>Stargate</AncientStargate>
+  <AncientStargate_Report1> has finished the study of the strange artifact. </AncientStargate_Report1>
+  <AncientStargate_Report2> report is really fanstastic!\n\n\n### Study references ###\n\nDate: </AncientStargate_Report2>
+  <AncientStargate_StudyReport>### Study report ###\n\nStudy subject: Interdimensional ancient artifact.\n\n- Artifact location: </AncientStargate_StudyReport>
+  <AncientStargate_Observation>\n- Observations:\n  1. It is a few rings measuring 3.14 meters in diameter.\n  2. Made from exotic material, previously unknown, built by some ancient civilization.\n  3. When the inner ring is rotated, a stable one-way wormhole is created between the calling ring and the called ring, and it looks like you can instantly move any objects into the wormhole ...\n\n- Выводы:
+\n  1. We will call this building - Stargate.\n  2. It seems that something is missing in its device and the artifact is able to work only in one direction, as a "receiver".
+\n- Recommendations:\n  1. Proceed with *extreme* caution when attempting anything on the artifact! \n  2. Perhaps we will be able to study its device in more detail and use it in the future to move in interdimensional space. \n  3. On the other hand, it may be useful to us for the materials of which it consists, having at first glance, incredible strength.\n</AncientStargate_Observation>
 
-	<!-- Various -->
-	<NuclearMeltdownStart>ВНИМАНИЕ: Перегрев ядерного реактора!</NuclearMeltdownStart>
-
-
-	<!-- Feenix passes -->
-	<LetterLabelHungryAnimal>Голодное животное!</LetterLabelHungryAnimal>
-	<HungryAnimal>Одно из диких животных настолько оголодало, что решило набить свой желудок вашим поселенцем или питомцем!</HungryAnimal>
-
-
-	<!-- Various -->
-	<Hit>Попадание</Hit>
-	<NuclearStrikeIncoming>Ядерный удар приближается.</NuclearStrikeIncoming>
-
-	<!-- Events -->
-	<!-- Feenix passes -->
-	<LetterLabelFeenixPasses>Феникс!</LetterLabelFeenixPasses>
-	<LetterFeenixPasses>Огненный дракон блуждает поблизости. \n\nЭто существо известно так же как "Воплощение огня". Сердце его весьма ценно из-за своих свойств живого огня.\n\nС виду феникс весьма дружелюбен, но если его спровоцировать, может запечь всё ваше поселение. \n\nОн может быть приручен и даже поддаётся тренировке, но только самыми храбрыми и огнеупорными ловцами.</LetterFeenixPasses>
-
-	<!-- Kirin passes -->
-	<LetterLabelIcicatPasses>Кирин!</LetterLabelIcicatPasses>
-	<LetterIcicatPasses>Мистическое ледяное существо блуждает поблизости. \n\nОдинокое и мирное с виду, это существо известно так же как "Воплощение льда". Сердце его весьма ценно из-за своих свойств живого льда. \n\nЕсли его разъярить : заморозит всех насмерть! Это то ещё зрелище! \n\nОн может быть приручен и даже поддаётся тренировке, но только самыми храбрыми и холодоустойчивыми ловцами.</LetterIcicatPasses>
-
-	<!-- Raptor Arrived-->
-	<LetterLabelRaptorArrived>Рапторы пришли!</LetterLabelRaptorArrived>
-	<RaptorArrived>Рапторы пришли, чтобы найти себе пищу! Не подходите близко!\n\n "Начало всегда прекрасно, но в конце приходится уносить ноги и звать на помощь."</RaptorArrived>
-
-	<LetterLabelSwarm>Рой насекомых</LetterLabelSwarm>
-	<SwarmArrived>Рой голодных насекомых появился недалеко от поселения! \nСрочно всем в укрытие! Они здесь ненадолго и мы можем переждать.</SwarmArrived>
-
-	<LabelAG>Геноцид животных</LabelAG>
-	<DescAG>Большинство диких животных, в пределах этой области, заболели неизвестной смертельной болезнью.\nЖивотные будут умирать в течение некоторого периода времени, возможно дней.</DescAG>
-
-	<LabelBug>Саранча!</LabelBug>
-	<DescBug>На вашей базе обнаружили саранчу. Уничтожьте их скорее, пока они не погрызли весь ваш шмот!</DescBug> 
-
-	<LabelAE>Взрыв на электростанции</LabelAE>
-	<DescAE>Электростанция была сильно повреждена или разрушена.</DescAE>
-
-	<LabelBH>Падение метеорита</LabelBH>
-	<DescBH>Метеорит вошел в гравитационное поле планеты и падает на неё!\nВсем занять укрытие!</DescBH>
-
-	<LabelBMH>Метеоритный дождь</LabelBMH>
-	<DescBMH>Метеоритный дождь - это падение метеоритов на поверхность планеты, что образовались после разрушения крупного метеорита в верхних слоях атмосферы.\nВсем занять укрытие!</DescBMH>
-
-	<FoundTreasure>Найдено сокровище</FoundTreasure>
-	<HeStash> расщедрился и решил отдать спрятанную вещь поселению.\n\nОн отдал поселению [</HeStash>
-	<SheStash> расщедрилась и решила отдать спрятанную вещь поселению.\n\nОна отдала поселению [</SheStash> 
-	<GunStash>].</GunStash> 
-	<HeMoney> расщедрился и решил, что лучше разделить его богатство с поселением. \n\nОн решил пожертвовать </HeMoney>
-	<SheMoney> расщедрилась и решила, что лучше разделить её богатство с поселением. \n\nОна решила пожертвовать </SheMoney>
-	<SilverStash> серебра. Спасибо за поддержку!</SilverStash>
-
-	<LabelEQ>Землетрясение</LabelEQ>
-	<DescEQ>ОСТОРОЖНО! ЗЕМЛЕТРЯСЕНИЕ! Берегитесь падающих обломков!</DescEQ>
-
-	<LabelFE>Странное затмение</LabelFE>
-	<DescFE>Затмение вызвало появление </DescFE>
-	<DescFEtwo>а. Он будет искать жертву недалеко от вашего поселения.</DescFEtwo>
-
-	<LabelEM>Метеоритное затмение</LabelEM>
-	<DescEM>Затмение вызвано не Луной, а пролетающим мимо большим метеоритом!\nОстерегайтесь падения отколовшихся частей метеорита и другого космического мусора!\n\nВозможно, это упал драгоценный металл!</DescEM>
-
-	<GeostormLabel>Геошторм</GeostormLabel>
-	<GeostormDesc>Серьезный инцидент планетарного масштаба привел к катастрофическим природным бедствиям. \nЗавтра, которого может и не быть.</GeostormDesc>
-
-	<RescueStay>Остаться в поселении</RescueStay>
-	<RescueGoAway>Связаться со спасательным судном</RescueGoAway>
-	<EndGame>Ближайший космический корабль с другой планеты этого кластера получил координаты вашего места крушения из сигнала бедствия, который вы отправили во время крушения вашего корабля. Они решили спасти вас и ваших поселенцев.\n\nУ вас есть выбор: связаться со спасательным судном, спастись и закончить игру или остаться в поселении и продолжить освоение планеты. Судьба поселенцев полностью зависит от вашего решения.</EndGame>
-
-	<LabelHC>Голодные хищники</LabelHC>
-	<DescHC>Стая голодных хищников в поисках пищи появилась недалеко от вас.</DescHC>
-
-	<NELabel>Ядерная авария!</NELabel>
-	<NEDesc>ОПАСНОСТЬ!!! Взрыв на ядерном реакторе!</NEDesc>
-
-	<LabelRV>Вирус Ярости</LabelRV>
-	<DescRV> иммунен к неизвестному вирусу.</DescRV>  
-
-	<LabelRVH>Опасность: Вирус Ярости!</LabelRVH>   
-	<DescRVH>Неизвестный вирус поразил большинство людей в округе. Они сошли с ума и нападают друг на друга, половина ваших поселенцев была подвержена этому. Сделайте что-нибудь!</DescRVH>  
-
-	<LabelRZ>Стальной дождь</LabelRZ>    
-	<DescRZ>Обломки с орбиты планеты начали падать в вашем районе. Приготовьтесь!</DescRZ>
-
-	<LabelCR>Космическая радиация</LabelCR>
-	<DescCR>получил за счет излучения и изо всех сил пытается помочь другим поселенцам</DescCR>   
-	<DescHCR>Слишком большое излучение от солнечной вспышки вызвало возможность воздействия космической радиации на человека в этом районе. \n\nКаждый чувствует тошноту, у молодых людей, возможно, не всё так плохо, но у старых плохое самочувствие и они нуждаются в отдыхе.</DescHCR>  
-
-	<LabelHA>Инсульт</LabelHA>   
-	<DescHA> пережил инсульт. Помогите ему!</DescHA>   
-
-	<LabelSC>Подозрительные ящики</LabelSC>   
-	<DescSC>Несколько подозрительных ящиков упали поблизости от поселения. \n\nВы можете проверить их или просто оставить в покое. \n\nЧто может быть внутри этих ящиков?</DescSC>   
-
-	<TribMigrDesc>Целое племя путешественников прибыло в район поселения. \n\nВы можете только представить, какая судьба выпала на их долю. Они не будут атаковать вас, даже если у вас с ними очень плохие отношения. Пожалейте их, дайте им пройти.</TribMigrDesc>   
-
-	<MeteorStopLabel>Метеоритный дождь прекратился</MeteorStopLabel>
-	<MeteorStopDesc>В небе больше не видно падающих метеоритов.</MeteorStopDesc>
-
-	<RazorOverLabel>Стальной дождь прекратился</RazorOverLabel> 
-	<RazorOverDesc>Осадки из космических обломков закончились.</RazorOverDesc>
-
-	<EQMess>Землетрясение! Все живы?\n\nПохоже, некоторые здания были серьезно повреждены.</EQMess> 
-	<EQMessLow>Землетрясение! Все живы?\n\nПохоже, некоторые здания были повреждены.</EQMessLow>
-	<EQRichterScale>\nСила по шкале Рихтера: </EQRichterScale>
-
-	<SALabel>Сейсмическая активность</SALabel>
-	<SAMess>В это регионе наблюдается сейсмическая активность. \n\nБудьте осторожны в горных районах и смотрите под ноги.</SAMess> 
-	<SARichterScale>\nПо шкале рихтера: </SARichterScale>
-
-	<LabelMT>Что-то странное</LabelMT> 
-	<DescMT>Лица людей, находившихся в упавших капсулах выглядели очень испуганными, они, должно быть, испытали что-то ужасное.</DescMT> 
-	<TheThingLabel>Нечто</TheThingLabel> 
-	<TheThingDesc> превращается в огромную мерзость!\nЭто мутировавшая форма жизни!\n\nУничтожьте ЭТО прежде, чем оно перебьёт всех ваших поселенцев!</TheThingDesc> 
-
-	<CosmicRadiationLevel>Кажется, уровень радиации упал до естественного уровня</CosmicRadiationLevel>
-
-	<LabelNF>Радиоактивные осадки</LabelNF>  
-	<DescNF>Боже мой! Выпали радиоактивные осадки. Всё живое умрёт!\n\nПериод полураспада нашего урана 100 дней.</DescNF>
-
-	<ConfusionLabel>Смятение</ConfusionLabel>
-	<ConfusionDesc> очнулся от смятения.</ConfusionDesc>
-
-	<LetterLabelPlunderersArrived>Расхитители</LetterLabelPlunderersArrived>
-	<PlunderersArrived>Расхитители появились недалеко от вас. Будьте осторожны, они атакуют любого человека если тот попадет в их поле зрения.</PlunderersArrived>   
-	<KillingSpree> пытается убить </KillingSpree>
-
-	<LabelMalariaRaid>Эпидемия малярии</LabelMalariaRaid>
-	<DescMalariaRaid>В нашей местности свирепствует эпидемия малярии. Москиты являются переносчиками малярии и сейчас очень опасны!</DescMalariaRaid>
-
-	<LabelFleaRaid>Эпидемия чумы</LabelFleaRaid>
-	<DescFleaRaid>В нашей местности свирепствует эпидемия чумы. \nБлохи переносчики чумы, будьте осторожны.</DescFleaRaid>
-
-	<ThanksgivingLabel>День Благодарения</ThanksgivingLabel>
-	<ThanksgivingDesc>Дружественное племя узнало о проблемах в вашем поселении с нехваткой пищи. Они решили вам помочь и предоставили некоторое количество пищи.\n\nОни надеются, что это улучшит взаимопонимание между нашими поселениями и дружба станет крепче.</ThanksgivingDesc>
-
-	<CalmWeatherLabel>Штиль</CalmWeatherLabel>
-	<CalmWeatherDesc>Погода стала удивительно спокойной. Похоже, ветряные турбины будут бесполезны какое-то время.</CalmWeatherDesc>
-
-	<Amnesia>Амнезия</Amnesia>
-	<AmnesiaHeDesc>вдруг забыл, что он делает. Он не может вспомнить, что делал до этого.</AmnesiaHeDesc>
-	<AmnesiaSheDesc>вдруг забыла, что она делала. Она не может вспомнить, что делала до этого.</AmnesiaSheDesc>
-
-	<PestsLabel>Вредители!</PestsLabel>
-	<PestsDesc>Некоторые насекомые-вредители завелись в зонах для посева урожая. Они будут поглощать все растения, до которых смогут добраться.</PestsDesc>
-
-	<!-- Gauge -->
-	<TempGaugeAlert>Температура вне диапазона</TempGaugeAlert>
-	<TempGaugeAlertDesc>Один или несколько термометров фиксируют температуру, которая превышает заданное пороговое значение предупреждения.</TempGaugeAlertDesc>
-
-	<TempGaugeAlertHot>Слишком жарко</TempGaugeAlertHot>
-	<TempGaugeAlertHotDesc>Температура одного из ваших термометров превысила порог {0}.</TempGaugeAlertHotDesc>
-
-	<TempGaugeAlertCold>Слишком холодно</TempGaugeAlertCold>
-	<TempGaugeAlertColdDesc>Температура одного из ваших термометров опустилась ниже порога {0}.</TempGaugeAlertColdDesc>
-
-	<AlertOff>Оповещение отключено</AlertOff>
-	<AlertOnHighTemperature>На высокотемпературный</AlertOnHighTemperature>
-	<AlertOnLowTemperature>На низкотемпературное</AlertOnLowTemperature>
-
-	<AlertOffDesc>Оповещения отключены.</AlertOffDesc>
-	<AlertOnHighTemperatureDesc>Будет отправлен сигнал тревоги когда температура выше {0}.</AlertOnHighTemperatureDesc>
-	<AlertOnLowTemperatureDesc>Будет отправлен  сигнал тревоги когда температура ниже {0}.</AlertOnLowTemperatureDesc>
-
-	<AlertGizmoDesc>Будет ли термометр посылать предупреждение, когда заданная температура выходит за рамки.</AlertGizmoDesc>
-	<CannotUseNow>Невозможно использовать в данный момент</CannotUseNow>
-
-	<!-- DeepResourcesDeposits -->
-	<DeepResourcesFound>Обнаружены подземные залежи</DeepResourcesFound>
-	<DeepResourcesFoundA>Вообще-то мы собирались тут копать картошку и наткнулись на</DeepResourcesFoundA>
-	<DeepResourcesFoundB>\n\nМожет пора построить здесь шахту?</DeepResourcesFoundB>
-
-
-	<!--  Clutter Cabinet  -->
-	<ClutterImNaked>Я голый!</ClutterImNaked>
-	<ClutterStylizeHair>Выбрать причёску</ClutterStylizeHair>
-	<ClutterColorCloths>Изменить цвет одежды</ClutterColorCloths>
-	<ClutterColorPickerButtonOK>OK</ClutterColorPickerButtonOK>
-	<ClutterColorPickerButtonCancel>Отмена</ClutterColorPickerButtonCancel>
-	<ClutterColorPickerButtonApply>Применить</ClutterColorPickerButtonApply>
-	<ClutterColorChangerLabel>пусто</ClutterColorChangerLabel>
-	<ClutterColorChangerTitle>Выберите цвет одежды</ClutterColorChangerTitle>
-	<ClutterColorChangerButtonAccept>Принять</ClutterColorChangerButtonAccept>
-	<ClutterHairStylerTitle>Да я чёткий!</ClutterHairStylerTitle>
-
-	<!-- Clutter Locker  -->
-	<ClutterOwnedBy>никто</ClutterOwnedBy>
-	<ClutterLockerEmptyTxt1> Пусто</ClutterLockerEmptyTxt1>
-	<ClutterLockerEmptyTxt2> Только темнота</ClutterLockerEmptyTxt2>
-	<ClutterLockerEmptyTxt3> Чьи-то трусы!</ClutterLockerEmptyTxt3>
-	<ClutterLockerEmptyTxt4> Опа, носки!</ClutterLockerEmptyTxt4>
-	<ClutterMakeOwnerPart1> Сделать </ClutterMakeOwnerPart1>
-	<ClutterMakeOwnerPart2> владельцем</ClutterMakeOwnerPart2>
-	<ClutterStoreCloths> Сохранить набор </ClutterStoreCloths>
-	<ClutterSwitchCloths> Переключатель набор </ClutterSwitchCloths>
-	<ClutterButtonForceChange>Сменить набор</ClutterButtonForceChange>
-	<ClutterStringOwnerIs> владелец </ClutterStringOwnerIs>
-	<ClutterStringNoOwner> нет владельца.</ClutterStringNoOwner>
-	<ClutterStringStoredGun>Сохраненное оружие: </ClutterStringStoredGun>
-	<ClutterStringStoredApparel>Сохраненная одежда: </ClutterStringStoredApparel>
-
-	<!-- PlaceWorkers -->
-	<MessagePlacementOnSupport>Должно быть размещено на поддерживающей структуре!</MessagePlacementOnSupport>
-	<MustBeNearWater>Должно быть размещено рядом с водой!</MustBeNearWater>
-
-	<!-- TraitChanger -->
-	<TraitChangedLabel>Измененная черта характера</TraitChangedLabel>
-	<GainedTrait>приобрел(а) черту характера</GainedTrait>
-	<LostTrait>потерял(а) черту характера</LostTrait>
-	<TraitGoodMoodA>В связи с длительным пребыванием в хорошем настроении</TraitGoodMoodA>
-	<TraitGoodMoodB>становится оптимистом.</TraitGoodMoodB>
-	<TraitBadMoodA>В связи с длительным пребыванием в плохом настроении</TraitBadMoodA>
-	<TraitBadMoodB>становится подавленным. Пройдя через огонь, воду и медные трубы, персонаж может стать закаленным.</TraitBadMoodB>
-	<TraitCannibal>однажды попробовав человеческую плоть, вошел(ла) во вкус и ему(ей) понравилось..</TraitCannibal>
-	<TraitHardened>теперь не останавливается ни перед чем, чтобы достичь целей и получает новые черты характера.</TraitHardened>
-
-
-	<!--  Nanite shield  -->
-	<ChargeShieldsLabel>Зарядка нано щита</ChargeShieldsLabel>
-	<ChargeShieldsDesc>Включить зарядку нано щитов</ChargeShieldsDesc>
-	<ChargeShieldsOffDesc>Выключить зарядку нано щитов</ChargeShieldsOffDesc>
-	<UpgradeNanoShieldLabel>Получить модулятор щита</UpgradeNanoShieldLabel>
-	<ShieldsChargingLabel>Зарядка нано щита: </ShieldsChargingLabel>
-	<ShieldsLabel>Нано щит: </ShieldsLabel>
-
-	<!--  Plasma Generator  -->
-	<StringPowerOutput>Выходная мощность: </StringPowerOutput>
-	<StringCharging>Процесс зарядки: </StringCharging>
-
-	<!--  Subspace Burst Transponder  -->
-	<CallShipLabel>Вызвать торговый корабль</CallShipLabel>
-	<CallShipDesc>После полной зарядки устройства, вы сможете попробовать вызвать торговый корабль.</CallShipDesc>
-	<ChargingProcess>Зарядка: </ChargingProcess>
-	<FullyCharged>Полностью заряжено</FullyCharged>
-	<TransmittingProcess>Устанавливаем контакт: </TransmittingProcess>
-	<InsufficientChargeLevel>Не хватает заряда. Пожалуйста дождитесь полной зарядки.</InsufficientChargeLevel>
-	<MSPowerNeeded>Требуется: </MSPowerNeeded>
-	<MSScanProcess>Процесс сканирования: </MSScanProcess>
-	<MSScanRange>Дальность сканирования: </MSScanRange>
-
-	<!--  Stargate  -->
-	<AddColonistLabel>Добавьте поселенца</AddColonistLabel>
-	<AddColonistDesc>Возможность перенести поселенца в другое измерение</AddColonistDesc>
-	<DialOutLabel>Отправить</DialOutLabel>
-	<DialOutDesc>Нажмите чтобы отправить в другое измерение</DialOutDesc>
-	<RecallSGLabel>Вызвать</RecallSGLabel>
-	<RecallSGDesc>Нажмите, чтобы вызвать из другого измерения</RecallSGDesc>
-	<IncreasePowerLabel>Увеличить мощность</IncreasePowerLabel>
-	<IncreasePowerDesc>Увеличьте мощность, чтобы быстрее зарядить звездные врата</IncreasePowerDesc>
-	<DecreasePowerLabel>Уменьшить мощность</DecreasePowerLabel>
-	<DecreasePowerDesc>Нажмите чтобы уменьшить мощность</DecreasePowerDesc>
-	<InsPowerAddRes>Не хватает заряда, чтобы добавить ресурсы</InsPowerAddRes>
-	<InsPowerAddCol>Не хватает заряда, чтобы добавить поселенцев</InsPowerAddCol>
-	<PlsRecallOTF>Пожалуйста, вызовите сохраненную команду.</PlsRecallOTF>
-	<InsPTEC>Не хватает заряда, чтобы установить связь.</InsPTEC>
-	<RecOfft>Вызываем...</RecOfft>
-	<OffNotFound>К сожалению, никто не вышел на связь.</OffNotFound>
-	<BufferItemsSG>В буфере: </BufferItemsSG>
-	<CapacitorChargeSG>Заряд: </CapacitorChargeSG>
-
-	<!--  HaulPriority  -->
-	<IncHaulPriorityLabel>Повысить приоритет переноса</IncHaulPriorityLabel>
-	<IncHaulPriorityDesc>\nПовысить приоритет для переноса. Поселенцы будут стараться перенести их в первую очередь.</IncHaulPriorityDesc>
-	<NothingTohaul>Тут ничего нет!</NothingTohaul>
-	<AlreadyDesignated>Уже назначено</AlreadyDesignated>
-	<PlsCancelOD>Пожалуйста отмените выделение.</PlsCancelOD>
-	<OverHaulPriorityLabel>Макс. приоритет переноса</OverHaulPriorityLabel>
-	<OverHaulPriorityDesc>Максимизировать приоритет для переноски. Поселенцы будут стараться перенести их в первую очередь.</OverHaulPriorityDesc>
-	<AlreadyHighPriority>Уже выставлен максимально возможный приоритет!</AlreadyHighPriority>
-
-	<RotateLabel>Повернуть</RotateLabel>
-	<RotateDesc>Нажми чтобы повернуть.</RotateDesc>
-	<CoolingLabel>Охлаждение</CoolingLabel>
-	<CoolingDesc>Нажми чтобы переключить в режим обогрева.</CoolingDesc>
-	<HeatingLabel>Обогрев</HeatingLabel>
-	<HeatingDesc>Нажми чтобы переключить в авто-режим.</HeatingDesc>
-	<AutoLabel>Авто-режим</AutoLabel>
-	<AutoDesc>Нажми чтобы переключить в режим охлаждения.</AutoDesc>
-	<ModeCooling>Статус: Охлаждение</ModeCooling>
-	<ModeHeating>Статус: Обогрев</ModeHeating>
-	<ModeAuto>Статус: Авто</ModeAuto>
-
-	<!-- Itab container -->
-	<StoredItemsCount>Содержит внутри:</StoredItemsCount>
-	<Remove>Убрать</Remove>
-
-	<!-- LockDoors -->
-	<UnlockDoors>Открыть дверь</UnlockDoors>
-	<LockDoors>Закрыть дверь</LockDoors>
-	<DoorAreLocked>Дверь закрыта</DoorAreLocked>
-	<DoorAreUnlocked>Дверь открыта</DoorAreUnlocked>
-	<DoorBlocked>Дверь заблокирована</DoorBlocked>
-	<DoorHoldOpen>Дверь всегда открыта</DoorHoldOpen>
-	<UnlockingMote>Открываю</UnlockingMote>
-	<LockingMote>Закрываю</LockingMote>
-
-	<!-- Windows + Beautiful walls -->
-	<OpeningMote>Открываю</OpeningMote>
-	<ClosingMote>Закрываю</ClosingMote>
-	<OpenedWindow>Окно открыто</OpenedWindow>
-	<ClosedWindow>Окно закрыто</ClosedWindow>
-	<NoLightAccessString>Нет доступа к свету</NoLightAccessString>
-	<OpeningWindowString>Открыть окно</OpeningWindowString>
-	<ClosingWindowString>Закрыть окно</ClosingWindowString>
-	<HoldWindowOpenString>Окно удерживается</HoldWindowOpenString>
-	<BlockedWindowString>Окно блокировано</BlockedWindowString>
-	<CanBePlacedNextToDoors>Невозможно разместить рядом с дверью</CanBePlacedNextToDoors>
-	<CanBePlacedNextToWindow>Невозможно разместить рядом с окном</CanBePlacedNextToWindow>
-	<BuildWindowLabel>Построить окно</BuildWindowLabel>
-	<BuildWindowDesc>Требуется стекло для строительства окна.</BuildWindowDesc>
-	<ButtonMountLights>Установить освещение</ButtonMountLights>
-	<StructureUpgradeText>Для {0} требуется материал:\n{1}</StructureUpgradeText>
-	<StructureAccept>Применить</StructureAccept>
-	<StructureCancel>Отменить</StructureCancel>
-	<WindowImpassable>Окно блокируется c одной или нескольких сторон.</WindowImpassable>
-	<WindowDoubleOutside>Одна сторона окна должна быть внутри.</WindowDoubleOutside>
-	<WindowDoubleInside>Одна сторона окна должна быть снаружи.</WindowDoubleInside>
-
-
-	<!-- FishingIndustry -->
-	<!-- PlaceWorker -->
-	<FishIndustry.FishingPier_InvalidBiome>Ни одна рыба не живет в этом биоме.</FishIndustry.FishingPier_InvalidBiome>
-	<FishIndustry.TooCloseFishingPier>Слишком близко к другому рыбацкому пирсу.</FishIndustry.TooCloseFishingPier>
-	<FishIndustry.TooCloseFishingZone>Слишком близко к рыболовной зоне.</FishIndustry.TooCloseFishingZone>
-	<FishIndustry.FishingPier_MustTouchBank>Пирс для рыбалки должен быть частично размещен на берегу.</FishIndustry.FishingPier_MustTouchBank>
-	<FishIndustry.FishingPier_PierMustBeOnWater>Место для рыбалки должно быть размещено на воде.</FishIndustry.FishingPier_PierMustBeOnWater>
-	<FishIndustry.FishingPier_TooFewWater>Слишком мало воды</FishIndustry.FishingPier_TooFewWater>
-	<FishIndustry.FishingPier_ZoneMustBeOnWater>Рыболовная зона должна быть размещена на воде.</FishIndustry.FishingPier_ZoneMustBeOnWater>
-
-	<!-- Alerts -->
-	<FishIndustry.NeedHopperLabel>Для работы требуется наличие хоппера</FishIndustry.NeedHopperLabel>
-	<FishIndustry.NeedHopperExplanation>У вас есть бассейн для разведения рыбы, но нет рядом хоппера для его работы.\n\nДля его работы требуется поместить корм в специализированный хоппер.\n\nПостройте хоппер рядом с бассейном для разведения рыбы.</FishIndustry.NeedHopperExplanation>
-
-	<FishIndustry.IdleAquacultureBasinLabel>Неактивный бассейн</FishIndustry.IdleAquacultureBasinLabel>
-	<FishIndustry.IdleAquacultureBasinExplanation>У вас неактивный бассейн для разведения рыбы.\n\nВы должны поместить икру рыбы, чтобы начать разведение.</FishIndustry.IdleAquacultureBasinExplanation>
-
-	<FishIndustry.CriticalIssueLabel>Критическая проблема c бассейном</FishIndustry.CriticalIssueLabel>
-	<FishIndustry.CriticalIssueExplanation>Обнаружена критическая проблема с одним из ваших бассейнов для разведения рыбы.\n\nВы должны убедиться, что выполнены следующие требования, иначе рыба может погибнуть:\n- источник питания,\n- наличие корма,\- правильное обслуживание.</FishIndustry.CriticalIssueExplanation>
-
-	<!-- Message -->
-	<FishIndustry.FishesDied>Рыба которую разводили погибла. Проверьте условия разведения рыбы.</FishIndustry.FishesDied>
-	<FishIndustry.FisherBitten> был(а) укушен(а) шилозубом во время рыбалки.</FishIndustry.FisherBitten>
-
-	<!-- Gizmo -->
-	<FishIndustry.ChangeSpecies>Изменить вид</FishIndustry.ChangeSpecies>
-	<FishIndustry.ChangeSpeciesDescription1>В бассейне начнется размножение </FishIndustry.ChangeSpeciesDescription1>
-	<FishIndustry.ChangeSpeciesDescription2>Нажмите, чтобы выбрать другой вид.</FishIndustry.ChangeSpeciesDescription2>
-	<FishIndustry.FishLabelPluralMashgon>машгон</FishIndustry.FishLabelPluralMashgon>
-	<FishIndustry.FishLabelPluralBlueblade>голубой клинок</FishIndustry.FishLabelPluralBlueblade>
-	<FishIndustry.FishLabelPluralTailteeth>шилозуб</FishIndustry.FishLabelPluralTailteeth>
-	<FishIndustry.FishDescriptionMashgon>Размножается быстро, но даёт мало мяса.</FishIndustry.FishDescriptionMashgon>
-	<FishIndustry.FishDescriptionBlueblade>Размножается за средний промежуток времени и даёт неплохое количество мяса.</FishIndustry.FishDescriptionBlueblade>
-	<FishIndustry.FishDescriptionTailteeth>Размножается долго, но даёт мясо высокого качества.</FishIndustry.FishDescriptionTailteeth>
-	<FishIndustry.Breeding>Размножение </FishIndustry.Breeding>
-	<FishIndustry.BasinIsBreeding>Этот бассейн аквакультуры размножается </FishIndustry.BasinIsBreeding>
-	<FishIndustry.WaitingForEggs>Ожидание яиц</FishIndustry.WaitingForEggs>
-	<FishIndustry.ClickToCancel>Нажмите, чтобы отменить размножение </FishIndustry.ClickToCancel>
-	<FishIndustry.EnsureHaveHunterAndEggs>Убедитесь, что у вас есть свободный охотник и некоторый вид яиц (кусок мяса), чтобы начать разведение.</FishIndustry.EnsureHaveHunterAndEggs>
-	<FishIndustry.Breed>Вид </FishIndustry.Breed>
-	<FishIndustry.ClickToStart>Нажмите, чтобы начать разведение </FishIndustry.ClickToStart>
-	<FishIndustry.BreedingRequestedMashgon>Запрос разведения машгонов.</FishIndustry.BreedingRequestedMashgon>
-	<FishIndustry.BreedingRequestedBlueblade>Запрос разведения голубых клинков.</FishIndustry.BreedingRequestedBlueblade>
-	<FishIndustry.BreedingRequestedTailteeth>Запрос разведения шилозубов.</FishIndustry.BreedingRequestedTailteeth>
-	<FishIndustry.BreedingRequestedButNoEggsMashgon>Для разведения вида машгонов необходимы яйца машгона в хранилище.</FishIndustry.BreedingRequestedButNoEggsMashgon>
-	<FishIndustry.BreedingRequestedButNoEggsBlueblade>Для разведения вида голубых клинков необходимы яйца голубых клинков в хранилище.</FishIndustry.BreedingRequestedButNoEggsBlueblade>
-	<FishIndustry.BreedingRequestedButNoEggsTailteeth>Для разведения вида шилозубов необходимы яйца шилозубов в хранилище.</FishIndustry.BreedingRequestedButNoEggsTailteeth>
-
-	<FishIndustry.AllowFishingLabel>Разрешить рыбалку</FishIndustry.AllowFishingLabel>
-	<FishIndustry.AllowFishingDesc>Позвольте своим охотникам ловить рыбу в этой области.</FishIndustry.AllowFishingDesc>
-	<FishIndustry.AllowUsingCornLabel>Разрешить использовать наживку</FishIndustry.AllowUsingCornLabel>
-	<FishIndustry.AllowUsingCornDesc>Позвольте своим охотникам использовать наживку, чтобы ловить рыбу быстрее и надежнее.</FishIndustry.AllowUsingCornDesc>
-
-	<!-- Inspect String -->
-	<FishIndustry.ProgressLabel>Прогресс: {0}</FishIndustry.ProgressLabel>
-	<FishIndustry.ProgressLabelNotBreeding>Прогресс: не размножается</FishIndustry.ProgressLabelNotBreeding>
-	<FishIndustry.WaterQuality>Качество воды: {0}%</FishIndustry.WaterQuality>
-	<FishIndustry.WaterQualityFishesHealth>Качество воды/Здоровье рыбы: {0}%/{1}%</FishIndustry.WaterQualityFishesHealth>
-	<FishIndustry.NeedsMaintenanceNow>Нуждается в обслуживании </FishIndustry.NeedsMaintenanceNow>
-	<FishIndustry.Issue>Проблема</FishIndustry.Issue>
-	<FishIndustry.Issues>Проблемы</FishIndustry.Issues>
-	<FishIndustry.Issue_MicroFungus>(микро грибок)</FishIndustry.Issue_MicroFungus>
-	<FishIndustry.Issue_NoFood>(нет пищи)</FishIndustry.Issue_NoFood>
-	<FishIndustry.Issue_CriticalWaterQuality>(критический уровень)</FishIndustry.Issue_CriticalWaterQuality>
-	<FishIndustry.Issue_BadlyMaintained>(в плохом состоянии)</FishIndustry.Issue_BadlyMaintained>
-
-	<FishIndustry.FishStock>Запас рыбы: {0}</FishIndustry.FishStock>
-	<FishIndustry.TooSmallZone>Слишком маленькая зона</FishIndustry.TooSmallZone>
-	<FishIndustry.NotViableNow>Не жизнеспособный сейчас</FishIndustry.NotViableNow>
-	<FishIndustry.SpeciesInZone>Виды в зоне: </FishIndustry.SpeciesInZone>
-	<FishIndustry.AffectedBy>Затронуты: </FishIndustry.AffectedBy>
-	<FishIndustry.AffectedByBiome>биом</FishIndustry.AffectedByBiome>
-	<FishIndustry.AffectedByToxicFallout>токсичные осадки</FishIndustry.AffectedByToxicFallout>
-	<FishIndustry.AffectedByBadTemperature>не идеальная температура</FishIndustry.AffectedByBadTemperature>
-
-	<!-- Letters -->
-	<FishIndustry.LetterLabelMicroFungus>Микро грибок</FishIndustry.LetterLabelMicroFungus>
-	<FishIndustry.MicroFungus>Некоторые из ваших бассейнов для разведения рыбы были заражены странным водным грибком.\nМикро грибок продолжает поглощать значительную долю кислорода в воде.\nБудем надеяться, что рыбы смогут пережить это.</FishIndustry.MicroFungus>
-
-	<FishIndustry.LetterLabelSunkenTreasure>Затонувшие сокровища!</FishIndustry.LetterLabelSunkenTreasure>
-	<FishIndustry.SunkenTreasure>{0} нашел затонувшее сокровище во время рыбалки! Какой хороший улов!\n</FishIndustry.SunkenTreasure>
-
-	<DeadMarineLabel>Мертвый рыбак</DeadMarineLabel>
-	<DeadMarineDesc> поймал труп во время рыбалки!\n\n'Это действительно отвратительно, но давайте посмотрим на его снаряжение! Интересно, что с ним случилось и как он тут оказался...'\n"</DeadMarineDesc>
-
-	<!-- Zone -->
-	<FishIndustry.FishingZone>Рыболовная зона</FishIndustry.FishingZone>
-	<FishIndustry.DesignatorFishingZoneDesc>Создайте зону, где ваши колонисты будут пытаться ловить рыбу.</FishIndustry.DesignatorFishingZoneDesc>
-
-	<!-- Fuel -->
-	<FuelFilter>Фильтр</FuelFilter>
-	<InternalTemperature>Внутренняя температура:</InternalTemperature>
-	<OperatingTemperature>Рабочая температура: </OperatingTemperature>
-	<CurrentStatus>Текущий статус:</CurrentStatus>
-	<WStatus> работает</WStatus>
-	<LTStatus> низкая темп.</LTStatus>
-	<RefuelAt>Заправить при </RefuelAt>
-	<FuelSearchDistance>Дистанция поиска ресурсов: </FuelSearchDistance>
-	<BurningProgress>Процесс горения:</BurningProgress>
-	<FuelAmount>Количество топлива: </FuelAmount>
-	<DepletesAfter>Скор. сгорания: </DepletesAfter>
-	<MaxTempertarure>Макс. темп: </MaxTempertarure>
-	<NoFuel>Нет топлива</NoFuel>
-	<FuelDrop>Забрать топливо</FuelDrop>
-	<FuelInfo>Информация</FuelInfo>
-	<ytime> г. </ytime>
-	<mtime> мес. </mtime>
-	<dtime> дн. </dtime>
-	<htime> ч. </htime>
-	<lhtime>1 часа </lhtime>
-	<FuelFilterMessage>Настройки фильтра топлива установлены по умолчанию (Разрешить всё). Если вы хотите запретить для всего, сперва установите шкалу заправки в 0%.</FuelFilterMessage>
-
-	<!-- Infestation event fix -->
-	<InsectHuntMessage>Насекомое покинуло улей в поисках пищи</InsectHuntMessage>
-	<SpawnManHuntInspect>Насекомое в гневе: </SpawnManHuntInspect>
-
-	<!-- Dash -->
-	<DashEnabled>Ускорение активно</DashEnabled>
-	<Dash>Ускорение</Dash>
-	<DashDisabled>Ускорение недоступно</DashDisabled>
-	<Recharging>Перезарядка</Recharging>
-
-	<!-- Designator_ZoneAdd_GrowingSame -->
-	<UniformGrowZoneLabel>Равномерная посадка</UniformGrowZoneLabel>
-	<UniformGrowZoneDesc>Ограничивает зону посадки к выбранной одному типу почвы.</UniformGrowZoneDesc>
-
-	<!-- ColorableStockpile -->
-	<RedLabel>Красный оттенок</RedLabel>
-	<BlueLabel>Синий оттенок</BlueLabel>
-	<GreenLabel>Зеленый оттенок</GreenLabel>
-	<AlphaLabel>Прозрачность</AlphaLabel>
-	<UseColorLabel>Выбрать</UseColorLabel>
-	<RandomColorLabel>Случайно</RandomColorLabel>
-	<StockpileLabel>Склад</StockpileLabel>
-	<DefaultLabel>По умолчанию</DefaultLabel>
-	<CustomLabel>Свой</CustomLabel>	
-	<DumpingStockpileLabel>Свалка</DumpingStockpileLabel>
-
-	<!-- Fridge -->
-	<RimFridge.TargetTemperature>Целевая температура</RimFridge.TargetTemperature>
-	<RimFridge.CurrentTemperature>Текущая температура</RimFridge.CurrentTemperature>
-	<RimFridge.Power>Питание</RimFridge.Power>
-	<RimFridge.RenameTheRefrigerator>Переименовать склад</RimFridge.RenameTheRefrigerator>
-
-	<!-- Accident Event -->
-	<accident>Инцидент</accident>
-	<accidentdesc> - несчастный случай.</accidentdesc>
-
-	<!-- Spawned buildings -->
-	<LootLabel>Открыть</LootLabel>
-	<LootDesc>Найти что-нибудь полезное внутри </LootDesc>
-	<LootThe>Найти что-нибудь полезное внутри </LootThe>
-
-	<!-- CompAutoFlicker -->
-	<AutoFlickingLabel>Автоматизация</AutoFlickingLabel>
-	<AutoFlickingDesc>Автоматически дает указание поселенцу включать или выключать в течении дня или на ночь.</AutoFlickingDesc>
-
-	<!-- DayTime Switcher -->
-	<onLabel>Включить</onLabel>
-	<OffLabel>Выключить</OffLabel>
-	<SetTimesLabel>Время</SetTimesLabel>
-	<SetTimesDesc>Установить время, чтобы переключатель автоматически включался или выключался.</SetTimesDesc>
-
-	<!-- The Thing -->
-	<WarnFalling>ВНИМАНИЕ: Падение неизвестного космического объекта!</WarnFalling>
-
-	<!-- Zeon -->
-	<LetterLabelZeonPasses>Зеон!</LetterLabelZeonPasses>
-	<LetterZeonPasses>Многие поселения Римворлда уже пали от босса механоидов, Зеона. Возможно, вам следует рассмотреть вопрос о досрочном покидании колонии...\nОн уже здесь!</LetterZeonPasses>
-
-	<!-- ITab_Storage -->
-	<Refillcells>Переносить при меньше, чем:</Refillcells>
-
-	<!-- RefugeeChased -->
-	<SkilledWith>Навыки</SkilledWith>
-	<RescuedInitial_AcceptSK>Принять</RescuedInitial_AcceptSK>
-	<RescuedInitial_RejectSK>Отослать обратно</RescuedInitial_RejectSK>
-	<WandererInitialSK>{PAWN_nameDef} из фракции {0} бродил(а) поблизости и заметил(а) что вам нужна помощь. {PAWN_pronoun} хотел(а) бы присоединиться к вашему поселению.</WandererInitialSK>
-	<PassionLabel>(Отлично)</PassionLabel>
-
-	<!-- IonSatelliteBroadcaster -->
-	<supervize_sientist_IC>У контроллера ионного спутника нет ученого-смотрителя (требуется навык исследования 10).</supervize_sientist_IC>
-	<supervize_controller_IC>У контроллера ионного спутника нет смотрителя.</supervize_controller_IC>
-	<controller_not_ready_IC>Контроллер ионного спутника не установил связь.</controller_not_ready_IC>
-	<CommunicationSetup_IC>Установка связи: </CommunicationSetup_IC>
-	<Connection_IC>Связь: </Connection_IC>
-	<Connecting_IC>подключение</Connecting_IC>
-	<Connected_IC>установлена</Connected_IC>
-
-	<!-- NoMoreThanOne -->
-	<NoMoreThanOne>Нельзя построить большего одного на локацию.</NoMoreThanOne>
-
-	<!-- Tend -->
-	<Tend_rescue>Оказывать сбитым первую помощь </Tend_rescue>
-	<Tend_floatMenu>Оказать первую помощь {0}</Tend_floatMenu>
-	<Tend_notEnoughSkill>Требуется медицинский навык от 8 и выше, чтобы оказать первую помощь.</Tend_notEnoughSkill>
-	<target_position_is_null>Цель не найдена!</target_position_is_null>
-
-	<OrbitalShieldBlockBombardment>Орбитальный силовой щит создал помехи и предотвратил попытку нанести по вашей базе бомбардировку!</OrbitalShieldBlockBombardment>
-	<OrbitalShieldBlockPowerBeam>Орбитальный силовой щит создал помехи и предотвратил попытку нанести по вашей базе ионный удар!</OrbitalShieldBlockPowerBeam>
-
-	<!-- Miner -->
-	<LightAuto>Свет: Авто режим</LightAuto>
-	<LightOn>Свет: Включено</LightOn>
-	<LightOff>Свет: Выключено</LightOff>
-	<SwitchMode>Режим работы.</SwitchMode>
-
-	<!-- Tent -->
-	<RepTent>Ремонт палатки</RepTent>
-   <TentneededRes>необходимо</TentneededRes>
-   <DamagedTent>Поврежденная палатка развертывается. Некоторые стенки палатки будут отсутствовать.</DamagedTent>
-   <TentPlacementBlocked>Место занято. Пожалуйста, разместите в подходящем пространстве.</TentPlacementBlocked>
-   <NoResFoundOne>У вас нет</NoResFoundOne>
-   <NoResFoundTwo>доступных для ремонта палатки</NoResFoundTwo>
-   <NoResFoundTh>Требуется</NoResFoundTh>
-	<TentPlacementBlockedTree>Размещение палатки заблокировано деревом.</TentPlacementBlockedTree>
-	<TentPlacementBlockedSimple>Размещение палатки заблокировано.</TentPlacementBlockedSimple>
-	<CantPlaceTent>Невозможно разместить полностью поврежденную палатку.</CantPlaceTent>
-	<DeployTentAt>Установить палатку на </DeployTentAt>
-	<DeconstructConduitsLabel>Демонтаж проводки</DeconstructConduitsLabel>
-
-	<!-- Various -->
-	<CommandAddDangerZoneLabel>Создать разрешенную область</CommandAddDangerZoneLabel>
-	<CommandAddDangerZoneDesc>Создает область вне радиуса радиации.</CommandAddDangerZoneDesc>
-	<DangerZoneLabel>Не опасная зона</DangerZoneLabel>
-	<RadZoneLabel>Область вне радиации</RadZoneLabel>
-	<ContinueLabel>Продолжить</ContinueLabel>
-	<QuickStartLabel>Быстрый старт</QuickStartLabel>
-
-	<ImpassableDoor>Дверь можно разместить только если с обоих сторон есть поддерживающая структура, а также если проходу ничего не мешает.</ImpassableDoor>
-
-	<LookLabel>Найдено место крушения космического корабля</LookLabel>
-	<LookDiscA>Мы нашли место крушения космического корабля, может кто-то выжил?</LookDiscA>
-	<OnFissureReportString>Сперва требуется пробурить скважину!</OnFissureReportString>
-
-	<WarnAboutRestart>После смены языка крайне рекомендуется перезагрузить игру. Вы можете выбрать другой язык, но перед стартом новой игры или перед загрузкой сохранения, пожалуйста сделайте перезагрузку. \n\nВ противном случае, не избежать игровых ошибок в процессе игры!</WarnAboutRestart>
-	<AcceptTheConsequences>Да, я понимаю возможные последствия</AcceptTheConsequences>
-
-	<RL_CannotChangeMod>В данный момент невозможно изменить режим. Стержень все еще разряжается.</RL_CannotChangeMod>
-	<RL_ChangeMode>Изменить режим</RL_ChangeMode>
-	<RL_PowerSavingMode>Режим энергосбережения (нажмите, чтобы изменить режим): не потребляет электроэнергию в режиме ожидания, выдает много энергии при ударе, но имеет только</RL_PowerSavingMode>
-	<RL_ChanceToAttract>шанс приманить молнию и охладиться.</RL_ChanceToAttract>
-	<RL_Slower>Медленнее</RL_Slower>
-	<RL_NormalMode>Обычный режим (нажмите, чтобы изменить режим): потребляет немного энергии при простоях, выдает достаточную мощность, чтобы поддерживать себя в шторме и имеет 100% шанс привлечь молнию. Имеет только</RL_NormalMode>
-	<RL_ChanceOverwhelmed>шанс привлечь молнию при перегрузке.</RL_ChanceOverwhelmed>
-	<RL_FastCooldown>Режим быстрой перезарядки (нажмите, чтобы изменить режим: Охлаждается в 4 раза быстрее, чем обычно, но потребляет втрое больше энергии. Имеет 100% шанс привлечь молнию. Имеет только</RL_FastCooldown>
-	<RL_Cooldown>Перезарядка</RL_Cooldown>
-	<RL_Standby>Ожидание</RL_Standby>
-	<RL_Discharging>Разрядка</RL_Discharging>
-	<RL_Overwhelmed>Перегрузка</RL_Overwhelmed>
-	<RL_PowerConsumption>Потребляемая мощность</RL_PowerConsumption>
-
-	<OneTradingSpotMessage>Разрешено иметь только один тип этого строения. Сперва требуется убрать предыдущий.</OneTradingSpotMessage>
-
-	<HungryFlockTitle>Насекомые (грязная комната)</HungryFlockTitle>
-	<HungryFlockText>В одной из комнат было очень грязно, а также свободный доступ к пище привлекли внимание насекомых, которые не прочь полакомиться.</HungryFlockText>
-
-	<DevourersCropsTitle>Пожиратели посевов</DevourersCropsTitle>
-	<DevourersCropsText>Некоторые особенно проголодавшиеся пожиратели сельскохозяйственных культур пробрались на ваши грядки! Скорее всего, они начнут уничтожать наши посевы, пока вы не справитесь с ними.</DevourersCropsText>
-
-	<MoonFallMessageMeteorSwarm>Несколько метеоритов, возможно это части вашего корабля, падают на землю, сгорая в атмосфере.</MoonFallMessageMeteorSwarm>
-	<MoonFallMessageMeteorSwarmTribal>Некоторое количество огней плывут по небу далеко вдаль..</MoonFallMessageMeteorSwarmTribal>
-
-	<SkyFallLetterLabelMeteorite>Большой кусок корабля</SkyFallLetterLabelMeteorite>
-	<SkyFallMeteorite>{0} только что упал на землю. Вероятно, это была часть вашего корабля. Объект сгорал в атмосфере и упал с такой силой что, не оставил ничего, кроме деформированной массы.</SkyFallMeteorite>
-
-	<MoonFallLetterLabelMeteoriteTribal>Метеорит</MoonFallLetterLabelMeteoriteTribal>
-	<MoonFallMeteoriteTribal>Метеорит упал неподалеку. Он оставил {0}.</MoonFallMeteoriteTribal>
-
-	<MoonFallLetterLabelFlashstorm>Flashstorm</MoonFallLetterLabelFlashstorm>
-	<MoonFallFlashstorm>Недавнее падение кусков космического корабля привела к ионизации атмосферы и магнитным бурям. Это может вызвать массовые пожары.</MoonFallFlashstorm>
-	<MoonFallFlashstormTribal>Боги рассержены на нас, но вместо того, чтобы бросать камни, они теперь бросают молнии! Начался сильный грозовой шторм. Остерегайтесь пожаров.</MoonFallFlashstormTribal>
-
-	<SkyFallRefugeePodCrash>Вы обнаружили разбившийся аварийный блок космического корабля.\n\nПохоже это один из наших!</SkyFallRefugeePodCrash>
-
-
-	<!-- Terraformer -->
-	<studyreport>### Отчет исследования ###\n\nОбъект исследования: странный артефакт механоидов.\n\n- Дислокация артефакта: </studyreport>
-	<observation>\n- Наблюдения:\n  1. У артефакта имеется подземная часть.\n  2. Несколько пилонов были развернуты около объекта.\n  3. Похоже, артефакт искусственно генерирует вокруг себя небольшие смерчи и грозы.\n\n- Выводы:
-\n  1. Мы назовем это устройство - терраформер механоидов.\n  2. Его цель - изменить и подготовить поверхность планеты к крупномасштабному вторжению.
-\n- Реккомендации:\n  1. Действовать с *предельной* осторожностью при любом взаимодействии с артефактом! \n  2. Приоритет - деактивация центрального маяка для предотвращения вторжения. \n  3. Рассмотреть альтернативные пути электроснабжения от энергии искусственных гроз и смерчей.\n  4. Дальнейшие исследования могут помочь нам понять, как можно использовать генерируемые артефактом явления для пользы колонии.\n</observation>
-	<Studyreportrec>Отчет исследования</Studyreportrec>
-	<Extractionprogress>Прогресс извлечения</Extractionprogress>
-	<Reroutingprogress>Прогресс перенаправления</Reroutingprogress>
-	<paused>(пауза)</paused>
-	<Studyprogress>Прогресс исследования</Studyprogress>
-	<Displaystudyreport>Показать отчет исследования</Displaystudyreport>
-	<Pauseweathercontrollerextraction>Остановить извлечения погодного контроллера</Pauseweathercontrollerextraction>
-	<Disablebeacon>Отключить маяк</Disablebeacon>
-	<Extractweathercontroller>Извлечь погодный контроллер</Extractweathercontroller>
-	<noskill> недостаточно развит навык для извлечения погодного контроллера терраформера (навык исседования: </noskill> 
-	<request> необходим).</request>
-	<Reroutepowernetwork>Перенаправить энерго-сеть</Reroutepowernetwork>
-	<Pausepowerrerouting>Остановить перенаправление энерго-сети</Pausepowerrerouting>
-	<noskill_net> недостаточно развит навык для перенаправления энерго-сети терраформера (навык исседования: </noskill_net>
-	<request_net> необходим).</request_net>
-	<Extractweathercontroller_2> 2) Извлечь погодный контроллер</Extractweathercontroller_2>
-	<noskilk_ext> недостаточно развит навык для извлечения погодного контроллера терраформера (навык исседования: </noskilk_ext>
-	<request_ext> необходим).</request_ext>
-	<reroute_power>1) Перенаправить энерго-сеть</reroute_power>
-	<noskill_rer> недостаточно развит навык для перенаправления энерго-сети терраформера (навык исседования: </noskill_rer>
-	<request_rer> необходим).</request_rer>
-	<Startstudy>Начать исследование</Startstudy>
-	<Pausestudy>Остановить исследование</Pausestudy>
-	<noskill_study> недостаточно развит навык для изучения странного артефакта (навык исседования: </noskill_study>
-	<request_study> необходим).</request_study>
-	<Scoutstrangeartifact>Разведать странный артефакт</Scoutstrangeartifact>
-	<Securestrangeartifact>Обезопасить странный артефакт</Securestrangeartifact>
-	<Cannot_use_incapacitated>Невозможно использовать (выведено из строя)</Cannot_use_incapacitated>
-	<!-- После кэннот юз в скобочках слово должно быть -->
-	<Cannot_use_reserved>Невозможно использовать (зарезерировано)</Cannot_use_reserved>
-	<Cannot_use_no_path>Невозможно использовать (нет прохода)</Cannot_use_no_path>
-	<attack>Похоже, атаковать артефакт было плохой идеей. Вы засекли исходящий от него сигнал бедствия.\nЧто бы это ни было - ничего хорошего это не предвещает...</attack>
-	<Invasion>Вторжение</Invasion>
-	<Before_extraction>Перед извлечением ядра терраформера, его ИИ каким-то чудом распознал Ваши бренные попытки его отключения.\nИ у него было достаточно времени послать сигнал бедствия. Будьте готовы столкнуться с приближающейся группой охраны терраформера..</Before_extraction>
-	<ResearchSkywrathController>Исследовать "Гнев неба"</ResearchSkywrathController>
-	<Extraction>Извлечение</Extraction>
-	<success_extract>Вам удалось удачно извлечь погодный контроллер из терраформера механоидов.\n\nТеперь Вы можете построить собственный терраформер и обрушить "Гнев неба" на головы своих врагов.</success_extract>
-	<Rerouting>Перенаправление</Rerouting>
-	<success_reroute>Вам удалось удачно перенаправить энерго-сеть терраформера механоидов.\n\nНе забывайте, что Вам потребуются батареи для аккумулирования чистой энергии от гроз и смерчей.</success_reroute>
-	<invaders>ВНИМАНИЕ! Вторжение механоидов началось. Этот мир вскоре превратится в новый рой механоидов!</invaders>
-	<strange_thing>Вы засекли странный объект, падющий с орбиты. Он явно больше обычной спасательной капсулы или грузового контейнера, а стандартный сигнал бедствия Федерации отсутствует.\nВам следует отправить кого-нибудь на разведку, но будьте осторожны! От всего этого просто несет технологиями механоидов...</strange_thing>
-	<Artifact>Артефакт</Artifact>
-	<some_knowledge>имеет некоторые знания о инопланетных технологиях, но</some_knowledge>
-	<terr_beacon> все еще не может правильно отключить маяк терраформера.\n\nБудьте готовы столкнуться с приближающейся группой охраны терраформера.</terr_beacon>
-	<success_disabling>удачно обезвреживает маяк терраформера!\n\nТеперь никакой угрозы он не представляет.</success_disabling>
-	<alien_about> не особо силен в инопланетных технологиях, </alien_about>
-	<Evenif>Даже если</Evenif>
-	<Beacondisabled>Маяк деактивирован!</Beacondisabled>
-	<real_crack> является профи в инопланетных технологиях. Деактиващия маяка терраформера была просто еще одной игрой для</real_crack>
-	<no_fear>\n\nТеперь никакой угрозы он не представляет.</no_fear>
-	<try_to_disable>патается деактивировать маяк терраформера, но уровень технологии не достаточен</try_to_disable>
-	<bigpassion> настоящая страсть... </bigpassion>
-	<button_press>просто нажимает на все кнопки подряд, попутно оповещая все ближайшие шаттлы механоидов.\n\nБудьте готовы к визиту гадких и подлых полчишь механоидов из всех ближайших роев!</button_press>
-	<he>он</he>
-	<his>его</his>
-	<him>ему</him>
-	<she>она</she>
-	<her>её</her>
-	<it>существу</it>
-	<its>существу</its>
-	<Droppods>Капсулы</Droppods>
-	<hear> слышит громкий звук приближающихся капсул.\n\n Вам следует обратить внимание, что </hear>
-	<strange_building> как только начинает взаимодействие со странным объектом и </strange_building>
-	<to_safety> нужно укрыться... и быстро!\n</to_safety>
-	<Artifactsecured>Артефакт обезврежен</Artifactsecured>
-	<secure_artifact>Вы обезвредили странную постройку.\n\nТеперь можно сказать с уверенностью только одно: это устройство механоидов.
-\nКак и всегда, при контакте с технологиями механоидов, будьте предельно аккуратны. Вам следует хорошенько подготовиться..к чему угодно...\n</secure_artifact>
-	<Mechanoidterraformer>Терраформер механоидов</Mechanoidterraformer>
-	<Researcher>\nИсследователь: </Researcher>
-	<repstudy> отчет довольно тревожный!\n\n### Заметки ###\n\nДата: </repstudy>
-	<finish_study> завершает исследование странного артефакта. </finish_study>
-	<Hurtinglanding>Крушение</Hurtinglanding>
-	<isalreadysixfeetunderRIP>вбит в землю на 6 футов... и могилу копать не надо</isalreadysixfeetunderRIP>
-	<Dontbotherlookingfor>'. Не беспокойтесь о</Dontbotherlookingfor>
-	<Poorrr>- Бедняга </Poorrr>
-	<strange_building_crash>Эта странная конструкция уничтожила все в месте своего крушения.</strange_building_crash>
-	<things_fall>Следующие объекты уничтожены:</things_fall>
-	<Mech_drop>Терраформер механоидов пробил крышу в </Mech_drop>
-	<offline>выключен</offline>
-	<charging>заряжается</charging>
-	<ready>готов</ready>
-	<channeling>направляет</channeling>
-	<Supervizor_none>Смотритель: нет</Supervizor_none>
-	<Supervizor>Смотритель: </Supervizor>
-	<Supervizor_sientist>Смотритель: (требуется компетентный исследователь, минимальный уровень навыка исследования 10)</Supervizor_sientist>
-	<Charge_progress>Прогресс зарядки: </Charge_progress>
-	<MT_State>Состояние: </MT_State>
-	<Connect_r_s>Подключение степень/на хранении: </Connect_r_s>
-	<Powerneeded>Требуется энергии: </Powerneeded>
-	<supervize_sientist>У контроллера "Гнева небес" нет ученого-смотрителя (требуется навык исследования 10).</supervize_sientist>
-	<supervize_controller>У контроллера "Гнева небес" нет смотрителя.</supervize_controller>
-	<controller_not_ready>Контроллер "Гнева небес" не готов.</controller_not_ready>
-	<cannot_target>Невозможно указать затуманенную область.</cannot_target>
-	<idlestate>бездействующий</idlestate>
-	<landingstate>установка</landingstate>
-	<DeployingPylon>установка пилона</DeployingPylon>
-	<StartingGenerator>запуск генератора</StartingGenerator>
-	<HarnessingPower>использование энергии</HarnessingPower>
-	<StoppingGenerator>остановка генератора</StoppingGenerator>
-	<DeployingLightTurrets>развертывание легкой турели</DeployingLightTurrets>
-	<DeployingHeavyTurrets>развертывание тяжелой турели</DeployingHeavyTurrets>
-
-	<!-- Alerts -->
-
-	<NeedGenBioHopper>Нужен хоппер для биогенератора.</NeedGenBioHopper>
-	<NeedGenBioHopperDesc>Возле вашего биогенератора нет хоппера.\n\nДля работы, биогенератор потребляет биотопливо из хоппера.\n\nПостройте хоппер вплотную к биогенератору.</NeedGenBioHopperDesc>
-
-	<NeedFuelFeeder>Нужен топливный хоппер.</NeedFuelFeeder>
-	<NeedFuelFeederDesc>Возле вашей топливной электростанции нет хоппера.\n\nДля работы, топливная электростанция потребляет топливо и уголь из хоппера.\n\nПостройте хоппер вплотную к топливной электростанции.</NeedFuelFeederDesc>
-
-	<NeedGenHopper>Нужен хоппер для парового генератора.</NeedGenHopper>
-	<NeedGenHopperDesc>Возле вашего парогенератора нет хоппера.\n\nДля работы, парогенератор потребляет дрова и этанол из хоппера.\n\nПостройте хоппер вплотную к парогенератору.</NeedGenHopperDesc>
-
-	<NeedPlasmaGenFeeder>Нужен хоппер для плазмогенератора.</NeedPlasmaGenFeeder> 
-	<NeedPlasmaGenFeederDesc>Возле вашего плазмогенератора нет хоппера.\n\nДля работы, плазмогенератор потребляет алюминий из хоппера.\n\nПостройте хоппер вплотную к плазмогенератору.</NeedPlasmaGenFeederDesc> 
-
-	<NeedNuclearFeeder>Нужен хоппер для АЭС</NeedNuclearFeeder> 
-	<NeedNuclearFeederDesc>Возле вашей АЭС нет хоппера.\n\nДля работы, АЭС потребляет обогащенный уран из хоппера.\n\nПостройте хоппер вплотную к АЭС.</NeedNuclearFeederDesc> 
-
-	<NeedElectronicFeeder>Нужен хоппер для Фабрики электроники</NeedElectronicFeeder> 
-	<NeedElectronicFeederDesc>Возле вашей фабрики нет хоппера.\n\nДля работы, фабрике нужны электронные компоненты.\n\nПостройте хоппер вплотную к Фабрике электроники.</NeedElectronicFeederDesc> 
-
-	<NeedCentrifugeFeeder>Нужен хоппер для газовой центрифуги</NeedCentrifugeFeeder>
-	<NeedCentrifugeFeederDesc>Возле вашей газовой центрифуги нет хоппера.\n\nДля работы, газовая центрифуга потребляет уран из хоппера.\n\nПостройте хоппер вплотную к газовой центрифуге.</NeedCentrifugeFeederDesc> 
-
-	<NeedCoalFeeder>Нужен угольный хоппер.</NeedCoalFeeder>
-	<NeedCoalFeederDesc>Возле вашей угольной электростанции нет хоппера.\n\nДля работы, угольная электростанция потребляет уголь из хоппера.\n\nПостройте хоппер вплотную к угольной электростанции.</NeedCoalFeederDesc> 
-
-	<AnotherGH>Слишком близко к другому геотермальному обогревателю.</AnotherGH>
-	<NoGeothemalSource>Должен быть размещен непосредственно на геотермальном источнике.</NoGeothemalSource>
-	<AnotherPG>Слишком близко к другому плазмогенератору.</AnotherPG>
-
-	<NoPlasmaGeothermalPlant>Рядом нет плазма-геотермального реактора.</NoPlasmaGeothermalPlant>
-
-	<AnotherME>Слишком близко к другой шахте.</AnotherME> 
-	<AnotherPGR>Слишком близко к другому плазменному реактору.</AnotherPGR> 
-
-	<AnotherGG>Слишком близко к другому геотермальному генератору.</AnotherGG> 
-	<AnotherFG>Слишком близко к другой буровой установке.</AnotherFG> 
-
-	<OnMudOrWaterReportString>Вы не можете собирать здесь. Должно быть размещено возле воды или мелководья.</OnMudOrWaterReportString>
-
-	<DesignatorCollectSandLabel>Собрать песок</DesignatorCollectSandLabel>
-	<DesignatorCollectSandDesc>Определить область сбора песка. Шахтёры будут делать это в последнюю очередь.</DesignatorCollectSandDesc>
-	<DesignatorCollectSandReportString>Вы не можете собирать здесь песок. Найдите песчаную поверхность.</DesignatorCollectSandReportString>
-
-	<DesignatorCollectPeatLabel>Собрать торф</DesignatorCollectPeatLabel>
-	<DesignatorCollectPeatDesc>Определить область сбора торфа. Шахтёры будут делать это в последнюю очередь.</DesignatorCollectPeatDesc> 
-	<DesignatorCollectPeatReportString>Вы не можете собирать здесь торф. Нужна болотистая местность (грязь или мелководье), чтобы собрать торф.</DesignatorCollectPeatReportString>
-
-	<DesignatorCollectCrushedstoneLabel>Собрать щебень</DesignatorCollectCrushedstoneLabel>
-	<DesignatorCollectCrushedstoneDesc>Определить область сбора щебня. Шахтёры будут делать это в последнюю очередь.</DesignatorCollectCrushedstoneDesc>
-	<DesignatorCollectCrushedstoneReportString>Вы не можете собирать здесь щебень. Щебень можно собирать только на покрытии из гравия.</DesignatorCollectCrushedstoneReportString> 
-
-	<DesignatorCollectSoftClayLabel>Собрать глину</DesignatorCollectSoftClayLabel>
-	<DesignatorCollectSoftClayDesc>Определить область сбора глины. Шахтёры будут делать это в последнюю очередь.</DesignatorCollectSoftClayDesc>
-	<DesignatorCollectSoftClayReportString>Вы не можете собирать здесь глину. Нужна болотистая местность (грязь или мелководье), чтобы собрать глину.</DesignatorCollectSoftClayReportString>
-
-	<NeedOilFeeder>Нужен хоппер для НПЗ</NeedOilFeeder>
-	<NeedOilFeederDesc>Возле вашего НПЗ нет хоппера.\n\nДля работы, НПЗ потребляет сырую нефть из хоппера.\n\nПостройте хоппер вплотную к НПЗ.</NeedOilFeederDesc>
-
-	<NeedHeaterHopper>Нужен хоппер для печки</NeedHeaterHopper>
-	<NeedHeaterHopperDesc>Возле вашей печки нет хоппера.\n\nДля работы, печка потребляет уголь или торф из хоппера.\n\nПостройте хоппер вплотную к печке.</NeedHeaterHopperDesc>
-
-	<NearWithAnotherFissure>Слишком близко к скважине или добывающей установке</NearWithAnotherFissure>
-
-	<NeedAntimatterReactorFeeder>Нужен хоппер для реактора античастиц</NeedAntimatterReactorFeeder>
-	<NeedAntimatterReactorFeederDesc>Возле вашего реактора античастиц нет хоппера.\n\nДля работы, реактор античастиц потребляет антиматерию из хоппера.\n\nПостройте хоппер вплотную к реактору античастиц.</NeedAntimatterReactorFeederDesc>
-
-	<NeedHadronColliderFeeder>Нужен хоппер для адронного коллайдера</NeedHadronColliderFeeder>
-	<NeedHadronColliderFeederDesc>Возле вашего адронного коллайдера нет хоппера.\n\nДля работы, адронный коллайдер потребляет материю из хоппера.\n\nПостройте хоппер вплотную к адронному коллайдеру.</NeedHadronColliderFeederDesc>
-
-	<Exhaustresource>Исчерпает ресурс через: </Exhaustresource>
-	<LetterLabelExhaustedMine>Шахта истощилась</LetterLabelExhaustedMine>
-	<ExhaustedMine>Одна из ваших шахт истощилась. Вы можете разобрать её и построить новую.</ExhaustedMine>
-
-	<LetterLabelExhaustedFissure>Скважина истощилась</LetterLabelExhaustedFissure>
-	<ExhaustedFissure>Одна из ваших скважин истощилась. Разберите вашу нефтекачку и пробурите новую.</ExhaustedFissure>
-
-	<BlastDoorJammed>Мощные ворота получают урон.\nПочините их и закройте.</BlastDoorJammed> 
-	<BlastDoorClosingSix>Мощные ворота закрываются через 6 секунд.</BlastDoorClosingSix>  
-	<BlastDoorClosingFive>Мощные ворота закрываются через 5 секунд.</BlastDoorClosingFive>   
-	<BlastDoorClosingFour>Мощные ворота закрываются через 4 секунд.</BlastDoorClosingFour>  
-	<BlastDoorClosingThree>Мощные ворота закрываются через 3 секунд.</BlastDoorClosingThree>   
-	<BlastDoorClosingTwo>Мощные ворота закрываются через 2 секунд.</BlastDoorClosingTwo>  
-	<BlastDoorClosingOne>Мощные ворота закрываются через 1 секунд.</BlastDoorClosingOne>   
-	<BlastDoorClosed>Мощные ворота закрыты.</BlastDoorClosed>   
-	<JammedRepaired>Мощные ворота были починены и закрыты.</JammedRepaired>    
-	<JammedBudgedClosed>Мощные ворота были закрыты.</JammedBudgedClosed>     
-	<JammedBudgedWontClose>Мощные ворота не были закрыты.</JammedBudgedWontClose>    
-	<BlastDoorLacksPower>Для работы требуется электричество.</BlastDoorLacksPower>
-	<BlastDoorOpeningSix>Мощные ворота откроются через 6 секунд.</BlastDoorOpeningSix>  
-	<BlastDoorOpeningFive>Мощные ворота откроются через 5 секунд.</BlastDoorOpeningFive>   
-	<BlastDoorOpeningFour>Мощные ворота откроются через 4 секунд.</BlastDoorOpeningFour>  
-	<BlastDoorOpeningThree>Мощные ворота откроются через 3 секунд.</BlastDoorOpeningThree>   
-	<BlastDoorOpeningTwo>Мощные ворота откроются через 2 секунд.</BlastDoorOpeningTwo>  
-	<BlastDoorOpeningOne>Мощные ворота откроются через 1 секунд.</BlastDoorOpeningOne>   
-	<BlastDoorOpen>Мощные ворота открыты.</BlastDoorOpen>   
-	<OpenBlastDoorLabel>Открыть</OpenBlastDoorLabel>   
-	<OpenBlastDoorDesc>Нажмите чтобы открыть мощные ворота.</OpenBlastDoorDesc>   
-	<CloseBlastDoorLabel>Закрыть</CloseBlastDoorLabel>   
-	<CloseBlastDoorDesc>Нажмите чтобы закрыть мощные ворота.</CloseBlastDoorDesc>
-	<BeginDrillLabel>Начать бурить</BeginDrillLabel>
-	<BeginDrillDesc>Нажмите чтобы начать бурение.</BeginDrillDesc>  
-	<PauseDrillLabel>Пауза</PauseDrillLabel>
-	<PauseDrillDesc>Нажмите чтобы поставить бурение на паузу.</PauseDrillDesc> 
-	<ResumeDrillLabel>Продолжить</ResumeDrillLabel>
-	<ResumeDrillDesc>Нажмите чтобы продолжить бурение.</ResumeDrillDesc> 
-	<OperationNotBegun>Процесс не запущен</OperationNotBegun>
-	<DrillProgress>Прогресс: </DrillProgress> 
-	<EfficiencyTEG>Эффективность: </EfficiencyTEG> 
-	<DeltaTEG>Разница: </DeltaTEG> 
-	<StatusWorking>Статус: Работает</StatusWorking> 
-	<StatusCooling>Статус: Охлаждается</StatusCooling>
-	<DesignatorPlantsHarvestEdibles>Собрать урожай</DesignatorPlantsHarvestEdibles>
-	<DesignatorPlantsHarvestEdiblesDesc>Отметить культивируемые человеком растения для сбора с них урожая.</DesignatorPlantsHarvestEdiblesDesc>
-	<MessageMustDesignateHarvestableFruits>Указанные растения должны быть готовы к сбору урожая.</MessageMustDesignateHarvestableFruits>
-	<ChopWoodLabel>Срубить готовое</ChopWoodLabel>
-	<ChopWoodDesc>Отметить только полностью выращенные деревья, которые нужно срубить для получения древесины.</ChopWoodDesc>
-
-	<PowerAccumulatedLabel>Энергии накоплено: </PowerAccumulatedLabel>
-	<BlockedLabel>Блокировано</BlockedLabel>
-	<BlockLabel>Блок:</BlockLabel>
-	<CampfirePartyLabel>Начать посиделки у костра</CampfirePartyLabel>
-	<CampfirePartyDesc>Собери друзей и нажми чтобы начать посиделки у костра.</CampfirePartyDesc>
-	<CampfireNoDrafted>Не хватает поселенцев рядом со столом, чтобы начать посиделки у костра. Пожалуйста возьмите их и подведите к столу.</CampfireNoDrafted>
-	<FeastPartyLabel>Начать вечеринку</FeastPartyLabel>
-	<FeastPartyDesc>Собери друзей и нажми чтобы начать вечеринку.</FeastPartyDesc>
-	<FeastNoDrafted>Не хватает поселенцев рядом со столом, чтобы начать вечеринку. Пожалуйста возьмите их и подведите к столу.</FeastNoDrafted>
-	<FeastReqAlcogol>Требуется как минимум</FeastReqAlcogol>
-	<FeastAlcogolNotFound> шт. алкоголя, в области места проведения, чтобы начать вечеринку.</FeastAlcogolNotFound>
-	<EvasionLabel>Уклонение</EvasionLabel>
-	<AbsorbedLabel>Поглощено</AbsorbedLabel>
-	<MineBrushLabel>Копать область</MineBrushLabel>
-	<MineBrushDesc>С помощью кисти вы можете выбрать область для копки. Используй Q и E чтобы изменить размер кисти.</MineBrushDesc>
-	<StripMinerLabel>Копать коридоры</StripMinerLabel>
-	<StripMinerDesc>Выделите область. Используйте 8,4,5,6 на цифровой клавиатуре, чтобы изменить дистанцию между коридорами.</StripMinerDesc>
-	<VeinMinerLabel>Копать жилу</VeinMinerLabel>
-	<VeinMinerDesc>Нажми на видимую руду, чтобы выделить все залежи этого ресурса.</VeinMinerDesc>
-	<VeinMinerReport>Вы должны должны указать залежи!</VeinMinerReport>
-	<FillFissureDesc>Засыпать скважину </FillFissureDesc>
-	<FillFissureLabel>Засыпать скважину</FillFissureLabel>
-	<FillFissureReq>Вы точно хотите засыпать скважину?</FillFissureReq>
-
-	<AJLabel>Спасенное животное присоединилось</AJLabel>
-	<AJLetter>Спасенное вашими жителями животное присоединилось к поселению</AJLetter>
-	<ADJLabel>Спасенное животное не присоединилось</ADJLabel>
-	<ADJLetter>Спасенное вашими жителями животное не присоединилось к поселению</ADJLetter>
-	<!-- Traitor -->
-	<TraitorLabel>Предатель!</TraitorLabel>
-	<Traitor>Житель по имени {PAWN_nameDef},которого вы приняли в свои ряды, оказывается агентом противника из {PAWN_factionName}.
-
-Вы можете захватить его для вербовки или в рабство.</Traitor>
-
-	<!-- Caravan animals wander in -->
-	<CAWILabel>Караванные животные</CAWILabel>
-	<CAWI>Группа {PAWN_kind}, отбившиеся или потерявшиеся, бродят неподалеку.
-
-Похоже, они принадлежали к какому-то каравану, так как все еще несут поклажу с ценным содержимым. Вы можете забрать эти вещи, если приручите или убьете их. В противном случае они покинут территорию через пару дней.</CAWI>
-
-	<!-- Crop sprout -->
-	<CSLabel>Урожайный год</CSLabel>
-	<CS1>Большое поле </CS1>
-	<CS2>появилось неподалеку. Если вы подождете, пока оно вырастет, вы сможете собрать много продовольствия! Если оставить его неубранным, растения медленно сгниют и пропадут.</CS2>
-
-	<!-- Battle animals wander in -->
-	<BAWILabel>Боевые животные</BAWILabel>
-	<BAWI>Несколько {0}, отбившиеся или потерявшиеся, бродят неподалеку.
-
-Кажется, они привыкли к человеческому обществу и присоединяются к колонии.</BAWI>
-
-	<!-- wild men wander in -->
-	<WMWILabel>Дикари</WMWILabel>
-	<WMWI>Маленькая группа дикарей бродит неподалеку. Вы можете попытаться приручить их.</WMWI>
-
-	<!-- Hunting party -->
-	<HPLabel>Группа охотников</HPLabel>
-	<HP>Группа охотников из {0} проходят мимо поселения.Они поохотятся здесь пару часов и пойдут дальше.</HP>
-
-	<!-- Wild animal alert -->
-	<WildAnimalHunting>Агрессивное животное</WildAnimalHunting>
-	<WildAnimalHuntingDesc>Голодное животное в настоящий момент охотится на одного из членов вашего поселения.</WildAnimalHuntingDesc>
-
-
-
-
-	<!-- EN: Manhunter pack -->
-	<LetterLabelManhunterPackArrivedOld>Агрессивные животные</LetterLabelManhunterPackArrivedOld>
-	<!-- EN: A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack turrets that are powered down, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
-	<ManhunterPackArrivedOld>На вашу территорию забрели агрессивные {0}. Они жаждут человеческой крови.\n\nЭти животные не будут пробиваться через закрытые двери, если, конечно, не увидят, как в них забегают ваши поселенцы. Спрячьтесь заранее — и вы будете в безопасности. Они также не нападут на турели, если вы отключите их.\n\nПодождите один-два дня, и {0} уйдут. Вы также можете напасть на них сами.</ManhunterPackArrivedOld>
-
-	<!-- Refugee chased -->
-	<!-- EN: Refugee chased at {0} -->
-	<RefugeeChasedTitle>У поселения {0} преследуют беженца</RefugeeChasedTitle>
-	<!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} calls you from nearby. {PAWN_pronoun} is being chased by {2} from {3}!\n\n{PAWN_pronoun} begs for safety and offers to join your colony. {PAWN_pronoun} tells you {PAWN_pronoun} is {4} years old, but there's no time to collect more information.\n\nBe warned - if you accept, you'll have to fight off the {2} on {PAWN_possessive} tail. Their group is composed of:\n\n{5} -->
-	<RefugeeChasedInitial>{PAWN_title} по имени {PAWN_nameDef} бежит и зовёт на помощь! {PAWN_pronoun} говорит, что {PAWN_possessive} преследуют {2} из фракции {3}.\n\n{PAWN_pronoun} умоляет о помощи и взамен предлагает присоединиться к поселению. {PAWN_nameDef} успевает лишь добавить, что {PAWN_objective} ^Number( {4} | '# год' | '# года' | '# лет')^, а на остальную информацию нет времени.\n\nЕсли вы согласитесь {PAWN_possessive} принять, на вас нападут {2}, идущие у н{PAWN_possessive} на хвосте. В их группе:\n\n{5}</RefugeeChasedInitial>
-	<!-- EN: Offer safety -->
-	<RefugeeChasedInitial_Accept>Предложить укрытие</RefugeeChasedInitial_Accept>
-	<!-- EN: Ignore the message -->
-	<RefugeeChasedInitial_Reject>Игнорировать это сообщение</RefugeeChasedInitial_Reject>
-	<!-- EN: {1_labelShort} screams in panic through the tinny speaker before you cut off the transmission. -->
-	<RefugeeChasedRejected>{1_labelShort} отчаянно кричит из хрипящего динамика, пока вы не прерываете трансляцию.</RefugeeChasedRejected>
-
-	<AncientStargate>Звёздные врата</AncientStargate>
-	<AncientStargate_Report1> завершает исследование странного артефакта. </AncientStargate_Report1>
-	<AncientStargate_Report2> отчет довольно впечатляющий!\n\n### Заметки ###\n\nДата: </AncientStargate_Report2>
-	<AncientStargate_StudyReport>### Отчет исследования ###\n\nОбъект исследования: Древний межпространственный артефакт.\n\n- Дислокация артефакта: </AncientStargate_StudyReport>
-	<AncientStargate_Observation>\n- Наблюдения:\n  1. Представляет из себя несколько колец размером в 3.14 метра в диаметре.\n  2. Сделаны из экзотического материала, ранее неизвестного, построенные некой древней цивилизацией.\n  3. При повороте внутренного звена создают стабильную одностороннюю червоточину между вызывающим кольцом и вызываемым кольцом и похоже позволяя мгновенно перемещать любые объекты в червоточину...\n\n- Выводы:
-\n  1. Мы назовем это сооружение - Звёздные врата.\n  2. Похоже на то, что в его устройстве чего-то не хватает и артефакт способен работать только в одну сторону, в качестве "приёмника".
-\n- Рекомендации:\n  1. Действовать с *предельной* осторожностью при любом взаимодействии с артефактом! \n  2. Возможно мы сможем более детально изучить его устройство и использовать его в будущем для перемещения в пространстве. \n  3. С другой стороны, возможно нам будут полезны материалы из которых он состоит, обладающих, на первый взгляд, невероятностой прочностью.\n</AncientStargate_Observation>
 </LanguageData>

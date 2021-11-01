@@ -1,20 +1,76 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Norbal_Scorpion.label>Арбалет "Скорпион"</Norbal_Scorpion.label>
-	<Norbal_Scorpion.description>Так себе арбалет, очень медленный, но мощный.</Norbal_Scorpion.description>
+  <!-- SHORT BOW -->
 
-	<Arbalest.label>Балестра</Arbalest.label>
-	<Arbalest.description>Более тяжелый вариант арбалета. Мощнее арбалета, но и менее скорострельный.</Arbalest.description>
+  <Bow_Short.label>Short Bow</Bow_Short.label>
+  <Bow_Short.description>A simple short bow. It was made with skill from primitive technology.</Bow_Short.description>
+  <Bow_Short.tools.0.label>limb</Bow_Short.tools.0.label>
+  <Bow_Short.tools.1.label>nock</Bow_Short.tools.1.label>
 
-	<Crossbow.label>Усиленный Арбалет</Crossbow.label>
-	<Crossbow.description>Арбалет, как правило, превосходит обычный лук по точности стрельбы и убойной силе, но, за редким исключением, сильно проигрывает по скорострельности.</Crossbow.description>
 
-	<NorbalBow_Grape.label>Мощный лук</NorbalBow_Grape.label>
-	<NorbalBow_Grape.description>Действительно мощный лук, выстреливает тяжелую стрелу на дальнюю дистанцию.</NorbalBow_Grape.description>
+  <!-- PILA -->
 
-	<blowgun.label>Трубка</blowgun.label>
-	<blowgun.description>Трубка для выдувания отравленных дротиков.</blowgun.description>
+  <Pila.label>javelins</Pila.label>
+  <Pila.description>A throwing spear which may be thrown on its own.</Pila.description>
+  <Pila.tools.0.label>shaft</Pila.tools.0.label>
+  <Pila.tools.1.label>point</Pila.tools.1.label>
+
+
+  <!-- GREAT BOW -->
+
+  <Bow_Great.label>Great Bow</Bow_Great.label>
+  <Bow_Great.description>A powerful great bow. It fires a heavy arrow over long distances.</Bow_Great.description>
+  <Bow_Great.tools.0.label>limb</Bow_Great.tools.0.label>
+  <Bow_Great.tools.1.label>nock</Bow_Great.tools.1.label>
+
+
+  <!-- SCORPION -->
+
+  <Norbal_Scorpion.label>Scorpion Crossbow</Norbal_Scorpion.label>
+  <Norbal_Scorpion.description>Fearsome norbal crossbow. Deadly but slow.</Norbal_Scorpion.description>
+  <Norbal_Scorpion.tools.0.label>limb</Norbal_Scorpion.tools.0.label>
+  <Norbal_Scorpion.tools.1.label>nock</Norbal_Scorpion.tools.1.label>
+
+
+  <!-- ARBALEST -->
+
+  <Arbalest.label>Arbalest</Arbalest.label>
+  <Arbalest.description>A large crossbow with a special mechanism for drawing back and releasing the string.</Arbalest.description>
+  <Arbalest.tools.0.label>limb</Arbalest.tools.0.label>
+  <Arbalest.tools.1.label>nock</Arbalest.tools.1.label>
+
+
+  <!-- CROSSBOW -->
+
+  <Crossbow.label>Crossbow</Crossbow.label>
+  <Crossbow.description>A weapon consisting of a bow fixed crosswise on a wooden stock.</Crossbow.description>
+  <Crossbow.tools.0.label>limb</Crossbow.tools.0.label>
+  <Crossbow.tools.1.label>nock</Crossbow.tools.1.label>
+
+
+  <!-- RECURVE BOW -->
+
+  <Bow_Recurve.label>Recurve Bow</Bow_Recurve.label>
+  <Bow_Recurve.description>A recurve bow stores more energy and delivers energy more efficiently than the equivalent straight-limbed bow.</Bow_Recurve.description>
+  <Bow_Recurve.tools.0.label>limb</Bow_Recurve.tools.0.label>
+  <Bow_Recurve.tools.1.label>nock</Bow_Recurve.tools.1.label>
+
+
+  <!-- SCYTHIAN BOW -->
+
+  <NorbalBow_Grape.label>Norbal Bow</NorbalBow_Grape.label>
+  <NorbalBow_Grape.description>A powerful Norbal bow. Fires heavy arrows at long distances.</NorbalBow_Grape.description>
+  <NorbalBow_Grape.tools.0.label>limb</NorbalBow_Grape.tools.0.label>
+  <NorbalBow_Grape.tools.1.label>nock</NorbalBow_Grape.tools.1.label>
+
+
+  <!-- BLOWGUN -->
+
+  <blowgun.label>blowgun</blowgun.label>
+  <blowgun.description>A blowgun with a set of poison darts.</blowgun.description>
+  <blowgun.tools.0.label>limb</blowgun.tools.0.label>
+  <blowgun.tools.1.label>nock</blowgun.tools.1.label>
+
 
 </LanguageData>

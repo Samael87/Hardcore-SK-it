@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Vigingr.label>vigingr</Vigingr.label>
+  <Vigingr.description>A common norbal culture.</Vigingr.description>
+
+  <Animatic.label>animatic</Animatic.label>
+  <Animatic.description>An ancient culture common among rimworld ferals.</Animatic.description>
+
+  <Outrageous.label>outrageous</Outrageous.label>
+  <Outrageous.description>A broad category describing the styles and practices of many predators groups.</Outrageous.description>
+
+  <Knighthood.label>knighthood</Knighthood.label>
+  <Knighthood.description>A medieval culture common among rimworld kingdoms.</Knighthood.description>
+
+  <Satanism.label>satanism</Satanism.label>
+  <Satanism.description>A broad category describing the styles and practices of sectarian groups.</Satanism.description>
+
+  <Astrofeline.label>astrofeline</Astrofeline.label>
+  <Astrofeline.description>A broad collection of cultures common among frequent feline space travelers.</Astrofeline.description>
+
+  <Corporatocracy.label>corporatocracy</Corporatocracy.label>
+  <Corporatocracy.description>The corporate culture of the different clans in the syndicate.</Corporatocracy.description>
+
+
+</LanguageData>

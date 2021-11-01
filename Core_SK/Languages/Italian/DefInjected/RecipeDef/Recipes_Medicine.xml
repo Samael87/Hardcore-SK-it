@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeHerbMedicine.label>craft herbal medicine</MakeHerbMedicine.label>
+  <MakeHerbMedicine.description>Crafts herbal medicine from Raw Healroot. Produces 1.</MakeHerbMedicine.description>
+  <MakeHerbMedicine.jobString>Crafting herbal medicine.</MakeHerbMedicine.jobString>
+
+  <makemedicine.label>craft medicine</makemedicine.label>
+  <makemedicine.description>Crafts a medicine kit from herbal medicine and various other resources. Produces 1.</makemedicine.description>
+  <makemedicine.jobString>Crafting medicine.</makemedicine.jobString>
+
+  <makeadvmedicine.label>craft advanced medicine</makeadvmedicine.label>
+  <makeadvmedicine.description>Crafts advanced medicine from plants with high medical potency. Produces 1.</makeadvmedicine.description>
+  <makeadvmedicine.jobString>Crafting advanced medicine.</makeadvmedicine.jobString>
+
+  <MakeBandagekitcrude.label>craft crude bandage kit</MakeBandagekitcrude.label>
+  <MakeBandagekitcrude.description>A pack of makeshift bandages. Looks bad, probably bad for your wounds. Good for stopping bleeding but nothing more. Produces 1.</MakeBandagekitcrude.description>
+  <MakeBandagekitcrude.jobString>Crafting crude bandage kit.</MakeBandagekitcrude.jobString>
+
+  <MakeBandageKit.label>craft bandage kit</MakeBandageKit.label>
+  <MakeBandageKit.description>A pack of bandages made from cloth. Less potent than medical kits. Produces 1.</MakeBandageKit.description>
+  <MakeBandageKit.jobString>Crafting bandage kit.</MakeBandageKit.jobString>
+
+  <MakeHerbmedicine.label>craft basic medicine kit</MakeHerbmedicine.label>
+  <MakeHerbmedicine.description>A pack of mix herbs. Less potent than industrial pharmaceuticals. \n\nMade from aloe and cloth. Produces 1.</MakeHerbmedicine.description>
+  <MakeHerbmedicine.jobString>Crafting basic medicine kit.</MakeHerbmedicine.jobString>
+
+
+</LanguageData>

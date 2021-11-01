@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Trees -->
+
+  <Plant_Mangrove.label>mangrove tree</Plant_Mangrove.label>
+  <Plant_Mangrove.description>Mangroves are trees or shrubs that grow in salty water in hot places like the tropics.</Plant_Mangrove.description>
+
+  <Plant_TreePalm.label>coconut tree</Plant_TreePalm.label>
+  <Plant_TreePalm.description>A tree.</Plant_TreePalm.description>
+
+  <Plant_TreeDrago.label>drago tree</Plant_TreeDrago.label>
+  <Plant_TreeDrago.description>A hardy desert tree topped with thick, pointed leaves.</Plant_TreeDrago.description>
+
+  <Plant_TreeOak.label>oak tree</Plant_TreeOak.label>
+  <Plant_TreeOak.description>Oak trees are slow growing, strong, hardwood trees.</Plant_TreeOak.description>
+
+  <Plant_TreePoplar.label>poplar tree</Plant_TreePoplar.label>
+  <Plant_TreePoplar.description>Poplar trees are quick growing, softwood trees. They produce less wood than oak trees.</Plant_TreePoplar.description>
+
+  <Plant_TreePine.label>pine tree</Plant_TreePine.label>
+  <Plant_TreePine.description>Pine trees are large conifer, softwood trees.</Plant_TreePine.description>
+
+  <Plant_TreeBirch.label>birch tree</Plant_TreeBirch.label>
+  <Plant_TreeBirch.description>Birch trees are northern, white trees known for having a thin, paper-like bark.</Plant_TreeBirch.description>
+
+  <Plant_TreeTeak.label>teak tree</Plant_TreeTeak.label>
+  <Plant_TreeTeak.description>Teak trees are very strong and slow growing hardwood trees. Wood from Teak Trees was used in ancient times to build sailing ships.</Plant_TreeTeak.description>
+
+  <Plant_TreeCecropia.label>cecropia tree</Plant_TreeCecropia.label>
+  <Plant_TreeCecropia.description>Cecropia trees are small, common rainforest trees. It grows very fast, but yields little usable wood.</Plant_TreeCecropia.description>
+
+  <Plant_TreeWillow.label>willow tree</Plant_TreeWillow.label>
+  <Plant_TreeWillow.description>One of the fastest growing shade trees providing a beautiful, thick, leafy canopy. Doesn't yield much usable wood.</Plant_TreeWillow.description>
+
+  <Plant_TreeCypress.label>cypress tree</Plant_TreeCypress.label>
+  <Plant_TreeCypress.description>A tall, slow-growing tree. Typically found in swamps. Despite its slow growth, planting these trees can be profitable because they yield much usable wood.</Plant_TreeCypress.description>
+
+  <Plant_TreeMaple.label>maple tree</Plant_TreeMaple.label>
+  <Plant_TreeMaple.description>A common, medium-sized tree. It's often found in swamps and on moist terrain.</Plant_TreeMaple.description>
+
+  <PlantTreeRedwood.label>redwood</PlantTreeRedwood.label>
+  <PlantTreeRedwood.description>A huge, very slow growing tree. Its roots are shallow, and when it gets too large, it topples over. \n\n Yields red wood, which is valuable and rare.</PlantTreeRedwood.description>
+
+
+</LanguageData>

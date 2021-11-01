@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Fox fennec -->
+
+  <Fox_Fennec.label>fennec fox</Fox_Fennec.label>
+  <Fox_Fennec.labelPlural>fennec foxes</Fox_Fennec.labelPlural>
+  <Fox_Fennec.labelMale>male fennec fox</Fox_Fennec.labelMale>
+  <Fox_Fennec.labelMalePlural>male fennec foxes</Fox_Fennec.labelMalePlural>
+  <Fox_Fennec.labelFemale>female fennec fox</Fox_Fennec.labelFemale>
+  <Fox_Fennec.labelFemalePlural>female fennec foxes</Fox_Fennec.labelFemalePlural>
+  <Fox_Fennec.lifeStages.0.label>fennec fox puppy</Fox_Fennec.lifeStages.0.label>
+  <Fox_Fennec.lifeStages.0.labelPlural>fennec fox puppies</Fox_Fennec.lifeStages.0.labelPlural>
+  <Fox_Fennec.lifeStages.0.labelMale>male fennec fox puppy</Fox_Fennec.lifeStages.0.labelMale>
+  <Fox_Fennec.lifeStages.0.labelMalePlural>male fennec fox puppies</Fox_Fennec.lifeStages.0.labelMalePlural>
+  <Fox_Fennec.lifeStages.0.labelFemale>female fennec fox puppy</Fox_Fennec.lifeStages.0.labelFemale>
+  <Fox_Fennec.lifeStages.0.labelFemalePlural>female fennec fox puppies</Fox_Fennec.lifeStages.0.labelFemalePlural>
+  <Fox_Fennec.lifeStages.1.label>fennec fox</Fox_Fennec.lifeStages.1.label>
+  <Fox_Fennec.lifeStages.1.labelPlural>fennec foxes</Fox_Fennec.lifeStages.1.labelPlural>
+  <Fox_Fennec.lifeStages.1.labelMale>male fennec fox</Fox_Fennec.lifeStages.1.labelMale>
+  <Fox_Fennec.lifeStages.1.labelMalePlural>male fennec foxs</Fox_Fennec.lifeStages.1.labelMalePlural>
+  <Fox_Fennec.lifeStages.1.labelFemale>female fennec fox</Fox_Fennec.lifeStages.1.labelFemale>
+  <Fox_Fennec.lifeStages.1.labelFemalePlural>female fennec foxs</Fox_Fennec.lifeStages.1.labelFemalePlural>
+  <Fox_Fennec.lifeStages.2.label>fennec fox</Fox_Fennec.lifeStages.2.label>
+  <Fox_Fennec.lifeStages.2.labelPlural>fennec foxes</Fox_Fennec.lifeStages.2.labelPlural>
+  <Fox_Fennec.lifeStages.2.labelMale>male fennec fox</Fox_Fennec.lifeStages.2.labelMale>
+  <Fox_Fennec.lifeStages.2.labelMalePlural>male fennec foxs</Fox_Fennec.lifeStages.2.labelMalePlural>
+  <Fox_Fennec.lifeStages.2.labelFemale>female fennec fox</Fox_Fennec.lifeStages.2.labelFemale>
+  <Fox_Fennec.lifeStages.2.labelFemalePlural>female fennec foxs</Fox_Fennec.lifeStages.2.labelFemalePlural>
+
+
+  <!-- Fox red -->
+
+  <Fox_Red.label>red fox</Fox_Red.label>
+  <Fox_Red.labelPlural>red foxes</Fox_Red.labelPlural>
+  <Fox_Red.labelMale>male red fox</Fox_Red.labelMale>
+  <Fox_Red.labelMalePlural>male red foxes</Fox_Red.labelMalePlural>
+  <Fox_Red.labelFemale>female red fox</Fox_Red.labelFemale>
+  <Fox_Red.labelFemalePlural>female red foxes</Fox_Red.labelFemalePlural>
+  <Fox_Red.lifeStages.0.label>red fox puppy</Fox_Red.lifeStages.0.label>
+  <Fox_Red.lifeStages.0.labelPlural>red fox puppies</Fox_Red.lifeStages.0.labelPlural>
+  <Fox_Red.lifeStages.0.labelMale>male red fox puppy</Fox_Red.lifeStages.0.labelMale>
+  <Fox_Red.lifeStages.0.labelMalePlural>male red fox puppies</Fox_Red.lifeStages.0.labelMalePlural>
+  <Fox_Red.lifeStages.0.labelFemale>female red fox puppy</Fox_Red.lifeStages.0.labelFemale>
+  <Fox_Red.lifeStages.0.labelFemalePlural>female red fox puppies</Fox_Red.lifeStages.0.labelFemalePlural>
+  <Fox_Red.lifeStages.1.label>red fox</Fox_Red.lifeStages.1.label>
+  <Fox_Red.lifeStages.1.labelPlural>red foxes</Fox_Red.lifeStages.1.labelPlural>
+  <Fox_Red.lifeStages.1.labelMale>male red fox</Fox_Red.lifeStages.1.labelMale>
+  <Fox_Red.lifeStages.1.labelMalePlural>male red foxs</Fox_Red.lifeStages.1.labelMalePlural>
+  <Fox_Red.lifeStages.1.labelFemale>female red fox</Fox_Red.lifeStages.1.labelFemale>
+  <Fox_Red.lifeStages.1.labelFemalePlural>female red foxs</Fox_Red.lifeStages.1.labelFemalePlural>
+  <Fox_Red.lifeStages.2.label>red fox</Fox_Red.lifeStages.2.label>
+  <Fox_Red.lifeStages.2.labelPlural>red foxes</Fox_Red.lifeStages.2.labelPlural>
+  <Fox_Red.lifeStages.2.labelMale>male red fox</Fox_Red.lifeStages.2.labelMale>
+  <Fox_Red.lifeStages.2.labelMalePlural>male red foxs</Fox_Red.lifeStages.2.labelMalePlural>
+  <Fox_Red.lifeStages.2.labelFemale>female red fox</Fox_Red.lifeStages.2.labelFemale>
+  <Fox_Red.lifeStages.2.labelFemalePlural>female red foxs</Fox_Red.lifeStages.2.labelFemalePlural>
+
+
+  <!-- Fox arctic -->
+
+  <Fox_Arctic.label>arctic fox</Fox_Arctic.label>
+  <Fox_Arctic.labelPlural>arctic foxs</Fox_Arctic.labelPlural>
+  <Fox_Arctic.labelMale>male arctic fox</Fox_Arctic.labelMale>
+  <Fox_Arctic.labelMalePlural>male arctic foxs</Fox_Arctic.labelMalePlural>
+  <Fox_Arctic.labelFemale>female arctic fox</Fox_Arctic.labelFemale>
+  <Fox_Arctic.labelFemalePlural>female arctic foxs</Fox_Arctic.labelFemalePlural>
+  <Fox_Arctic.lifeStages.0.label>Arctic fox puppy</Fox_Arctic.lifeStages.0.label>
+  <Fox_Arctic.lifeStages.0.labelPlural>Arctic fox puppys</Fox_Arctic.lifeStages.0.labelPlural>
+  <Fox_Arctic.lifeStages.0.labelMale>male Arctic fox puppy</Fox_Arctic.lifeStages.0.labelMale>
+  <Fox_Arctic.lifeStages.0.labelMalePlural>male Arctic fox puppys</Fox_Arctic.lifeStages.0.labelMalePlural>
+  <Fox_Arctic.lifeStages.0.labelFemale>female Arctic fox puppy</Fox_Arctic.lifeStages.0.labelFemale>
+  <Fox_Arctic.lifeStages.0.labelFemalePlural>female Arctic fox puppys</Fox_Arctic.lifeStages.0.labelFemalePlural>
+  <Fox_Arctic.lifeStages.1.label>arctic fox</Fox_Arctic.lifeStages.1.label>
+  <Fox_Arctic.lifeStages.1.labelPlural>arctic fox</Fox_Arctic.lifeStages.1.labelPlural>
+  <Fox_Arctic.lifeStages.1.labelMale>male arctic fox</Fox_Arctic.lifeStages.1.labelMale>
+  <Fox_Arctic.lifeStages.1.labelMalePlural>male arctic foxs</Fox_Arctic.lifeStages.1.labelMalePlural>
+  <Fox_Arctic.lifeStages.1.labelFemale>female arctic fox</Fox_Arctic.lifeStages.1.labelFemale>
+  <Fox_Arctic.lifeStages.1.labelFemalePlural>female arctic foxs</Fox_Arctic.lifeStages.1.labelFemalePlural>
+  <Fox_Arctic.lifeStages.2.label>arctic fox</Fox_Arctic.lifeStages.2.label>
+  <Fox_Arctic.lifeStages.2.labelPlural>arctic fox</Fox_Arctic.lifeStages.2.labelPlural>
+  <Fox_Arctic.lifeStages.2.labelMale>male arctic fox</Fox_Arctic.lifeStages.2.labelMale>
+  <Fox_Arctic.lifeStages.2.labelMalePlural>male arctic foxs</Fox_Arctic.lifeStages.2.labelMalePlural>
+  <Fox_Arctic.lifeStages.2.labelFemale>female arctic fox</Fox_Arctic.lifeStages.2.labelFemale>
+  <Fox_Arctic.lifeStages.2.labelFemalePlural>female arctic foxs</Fox_Arctic.lifeStages.2.labelFemalePlural>
+
+
+</LanguageData>

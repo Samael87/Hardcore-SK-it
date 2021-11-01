@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
-
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<!-- <CremateCorpse.label>Сжечь труп</CremateCorpse.label>
-	<CremateCorpse.description>Сжечь труп чтобы избавиться от него полностью</CremateCorpse.description>
-	<CremateCorpse.jobString>Сжигает труп.</CremateCorpse.jobString>
-	
-	<BurnApparel.label>Сжечь одежду</BurnApparel.label>
-	<BurnApparel.description>Сжечь одежду чтобы избавиться от неё полностью</BurnApparel.description>
-	<BurnApparel.jobString>Сжигает одежду.</BurnApparel.jobString> -->
-	
-	<BurnThings.label>Сжечь предметы</BurnThings.label>
-	<BurnThings.description>Сжечь предметы чтобы избавиться от них полностью</BurnThings.description>
-	<BurnThings.jobString>Сжигает предметы.</BurnThings.jobString>
+  <CremateCorpse.label>Cremate corpse</CremateCorpse.label>
+  <CremateCorpse.description>Cremate a corpse into ashes. Produces 4.</CremateCorpse.description>
+  <CremateCorpse.jobString>Cremating a corpse.</CremateCorpse.jobString>
 
-	<CremateCorpseCampfire.label>Сжечь труп на костре</CremateCorpseCampfire.label>
-	<CremateCorpseCampfire.description>Сжечь труп чтобы избавиться от него полностью</CremateCorpseCampfire.description>
-	<CremateCorpseCampfire.jobString>Сжигает труп на костре.</CremateCorpseCampfire.jobString>
+  <BurnApparel.label>Burn apparel</BurnApparel.label>
+  <BurnApparel.description>Burn apparel into ashes. Produces 2.</BurnApparel.description>
+  <BurnApparel.jobString>Burning apparel.</BurnApparel.jobString>
 
-	<BurnApparelCampfire.label>Сжечь одежду на костре</BurnApparelCampfire.label>
-	<BurnApparelCampfire.description>Сжечь одежду чтобы избавиться от неё полностью</BurnApparelCampfire.description>
-	<BurnApparelCampfire.jobString>Сжигает одежду на костре.</BurnApparelCampfire.jobString>
-	
-	<BurnThingsCampfire.label>Сжечь предметы на костре</BurnThingsCampfire.label>
-	<BurnThingsCampfire.description>Сжечь предметы чтобы избавиться от них полностью</BurnThingsCampfire.description>
-	<BurnThingsCampfire.jobString>Сжигает предметы на костре.</BurnThingsCampfire.jobString>
+  <BurnThings.label>Burn materials</BurnThings.label>
+  <BurnThings.description>Burn wood, textiles and leathers into ashes. Produces 3.</BurnThings.description>
+  <BurnThings.jobString>Burning materials.</BurnThings.jobString>
+
+  <CremateCorpseCampfire.label>Cremate corpse</CremateCorpseCampfire.label>
+  <CremateCorpseCampfire.description>Cremate a corpse into ashes. Produces 4.</CremateCorpseCampfire.description>
+  <CremateCorpseCampfire.jobString>Cremating a corpse.</CremateCorpseCampfire.jobString>
+
+  <BurnWeapon.label>burn weapon</BurnWeapon.label>
+  <BurnWeapon.description>Burn unwanted weapon to completely destroy it.</BurnWeapon.description>
+  <BurnWeapon.jobString>Burning weapon.</BurnWeapon.jobString>
+
+  <BurnDrugs.label>burn drugs</BurnDrugs.label>
+  <BurnDrugs.description>Burn unwanted drugs to completely destroy them.</BurnDrugs.description>
+  <BurnDrugs.jobString>Burning drugs.</BurnDrugs.jobString>
+
 
 </LanguageData>

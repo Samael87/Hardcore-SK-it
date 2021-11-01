@@ -1,27 +1,40 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<TFJ_Tool_Woodcutting_Handaxe.label>Ручной топор</TFJ_Tool_Woodcutting_Handaxe.label>
-	<TFJ_Tool_Woodcutting_Handaxe.description>Помогает быстрее рубить деревья.</TFJ_Tool_Woodcutting_Handaxe.description>
+  <TFJ_Tool_Woodcutting_Handaxe.label>Handaxe</TFJ_Tool_Woodcutting_Handaxe.label>
+  <TFJ_Tool_Woodcutting_Handaxe.description>A practical wood cutting handaxe. Trees beware! Equipping this boosts plant work speed by 30%.</TFJ_Tool_Woodcutting_Handaxe.description>
+  <TFJ_Tool_Woodcutting_Handaxe.tools.0.label>handle</TFJ_Tool_Woodcutting_Handaxe.tools.0.label>
+  <TFJ_Tool_Woodcutting_Handaxe.tools.1.label>point</TFJ_Tool_Woodcutting_Handaxe.tools.1.label>
+  <TFJ_Tool_Woodcutting_Handaxe.tools.2.label>edge</TFJ_Tool_Woodcutting_Handaxe.tools.2.label>
 
-	<TFJ_Tool_Mining_Pickaxe.label>Кирка</TFJ_Tool_Mining_Pickaxe.label>
-	<TFJ_Tool_Mining_Pickaxe.description>Помогает быстрее проводить горные работы.</TFJ_Tool_Mining_Pickaxe.description>
+  <TFJ_Tool_Mining_Pickaxe.label>Pickaxe</TFJ_Tool_Mining_Pickaxe.label>
+  <TFJ_Tool_Mining_Pickaxe.description>A practical mining pickaxe. We have to go deeper. Equipping this boosts mining work speed by 30%.</TFJ_Tool_Mining_Pickaxe.description>
+  <TFJ_Tool_Mining_Pickaxe.tools.0.label>handle</TFJ_Tool_Mining_Pickaxe.tools.0.label>
+  <TFJ_Tool_Mining_Pickaxe.tools.1.label>head</TFJ_Tool_Mining_Pickaxe.tools.1.label>
 
-	<TFJ_Tool_Building_Hammer.label>Молоток</TFJ_Tool_Building_Hammer.label>
-	<TFJ_Tool_Building_Hammer.description>Помогает быстрее сооружать конструкции.</TFJ_Tool_Building_Hammer.description>
+  <TFJ_Tool_Building_Hammer.label>Hammer</TFJ_Tool_Building_Hammer.label>
+  <TFJ_Tool_Building_Hammer.description>A practical construction hammer. Be careful with your fingers! Equipping this boosts construction work speed by 30%.</TFJ_Tool_Building_Hammer.description>
+  <TFJ_Tool_Building_Hammer.tools.0.label>handle</TFJ_Tool_Building_Hammer.tools.0.label>
+  <TFJ_Tool_Building_Hammer.tools.1.label>head</TFJ_Tool_Building_Hammer.tools.1.label>
 
-	<TFJ_Tool_Sickle.label>Серп</TFJ_Tool_Sickle.label>
-	<TFJ_Tool_Sickle.description>Помогает быстрее собирать урожай.</TFJ_Tool_Sickle.description>
+  <TFJ_Tool_Sickle.label>Sickle</TFJ_Tool_Sickle.label>
+  <TFJ_Tool_Sickle.description>A sharp curved hook, used for gathering plants and harvesting grains.</TFJ_Tool_Sickle.description>
+  <TFJ_Tool_Sickle.tools.0.label>handle</TFJ_Tool_Sickle.tools.0.label>
+  <TFJ_Tool_Sickle.tools.1.label>blade</TFJ_Tool_Sickle.tools.1.label>
 
-	<TFJ_Tool_Hoe.label>Мотыга</TFJ_Tool_Hoe.label>
-	<TFJ_Tool_Hoe.description>Помогает быстрее садить урожай.</TFJ_Tool_Hoe.description>
-	
-	<TFJ_Tool_Broom.label>Метла</TFJ_Tool_Broom.label>
-	<TFJ_Tool_Broom.description>Помогает быстрее убирать мусор, расчищать снег.</TFJ_Tool_Broom.description>
+  <TFJ_Tool_Broom.label>Broom</TFJ_Tool_Broom.label>
+  <TFJ_Tool_Broom.description>A tool for filling in pitted ground with smooth and beautiful fill.</TFJ_Tool_Broom.description>
+  <TFJ_Tool_Broom.tools.0.label>shaft</TFJ_Tool_Broom.tools.0.label>
+  <TFJ_Tool_Broom.tools.1.label>shaft</TFJ_Tool_Broom.tools.1.label>
+  <TFJ_Tool_Broom.tools.2.label>head</TFJ_Tool_Broom.tools.2.label>
 
-	<TFJ_Tool_Multitool.label>Мультитул</TFJ_Tool_Multitool.label>
-	<TFJ_Tool_Multitool.description>Высокотехнологичный набор инструментов, позволяет проводить горные работы, сооружать конструкции, собирать урожай и многое другое.</TFJ_Tool_Multitool.description>
+  <TFJ_Tool_Hoe.label>Hoe</TFJ_Tool_Hoe.label>
+  <TFJ_Tool_Hoe.description>A tool for working the soil of farms.</TFJ_Tool_Hoe.description>
+  <TFJ_Tool_Hoe.tools.0.label>shaft</TFJ_Tool_Hoe.tools.0.label>
+  <TFJ_Tool_Hoe.tools.1.label>point</TFJ_Tool_Hoe.tools.1.label>
 
-	
+  <TFJ_Tool_Multitool.label>Multitool</TFJ_Tool_Multitool.label>
+  <TFJ_Tool_Multitool.description>A high-tech set of tools commonly used by domestic mechanoids in glitterworld societies, though also usable by humanoids due to their physiological similarities.</TFJ_Tool_Multitool.description>
+
+
 </LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeCompost.label>make compost</MakeCompost.label>
+  <MakeCompost.description>Make compost from organic waste (25 meat type and 5 plant/ash).</MakeCompost.description>
+  <MakeCompost.jobString>Making compost.</MakeCompost.jobString>
+
+  <MakeFertilizer.label>make fertilizer</MakeFertilizer.label>
+  <MakeFertilizer.jobString>Making fertilizer.</MakeFertilizer.jobString>
+
+
+</LanguageData>

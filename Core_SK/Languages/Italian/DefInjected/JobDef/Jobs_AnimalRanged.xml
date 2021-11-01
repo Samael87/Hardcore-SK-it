@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AnimalRangeAttack.reportString>атакует TargetA.</AnimalRangeAttack.reportString>
+  <AnimalRangeAttack.reportString>attacking TargetA.</AnimalRangeAttack.reportString>
+
 
 </LanguageData>

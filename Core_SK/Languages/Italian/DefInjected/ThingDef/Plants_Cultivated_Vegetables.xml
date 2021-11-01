@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Plant_Potato.label>Potato Plant</Plant_Potato.label>
+  <Plant_Potato.description>Potato Plants produce nutritious tubers called Potatoes. Potato Plants grow quickly and are a reliable food source crop for basic meals.</Plant_Potato.description>
+
+  <Plant_Corn.label>Corn Plant</Plant_Corn.label>
+  <Plant_Corn.description>Corn Plants are large grain plants that produce ears of delicious yellow seeds that are called Corn. Corn Plants grow slowly but yeild lots of food. Corn is useful as a food ingredient or for making Ethanol Fuel.</Plant_Corn.description>
+
+  <Plant_Rice.label>Rice Plant</Plant_Rice.label>
+  <Plant_Rice.description>Rice Plants are short grain plants that yields numerous amounts of edible seeds called Rice. Rice is useful as a meal ingredient, can be made into Ethanol Fuel or distilled into Sake from the Brewery.</Plant_Rice.description>
+
+  <Plantbean.label>Bean Stalk</Plantbean.label>
+  <Plantbean.description>A Bean Stalk produces a Bean Pod, a soft shell with small, edible seeds inside. They can be used as a meal ingredient or can be refined into BioDiesel Fuel.</Plantbean.description>
+
+  <PlantTomato.label>Tomato Vine</PlantTomato.label>
+  <PlantTomato.description>Tomato Vines produce round, palm sized, red, sharp-tasting fruits called Tomatoes. Tomatoes are related to Potato Plants and grow very quickly.</PlantTomato.description>
+
+  <PlantCarrot.label>Carrot Plant</PlantCarrot.label>
+  <PlantCarrot.description>Carrot Plants produce long, crunchy, orange root vegetables called Carrots. Carrots are refreshing to eat raw and have a long shelf life.</PlantCarrot.description>
+
+  <Plant_Mushroom.label>Champignon Mushroom</Plant_Mushroom.label>
+  <Plant_Mushroom.description>Champignon Mushrooms produce white or brown edible caps called Raw Champignon. This robust mushroom has been genetically engineered and is cultivated to produce a filling meat substitute.</Plant_Mushroom.description>
+
+
+</LanguageData>

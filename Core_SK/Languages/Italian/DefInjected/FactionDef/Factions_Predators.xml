@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Predators.label>Хищники</Predators.label>
-	<Predators.pawnsPlural>"хищники"</Predators.pawnsPlural>
-	<Predators.leaderTitle>шаман</Predators.leaderTitle>
+  <Predators.label>Predators band</Predators.label>
+  <Predators.pawnsPlural>predators band</Predators.pawnsPlural>
+  <Predators.leaderTitle>Shaman</Predators.leaderTitle>
+
 
 </LanguageData>

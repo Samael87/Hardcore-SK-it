@@ -1,146 +1,149 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Wildfire.label>дикий огонь</Wildfire.label>
-	<Wildfire.letterText>Большой лесной пожар вспыхнул неподалеку и теперь распространяется.</Wildfire.letterText>
-	<Wildfire.letterLabel>Дикий огонь</Wildfire.letterLabel>
-	
-	<SandTornado.label>песчаная буря</SandTornado.label>
-	<SandTornado.letterText>Мощные пылевые вихри проложат путь разрушения через область.</SandTornado.letterText>
-	<SandTornado.letterLabel>Песчаная буря</SandTornado.letterLabel>
+  <Wildfire.label>wildfire</Wildfire.label>
+  <Wildfire.letterLabel>Wild fire</Wildfire.letterLabel>
+  <Wildfire.letterText>A large wildfire has broken out nearby and is now spreading to your location.</Wildfire.letterText>
 
-	<IceVortex.label>ледяной вихрь</IceVortex.label>
-	<IceVortex.letterText>Ледяной вихрь приблежается! Мощные ледяные вихри в их области могут вызвать ускоренное замерзание живых существ.</IceVortex.letterText>
-	<IceVortex.letterLabel>Ледяной вихрь</IceVortex.letterLabel>
+  <SandTornado.label>Sandstorm</SandTornado.label>
+  <SandTornado.letterLabel>Sandstorm</SandTornado.letterLabel>
+  <SandTornado.letterText>Sandstorm is coming!\n\nPowerful dust vortices will cut a path of destruction through the area.</SandTornado.letterText>
 
-	<ColdSuperstorm.label>холодный шторм</ColdSuperstorm.label>
-	<ColdSuperstorm.letterText>Огромные тяжелые тучи покрыли вашу территорию, лишая вас солнечного света, и вызывая невероятные температурные феномены на вашей территории, включая тяжелые заморозки, град и угрозу гипотермии. Надевайте шапку!</ColdSuperstorm.letterText>
-	<ColdSuperstorm.letterLabel>Холодный шторм</ColdSuperstorm.letterLabel>
+  <IceVortex.label>Ice vortex</IceVortex.label>
+  <IceVortex.letterLabel>Ice vortex</IceVortex.letterLabel>
+  <IceVortex.letterText>Ice vortex found.\n\nPowerful ice vortices can cause freezing to living creatures.</IceVortex.letterText>
 
-	<Inferno.label>пекло</Inferno.label>
-	<Inferno.letterText>Экстремально мощная тепловая волна проносится по планете, повышая вероятность засух и лесных пожаров. Берегите голову!</Inferno.letterText>
-	<Inferno.letterLabel>Пекло</Inferno.letterLabel>
+  <ColdSuperstorm.label>Cold superstorm</ColdSuperstorm.label>
+  <ColdSuperstorm.letterLabel>Cold superstorm</ColdSuperstorm.letterLabel>
+  <ColdSuperstorm.letterText>Huge heavy clouds covered your territory, depriving you of sunlight, and causing incredible temperature phenomena in your territory, including severe freezing, hail and the threat of hypothermia. Wear a hat!</ColdSuperstorm.letterText>
 
-	<IceAge.label>ледниковый период</IceAge.label>
-	<IceAge.letterText>Атмосферный состав планеты резко изменился, что привело к значительному снижению температуры.
+  <Inferno.label>Inferno</Inferno.label>
+  <Inferno.letterLabel>Inferno</Inferno.letterLabel>
+  <Inferno.letterText>An extremely powerful heat wave travels across the area, increasing the likelihood of droughts and forest fires. Take care of your head!</Inferno.letterText>
 
-Флора и фауна страдают от этих изменений, пока биомы превращаются в более холодные виды.  Ресурсы истощаются, что заставляет поселения развязывать конфликты за ресурсы.
+  <IceAge.label>ice age</IceAge.label>
+  <IceAge.letterLabel>Ice Age</IceAge.letterLabel>
+  <IceAge.letterText>Atmospheric composition of the planet drastically changed resulting in a significant drop in temperature.
 
-Это может продолжаться от нескольких дней до месяцев. (Визуальные изменения появятся только после сохранения / перезагрузки текущего сохранения)</IceAge.letterText>
-	<IceAge.letterLabel>ледниковый период</IceAge.letterLabel>
+Flora and Fauna is suffering from these changes as biomes shift into their colder counterparts. Resources become scarce, forcing factions into conflict.
 
-	<GlobalWarming.label>глобальное потепление</GlobalWarming.label>
-	<GlobalWarming.letterText>Общемировая температура внезапно поднялась до опасного уровня.
+It will last anywhere between a season to several years. (Visual changes will only appear upon saving/reloading the current save)</IceAge.letterText>
 
-Флора и фауна страдают от этих изменений, пока биомы превращаются в более теплые виды. Ресурсы истощаются, что заставляет поселения развязывать конфликты за ресурсы.
+  <GlobalWarming.label>global warming</GlobalWarming.label>
+  <GlobalWarming.letterLabel>Global Warming</GlobalWarming.letterLabel>
+  <GlobalWarming.letterText>Global temperatures have suddenly risen to dangerous levels.
 
-Это может продолжаться от нескольких дней до месяцев. (Визуальные изменения появятся только после сохранения / перезагрузки текущего сохранения)</GlobalWarming.letterText>
-	<GlobalWarming.letterLabel>Глобальное потепление</GlobalWarming.letterLabel>
+Flora and Fauna is suffering from these changes as biomes shift into their warmer counterparts. Resources become scarce, forcing factions into conflict.
 
-	<PsychicRain.label>пси-дождь</PsychicRain.label>
-	<PsychicRain.letterText>Опасная психическая сущность вызывает нарушения на субатомном уровне, резонируя по всем частицам атмосферы.
+It will last anywhere between a season to several years. (Visual changes will only appear upon saving/reloading the current save)</GlobalWarming.letterText>
 
-Начался, казалось бы, бесконечный сверхъестественный дождь, изменяющий саму структуру времени. Любой человек или существо, не находящееся под крышей, будет стареть значительно быстрее.
+  <PsychicRain.label>psychic rain</PsychicRain.label>
+  <PsychicRain.letterLabel>Psychic Rain</PsychicRain.letterLabel>
+  <PsychicRain.letterText>A dangerous psychic entity caused disturbance on subatomic levels, resonating across all particles of the atmosphere.
 
-Это происходит повсеместно и может длиться от нескольких месяцев до нескольких лет.</PsychicRain.letterText>
-	<PsychicRain.letterLabel>Пси-дождь</PsychicRain.letterLabel>
+A seemingly endless supernatural rain has begun, altering the very composition of time. Any person or creature not under the roof will age significantly faster.</PsychicRain.letterText>
 
-	<LongNight.label>длинная ночь</LongNight.label>
-	<LongNight.letterText>Космическая сущность невообразимого размера закрыла местную звезду, что привело к длительному затмению.
+  <LongNight.label>long night</LongNight.label>
+  <LongNight.letterLabel>Long Night</LongNight.letterLabel>
+  <LongNight.letterText>A space entity of unimaginable size has covered a local star, resulting in a long lasting eclipse.
 
-Испуганные этим сверхъестественным явлением, поселения развязывают бесконечные конфликты и войны.
+Terrified of this supernatural phenomenon, other factions will use this time to wage war and conflict across the surface.
 
-Это происходит повсеместно и может длиться от нескольких месяцев до нескольких лет.</LongNight.letterText>
-	<LongNight.letterLabel>Длинная ночь</LongNight.letterLabel>
-
-	<HailStorm.label>град</HailStorm.label>
-	<HailStorm.letterText>Странный град опустошает местность. Любой человек или существо, не спрятавшееся под крышу, рискует получить травму от градин.</HailStorm.letterText>
-	<HailStorm.letterLabel>Град</HailStorm.letterLabel>
-
-	<WandererJoinTraitor.label>пополнение</WandererJoinTraitor.label>
-	<WandererJoinTraitor.letterText>В ваше поселение приходит {PAWN_gender ? новый : новая} {PAWN_kind}. {PAWN_possessive} зовут {PAWN_nameDef}, и {PAWN_pronoun} {PAWN_title}.\n\n{PAWN_nameDef} говорит, что будет с радостью оказывать вам посильную помощь и, кажется, не собирается никуда уходить. Если вы не желаете видеть {PAWN_possessive} в своём поселении, вы можете {PAWN_possessive} изгнать, продать в рабство или просто убить. Хотя другие поселенцы вряд ли будут этим довольны.</WandererJoinTraitor.letterText>
-	<WandererJoinTraitor.letterLabel>пополнение</WandererJoinTraitor.letterLabel>
-
-	<CaravanAnimalsWanderIn.label>караванные животные бродят</CaravanAnimalsWanderIn.label>
-	<CropSprout.label>урожайный год</CropSprout.label>
-	<BattleAnimalsWanderIn.label>боевые животные бродят</BattleAnimalsWanderIn.label>
-
-	<Drought.label>засуха</Drought.label>
-	<Drought.letterText>Началась необычная для этих мест засуха.
-
-Засуха разрушительна для растений и быстро убивает все культуры, не посаженные на гидропонике. Обязательно быстро соберите все растения, какие сможете.</Drought.letterText>
-	<Drought.letterLabel>Засуха</Drought.letterLabel>
-
-	<WildMenWanderIn.label>группа дикарей</WildMenWanderIn.label>
-	<HuntingParty.label>группа охотников</HuntingParty.label>
-
-	<RaidEnemyDummy.label>вражеский рейд ледникового периода</RaidEnemyDummy.label>
-	<ManhunterPackDummy.label>стая охотников на людей</ManhunterPackDummy.label>
-	<AnimalInsanityMassDummy.label>массовое безумие животных</AnimalInsanityMassDummy.label>
+It will last anywhere between a season to several years.</LongNight.letterText>
 
 
-	<MalariaRaid.label>эпидемия малярии</MalariaRaid.label>
-	<MalariaRaid.letterText/>
+  <!-- Regular events -->
 
-	<FleaRaid.label>эпидемия чумы</FleaRaid.label>
-	<FleaRaid.letterLabel>Эпидемия: Чума</FleaRaid.letterLabel>
+  <HailStorm.label>hail storm</HailStorm.label>
+  <HailStorm.letterLabel>Hail Storm</HailStorm.letterLabel>
+  <HailStorm.letterText>A freak, small scale hail storm is ravaging the local area. Any person or creature not hiding under the roof risks getting injured by ice pellets.</HailStorm.letterText>
 
-	<StorytellerFrenzyEvent.label>Ярость рассказчика</StorytellerFrenzyEvent.label>
-	<StorytellerFrenzyEvent.letterLabel>Мы разгневали рассказчика, не следует ждать ничего хорошего.</StorytellerFrenzyEvent.letterLabel>
+  <WandererJoinTraitor.label>wanderer join</WandererJoinTraitor.label>
+  <WandererJoinTraitor.letterLabel>Wanderer joins</WandererJoinTraitor.letterLabel>
+  <WandererJoinTraitor.letterText>A {PAWN_kind} named {PAWN_nameDef} has arrived and is joining the colony. {PAWN_pronoun} is a {PAWN_title}.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing.</WandererJoinTraitor.letterText>
 
-	<SkyFall.label>падение осколков</SkyFall.label>
-	<MoonFall.label>падение луны</MoonFall.label>
-	<HungryCritters.label>голодные твари</HungryCritters.label>
-	<DevourersOfCrops.label>пожиратели посевов</DevourersOfCrops.label>
-	<Swarm.label>рой насекомых</Swarm.label>
-	<ZeonIncoming.label>вторжение Зеона</ZeonIncoming.label>
-	<Accident.label>несчастный случай</Accident.label>
-	<FeenixPasses.label>феникс</FeenixPasses.label> 
+  <CaravanAnimalsWanderIn.label>caravan animals wander in</CaravanAnimalsWanderIn.label>
+  <CropSprout.label>crop sprout</CropSprout.label>
+  <BattleAnimalsWanderIn.label>battle animals wander in</BattleAnimalsWanderIn.label>
 
-	<IcicatPasses.label>кирин</IcicatPasses.label>
-	<IcicatPasses.letterText>Необычное похолодание наступило в вашем поселении. Остерегайтесь переохлаждений и спасайте выращиваемые культуры.</IcicatPasses.letterText>
-	<IcicatPasses.letterLabel>Похолодание</IcicatPasses.letterLabel>
+  <Drought.label>drought</Drought.label>
+  <Drought.letterLabel>Drought</Drought.letterLabel>
+  <Drought.letterText>An unusual drought has set in.
 
-	<RaptorPasses.label>рапторы</RaptorPasses.label> 
-	<TribeMigration.label>кочующее племя</TribeMigration.label>
-	<BoulderMassHit.label>метеоритный дождь</BoulderMassHit.label>
-	<RazorRain.label>стальной дождь</RazorRain.label>
-	<HungryLocusts.label>саранча</HungryLocusts.label>
-	<Plunderers.label>расхитители</Plunderers.label>
-	<Earthquake.label>землетрясение</Earthquake.label>
-	<SeismicActivity.label>сейсмическая активность</SeismicActivity.label>
-	<AnimalGenocide.label>геноцид животных</AnimalGenocide.label>
-	<PrisonSuicide.label>самоубийство пленника</PrisonSuicide.label>
-	<NuclearIncident.label>ядерная авария</NuclearIncident.label>
-	<NuclearFallout.label>радиоактивные осадки</NuclearFallout.label>
-	<CosmicRadiation.label>космическая радиация</CosmicRadiation.label>
-	<AccidentalExplosion.label>взрыв</AccidentalExplosion.label>
-	<ColonistStash.label>заначка поселенца</ColonistStash.label>
-	<EclipseFeral.label>затмение</EclipseFeral.label>
-	<EclipseMeteorImpact.label>метеоритное затмение</EclipseMeteorImpact.label>
-	<MysteriousTransmission.label>странный сигнал</MysteriousTransmission.label>
-	<MajorRescue.label>спасение</MajorRescue.label>
-	<HiddenResources.label>спрятанные ресурсы</HiddenResources.label>
-	<OrassianFound.label>нашли фелидэ</OrassianFound.label>
-	<Thanksgiving.label>день благодарения</Thanksgiving.label>
+Drought is devastating for plant life and will quickly destroy all the crops not planted in the hydroponics. Be sure to quickly harvest any plants you can.</Drought.letterText>
 
-	<TraitChange.label>изменение трейта</TraitChange.label>
-	<TraitRemove.label>убрать трейт</TraitRemove.label>
+  <WildMenGroupWanderIn.label>wild men group wander in</WildMenGroupWanderIn.label>
+  <HuntingParty.label>hunting party</HuntingParty.label>
 
-	<EnemyShip.label>Вражеский десант</EnemyShip.label>
-	<EnemyShip.letterLabel>Вражеский десант</EnemyShip.letterLabel>
-	<EnemyShip.letterText>Вражеская фракция решила высадить диверсионную группу недалеко от нас.</EnemyShip.letterText>
+  <ToxicWeather.label>toxic weather</ToxicWeather.label>
+  <ToxicWeather.letterLabel>Toxic weather</ToxicWeather.letterLabel>
 
-	<PortalRaid.label>Вражеский портал</PortalRaid.label>
-	<PortalRaid.letterLabel>Вражеский портал</PortalRaid.letterLabel>
-	<PortalRaid.letterText>Высокотехнологичная вражеская фракция открыла портал прямо недалеко от нас!</PortalRaid.letterText>
+  <MalariaRaid.label>malaria epidemic</MalariaRaid.label>
+  <MalariaRaid.letterText></MalariaRaid.letterText>
 
-	<PowerBeamStrikeIncident.label>орбитальный ионный удар</PowerBeamStrikeIncident.label>
-	<PowerBeamStrikeIncident.letterLabel>Орбитальный ионный удар</PowerBeamStrikeIncident.letterLabel>
-	<PowerBeamStrikeIncident.letterText>Похоже удача отвернулась от нас, вражеская фракция решила применить против вас орбитальный спутник оснащенный ионным оружием.</PowerBeamStrikeIncident.letterText>
+  <FleaRaid.label>plague epidemic</FleaRaid.label>
+  <FleaRaid.letterLabel>Epidemic: Plague</FleaRaid.letterLabel>
 
-	<BombardmentIncident.label>бомбардировка</BombardmentIncident.label>
-	<BombardmentIncident.letterLabel>Бомбардировка</BombardmentIncident.letterLabel>
-	<BombardmentIncident.letterText>Вражеская фракция сильно недовольна вами и запланировала нанести по вам орбитальный удар.</BombardmentIncident.letterText>
+  <StorytellerFrenzyEvent.label>storyteller frenzy</StorytellerFrenzyEvent.label>
+  <StorytellerFrenzyEvent.letterText></StorytellerFrenzyEvent.letterText>
+
+  <GeoStorm.label>GeoStorm</GeoStorm.label>
+  <SkyFall.label>skyfall</SkyFall.label>
+  <MoonFall.label>moonfall</MoonFall.label>
+  <HungryCritters.label>Hungry critters</HungryCritters.label>
+  <DevourersOfCrops.label>Devourers of crops</DevourersOfCrops.label>
+  <Swarm.label>Swarm</Swarm.label>
+  <ZeonIncoming.label>Zeon incoming</ZeonIncoming.label>
+  <Accident.label>Accident</Accident.label>
+  <FeenixPasses.label>fenix passes</FeenixPasses.label>
+
+  <IcicatPasses.label>Kirin passes</IcicatPasses.label>
+  <IcicatPasses.letterLabel>Cold Snap</IcicatPasses.letterLabel>
+  <IcicatPasses.letterText>An unusual cold snap has set in. Watch out for hypothermia and dying crops.</IcicatPasses.letterText>
+
+  <RaptorPasses.label>raptor passes</RaptorPasses.label>
+  <TribeMigration.label>tribe migration</TribeMigration.label>
+  <BoulderMassHit.label>boulder masshit</BoulderMassHit.label>
+  <RazorRain.label>razor rain</RazorRain.label>
+  <HungryLocusts.label>hungry locusts</HungryLocusts.label>
+  <Plunderers.label>plunderers</Plunderers.label>
+  <Earthquake.label>earthquake</Earthquake.label>
+  <SeismicActivity.label>Seismic activity</SeismicActivity.label>
+  <AnimalGenocide.label>animal genocide</AnimalGenocide.label>
+  <NuclearIncident.label>nuclear incident</NuclearIncident.label>
+  <NuclearFallout.label>nuclear fallout</NuclearFallout.label>
+  <CosmicRadiation.label>cosmic radiation</CosmicRadiation.label>
+  <AccidentalExplosion.label>accidental explosion</AccidentalExplosion.label>
+  <ColonistStash.label>colonist stash</ColonistStash.label>
+  <EclipseFeral.label>eclipse feral</EclipseFeral.label>
+  <EclipseMeteorImpact.label>eclipse meteor impact</EclipseMeteorImpact.label>
+  <MysteriousTransmission.label>mysterious transmission</MysteriousTransmission.label>
+  <MajorRescue.label>major rescue</MajorRescue.label>
+  <HiddenResources.label>hidden resources</HiddenResources.label>
+  <Thanksgiving.label>thanksgiving</Thanksgiving.label>
+  <OrassianFound.label>orassian found</OrassianFound.label>
+  <TraitChange.label>trait change</TraitChange.label>
+  <TraitRemove.label>trait removed</TraitRemove.label>
+
+  <EnemyShip.label>Enemy ship</EnemyShip.label>
+  <EnemyShip.letterLabel>Enemy ship incoming</EnemyShip.letterLabel>
+  <EnemyShip.letterText>An enemy ship landed near our colony!</EnemyShip.letterText>
+
+  <PortalRaid.label>portal raid</PortalRaid.label>
+  <PortalRaid.letterLabel>Portal Raid</PortalRaid.letterLabel>
+  <PortalRaid.letterText>The enemy faction are not pleased with you, they open up a portal to raid you.</PortalRaid.letterText>
+
+  <BombardmentIncident.label>Bombardment threat</BombardmentIncident.label>
+  <BombardmentIncident.letterLabel>Bombardment</BombardmentIncident.letterLabel>
+  <BombardmentIncident.letterText>The enemy faction are not pleased with you, their warship will shoot at you from orbit.</BombardmentIncident.letterText>
+
+  <Tornado.label>tornado</Tornado.label>
+  <Tornado.letterLabel>Tornado</Tornado.letterLabel>
+  <Tornado.letterText>A tornado has formed!\n\nIt will cut a path of destruction through the area.</Tornado.letterText>
+
+  <PowerBeamStrikeIncident.label>Bombardment</PowerBeamStrikeIncident.label>
+  <PowerBeamStrikeIncident.letterLabel>Beam strike threat</PowerBeamStrikeIncident.letterLabel>
+  <PowerBeamStrikeIncident.letterText>The enemy faction are not pleased with you, their warship will shoot at you from orbit.</PowerBeamStrikeIncident.letterText>
+
 
 </LanguageData>

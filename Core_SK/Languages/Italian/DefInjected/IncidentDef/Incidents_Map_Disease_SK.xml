@@ -1,32 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Disease_CommonCold.label>простуда</Disease_CommonCold.label>
-  <Disease_CommonCold.letterText>У {0} из ваших поселенцев {2}.\n\nУбедитесь, что у вас есть медицинская кровать и врач. Удостоверьтесь, что они получат надлежащее лечение и проводят как можно больше времени в постели.n\nНа симптомы жалуются следующие {1}:\n\n{3}</Disease_CommonCold.letterText>
-  <Disease_CommonCold.letterLabel>простуда</Disease_CommonCold.letterLabel>
+  <Disease_CommonCold.label>common cold</Disease_CommonCold.label>
+  <Disease_CommonCold.letterLabel>Disease: Сommon cold</Disease_CommonCold.letterLabel>
+  <Disease_CommonCold.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_CommonCold.letterText>
 
-  <Disease_strepthroat.label>ангина</Disease_strepthroat.label>
-  <Disease_strepthroat.letterText>У {0} из ваших поселенцев {2}.\n\nУбедитесь, что у вас есть медицинская кровать и врач. Удостоверьтесь, что они получат надлежащее лечение и проводят как можно больше времени в постели.n\nНа симптомы жалуются следующие {1}:\n\n{3}</Disease_strepthroat.letterText>
-  <Disease_strepthroat.letterLabel>ангина</Disease_strepthroat.letterLabel>
+  <Disease_strepthroat.label>strep throat</Disease_strepthroat.label>
+  <Disease_strepthroat.letterLabel>Disease: Strep throat</Disease_strepthroat.letterLabel>
+  <Disease_strepthroat.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_strepthroat.letterText>
 
-  <Disease_earache.label>ушная боль</Disease_earache.label>
-  <Disease_earache.letterText>У {0} из ваших поселенцев {2}.\n\nУбедитесь, что у вас есть медицинская кровать и врач. Удостоверьтесь, что они получат надлежащее лечение и проводят как можно больше времени в постели.n\nНа симптомы жалуются следующие {1}:\n\n{3}</Disease_earache.letterText>
-  <Disease_earache.letterLabel>ушная боль</Disease_earache.letterLabel>
+  <Disease_earache.label>ear ache</Disease_earache.label>
+  <Disease_earache.letterLabel>Disease: Ear ache</Disease_earache.letterLabel>
+  <Disease_earache.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_earache.letterText>
 
-  <Disease_Fever.label>лихорадка</Disease_Fever.label>
-  <Disease_Fever.letterText>У {0} из ваших поселенцев {2}.\n\nУбедитесь, что у вас есть медицинская кровать и врач. Удостоверьтесь, что они получат надлежащее лечение и проводят как можно больше времени в постели.n\nНа симптомы жалуются следующие {1}:\n\n{3}</Disease_Fever.letterText>
-  <Disease_Fever.letterLabel>лихорадка</Disease_Fever.letterLabel>
+  <Disease_Fever.label>fever</Disease_Fever.label>
+  <Disease_Fever.letterLabel>Disease: Fever</Disease_Fever.letterLabel>
+  <Disease_Fever.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_Fever.letterText>
 
-  <Disease_Ebola.label>эбола</Disease_Ebola.label>
-  <Disease_Ebola.letterText>У {0} из ваших поселенцев {2}.\n\nУбедитесь, что у вас есть медицинская кровать и врач. Удостоверьтесь, что они получат надлежащее лечение и проводят как можно больше времени в постели.n\nНа симптомы жалуются следующие {1}:\n\n{3}</Disease_Ebola.letterText>
-  <Disease_Ebola.letterLabel>эбола</Disease_Ebola.letterLabel>
+  <Disease_Ebola.label>ebola</Disease_Ebola.label>
+  <Disease_Ebola.letterLabel>Disease: Ebola</Disease_Ebola.letterLabel>
+  <Disease_Ebola.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_Ebola.letterText>
 
-  <Disease_Measles.label>корь</Disease_Measles.label>
-  <Disease_Measles.letterText>У {0} из ваших поселенцев {2}.\n\nУбедитесь, что у вас есть медицинская кровать и врач. Удостоверьтесь, что они получат надлежащее лечение и проводят как можно больше времени в постели..n\nНа симптомы жалуются следующие {1}:\n\n{3}</Disease_Measles.letterText>
-  <Disease_Measles.letterLabel>корь</Disease_Measles.letterLabel>
+  <Disease_Measles.label>measles</Disease_Measles.label>
+  <Disease_Measles.letterLabel>Disease: Measles</Disease_Measles.letterLabel>
+  <Disease_Measles.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_Measles.letterText>
 
-  <Disease_Pneumonia.label>пневмония</Disease_Pneumonia.label>
-  <Disease_Pneumonia.letterText>У {0} из ваших поселенцев {2}.\n\nУбедитесь, что у вас есть медицинская кровать и врач. Удостоверьтесь, что они получат надлежащее лечение и проводят как можно больше времени в постели..n\nНа симптомы жалуются следующие {1}:\n\n{3}</Disease_Pneumonia.letterText>
-  <Disease_Pneumonia.letterLabel>пневмония</Disease_Pneumonia.letterLabel>
+  <Disease_Pneumonia.label>pneumonia</Disease_Pneumonia.label>
+  <Disease_Pneumonia.letterLabel>Disease: Pneumonia</Disease_Pneumonia.letterLabel>
+  <Disease_Pneumonia.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_Pneumonia.letterText>
+
+  <Disease_Coronavirus.label>SARS</Disease_Coronavirus.label>
+  <Disease_Coronavirus.letterLabel>Disease: SARS</Disease_Coronavirus.letterLabel>
+  <Disease_Coronavirus.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_Coronavirus.letterText>
+
 
 </LanguageData>

@@ -1,46 +1,61 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <NovaRefugee.label>Беглец новы</NovaRefugee.label>
-  <NovaRefugee.labelPlural>Беглецы новы</NovaRefugee.labelPlural>
-  <NovaRefugee.labelMale>Беглец новы</NovaRefugee.labelMale>
-  <NovaRefugee.labelMalePlural>Беглецы новы</NovaRefugee.labelMalePlural>
-  <NovaRefugee.labelFemale>Беглец новыe</NovaRefugee.labelFemale>
-  <NovaRefugee.labelFemalePlural>Беглецы новы</NovaRefugee.labelFemalePlural>
+  <!-- Refugee -->
 
-  <NovaAllianceSoldier.label>Солдат новы</NovaAllianceSoldier.label>
-  <NovaAllianceSoldier.labelPlural>Солдаты новы</NovaAllianceSoldier.labelPlural>
-  <NovaAllianceSoldier.labelMale>Солдат новы</NovaAllianceSoldier.labelMale>
-  <NovaAllianceSoldier.labelMalePlural>Солдаты новы</NovaAllianceSoldier.labelMalePlural>
-  <NovaAllianceSoldier.labelFemale>Солдат новы</NovaAllianceSoldier.labelFemale>
-  <NovaAllianceSoldier.labelFemalePlural>Солдаты новы</NovaAllianceSoldier.labelFemalePlural>
+  <NovaRefugee.label>Nova refugee</NovaRefugee.label>
+  <NovaRefugee.labelPlural>Nova refugees</NovaRefugee.labelPlural>
+  <NovaRefugee.labelMale>male Nova refugee</NovaRefugee.labelMale>
+  <NovaRefugee.labelMalePlural>male Nova refugees</NovaRefugee.labelMalePlural>
+  <NovaRefugee.labelFemale>female Nova refugee</NovaRefugee.labelFemale>
+  <NovaRefugee.labelFemalePlural>female Nova refugees</NovaRefugee.labelFemalePlural>
 
-  <NovaTrader.label>Торговец новы</NovaTrader.label>
-  <NovaTrader.labelPlural>Торговцы новы</NovaTrader.labelPlural>
-  <NovaTrader.labelMale>Торговец новы</NovaTrader.labelMale>
-  <NovaTrader.labelMalePlural>Торговцы новы</NovaTrader.labelMalePlural>
-  <NovaTrader.labelFemale>Торговец новы</NovaTrader.labelFemale>
-  <NovaTrader.labelFemalePlural>Торговцы новы</NovaTrader.labelFemalePlural>
 
-  <NovaAllianceAssault.label>Штурмовик новы</NovaAllianceAssault.label>
-  <NovaAllianceAssault.labelPlural>Штурмовики новы</NovaAllianceAssault.labelPlural>
-  <NovaAllianceAssault.labelMale>Штурмовик новы</NovaAllianceAssault.labelMale>
-  <NovaAllianceAssault.labelMalePlural>Штурмовики новы</NovaAllianceAssault.labelMalePlural>
-  <NovaAllianceAssault.labelFemale>Штурмовик новы</NovaAllianceAssault.labelFemale>
-  <NovaAllianceAssault.labelFemalePlural>Штурмовики новы</NovaAllianceAssault.labelFemalePlural>
+  <!-- Soldier -->
 
-  <NovaAllianceSapper.label>Сапер новы</NovaAllianceSapper.label>
-  <NovaAllianceSapper.labelPlural>Саперы новы</NovaAllianceSapper.labelPlural>
-  <NovaAllianceSapper.labelMale>Сапер новы</NovaAllianceSapper.labelMale>
-  <NovaAllianceSapper.labelMalePlural>Саперы новы</NovaAllianceSapper.labelMalePlural>
-  <NovaAllianceSapper.labelFemale>Сапер новы</NovaAllianceSapper.labelFemale>
-  <NovaAllianceSapper.labelFemalePlural>Саперы новы</NovaAllianceSapper.labelFemalePlural>
+  <NovaAllianceSoldier.label>Nova Corps Soldier</NovaAllianceSoldier.label>
+  <NovaAllianceSoldier.labelPlural>Nova Corps Soldiers</NovaAllianceSoldier.labelPlural>
+  <NovaAllianceSoldier.labelMale>male Nova Corps Soldier</NovaAllianceSoldier.labelMale>
+  <NovaAllianceSoldier.labelMalePlural>male Nova Corps Soldiers</NovaAllianceSoldier.labelMalePlural>
+  <NovaAllianceSoldier.labelFemale>female Nova Corps Soldier</NovaAllianceSoldier.labelFemale>
+  <NovaAllianceSoldier.labelFemalePlural>female Nova Corps Soldiers</NovaAllianceSoldier.labelFemalePlural>
 
-  <NovaCommander.label>Командир новы</NovaCommander.label>
-  <NovaCommander.labelPlural>Командиры новы</NovaCommander.labelPlural>
-  <NovaCommander.labelMale>Командир новы</NovaCommander.labelMale>
-  <NovaCommander.labelMalePlural>Командиры новы</NovaCommander.labelMalePlural>
-  <NovaCommander.labelFemale>Командир новы</NovaCommander.labelFemale>
-  <NovaCommander.labelFemalePlural>Командиры новы</NovaCommander.labelFemalePlural>
+
+  <!-- Trader -->
+
+  <NovaTrader.label>Nova trader</NovaTrader.label>
+  <NovaTrader.labelPlural>Nova traders</NovaTrader.labelPlural>
+  <NovaTrader.labelMale>male Nova trader</NovaTrader.labelMale>
+  <NovaTrader.labelMalePlural>male Nova traders</NovaTrader.labelMalePlural>
+  <NovaTrader.labelFemale>female Nova trader</NovaTrader.labelFemale>
+  <NovaTrader.labelFemalePlural>female Nova traders</NovaTrader.labelFemalePlural>
+
+  <NovaAllianceAssault.label>Nova Corps Assault</NovaAllianceAssault.label>
+  <NovaAllianceAssault.labelPlural>Nova Corps Assaults</NovaAllianceAssault.labelPlural>
+  <NovaAllianceAssault.labelMale>male Nova Corps Assault</NovaAllianceAssault.labelMale>
+  <NovaAllianceAssault.labelMalePlural>male Nova Corps Assaults</NovaAllianceAssault.labelMalePlural>
+  <NovaAllianceAssault.labelFemale>female Nova Corps Assault</NovaAllianceAssault.labelFemale>
+  <NovaAllianceAssault.labelFemalePlural>female Nova Corps Assaults</NovaAllianceAssault.labelFemalePlural>
+
+
+  <!-- Sapper -->
+
+  <NovaAllianceSapper.label>Nova Corps Sapper</NovaAllianceSapper.label>
+  <NovaAllianceSapper.labelPlural>Nova Corps Sappers</NovaAllianceSapper.labelPlural>
+  <NovaAllianceSapper.labelMale>male Nova Corps Sapper</NovaAllianceSapper.labelMale>
+  <NovaAllianceSapper.labelMalePlural>male Nova Corps Sappers</NovaAllianceSapper.labelMalePlural>
+  <NovaAllianceSapper.labelFemale>female Nova Corps Sapper</NovaAllianceSapper.labelFemale>
+  <NovaAllianceSapper.labelFemalePlural>female Nova Corps Sappers</NovaAllianceSapper.labelFemalePlural>
+
+
+  <!-- Commander -->
+
+  <NovaCommander.label>Nova commander</NovaCommander.label>
+  <NovaCommander.labelPlural>Nova commanders</NovaCommander.labelPlural>
+  <NovaCommander.labelMale>male Nova commander</NovaCommander.labelMale>
+  <NovaCommander.labelMalePlural>male Nova commanders</NovaCommander.labelMalePlural>
+  <NovaCommander.labelFemale>female Nova commander</NovaCommander.labelFemale>
+  <NovaCommander.labelFemalePlural>female Nova commanders</NovaCommander.labelFemalePlural>
+
 
 </LanguageData>

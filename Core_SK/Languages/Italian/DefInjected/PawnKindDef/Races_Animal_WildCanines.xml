@@ -3,11 +3,55 @@
 
   <!-- WildCanines -->
 
-  <Nightling.label>найтлинг</Nightling.label>
-  <Nightling.labelPlural>найтлинги</Nightling.labelPlural>
-  <Nightling.lifeStages.0.label>детёныш найтлинга</Nightling.lifeStages.0.label>
-  <Nightling.lifeStages.0.labelPlural>детёныши найтлинга</Nightling.lifeStages.0.labelPlural>
-  <Nightling.lifeStages.1.label>молодой найтлинг</Nightling.lifeStages.1.label>
-  <Nightling.lifeStages.1.labelPlural>молодые найтлинги</Nightling.lifeStages.1.labelPlural>
+  <Warg.label>Warg</Warg.label>
+  <Warg.labelPlural>Wargs</Warg.labelPlural>
+  <Warg.labelMale>male Warg</Warg.labelMale>
+  <Warg.labelMalePlural>male Wargs</Warg.labelMalePlural>
+  <Warg.labelFemale>female Warg</Warg.labelFemale>
+  <Warg.labelFemalePlural>female Wargs</Warg.labelFemalePlural>
+  <Warg.lifeStages.0.label>warg puppy</Warg.lifeStages.0.label>
+  <Warg.lifeStages.0.labelPlural>warg puppys</Warg.lifeStages.0.labelPlural>
+  <Warg.lifeStages.0.labelMale>male warg puppy</Warg.lifeStages.0.labelMale>
+  <Warg.lifeStages.0.labelMalePlural>male warg puppys</Warg.lifeStages.0.labelMalePlural>
+  <Warg.lifeStages.0.labelFemale>female warg puppy</Warg.lifeStages.0.labelFemale>
+  <Warg.lifeStages.0.labelFemalePlural>female warg puppys</Warg.lifeStages.0.labelFemalePlural>
+  <Warg.lifeStages.1.label>Warg</Warg.lifeStages.1.label>
+  <Warg.lifeStages.1.labelPlural>Warg</Warg.lifeStages.1.labelPlural>
+  <Warg.lifeStages.1.labelMale>male Warg</Warg.lifeStages.1.labelMale>
+  <Warg.lifeStages.1.labelMalePlural>male Wargs</Warg.lifeStages.1.labelMalePlural>
+  <Warg.lifeStages.1.labelFemale>female Warg</Warg.lifeStages.1.labelFemale>
+  <Warg.lifeStages.1.labelFemalePlural>female Wargs</Warg.lifeStages.1.labelFemalePlural>
+  <Warg.lifeStages.2.label>Warg</Warg.lifeStages.2.label>
+  <Warg.lifeStages.2.labelPlural>Warg</Warg.lifeStages.2.labelPlural>
+  <Warg.lifeStages.2.labelMale>male Warg</Warg.lifeStages.2.labelMale>
+  <Warg.lifeStages.2.labelMalePlural>male Wargs</Warg.lifeStages.2.labelMalePlural>
+  <Warg.lifeStages.2.labelFemale>female Warg</Warg.lifeStages.2.labelFemale>
+  <Warg.lifeStages.2.labelFemalePlural>female Wargs</Warg.lifeStages.2.labelFemalePlural>
+
+  <Nightling.label>Nightling</Nightling.label>
+  <Nightling.labelPlural>Nightlings</Nightling.labelPlural>
+  <Nightling.labelMale>male Nightling</Nightling.labelMale>
+  <Nightling.labelMalePlural>male Nightlings</Nightling.labelMalePlural>
+  <Nightling.labelFemale>female Nightling</Nightling.labelFemale>
+  <Nightling.labelFemalePlural>female Nightlings</Nightling.labelFemalePlural>
+  <Nightling.lifeStages.0.label>Nightling Cup</Nightling.lifeStages.0.label>
+  <Nightling.lifeStages.0.labelPlural>Nightling Cups</Nightling.lifeStages.0.labelPlural>
+  <Nightling.lifeStages.0.labelMale>male Nightling Cup</Nightling.lifeStages.0.labelMale>
+  <Nightling.lifeStages.0.labelMalePlural>male Nightling Cups</Nightling.lifeStages.0.labelMalePlural>
+  <Nightling.lifeStages.0.labelFemale>female Nightling Cup</Nightling.lifeStages.0.labelFemale>
+  <Nightling.lifeStages.0.labelFemalePlural>female Nightling Cups</Nightling.lifeStages.0.labelFemalePlural>
+  <Nightling.lifeStages.1.label>Nightling</Nightling.lifeStages.1.label>
+  <Nightling.lifeStages.1.labelPlural>Nightling</Nightling.lifeStages.1.labelPlural>
+  <Nightling.lifeStages.1.labelMale>male Nightling</Nightling.lifeStages.1.labelMale>
+  <Nightling.lifeStages.1.labelMalePlural>male Nightlings</Nightling.lifeStages.1.labelMalePlural>
+  <Nightling.lifeStages.1.labelFemale>female Nightling</Nightling.lifeStages.1.labelFemale>
+  <Nightling.lifeStages.1.labelFemalePlural>female Nightlings</Nightling.lifeStages.1.labelFemalePlural>
+  <Nightling.lifeStages.2.label>Nightling</Nightling.lifeStages.2.label>
+  <Nightling.lifeStages.2.labelPlural>Nightling</Nightling.lifeStages.2.labelPlural>
+  <Nightling.lifeStages.2.labelMale>male Nightling</Nightling.lifeStages.2.labelMale>
+  <Nightling.lifeStages.2.labelMalePlural>male Nightlings</Nightling.lifeStages.2.labelMalePlural>
+  <Nightling.lifeStages.2.labelFemale>female Nightling</Nightling.lifeStages.2.labelFemale>
+  <Nightling.lifeStages.2.labelFemalePlural>female Nightlings</Nightling.lifeStages.2.labelFemalePlural>
+
 
 </LanguageData>

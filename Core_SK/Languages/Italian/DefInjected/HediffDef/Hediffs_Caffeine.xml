@@ -1,19 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Caffeine.label>кофеин</Caffeine.label>
-	<Caffeine.stages.0.label>бодрость</Caffeine.stages.0.label>
-	<Caffeine.stages.1.label>на волне</Caffeine.stages.1.label>
-	<Caffeine.stages.2.label>затмение</Caffeine.stages.2.label>
-	<Caffeine.labelNoun>кофеин</Caffeine.labelNoun>
+  <Caffeine.label>caffeine</Caffeine.label>
+  <Caffeine.description>An invigorating drink.</Caffeine.description>
+  <Caffeine.labelNoun>a caffeine</Caffeine.labelNoun>
+  <Caffeine.stages.0.label>wired</Caffeine.stages.0.label>
+  <Caffeine.stages.1.label>jacked up</Caffeine.stages.1.label>
+  <Caffeine.stages.2.label>blackout</Caffeine.stages.2.label>
 
-	<CaffeineTolerance.label>привыкание к кофеину</CaffeineTolerance.label>
-	<CaffeineTolerance.stages.0.label>слабое</CaffeineTolerance.stages.0.label>
-	<CaffeineTolerance.stages.1.label>среднее</CaffeineTolerance.stages.1.label>
-	<CaffeineTolerance.stages.2.label>сильное</CaffeineTolerance.stages.2.label>
+  <CaffeineTolerance.label>caffeine tolerance</CaffeineTolerance.label>
+  <CaffeineTolerance.description>A built-up tolerance to caffeine. The more severe this tolerance is, the more caffeine it takes to get the same effect.</CaffeineTolerance.description>
 
-	<CaffeineAddiction.label>зависимость от кофеина</CaffeineAddiction.label>
-	<CaffeineAddiction.stages.1.label>большое желание</CaffeineAddiction.stages.1.label>
-	<CaffeineAddiction.labelNoun>кофеиновая зависимость</CaffeineAddiction.labelNoun>
+  <CaffeineAddiction.label>caffeine addiction</CaffeineAddiction.label>
+  <CaffeineAddiction.labelNoun>a caffeine addiction</CaffeineAddiction.labelNoun>
+  <CaffeineAddiction.description>A chemical addiction to caffeine. Long-term presence of caffeine has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\nWithout regular doses of caffeine, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</CaffeineAddiction.description>
+  <CaffeineAddiction.stages.1.label>withdrawal</CaffeineAddiction.stages.1.label>
+
 
 </LanguageData>

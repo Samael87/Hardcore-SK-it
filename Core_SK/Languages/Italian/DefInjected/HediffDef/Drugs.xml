@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IbuprofenHigh.description>Pain reduced by ibuprofen</IbuprofenHigh.description>
+  <IbuprofenHigh.label>Ibuprofen</IbuprofenHigh.label>
+  <IbuprofenHigh.stages.0.label>feeling better</IbuprofenHigh.stages.0.label>
+
+  <Berserk_herb_high.description>Berserk herb</Berserk_herb_high.description>
+  <Berserk_herb_high.label>Berserk herb</Berserk_herb_high.label>
+  <Berserk_herb_high.stages.0.label>Berserk herb high</Berserk_herb_high.stages.0.label>
+  <Berserk_herb_high.stages.1.label>Berserk dangerous high</Berserk_herb_high.stages.1.label>
+
+
+</LanguageData>

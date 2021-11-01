@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<LivingFrost.label>сердце кирин</LivingFrost.label>
-<LivingFrost.description>Сердце кирин до сих испускает холод. Весьма ценный предмет на рынке из-за своих алхимических и возможных лечебных свойств.</LivingFrost.description>
+  <LivingFrost.label>Living Frost</LivingFrost.label>
+  <LivingFrost.description>The frigid, throbbing heart of a thawed Kirin. It radiates frost and will gradually lower temperatures if kept in a room. It is prized by traders for its supposed medicinal values and uses in alchemy.</LivingFrost.description>
 
-<LivingFire.label>сердце феникса</LivingFire.label>
-<LivingFire.description>Сердце феникса до сих испускает жар. Весьма ценный предмет на рынке из-за своих алхимических и возможных лечебных свойств.</LivingFire.description>
+  <LivingFire.label>Living Fire</LivingFire.label>
+  <LivingFire.description>The scorching, vibrating heart of an extinguished Feenix. It pulses with heat and will gradually raise temperatures if kept in a room. It is prized by traders for its supposed medicinal values and uses in alchemy.</LivingFire.description>
 
- 
+
 </LanguageData>

@@ -1,10 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-	<SkywrathController.label>контроллер гнев неба</SkywrathController.label>
-	<SkywrathController.description>Супермощная платформа по управлению погодой. Устройство способно обрушить гнев неба на ваших противников!</SkywrathController.description>
 
-	<IonSatelliteBroadcaster.label>контроллер ионного спутника</IonSatelliteBroadcaster.label>
-	<IonSatelliteBroadcaster.description>Контроллер для управления ионным спутником механоидов. Устройство предназначено для связи и передачи координат цели.</IonSatelliteBroadcaster.description>
+  <SkywrathController.label>Skywrath controller</SkywrathController.label>
+  <SkywrathController.description>A powerful weather controller device. It is able to unleash the sky's wrath on your ennemies.</SkywrathController.description>
+  <SkywrathController_Blueprint.label>Skywrath controller (blueprint)</SkywrathController_Blueprint.label>
+  <SkywrathController_Frame.label>Skywrath controller (building)</SkywrathController_Frame.label>
+  <SkywrathController_Frame.description>A powerful weather controller device. It is able to unleash the sky's wrath on your ennemies.</SkywrathController_Frame.description>
+
 
 </LanguageData>

@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Brotherhood.label>Братство кровавой луны</Brotherhood.label>
-	<Brotherhood.pawnsPlural>братья кровавой луны</Brotherhood.pawnsPlural>
-	<Brotherhood.leaderTitle>предводитель</Brotherhood.leaderTitle>
+  <Brotherhood.label>Bloodmoon brotherhood</Brotherhood.label>
+  <Brotherhood.pawnsPlural>bloodmoon brotherhood</Brotherhood.pawnsPlural>
+  <Brotherhood.leaderTitle>Chief</Brotherhood.leaderTitle>
+
 
 </LanguageData>

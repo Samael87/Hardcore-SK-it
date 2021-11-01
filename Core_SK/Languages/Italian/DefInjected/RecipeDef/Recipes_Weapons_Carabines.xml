@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BuildGun_BoltActionRifle.label>Build Lee-Enfield</BuildGun_BoltActionRifle.label>
+  <BuildGun_BoltActionRifle.description>Builds an ancient bolt-action rifle. Good range, good power and low rate of fire.\nCaliber: .303 British</BuildGun_BoltActionRifle.description>
+  <BuildGun_BoltActionRifle.jobString>Building Lee-Enfield.</BuildGun_BoltActionRifle.jobString>
+
+  <BuildCXfour.label>Build Beretta CX4</BuildCXfour.label>
+  <BuildCXfour.description>Builds the Beretta CX4, a highly reliable compact carbine. Below average damage, average fire rate, above average range and fires in two round burst.\nCaliber: 9x19mm Para</BuildCXfour.description>
+  <BuildCXfour.jobString>Building Beretta CX4.</BuildCXfour.jobString>
+
+  <BuildUSC.label>Build HK USC</BuildUSC.label>
+  <BuildUSC.description>Builds the HK USC, a stable semi-automatic pistol-calibre carbine with low kickback and an unusual stock design. Average damage, above average fire rate and range that fires three round bursts.\nCaliber: .45 ACP</BuildUSC.description>
+  <BuildUSC.jobString>Building HK USC.</BuildUSC.jobString>
+
+  <BuildM4A1Gun.label>Build M4A1 Carbine</BuildM4A1Gun.label>
+  <BuildM4A1Gun.description>Builds the M4A1 Carbine, a shorter and lighter variant of the M16A2 assault rifle. Average damage and range, good rate of fire and good accurracy.\nCaliber: 5.56x45mm NATO</BuildM4A1Gun.description>
+  <BuildM4A1Gun.jobString>Building M4A1 Carbine.</BuildM4A1Gun.jobString>
+
+
+</LanguageData>

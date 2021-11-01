@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- NOVA -->
+
+  <Alien_Nova.label>Nova</Alien_Nova.label>
+  <Alien_Nova.description>Nova are a human-like race from a planet where the temperature is almost always freezing or below. They are well tolerated to cold temperatures because their bodies are unusually warm. They are much quicker than humans.</Alien_Nova.description>
+  <Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <Alien_Nova.tools.0.label>left fist</Alien_Nova.tools.0.label>
+  <Alien_Nova.tools.1.label>right fist</Alien_Nova.tools.1.label>
+  <Alien_Nova.tools.2.label>teeth</Alien_Nova.tools.2.label>
+  <Alien_Nova.tools.3.label>head</Alien_Nova.tools.3.label>
+
+
+  <!-- DOVA -->
+
+  <Alien_Dova.label>Dova</Alien_Dova.label>
+  <Alien_Dova.description>The Dova. Originating from their Dovian homeworld and a cruel, harsh society which has left its impact even on those on the Rim. Whether sent here as punishment, or as escape and a search for better things, these Dova are here now.</Alien_Dova.description>
+  <Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <Alien_Dova.tools.0.label>left fist</Alien_Dova.tools.0.label>
+  <Alien_Dova.tools.1.label>right fist</Alien_Dova.tools.1.label>
+  <Alien_Dova.tools.2.label>teeth</Alien_Dova.tools.2.label>
+  <Alien_Dova.tools.3.label>head</Alien_Dova.tools.3.label>
+
+
+  <!-- NORBAL -->
+
+  <Norbal.label>norbal</Norbal.label>
+  <Norbal.description>Norbals are baseline, tribal humans that have been hardened by colder climates. They are hairy and strong, but are unable to deal with high temperatures. They lack in technology but make up for it by mastering the basic weapons that they can forge.</Norbal.description>
+  <Norbal.tools.0.label>left fist</Norbal.tools.0.label>
+  <Norbal.tools.1.label>right fist</Norbal.tools.1.label>
+  <Norbal.tools.2.label>teeth</Norbal.tools.2.label>
+  <Norbal.tools.3.label>head</Norbal.tools.3.label>
+
+
+  <!-- ORASSAN -->
+
+  <Alien_Orassan.label>Orassan</Alien_Orassan.label>
+  <Alien_Orassan.description>A baseline orassan, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Orass planets. A humanoid feline race.</Alien_Orassan.description>
+  <Alien_Orassan.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</Alien_Orassan.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Alien_Orassan.tools.0.label>teeth</Alien_Orassan.tools.0.label>
+  <Alien_Orassan.tools.1.label>left fist</Alien_Orassan.tools.1.label>
+  <Alien_Orassan.tools.2.label>right fist</Alien_Orassan.tools.2.label>
+  <Alien_Orassan.tools.3.label>tail</Alien_Orassan.tools.3.label>
+  <Alien_Orassan.tools.4.label>head</Alien_Orassan.tools.4.label>
+
+
+</LanguageData>

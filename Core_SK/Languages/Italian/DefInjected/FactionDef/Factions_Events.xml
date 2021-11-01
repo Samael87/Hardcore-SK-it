@@ -3,10 +3,10 @@
 
   <!-- Special non-humanoid factions -->
 
-	<Abomination.label>Нечто</Abomination.label>
-	<Abomination.description>Нечто - это медленный и неповоротливый кусок плоти. Их уродливые тела могут выкручиваются и изменяться, для того чтобы вылечить у себя даже крупные раны. С изуродованной пасти стекает токсичная желчь. Они будут поедать трупы, чтобы размножаться.</Abomination.description>
-	<Abomination.pawnsPlural>нечто</Abomination.pawnsPlural>
-	<Abomination.fixedName>Нечто</Abomination.fixedName>
+  <Abomination.label>Abomination</Abomination.label>
+  <Abomination.description>Abominations are slow, hulking, relentless manifestations of flesh. Their bodies twist and contort to heal even major wounds quickly. Their mangled maw seeps with toxic bile. They will consume and assimilate, corpse by corpse.</Abomination.description>
+  <Abomination.pawnsPlural>abominations</Abomination.pawnsPlural>
+  <Abomination.fixedName>abomination</Abomination.fixedName>
 
 
 </LanguageData>

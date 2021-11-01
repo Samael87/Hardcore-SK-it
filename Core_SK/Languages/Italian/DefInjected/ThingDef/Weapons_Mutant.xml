@@ -1,7 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Sunderer.label>Сепаратор</Sunderer.label>
-	<Sunderer.description>Огромный топор огров. Если у вас хватит силы, чтобы поднять это оружие, то вам хватит одного взмаха, чтобы опрокинуть противника на землю.</Sunderer.description>
-	
+  <Sunderer.label>Sunder</Sunderer.label>
+  <Sunderer.description>A massive cleaver.</Sunderer.description>
+  <Sunderer.tools.0.label>handle</Sunderer.tools.0.label>
+  <Sunderer.tools.1.label>edge</Sunderer.tools.1.label>
+
+
 </LanguageData>

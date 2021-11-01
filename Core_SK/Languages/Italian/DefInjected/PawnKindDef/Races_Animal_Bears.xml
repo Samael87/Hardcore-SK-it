@@ -1,11 +1,80 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PandaBear.label>панда</PandaBear.label>
-  <PandaBear.labelPlural>панды</PandaBear.labelPlural>
-  <PandaBear.lifeStages.0.label>медвежонок панды</PandaBear.lifeStages.0.label>
-  <PandaBear.lifeStages.0.labelPlural>медвежата панды</PandaBear.lifeStages.0.labelPlural>
-  <PandaBear.lifeStages.1.label>молодая панда</PandaBear.lifeStages.1.label>
-  <PandaBear.lifeStages.1.labelPlural>молодые панды</PandaBear.lifeStages.1.labelPlural>
+  <Bear_Grizzly.label>grizzly bear</Bear_Grizzly.label>
+  <Bear_Grizzly.labelPlural>grizzly bears</Bear_Grizzly.labelPlural>
+  <Bear_Grizzly.labelMale>male grizzly bear</Bear_Grizzly.labelMale>
+  <Bear_Grizzly.labelMalePlural>male grizzly bears</Bear_Grizzly.labelMalePlural>
+  <Bear_Grizzly.labelFemale>female grizzly bear</Bear_Grizzly.labelFemale>
+  <Bear_Grizzly.labelFemalePlural>female grizzly bears</Bear_Grizzly.labelFemalePlural>
+  <Bear_Grizzly.lifeStages.0.label>grizzly bear</Bear_Grizzly.lifeStages.0.label>
+  <Bear_Grizzly.lifeStages.0.labelPlural>grizzly bear</Bear_Grizzly.lifeStages.0.labelPlural>
+  <Bear_Grizzly.lifeStages.0.labelMale>male grizzly bear</Bear_Grizzly.lifeStages.0.labelMale>
+  <Bear_Grizzly.lifeStages.0.labelMalePlural>male grizzly bears</Bear_Grizzly.lifeStages.0.labelMalePlural>
+  <Bear_Grizzly.lifeStages.0.labelFemale>female grizzly bear</Bear_Grizzly.lifeStages.0.labelFemale>
+  <Bear_Grizzly.lifeStages.0.labelFemalePlural>female grizzly bears</Bear_Grizzly.lifeStages.0.labelFemalePlural>
+  <Bear_Grizzly.lifeStages.1.label>grizzly bear</Bear_Grizzly.lifeStages.1.label>
+  <Bear_Grizzly.lifeStages.1.labelPlural>grizzly bear</Bear_Grizzly.lifeStages.1.labelPlural>
+  <Bear_Grizzly.lifeStages.1.labelMale>male grizzly bear</Bear_Grizzly.lifeStages.1.labelMale>
+  <Bear_Grizzly.lifeStages.1.labelMalePlural>male grizzly bears</Bear_Grizzly.lifeStages.1.labelMalePlural>
+  <Bear_Grizzly.lifeStages.1.labelFemale>female grizzly bear</Bear_Grizzly.lifeStages.1.labelFemale>
+  <Bear_Grizzly.lifeStages.1.labelFemalePlural>female grizzly bears</Bear_Grizzly.lifeStages.1.labelFemalePlural>
+  <Bear_Grizzly.lifeStages.2.label>grizzly bear</Bear_Grizzly.lifeStages.2.label>
+  <Bear_Grizzly.lifeStages.2.labelPlural>grizzly bear</Bear_Grizzly.lifeStages.2.labelPlural>
+  <Bear_Grizzly.lifeStages.2.labelMale>male grizzly bear</Bear_Grizzly.lifeStages.2.labelMale>
+  <Bear_Grizzly.lifeStages.2.labelMalePlural>male grizzly bears</Bear_Grizzly.lifeStages.2.labelMalePlural>
+  <Bear_Grizzly.lifeStages.2.labelFemale>female grizzly bear</Bear_Grizzly.lifeStages.2.labelFemale>
+  <Bear_Grizzly.lifeStages.2.labelFemalePlural>female grizzly bears</Bear_Grizzly.lifeStages.2.labelFemalePlural>
+
+  <Bear_Polar.label>polar bear</Bear_Polar.label>
+  <Bear_Polar.labelPlural>polar bears</Bear_Polar.labelPlural>
+  <Bear_Polar.labelMale>male polar bear</Bear_Polar.labelMale>
+  <Bear_Polar.labelMalePlural>male polar bears</Bear_Polar.labelMalePlural>
+  <Bear_Polar.labelFemale>female polar bear</Bear_Polar.labelFemale>
+  <Bear_Polar.labelFemalePlural>female polar bears</Bear_Polar.labelFemalePlural>
+  <Bear_Polar.lifeStages.0.label>polar bear</Bear_Polar.lifeStages.0.label>
+  <Bear_Polar.lifeStages.0.labelPlural>polar bear</Bear_Polar.lifeStages.0.labelPlural>
+  <Bear_Polar.lifeStages.0.labelMale>male polar bear</Bear_Polar.lifeStages.0.labelMale>
+  <Bear_Polar.lifeStages.0.labelMalePlural>male polar bears</Bear_Polar.lifeStages.0.labelMalePlural>
+  <Bear_Polar.lifeStages.0.labelFemale>female polar bear</Bear_Polar.lifeStages.0.labelFemale>
+  <Bear_Polar.lifeStages.0.labelFemalePlural>female polar bears</Bear_Polar.lifeStages.0.labelFemalePlural>
+  <Bear_Polar.lifeStages.1.label>polar bear</Bear_Polar.lifeStages.1.label>
+  <Bear_Polar.lifeStages.1.labelPlural>polar bear</Bear_Polar.lifeStages.1.labelPlural>
+  <Bear_Polar.lifeStages.1.labelMale>male polar bear</Bear_Polar.lifeStages.1.labelMale>
+  <Bear_Polar.lifeStages.1.labelMalePlural>male polar bears</Bear_Polar.lifeStages.1.labelMalePlural>
+  <Bear_Polar.lifeStages.1.labelFemale>female polar bear</Bear_Polar.lifeStages.1.labelFemale>
+  <Bear_Polar.lifeStages.1.labelFemalePlural>female polar bears</Bear_Polar.lifeStages.1.labelFemalePlural>
+  <Bear_Polar.lifeStages.2.label>polar bear</Bear_Polar.lifeStages.2.label>
+  <Bear_Polar.lifeStages.2.labelPlural>polar bear</Bear_Polar.lifeStages.2.labelPlural>
+  <Bear_Polar.lifeStages.2.labelMale>male polar bear</Bear_Polar.lifeStages.2.labelMale>
+  <Bear_Polar.lifeStages.2.labelMalePlural>male polar bears</Bear_Polar.lifeStages.2.labelMalePlural>
+  <Bear_Polar.lifeStages.2.labelFemale>female polar bear</Bear_Polar.lifeStages.2.labelFemale>
+  <Bear_Polar.lifeStages.2.labelFemalePlural>female polar bears</Bear_Polar.lifeStages.2.labelFemalePlural>
+
+  <PandaBear.label>panda</PandaBear.label>
+  <PandaBear.labelPlural>pandas</PandaBear.labelPlural>
+  <PandaBear.labelMale>male panda</PandaBear.labelMale>
+  <PandaBear.labelMalePlural>male pandas</PandaBear.labelMalePlural>
+  <PandaBear.labelFemale>female panda</PandaBear.labelFemale>
+  <PandaBear.labelFemalePlural>female pandas</PandaBear.labelFemalePlural>
+  <PandaBear.lifeStages.0.label>panda</PandaBear.lifeStages.0.label>
+  <PandaBear.lifeStages.0.labelPlural>panda</PandaBear.lifeStages.0.labelPlural>
+  <PandaBear.lifeStages.0.labelMale>male panda</PandaBear.lifeStages.0.labelMale>
+  <PandaBear.lifeStages.0.labelMalePlural>male pandas</PandaBear.lifeStages.0.labelMalePlural>
+  <PandaBear.lifeStages.0.labelFemale>female panda</PandaBear.lifeStages.0.labelFemale>
+  <PandaBear.lifeStages.0.labelFemalePlural>female pandas</PandaBear.lifeStages.0.labelFemalePlural>
+  <PandaBear.lifeStages.1.label>panda</PandaBear.lifeStages.1.label>
+  <PandaBear.lifeStages.1.labelPlural>panda</PandaBear.lifeStages.1.labelPlural>
+  <PandaBear.lifeStages.1.labelMale>male panda</PandaBear.lifeStages.1.labelMale>
+  <PandaBear.lifeStages.1.labelMalePlural>male pandas</PandaBear.lifeStages.1.labelMalePlural>
+  <PandaBear.lifeStages.1.labelFemale>female panda</PandaBear.lifeStages.1.labelFemale>
+  <PandaBear.lifeStages.1.labelFemalePlural>female pandas</PandaBear.lifeStages.1.labelFemalePlural>
+  <PandaBear.lifeStages.2.label>panda</PandaBear.lifeStages.2.label>
+  <PandaBear.lifeStages.2.labelPlural>panda</PandaBear.lifeStages.2.labelPlural>
+  <PandaBear.lifeStages.2.labelMale>male panda</PandaBear.lifeStages.2.labelMale>
+  <PandaBear.lifeStages.2.labelMalePlural>male pandas</PandaBear.lifeStages.2.labelMalePlural>
+  <PandaBear.lifeStages.2.labelFemale>female panda</PandaBear.lifeStages.2.labelFemale>
+  <PandaBear.lifeStages.2.labelFemalePlural>female pandas</PandaBear.lifeStages.2.labelFemalePlural>
+
 
 </LanguageData>

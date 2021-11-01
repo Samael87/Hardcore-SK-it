@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <MakeBlocksSandstone.label>Изготовить песчаные блоки</MakeBlocksSandstone.label>
-    <MakeBlocksSandstone.description>Изготовить песчаные блоки из песка.</MakeBlocksSandstone.description>
-    <MakeBlocksSandstone.jobString>Изготавливает песчаные блоки.</MakeBlocksSandstone.jobString>
-  
+  <MakeBlocksSandstone.label>Bake sandstone blocks </MakeBlocksSandstone.label>
+  <MakeBlocksSandstone.description>Bake sandstone blocks from sand. Produces 5.</MakeBlocksSandstone.description>
+  <MakeBlocksSandstone.jobString>Baking sandstone blocks.</MakeBlocksSandstone.jobString>
+
+
 </LanguageData>

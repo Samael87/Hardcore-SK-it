@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QuarryMining.label>Quarry</QuarryMining.label>
+  <QuarryMining.labelShort>Quarry</QuarryMining.labelShort>
+  <QuarryMining.pawnLabel>Miner</QuarryMining.pawnLabel>
+  <QuarryMining.gerundLabel>mining</QuarryMining.gerundLabel>
+  <QuarryMining.description>Collecting resources, digging and drilling in a quarry.</QuarryMining.description>
+  <QuarryMining.verb>Mine</QuarryMining.verb>
+
+
+</LanguageData>

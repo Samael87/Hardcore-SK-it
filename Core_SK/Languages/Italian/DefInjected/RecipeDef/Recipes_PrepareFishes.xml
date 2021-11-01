@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Campfire meal -->
+
+  <GrillFishCampfire.label>grill fish</GrillFishCampfire.label>
+  <GrillFishCampfire.description>Grills a fish so it can be eaten. Tasty and crunchy!</GrillFishCampfire.description>
+  <GrillFishCampfire.jobString>Grilling fish.</GrillFishCampfire.jobString>
+
+  <GrillFishCampfireBulk.label>grill fish x4</GrillFishCampfireBulk.label>
+  <GrillFishCampfireBulk.description>Grills a fish so it can be eaten. Tasty and crunchy!</GrillFishCampfireBulk.description>
+  <GrillFishCampfireBulk.jobString>Grilling fish.</GrillFishCampfireBulk.jobString>
+
+
+</LanguageData>

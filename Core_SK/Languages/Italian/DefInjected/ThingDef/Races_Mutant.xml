@@ -1,15 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Mutant_Ogre.label>Огр</Mutant_Ogre.label>
-	<Mutant_Ogre.description>Безобразный и злобный великан-людоед. У них очень внушительный рост, доходящий в высоту до 10 метров. Их выдающееся качество, это невероятная сила. Они часто носят тяжелейшие дубины или топоры на охоту или в качестве оружия, их нельзя недооценивать и в безоружном бою. Из костей своих жертв они изготовляют трофеи и талисманы, которыми они украшают как своё жильё, так и самих себя. Правда, они, кажется, не одарены особым интеллектом. В большинстве случаев им даже не приписывается цивилизованный язык. Их коммуникация ограничивается самыми необходимыми и жизненно-важными аспектами, и совершается, в большинстве, дикими жестами и выкриками.</Mutant_Ogre.description>
-	<Corpse_Mutant_Ogre.label>труп огра</Corpse_Mutant_Ogre.label>
-	<Corpse_Mutant_Ogre.description>Труп огра.</Corpse_Mutant_Ogre.description>
-	
-	
-	<Mech_Zeon.label>Зеон</Mech_Zeon.label>
-	<Mech_Zeon.description>Безобразный и злобный босс механоидов. У него очень внушительный размер, доходящий в высоту до 15 метров Крайне опасен!</Mech_Zeon.description>
-	<Corpse_Mech_Zeon.label>Останки зеона</Corpse_Mech_Zeon.label>
-	<Corpse_Mech_Zeon.description>Остатки босса механоидов.</Corpse_Mech_Zeon.description>
+  <Mutant_Ogre.label>Mutant</Mutant_Ogre.label>
+  <Mutant_Ogre.description>Originally designed for construction and heavy industry, the Ogron™ is a large, tough, thickheaded xenohuman. In rimworld condition, Many feral clans use them as brutal war beasts.</Mutant_Ogre.description>
+  <Mutant_Ogre.tools.0.label>left fist</Mutant_Ogre.tools.0.label>
+  <Mutant_Ogre.tools.1.label>right fist</Mutant_Ogre.tools.1.label>
+  <Mutant_Ogre.tools.2.label>head</Mutant_Ogre.tools.2.label>
+  <Mutant_Ogre_Leather.label>Mutant leather</Mutant_Ogre_Leather.label>
+  <Mutant_Ogre_Leather.description>Mutant leather</Mutant_Ogre_Leather.description>
+  <Mutant_Ogre_Leather.stuffProps.stuffAdjective>Mutant leather</Mutant_Ogre_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Human -->
+  <Mutant_Ogre_Corpse.label>Mutant corpse</Mutant_Ogre_Corpse.label>
+  <Mutant_Ogre_Corpse.description>Mutant corpse</Mutant_Ogre_Corpse.description>
+
 
 </LanguageData>

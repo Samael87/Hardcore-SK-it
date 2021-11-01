@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SilverTile.label>silver tile</SilverTile.label>
+  <SilverTile.description>Expensive and slow to build. Soft grey tiles with a grey bordering. 
+Beauty: 8.</SilverTile.description>
+
+  <SterileTile.label>sterile tile</SterileTile.label>
+  <SterileTile.description>Sterile tiles are clean, light grey squares. Very useful in hospitals to help prevent infections. Quite slow to build. 
+Beauty: 0.</SterileTile.description>
+
+  <TinTile.label>white tin tile</TinTile.label>
+  <TinTile.description>White tin square tiles. 
+Beauty: 3.</TinTile.description>
+
+  <CopperTile.label>simple copper tile</CopperTile.label>
+  <CopperTile.description>Simple copper square tiles. 
+Beauty: 3.</CopperTile.description>
+
+  <MetalTile.label>grey metal tile</MetalTile.label>
+  <MetalTile.description>Grey metal square tiles, for that spaceship look. 
+Beauty: 4.</MetalTile.description>
+
+  <MetalTileTwo.label>black metal tile</MetalTileTwo.label>
+  <MetalTileTwo.description>Black metal square tiles, for that spaceship look. 
+Beauty: 4.</MetalTileTwo.description>
+
+  <MetalTileThree.label>grey metal tile</MetalTileThree.label>
+  <MetalTileThree.description>Square grey metal tiles with thin borders. 
+Beauty: 4.</MetalTileThree.description>
+
+  <MetalTileFour.label>patterned metal tile</MetalTileFour.label>
+  <MetalTileFour.description>Grey metal tiles with fancy patterns. 
+Beauty: 4.</MetalTileFour.description>
+
+
+  <!-- Gold Tile -->
+
+  <GoldTile.label>gold tile</GoldTile.label>
+  <GoldTile.description>Gold tiles, because you're worth it. 
+Beauty: 5.</GoldTile.description>
+
+  <GoldSolid.label>solid gold</GoldSolid.label>
+  <GoldSolid.description>Solid gold, because you're wasteful.
+Beauty: 10.</GoldSolid.description>
+
+  <PlateCopperBar.label>Copper plates</PlateCopperBar.label>
+  <PlateCopperBar.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateCopperBar.description>
+
+  <PlateSilver.label>Silver plated plates</PlateSilver.label>
+  <PlateSilver.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateSilver.description>
+
+  <PlateGold.label>Gold plated plates</PlateGold.label>
+  <PlateGold.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateGold.description>
+
+  <PlateSteel.label>Steel plates</PlateSteel.label>
+  <PlateSteel.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateSteel.description>
+
+  <PlateCupronickelAlloy.label>Melchior plates</PlateCupronickelAlloy.label>
+  <PlateCupronickelAlloy.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateCupronickelAlloy.description>
+
+  <PlateCeramics.label>Ceramics plates</PlateCeramics.label>
+  <PlateCeramics.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateCeramics.description>
+
+
+</LanguageData>

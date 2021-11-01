@@ -1,40 +1,74 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-        <Makeyeast.label>Получить дрожжи</Makeyeast.label>
-        <Makeyeast.description>Извлечь дрожжи из распространенных грибов. Производит 15.</Makeyeast.description>
-        <Makeyeast.jobString>Получение дрожжей.</Makeyeast.jobString>
+  <!-- Yeast -->
 
-        <Makegrainmash.label>Сварить основу виски</Makegrainmash.label>
-        <Makegrainmash.description>Варить основу для виски из зерна. Производит 10.</Makegrainmash.description>
-        <Makegrainmash.jobString>Варит основу для виски.</Makegrainmash.jobString>
+  <Makeyeast.label>Extract yeast</Makeyeast.label>
+  <Makeyeast.description>Extracts yeast from common fungi. Produces 15.</Makeyeast.description>
+  <Makeyeast.jobString>Extracting yeast.</Makeyeast.jobString>
 
-        <Makesakemash.label>Сварить основу саке</Makesakemash.label>
-        <Makesakemash.description>Варить основу для саке из риса. Производит 10.</Makesakemash.description>
-        <Makesakemash.jobString>Варит основу для саке.</Makesakemash.jobString>
 
-        <Makerummash.label>Сварить основу рома</Makerummash.label>
-        <Makerummash.description>Варить основу для рома из сахарного тростника. Производит 10.</Makerummash.description>
-        <Makerummash.jobString>Варит основу для рома.</Makerummash.jobString>
+  <!-- Wort -->
 
-        <Makecidermash.label>Сварить основу сидра</Makecidermash.label>
-        <Makecidermash.description>Варить основу для сидра из яблок. Производит 10.</Makecidermash.description>
-        <Makecidermash.jobString>Варит основу для сидра.</Makecidermash.jobString>
+  <Make_Wort.label>Brew wort</Make_Wort.label>
+  <Make_Wort.description>Brew a batch of wort from hops. Produces 10.</Make_Wort.description>
+  <Make_Wort.jobString>Brewing batch of wort.</Make_Wort.jobString>
 
-        <Makeberrymash.label>Сварить основу столового вина</Makeberrymash.label>
-        <Makeberrymash.description>Варить основу для столового вина из ягод. Производит 10.</Makeberrymash.description>
-        <Makeberrymash.jobString>Варит основу столового вина.</Makeberrymash.jobString>
 
-        <Makevodkamash.label>Сварить основу водки</Makevodkamash.label>
-        <Makevodkamash.description>Варить основу для водки из картошки. Производит 10.</Makevodkamash.description>
-        <Makevodkamash.jobString>Варит основу для водки.</Makevodkamash.jobString>
+  <!-- Grain Mash -->
 
-        <Maketequilamash.label>Сварить основу текилы</Maketequilamash.label>
-        <Maketequilamash.description>Варить основу для текилы из агавы. Производит 10.</Maketequilamash.description>
-        <Maketequilamash.jobString>Варит основу для текилы.</Maketequilamash.jobString>
+  <Makegrainmash.label>Brew grain mash</Makegrainmash.label>
+  <Makegrainmash.description>Brew a batch of grain mash from wheat. Produces 10.</Makegrainmash.description>
+  <Makegrainmash.jobString>Brewing batch of grain mash.</Makegrainmash.jobString>
 
-        <Makewinemash.label>Сварить основу вина</Makewinemash.label>
-        <Makewinemash.description>Варить основу для вина из винограда. Производит 10.</Makewinemash.description>
-        <Makewinemash.jobString>Варит основу для вина.</Makewinemash.jobString>
+
+  <!-- Saké Mash -->
+
+  <Makesakemash.label>Brew saké mash</Makesakemash.label>
+  <Makesakemash.description>Brew a batch of saké mash from rice. Produces 10.</Makesakemash.description>
+  <Makesakemash.jobString>Brewing batch of saké mash.</Makesakemash.jobString>
+
+
+  <!-- Rum Mash -->
+
+  <Makerummash.label>Brew rum mash</Makerummash.label>
+  <Makerummash.description>Brew a batch of rum mash from sugar cane. Produces 10.</Makerummash.description>
+  <Makerummash.jobString>Brewing batch of rum mash.</Makerummash.jobString>
+
+
+  <!-- Cider Mash -->
+
+  <Makecidermash.label>Brew cider mash</Makecidermash.label>
+  <Makecidermash.description>Brew a batch of cider mash from apples. Produces 10.</Makecidermash.description>
+  <Makecidermash.jobString>Brewing batch of cider mash.</Makecidermash.jobString>
+
+
+  <!-- Berry Mash -->
+
+  <Makeberrymash.label>Brew berry mash</Makeberrymash.label>
+  <Makeberrymash.description>Brew a batch of berry mash from berries. Produces 10.</Makeberrymash.description>
+  <Makeberrymash.jobString>Brewing batch of berry mash.</Makeberrymash.jobString>
+
+
+  <!-- Vodka Mash -->
+
+  <Makevodkamash.label>Brew vodka mash</Makevodkamash.label>
+  <Makevodkamash.description>Brew a batch of vodka mash from potatoes. Produces 10.</Makevodkamash.description>
+  <Makevodkamash.jobString>Brewing batch of vodka mash.</Makevodkamash.jobString>
+
+
+  <!-- Tequila Mash -->
+
+  <Maketequilamash.label>Brew tequila mash</Maketequilamash.label>
+  <Maketequilamash.description>Brew a batch of tequila mash from blue agave. Produces 10.</Maketequilamash.description>
+  <Maketequilamash.jobString>Brewing batch of tequila mash.</Maketequilamash.jobString>
+
+
+  <!-- Wine Mash -->
+
+  <Makewinemash.label>Brew wine wash</Makewinemash.label>
+  <Makewinemash.description>Brew a batch of wine mash from grapes. Produces 10.</Makewinemash.description>
+  <Makewinemash.jobString>Brewing batch of wine mash.</Makewinemash.jobString>
+
 
 </LanguageData>

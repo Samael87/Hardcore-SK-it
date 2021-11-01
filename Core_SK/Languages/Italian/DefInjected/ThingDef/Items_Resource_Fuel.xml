@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Tallow.label>tallow</Tallow.label>
+  <Tallow.description>Pure non-edible fat that can be used to fuel simple buildings that don't require high burning temperature.</Tallow.description>
+  <Tallow.stuffProps.stuffAdjective>fuel</Tallow.stuffProps.stuffAdjective>
+
+  <Chemfuel.label>chemfuel</Chemfuel.label>
+  <Chemfuel.description>A volatile liquid chemical. Used to fuel engines and rockets, or to transmute into propellant for projectiles, or as an incendiary weapon.</Chemfuel.description>
+  <Chemfuel.stuffProps.stuffAdjective>fuel</Chemfuel.stuffProps.stuffAdjective>
+
+
+  <!-- <ThingDef ParentName="SK_ResourceBase">
+		<defName>BioDiesel</defName>
+		<label>BioDiesel Fuel</label>
+		<description>A can of BioDiesel Fuel produced from Bean Pods at a BioRefinery. It can be used to fuel the BioGenerator. Also can be used to fuel rockets and other machines.</description>
+		<graphicData>
+			<texPath>Things/Item/Resource/BioDiesel</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<soundInteract>Metal_Drop</soundInteract>
+		<soundDrop>Metal_Drop</soundDrop>
+		<techLevel>Industrial</techLevel>
+		<statBases>
+			<MaxHitPoints>5</MaxHitPoints>
+			<MarketValue>10</MarketValue>
+			<DeteriorationRate>0.01</DeteriorationRate>
+			<Flammability>6</Flammability>
+			<MaxBurningTempCelsius>1400</MaxBurningTempCelsius>
+			<BurnDurationHours>0.5</BurnDurationHours>
+			<Mass>0.08</Mass>
+			<Bulk>0.1</Bulk>
+		</statBases>
+		<tickerType>Normal</tickerType>
+		<comps>
+			<li Class="CompProperties_Explosive">
+				<explosiveRadius>1.1</explosiveRadius>
+				<explosiveDamageType>Flame</explosiveDamageType>
+				<explosiveExpandPerStackcount>0.12</explosiveExpandPerStackcount>
+				<startWickOnDamageTaken>
+					<li>Flame</li>
+				</startWickOnDamageTaken>
+				<startWickHitPointsPercent>0.333</startWickHitPointsPercent>
+				<preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef>
+				<preExplosionSpawnChance>1</preExplosionSpawnChance>
+				<wickTicks>30~70</wickTicks>
+			</li>
+		</comps>
+		<stackLimit>300</stackLimit>
+		<thingCategories>
+			<li>FuelCat</li>
+		</thingCategories>
+		<tradeTags>
+			<li>Exotic</li>
+		</tradeTags>
+	</ThingDef> -->
+
+  <Powder.label>Gunpowder</Powder.label>
+  <Powder.description>Gunpowder, also known as black powder, is the earliest known chemical explosive. It is a mixture of Sulfur, Coal Ore and Nitre. The Sulfur and Coal Ore act as fuels, and the Nitre is an oxidizer.</Powder.description>
+
+  <Napalm.label>Napalm</Napalm.label>
+  <Napalm.description>Napalm is flammable liquid used in warfare. It is a mixture of a gelling agent and petroleum or a similar fuel.</Napalm.description>
+
+
+  <!-- Explosives from CR -->
+
+  <Prometheum.label>Prometheum</Prometheum.label>
+  <Prometheum.description>Military-grade incendiary agent, ignites on contact with oxygen. The raw resource is used to craft incendiary ammo of all kinds.</Prometheum.description>
+
+  <FSX.label>FSX</FSX.label>
+  <FSX.description>High-explosive chemical extracted from Boomalope sacks, it is used in a variety of industrial and military applications.</FSX.description>
+
+
+</LanguageData>

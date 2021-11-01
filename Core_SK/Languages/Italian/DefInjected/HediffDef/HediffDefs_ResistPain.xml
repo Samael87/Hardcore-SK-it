@@ -1,25 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UndeadPassive.label>нежить</UndeadPassive.label>
-  <UndeadPassive.labelNoun>нежить</UndeadPassive.labelNoun>
+  <UndeadPassive.label>undead</UndeadPassive.label>
+  <UndeadPassive.labelNoun>an undead</UndeadPassive.labelNoun>
+  <UndeadPassive.description>Can't die twice...</UndeadPassive.description>
 
-  <ResistPainPassive.label>бронированный</ResistPainPassive.label>
-  <ResistPainPassive.labelNoun>бронированный</ResistPainPassive.labelNoun>
+  <ResistPainPassive.label>heavy pain resist</ResistPainPassive.label>
+  <ResistPainPassive.labelNoun>a heavy pain resist</ResistPainPassive.labelNoun>
+  <ResistPainPassive.description>Don't know what pain is</ResistPainPassive.description>
 
-  <UnstoppablePassive.label>неудержимое состояние</UnstoppablePassive.label>
-  <UnstoppablePassive.labelNoun>неудержимое состояние</UnstoppablePassive.labelNoun>
+  <UnstoppablePassive.label>unstoppable state</UnstoppablePassive.label>
+  <UnstoppablePassive.labelNoun>an unstoppable state</UnstoppablePassive.labelNoun>
+  <UnstoppablePassive.description>Can only go forward.</UnstoppablePassive.description>
 
-  <FuriousPassive.label>яростное состояние</FuriousPassive.label>
-  <FuriousPassive.labelNoun>яростное состояние</FuriousPassive.labelNoun>
+  <FuriousPassive.label>Furious state</FuriousPassive.label>
+  <FuriousPassive.labelNoun>a furious state</FuriousPassive.labelNoun>
+  <FuriousPassive.description>Don't stand in his way</FuriousPassive.description>
 
-  <BerserkPassive.label>неистовое состояние</BerserkPassive.label>
-  <BerserkPassive.labelNoun>неистовое состояние</BerserkPassive.labelNoun>
+  <BerserkPassive.label>berserk state</BerserkPassive.label>
+  <BerserkPassive.labelNoun>a berserk state</BerserkPassive.labelNoun>
+  <BerserkPassive.description>Real berserker</BerserkPassive.description>
 
-  <HardPassive.label>жёсткая кожа</HardPassive.label>
-  <HardPassive.labelNoun>жёсткая кожа</HardPassive.labelNoun>
+  <HardPassive.label>hard leather</HardPassive.label>
+  <HardPassive.labelNoun>hard leather</HardPassive.labelNoun>
+  <HardPassive.description>It's hard to break this skin</HardPassive.description>
 
-  <ThickPassive.label>толстая кожа</ThickPassive.label>
-  <ThickPassive.labelNoun>толстая кожа</ThickPassive.labelNoun>
+  <ThickPassive.label>thick leather</ThickPassive.label>
+  <ThickPassive.labelNoun>a thick leather</ThickPassive.labelNoun>
+  <ThickPassive.description>This skin softens any bumps.</ThickPassive.description>
+
 
 </LanguageData>

@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HungerState.label>состояние голода</HungerState.label>
-  <HungerState.beginLetter>{0} агрессивен!</HungerState.beginLetter>
-  <HungerState.recoveryMessage>{0}'s теперь не голоден.</HungerState.recoveryMessage>
-  <HungerState.baseInspectLine>Душевное состояние: Состояние голода</HungerState.baseInspectLine>
+  <HungerState.label>hunger state</HungerState.label>
+  <HungerState.beginLetter>{0} has in aggressive state!</HungerState.beginLetter>
+  <HungerState.recoveryMessage>{0}'s aggressive bloodlust has come to an end.</HungerState.recoveryMessage>
+  <HungerState.baseInspectLine>Mental state: The hunger made aggressive</HungerState.baseInspectLine>
+
 
 </LanguageData>

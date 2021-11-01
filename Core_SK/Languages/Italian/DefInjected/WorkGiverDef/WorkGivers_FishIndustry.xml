@@ -1,20 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<WorkGiver_UseAquacultureBasin.label>Работать с бассейном</WorkGiver_UseAquacultureBasin.label>
-	<WorkGiver_UseAquacultureBasin.verb>работает с бассейном</WorkGiver_UseAquacultureBasin.verb>
-	<WorkGiver_UseAquacultureBasin.gerund>работать с бассейном</WorkGiver_UseAquacultureBasin.gerund>
+  <WorkGiver_UseAquacultureBasin.verb>use</WorkGiver_UseAquacultureBasin.verb>
+  <WorkGiver_UseAquacultureBasin.gerund>using</WorkGiver_UseAquacultureBasin.gerund>
 
-	<WorkGiver_FishAtFishingPier.label>Рыбачить на пирсе</WorkGiver_FishAtFishingPier.label>
-	<WorkGiver_FishAtFishingPier.verb>рыбачит</WorkGiver_FishAtFishingPier.verb>
-	<WorkGiver_FishAtFishingPier.gerund>рыбачить</WorkGiver_FishAtFishingPier.gerund>
+  <WorkGiver_FishAtFishingPier.verb>fish</WorkGiver_FishAtFishingPier.verb>
+  <WorkGiver_FishAtFishingPier.gerund>fishing</WorkGiver_FishAtFishingPier.gerund>
 
-	<WorkGiver_FishAtFishingZone.label>Ловить рыбу</WorkGiver_FishAtFishingZone.label>
-	<WorkGiver_FishAtFishingZone.verb>ловит рыбу</WorkGiver_FishAtFishingZone.verb>
-	<WorkGiver_FishAtFishingZone.gerund>ловить рыбу</WorkGiver_FishAtFishingZone.gerund>
+  <WorkGiver_FishAtFishingZone.verb>fish</WorkGiver_FishAtFishingZone.verb>
+  <WorkGiver_FishAtFishingZone.gerund>fishing</WorkGiver_FishAtFishingZone.gerund>
 
-	<DoBillsMakeFishingBait.label>Делать наживку</DoBillsMakeFishingBait.label>
-	<DoBillsMakeFishingBait.verb>делает наживку</DoBillsMakeFishingBait.verb>
-	<DoBillsMakeFishingBait.gerund>делать наживку</DoBillsMakeFishingBait.gerund>
+  <DoBillsMakeFishingBait.label>do fishing baits</DoBillsMakeFishingBait.label>
+  <DoBillsMakeFishingBait.verb>work</DoBillsMakeFishingBait.verb>
+  <DoBillsMakeFishingBait.gerund>working</DoBillsMakeFishingBait.gerund>
+
 
 </LanguageData>

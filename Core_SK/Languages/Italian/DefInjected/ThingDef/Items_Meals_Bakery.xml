@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <bread.label>bread</bread.label>
+  <bread.description>A freshly baked loaf of bread.</bread.description>
+
+  <Pizza.label>pizza</Pizza.label>
+  <Pizza.description>Masterfully made pizza with many different ingredients. \n\nLowers pain\nImproves consciousness\nReduces incoming damage</Pizza.description>
+
+  <Taffy.label>taffy</Taffy.label>
+  <Taffy.description>A sweet, chewy candy.</Taffy.description>
+
+  <cookie.label>cookie</cookie.label>
+  <cookie.description>Freshly baked cookies!</cookie.description>
+
+  <PieBlueberry.label>Fruit pie</PieBlueberry.label>
+  <PieBlueberry.description>A delicious pie with fruits or berries.</PieBlueberry.description>
+
+  <SweetBun.label>sweet bun</SweetBun.label>
+  <SweetBun.description>A sweet roll covered in sugary icing. \n\nFood Effects: Consciousness and Moving.</SweetBun.description>
+
+
+</LanguageData>

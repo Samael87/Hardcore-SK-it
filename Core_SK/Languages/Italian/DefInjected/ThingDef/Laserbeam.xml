@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_ChargedLaser.label>Charged laser charge pack</Ammo_ChargedLaser.label>
+  <Ammo_ChargedLaser_Stable.label>Charged laser charge pack (stable)</Ammo_ChargedLaser_Stable.label>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_Laserbeam.label>Laser beam</Bullet_Laserbeam.label>
+  <Bullet_Laserbeam_Stable.label>Laser beam (Stable)</Bullet_Laserbeam_Stable.label>
+
+
+</LanguageData>

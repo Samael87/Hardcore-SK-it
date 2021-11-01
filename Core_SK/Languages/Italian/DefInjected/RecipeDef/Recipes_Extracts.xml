@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExtractMetalFromSlag.label>smelt metal from slag</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.description>Use heat and strong electromagnets to separate useful metal from slag chunks.</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.jobString>Smelting metal from slag.</ExtractMetalFromSlag.jobString>
+
+  <SmeltWeapon.label>smelt metal from weapon</SmeltWeapon.label>
+  <SmeltWeapon.description>Use heat and strong electromagnets to separate useful metal from weapons.</SmeltWeapon.description>
+  <SmeltWeapon.jobString>Smelting metal from weapon.</SmeltWeapon.jobString>
+
+  <DestroyWeapon.label>destroy weapon</DestroyWeapon.label>
+  <DestroyWeapon.description>Use heat to destroy unwanted weapons. Faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyWeapon.description>
+  <DestroyWeapon.jobString>Destroying weapon.</DestroyWeapon.jobString>
+
+  <ButcherCorpseFlesh.label>butcher corpse</ButcherCorpseFlesh.label>
+  <ButcherCorpseFlesh.description>Butcher a creature to obtain its meat, leather, and other body products.</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.jobString>Butchering.</ButcherCorpseFlesh.jobString>
+
+  <Make_StoneBlocksAny.label>cut stone blocks</Make_StoneBlocksAny.label>
+  <Make_StoneBlocksAny.description>Cuts a stone chunk into usable stone blocks.</Make_StoneBlocksAny.description>
+  <Make_StoneBlocksAny.jobString>Cutting stone chunk into blocks.</Make_StoneBlocksAny.jobString>
+
+
+  <!-- SOYLENT GREEN -->
+
+  <Make_SoylentGreen.label>obtain soylent green</Make_SoylentGreen.label>
+  <Make_SoylentGreen.description>Obtain Soylent Green from a humanlike corpse. Produces 45.</Make_SoylentGreen.description>
+  <Make_SoylentGreen.jobString>Obtaining Soylent Green.</Make_SoylentGreen.jobString>
+
+
+</LanguageData>

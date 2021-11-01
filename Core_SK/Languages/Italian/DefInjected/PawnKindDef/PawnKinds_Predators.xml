@@ -1,40 +1,64 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PredatorsRaven.label>Ворон хищников</PredatorsRaven.label>
-  <PredatorsRaven.labelPlural>Вороны хищников</PredatorsRaven.labelPlural>
-  <PredatorsRaven.labelMale>Ворон хищников</PredatorsRaven.labelMale>
-  <PredatorsRaven.labelMalePlural>Вороны хищников</PredatorsRaven.labelMalePlural>
-  <PredatorsRaven.labelFemale>Ворон хищников</PredatorsRaven.labelFemale>
-  <PredatorsRaven.labelFemalePlural>Вороны хищников</PredatorsRaven.labelFemalePlural>
+  <!-- Raven -->
 
-  <PredatorsLynx.label>Рысь хищников</PredatorsLynx.label>
-  <PredatorsLynx.labelPlural>Рысь хищников</PredatorsLynx.labelPlural>
+  <PredatorsRaven.label>Predators Raven</PredatorsRaven.label>
+  <PredatorsRaven.labelPlural>Predators Ravens</PredatorsRaven.labelPlural>
+  <PredatorsRaven.labelMale>male Predators Raven</PredatorsRaven.labelMale>
+  <PredatorsRaven.labelMalePlural>male Predators Ravens</PredatorsRaven.labelMalePlural>
+  <PredatorsRaven.labelFemale>female Predators Raven</PredatorsRaven.labelFemale>
+  <PredatorsRaven.labelFemalePlural>female Predators Ravens</PredatorsRaven.labelFemalePlural>
 
-  <PredatorsWolf.label>Волк хищников</PredatorsWolf.label>
-  <PredatorsWolf.labelPlural>Волки хищников</PredatorsWolf.labelPlural>
 
-  <PredatorsHawkeye.label>Ястреб хищников</PredatorsHawkeye.label>
-  <PredatorsHawkeye.labelPlural>Ястреб хищников</PredatorsHawkeye.labelPlural>
+  <!-- Lynx -->
 
-  <PredatorsBomber.label>Бумкрыс хищников</PredatorsBomber.label>
-  <PredatorsBomber.labelPlural>Бумкрыс хищников</PredatorsBomber.labelPlural>
+  <PredatorsLynx.label>Predators Lynx</PredatorsLynx.label>
+  <PredatorsLynx.labelPlural>Predators Lynxs</PredatorsLynx.labelPlural>
 
-  <PredatorsShaman.label>Шаман хищников</PredatorsShaman.label>
-  <PredatorsShaman.labelPlural>Шаман хищников</PredatorsShaman.labelPlural>
 
-  <PredatorsSlasher.label>Гепард хищников</PredatorsSlasher.label>
-  <PredatorsSlasher.labelPlural>Гепард хищников</PredatorsSlasher.labelPlural>
-  <PredatorsSlasher.labelMale>Гепард хищников</PredatorsSlasher.labelMale>
-  <PredatorsSlasher.labelMalePlural>Гепард хищников</PredatorsSlasher.labelMalePlural>
-  <PredatorsSlasher.labelFemale>Гепард хищников</PredatorsSlasher.labelFemale>
-  <PredatorsSlasher.labelFemalePlural>Гепард хищников</PredatorsSlasher.labelFemalePlural>
+  <!-- Wolf -->
 
-  <PredatorsTrader.label>Торговец хищников</PredatorsTrader.label>
-  <PredatorsTrader.labelPlural>Торговцы хищников</PredatorsTrader.labelPlural>
-  <PredatorsTrader.labelMale>Торговец хищников</PredatorsTrader.labelMale>
-  <PredatorsTrader.labelMalePlural>Торговцы хищников</PredatorsTrader.labelMalePlural>
-  <PredatorsTrader.labelFemale>Торговец хищников</PredatorsTrader.labelFemale>
-  <PredatorsTrader.labelFemalePlural>Торговцы хищников</PredatorsTrader.labelFemalePlural>
+  <PredatorsWolf.label>Predators Wolf</PredatorsWolf.label>
+  <PredatorsWolf.labelPlural>Predators Wolfs</PredatorsWolf.labelPlural>
+
+
+  <!-- Hawkeye -->
+
+  <PredatorsHawkeye.label>Predators Hawkeye</PredatorsHawkeye.label>
+  <PredatorsHawkeye.labelPlural>Predators Hawkeyes</PredatorsHawkeye.labelPlural>
+
+
+  <!-- Bomber -->
+
+  <PredatorsBomber.label>Predators Bomber</PredatorsBomber.label>
+  <PredatorsBomber.labelPlural>Predators Bombers</PredatorsBomber.labelPlural>
+
+
+  <!-- Shaman -->
+
+  <PredatorsShaman.label>Predators Shaman</PredatorsShaman.label>
+  <PredatorsShaman.labelPlural>Predators Shamans</PredatorsShaman.labelPlural>
+
+
+  <!-- Slasher -->
+
+  <PredatorsSlasher.label>Predators Slasher</PredatorsSlasher.label>
+  <PredatorsSlasher.labelPlural>Predators Slashers</PredatorsSlasher.labelPlural>
+  <PredatorsSlasher.labelMale>male Predators Slasher</PredatorsSlasher.labelMale>
+  <PredatorsSlasher.labelMalePlural>male Predators Slashers</PredatorsSlasher.labelMalePlural>
+  <PredatorsSlasher.labelFemale>female Predators Slasher</PredatorsSlasher.labelFemale>
+  <PredatorsSlasher.labelFemalePlural>female Predators Slashers</PredatorsSlasher.labelFemalePlural>
+
+
+  <!-- Trader -->
+
+  <PredatorsTrader.label>Predators trader</PredatorsTrader.label>
+  <PredatorsTrader.labelPlural>Predators traders</PredatorsTrader.labelPlural>
+  <PredatorsTrader.labelMale>male Predators trader</PredatorsTrader.labelMale>
+  <PredatorsTrader.labelMalePlural>male Predators traders</PredatorsTrader.labelMalePlural>
+  <PredatorsTrader.labelFemale>female Predators trader</PredatorsTrader.labelFemale>
+  <PredatorsTrader.labelFemalePlural>female Predators traders</PredatorsTrader.labelFemalePlural>
+
 
 </LanguageData>

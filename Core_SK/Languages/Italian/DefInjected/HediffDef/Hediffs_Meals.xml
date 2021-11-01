@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <HediffDef>
+		<defName>HadCornbreadMuffin</defName>
+		<label>ate cornbread muffin</label>
+		<description>Ate sweet muffin. Sugary boost.</description>
+		<initialSeverity>1</initialSeverity>
+		<hediffClass>HediffWithComps</hediffClass>
+		<isBad>false</isBad>
+		<comps>
+			<li Class="HediffCompProperties_SeverityPerDay">
+				<severityPerDay>-0.7</severityPerDay>
+			</li>
+		</comps>
+		<stages>
+			<li>
+				<minSeverity>0</minSeverity>
+				<capMods>
+					<li>
+						<capacity>Moving</capacity>
+						<offset>0.1</offset>
+					</li>
+				</capMods>
+			</li>
+		</stages>
+	</HediffDef> -->
+
+  <HadPizza.label>ate pizza</HadPizza.label>
+  <HadPizza.description>Ate delicious pizza with so many ingredients, I feel my bones become stronger.</HadPizza.description>
+
+  <HadIceCream.label>ate ice cream</HadIceCream.label>
+  <HadIceCream.description>It so delicious! And cold!</HadIceCream.description>
+
+  <HadGrilledCheese.label>ate cheese sandwich</HadGrilledCheese.label>
+  <HadGrilledCheese.description>Can I have one more portion of this grilled yummy?</HadGrilledCheese.description>
+
+  <HadPotatoesCheese.label>ate potatoes with cheese</HadPotatoesCheese.label>
+  <HadPotatoesCheese.description>Can I have one more portion of this grilled yummy?</HadPotatoesCheese.description>
+
+  <HadHeartyStew.label>ate hearty stew</HadHeartyStew.label>
+  <HadHeartyStew.description>Ate delicious and warming hearty stew.</HadHeartyStew.description>
+
+  <HadMakiRolls.label>ate maki rolls</HadMakiRolls.label>
+  <HadMakiRolls.description>Ate healthy maki rolls.</HadMakiRolls.description>
+
+  <HadKebab.label>ate kebab</HadKebab.label>
+  <HadKebab.description>Ate delicious kebab.</HadKebab.description>
+
+  <HadMushroomMadness.label>ate mushroom madness</HadMushroomMadness.label>
+  <HadMushroomMadness.description>Ate hallucinogenic mushroom dish.</HadMushroomMadness.description>
+
+  <HadCoconutCurry.label>ate coconut curry</HadCoconutCurry.label>
+  <HadCoconutCurry.description>Ate a delicious exotic dish.</HadCoconutCurry.description>
+
+  <HadCheeseBurger.label>ate cheese burger</HadCheeseBurger.label>
+  <HadCheeseBurger.description>I ate a filling cheese burger. Yau!</HadCheeseBurger.description>
+
+  <HadMisoSoup.label>ate miso soup</HadMisoSoup.label>
+  <HadMisoSoup.description>Ate an extremely healthy dish. I feel power of healthy diet flowing through my veins...</HadMisoSoup.description>
+
+
+</LanguageData>

@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<RoofTransparentFraming.label>Прозрачная крыша</RoofTransparentFraming.label>
-<RoofTransparentFraming.description>Прозрачная кровля пропускает свет, но защищает в непогоду</RoofTransparentFraming.description>
+  <RoofTransparentFraming.label>transparent roofing</RoofTransparentFraming.label>
+  <RoofTransparentFraming.description>Transparent roofing lets the light through, but keeps the weather out!</RoofTransparentFraming.description>
 
-<RoofSolarFraming.label>Крыша из солнечных панелей</RoofSolarFraming.label>
-<RoofSolarFraming.description>Крыша из солнечных панелей собирает солнечную энергию. Для работы требуется использовать Контроллер солнечных батарей.</RoofSolarFraming.description>
+  <RoofSolarFraming.label>solar roofing</RoofSolarFraming.label>
+  <RoofSolarFraming.description>Solar roofing generates power on your roof.  Requires a Solar Controller to function.</RoofSolarFraming.description>
 
-<ThickStoneRoofFraming.label>Толстая каменная крыша</ThickStoneRoofFraming.label>
-<ThickStoneRoofFraming.description>Толстая каменная кровля, искуственный аналог толстой горной породы. Защищает от падающих грузовых капсул и метеоритов.</ThickStoneRoofFraming.description>
+  <ThickStoneRoofFraming.label>thick stone roofing</ThickStoneRoofFraming.label>
+  <ThickStoneRoofFraming.description>Provides a thick roofing to keep drop pods out.</ThickStoneRoofFraming.description>
+
 
 </LanguageData>

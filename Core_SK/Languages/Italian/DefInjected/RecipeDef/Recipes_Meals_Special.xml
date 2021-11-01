@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookMeatSoup.label>cook meat soup</CookMeatSoup.label>
+  <CookMeatSoup.description>Prepares a meat soup from raw meat and a few raw plants. Produces 3.</CookMeatSoup.description>
+  <CookMeatSoup.jobString>Cooking meat soup.</CookMeatSoup.jobString>
+
+  <CookMeatSoupBulk.label>cook meat soup (x4)</CookMeatSoupBulk.label>
+  <CookMeatSoupBulk.description>Prepares a meat soup from raw meat and a few raw plants. Produces 12.</CookMeatSoupBulk.description>
+  <CookMeatSoupBulk.jobString>Cooking meat soup.</CookMeatSoupBulk.jobString>
+
+
+  <!-- Grilled Meals -->
+
+  <MakeCheeseGrilled.label>Grill cheese sandwich</MakeCheeseGrilled.label>
+  <MakeCheeseGrilled.description>Grills a sandwich from bread and cheese. Produces 2.</MakeCheeseGrilled.description>
+  <MakeCheeseGrilled.jobString>Grilling cheese sandwich.</MakeCheeseGrilled.jobString>
+
+  <MakeCheeseGrilledBulk.label>Grill cheese sandwich (x4)</MakeCheeseGrilledBulk.label>
+  <MakeCheeseGrilledBulk.description>Grills a sandwich from bread and cheese. Produces 8.</MakeCheeseGrilledBulk.description>
+  <MakeCheeseGrilledBulk.jobString>Grilling cheese sandwich.</MakeCheeseGrilledBulk.jobString>
+
+  <MakePotatoesCheese.label>Grill potatoes with cheese</MakePotatoesCheese.label>
+  <MakePotatoesCheese.description>Grills potatoes with some cheese on top. Produces 3.</MakePotatoesCheese.description>
+  <MakePotatoesCheese.jobString>Grilling potatoes with cheese.</MakePotatoesCheese.jobString>
+
+  <MakePotatoesCheeseBulk.label>Grill potatoes with cheese (x4)</MakePotatoesCheeseBulk.label>
+  <MakePotatoesCheeseBulk.description>Grills potatoes with some cheese on top. Produces 12.</MakePotatoesCheeseBulk.description>
+  <MakePotatoesCheeseBulk.jobString>Grilling potatoes with cheese.</MakePotatoesCheeseBulk.jobString>
+
+
+  <!-- Fine Meals -->
+
+  <CookHeartyStew.label>cook hearty stew</CookHeartyStew.label>
+  <CookHeartyStew.description>Prepares a hearty stew from raw meat, potatoes and carrots. Produces 2.</CookHeartyStew.description>
+  <CookHeartyStew.jobString>Cooking hearty stew.</CookHeartyStew.jobString>
+
+  <CookHeartyStewBulk.label>cook hearty stew (x4)</CookHeartyStewBulk.label>
+  <CookHeartyStewBulk.description>Prepares a hearty stew from raw meat, potatoes and carrots. Produces 8.</CookHeartyStewBulk.description>
+  <CookHeartyStewBulk.jobString>Cooking hearty stew.</CookHeartyStewBulk.jobString>
+
+  <MakeMakiRolls.label>make maki rolls</MakeMakiRolls.label>
+  <MakeMakiRolls.description>Make maki rolls from rice, algae and fish meat. Produces 2.</MakeMakiRolls.description>
+  <MakeMakiRolls.jobString>Cooking maki rolls.</MakeMakiRolls.jobString>
+
+  <MakeMakiRollsBulk.label>make maki rolls (x4)</MakeMakiRollsBulk.label>
+  <MakeMakiRollsBulk.description>Make maki rolls from rice, algae and fish meat. Produces 8.</MakeMakiRollsBulk.description>
+  <MakeMakiRollsBulk.jobString>Cooking maki rolls.</MakeMakiRollsBulk.jobString>
+
+  <MakeKebab.label>make kebab</MakeKebab.label>
+  <MakeKebab.description>Make kebab from vegetables, mushrooms and meat. Produces 2.</MakeKebab.description>
+  <MakeKebab.jobString>Cooking kebab.</MakeKebab.jobString>
+
+  <MakeKebabBulk.label>make kebab (x4)</MakeKebabBulk.label>
+  <MakeKebabBulk.description>Make kebab from vegetables, mushrooms and meat. Produces 8.</MakeKebabBulk.description>
+  <MakeKebabBulk.jobString>Cooking kebab.</MakeKebabBulk.jobString>
+
+  <MakeMushroomMadness.label>make mushroom madness</MakeMushroomMadness.label>
+  <MakeMushroomMadness.description>Make a mysterious dish from different mushrooms. Produces 2.</MakeMushroomMadness.description>
+  <MakeMushroomMadness.jobString>Cooking mushroom madness.</MakeMushroomMadness.jobString>
+
+  <MakeMushroomMadnessBulk.label>make mushroom madness (x4)</MakeMushroomMadnessBulk.label>
+  <MakeMushroomMadnessBulk.description>Make a mysterious dish from different mushrooms. Produces 8.</MakeMushroomMadnessBulk.description>
+  <MakeMushroomMadnessBulk.jobString>Cooking mushroom madness.</MakeMushroomMadnessBulk.jobString>
+
+  <MakeCoconutCurry.label>cook coconut curry</MakeCoconutCurry.label>
+  <MakeCoconutCurry.description>Prepares an exotic dish from meat, rice and coconut milk. Produces 2.</MakeCoconutCurry.description>
+  <MakeCoconutCurry.jobString>Cooking coconut curry.</MakeCoconutCurry.jobString>
+
+  <MakeCoconutCurryBulk.label>cook coconut curry (x4)</MakeCoconutCurryBulk.label>
+  <MakeCoconutCurryBulk.description>Prepares an exotic dish from meat, rice and coconut milk. Produces 8.</MakeCoconutCurryBulk.description>
+  <MakeCoconutCurryBulk.jobString>Cooking coconut curry.</MakeCoconutCurryBulk.jobString>
+
+  <MakePelmeni.label>make pelmeni</MakePelmeni.label>
+  <MakePelmeni.description>Make pelmeni from flour and prime meat. Produces 2.</MakePelmeni.description>
+  <MakePelmeni.jobString>Cooking pelmeni.</MakePelmeni.jobString>
+
+  <MakePelmeniBulk.label>make pelmeni (x4)</MakePelmeniBulk.label>
+  <MakePelmeniBulk.description>Make pelmeni from flour and prime meat. Produces 8.</MakePelmeniBulk.description>
+  <MakePelmeniBulk.jobString>Cooking pelmeni.</MakePelmeniBulk.jobString>
+
+
+  <!-- Lavish Meals -->
+
+  <MakeBurgerCheese.label>cook cheese burger</MakeBurgerCheese.label>
+  <MakeBurgerCheese.description>Cooks a burger made from bread, meat and cheese. Delicious! Produces 2.</MakeBurgerCheese.description>
+  <MakeBurgerCheese.jobString>Cooking cheese burger.</MakeBurgerCheese.jobString>
+
+  <MakeMisoSoup.label>cook miso soup</MakeMisoSoup.label>
+  <MakeMisoSoup.description>Prepares a luxury miso soup from tofu, algae, mushrooms and onion. Produces 2.</MakeMisoSoup.description>
+  <MakeMisoSoup.jobString>Cooking coconut curry.</MakeMisoSoup.jobString>
+
+
+</LanguageData>

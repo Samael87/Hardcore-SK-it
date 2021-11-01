@@ -1,19 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Alien_Nova.label>Нова</Alien_Nova.label>
-	<Alien_Nova.description>Нова - как ходят легенды они выходцы из далекой планеты.. X-Alien_Nova, на которой температура едва ли раз в год поднимается выше нуля. Хорошо переносят отрицательные температуры, но крайне не устойчивы к теплу, а их главный враг - огонь, который действует на них словно их тела обмазаны горючими веществами. Но их рефлексы и скорость, а также общая комплекция, врожденный иммунитет компенсируют эти недостатки.</Alien_Nova.description>
-	<Corpse_Alien_Nova.label>Труп новы</Corpse_Alien_Nova.label>
-	<Corpse_Alien_Nova.description>Труп новы.</Corpse_Alien_Nova.description>
+  <!-- HUMAN -->
 
-	<Norbal.label>Норбал</Norbal.label>
-	<Norbal.description>Это люди, закаленные в холодном климате. Волосатые и сильные, но не в состоянии справиться с высокими температурами...</Norbal.description>
-	<Corpse_Norbal.label>Труп норбала</Corpse_Norbal.label>
-	<Corpse_Norbal.description>Труп норбала.</Corpse_Norbal.description>
+  <Human.label>human</Human.label>
+  <Human.description>A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.</Human.description>
+  <Human.tools.0.label>left fist</Human.tools.0.label>
+  <Human.tools.1.label>right fist</Human.tools.1.label>
+  <Human.tools.2.label>teeth</Human.tools.2.label>
+  <Human.tools.3.label>head</Human.tools.3.label>
+  <Human_Leather.label>human leather</Human_Leather.label>
+  <Human_Leather.description>human leather</Human_Leather.description>
+  <Human_Leather.stuffProps.stuffAdjective>human leather</Human_Leather.stuffProps.stuffAdjective>
+  <Human_Meat.label>human meat</Human_Meat.label>
+  <Human_Meat.description>human meat</Human_Meat.description>
+  <Human_Corpse.label>human corpse</Human_Corpse.label>
+  <Human_Corpse.description>human corpse</Human_Corpse.description>
 
-	<Alien_Asari.label>Азари</Alien_Asari.label>
-    <Alien_Asari.description>Внешне азари воспринимаются как похожие на женщин гуманоидные существа, той расы, к которой принадлежит наблюдатель.  Главным отличием является сине-голубая кожа (цветовая гамма сине-фиолетовая), а также отростки, похожие на щупальца, которые начинаются по периметру лица и сходятся сзади в своеобразный пучок. Основной особенностью азари является то, что они — однополый вид (по стандартам других видов они — всё-таки женщины). Но, несмотря на это, они не асексуальны.</Alien_Asari.description>
-	<Corpse_Alien_Asari.label>Труп азари</Corpse_Alien_Asari.label>
-	<Corpse_Alien_Asari.description>Труп азари.</Corpse_Alien_Asari.description>
+
 </LanguageData>
