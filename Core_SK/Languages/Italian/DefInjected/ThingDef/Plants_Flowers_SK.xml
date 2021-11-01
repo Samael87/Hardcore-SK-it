@@ -1,23 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
 <LanguageData>
 
-  <!-- Decorative -->
+	<Plant_Venus.label>Венерин цветок</Plant_Venus.label>
 
-  <Plant_Venus.label>Flor de Venus</Plant_Venus.label>
-  <Plant_WhiteRose.label>Rosa blanca</Plant_WhiteRose.label>
-  <Plant_WhiteRose.description>Flores de Rosas de color blancas, hermosas flores cultivadas que son simbólicas del amor y el romance desde la antigüedad. No necesita semillas para plantarse, pero no produce nada excepto belleza mientras la flor está viva.</Plant_WhiteRose.description>
+	<Plant_WhiteRose.label>Белые розы</Plant_WhiteRose.label>
+	<Plant_WhiteRose.description>Белые розы - красивые культивируемые цветы, которые являются символом любви и романтики с древних времен. Они не нуждаются в семенах для посадки, но они не производят ничего, кроме красоты.</Plant_WhiteRose.description>
+	
+	<Plant_Rosebay.label>Иван-чай</Plant_Rosebay.label>
+	<Plant_Rosebay.description>Встречается повсеместно в умеренном климате Северного полушария. Растёт на сухих песчаных местах, по лесным опушкам, кустарникам, на вырубках, пожарищах. На нарушенной территории появляется одним из первых.</Plant_Rosebay.description>
 
-  <Plant_Rosebay.label>Rosebay</Plant_Rosebay.label>
-  <Plant_Rosebay.description>Las flores de Rosebay son pequeñas, magníficas, flores salvajes duras que crecen en climas templados. No necesita semillas para plantarse, pero no produce nada excepto belleza mientras la flor está viva.</Plant_Rosebay.description>
+	<PlantDelphinium.label>Дельфиниум</PlantDelphinium.label>
+	<PlantDelphinium.description>Дельфиниум или живокость - род одно- и многолетних травянистых растений семейства Лютиковые. Своё научное название род получил, возможно, из-за сходства нераспустившегося цветка с формой головы и тела дельфина. По другой версии, имя растения происходит от названия греческого города Дельфы, в окрестностях которого росло множество этих цветов.</PlantDelphinium.description>
 
-  <PlantDelphinium.label>Espuela de caballero</PlantDelphinium.label>
-  <PlantDelphinium.description>Las flores de Espuela de caballero son flores cultivadas elegantes con un tinte púrpura majestuoso. Tiene un corto tiempo de vida, así que debe ser replantado a menudo. No necesita semillas para plantarse, pero no produce nada excepto belleza mientras la flor está viva.</PlantDelphinium.description>
-
-  <Plant_Crocus.label>Azafrán</Plant_Crocus.label>
-  <Plant_Crocus.description>Azafrán Las flores son comunes, pequeñas flores. Aunque a menudo se considera una plaga de malezas, es agradable de ver. No necesita semillas para plantarse, pero no produce nada excepto belleza mientras la flor está viva.</Plant_Crocus.description>
-
-  <Plant_Anthurium.label>Anthurium</Plant_Anthurium.label>
-  <Plant_Anthurium.description>Una hermosa flor roja cultivada.</Plant_Anthurium.description>
-
+	<Plant_Crocus.label>Шафран</Plant_Crocus.label>
+	<Plant_Crocus.description>Шафран или крокус используется в качестве декоративного растения. Высушенные рыльца цветков шафрана посевного с глубокой древности используются как пряность и пищевой краситель оранжевого цвета.</Plant_Crocus.description>
 
 </LanguageData>

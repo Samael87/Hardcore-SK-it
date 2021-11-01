@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageInfo>
-  <friendlyNameNative>Español-SK</friendlyNameNative>
-  <friendlyNameEnglish>Spanish-SK</friendlyNameEnglish>
+  <friendlyNameNative>Italiano-SK</friendlyNameNative>
+  <friendlyNameEnglish>Italian-SK</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
   <credits>
     <li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
-      <creditee>Yeshua L (mora145)</creditee>
-    </li>	
+      <creditee>Alessandro D (Samael87)</creditee>
+    </li>
   </credits>
 </LanguageInfo>

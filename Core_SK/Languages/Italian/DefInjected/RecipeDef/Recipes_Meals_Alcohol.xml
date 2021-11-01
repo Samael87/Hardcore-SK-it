@@ -1,53 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Yeast -->
+        <Makeyeast.label>Получить дрожжи</Makeyeast.label>
+        <Makeyeast.description>Извлечь дрожжи из распространенных грибов. Производит 15.</Makeyeast.description>
+        <Makeyeast.jobString>Получение дрожжей.</Makeyeast.jobString>
 
-  <Makeyeast.label>Levadura x15</Makeyeast.label>
-  <Makeyeast.description>Extrae levadura de hongos comunes. Produce 15.</Makeyeast.description>
-  <Makeyeast.jobString>Procesando levadura.</Makeyeast.jobString>
+        <Makegrainmash.label>Сварить основу виски</Makegrainmash.label>
+        <Makegrainmash.description>Варить основу для виски из зерна. Производит 10.</Makegrainmash.description>
+        <Makegrainmash.jobString>Варит основу для виски.</Makegrainmash.jobString>
 
+        <Makesakemash.label>Сварить основу саке</Makesakemash.label>
+        <Makesakemash.description>Варить основу для саке из риса. Производит 10.</Makesakemash.description>
+        <Makesakemash.jobString>Варит основу для саке.</Makesakemash.jobString>
 
-  <!-- Saké Mash -->
+        <Makerummash.label>Сварить основу рома</Makerummash.label>
+        <Makerummash.description>Варить основу для рома из сахарного тростника. Производит 10.</Makerummash.description>
+        <Makerummash.jobString>Варит основу для рома.</Makerummash.jobString>
 
-  <Makesakemash.label>Cerveza de Saké x10</Makesakemash.label>
-  <Makesakemash.description>Elabora un lote de Saké del puré de arroz. Produce 10.</Makesakemash.description>
-  <Makesakemash.jobString>Haciendo lote de cerveza de puré de sake.</Makesakemash.jobString>
+        <Makecidermash.label>Сварить основу сидра</Makecidermash.label>
+        <Makecidermash.description>Варить основу для сидра из яблок. Производит 10.</Makecidermash.description>
+        <Makecidermash.jobString>Варит основу для сидра.</Makecidermash.jobString>
 
-  <!-- Rum Mash -->
+        <Makeberrymash.label>Сварить основу столового вина</Makeberrymash.label>
+        <Makeberrymash.description>Варить основу для столового вина из ягод. Производит 10.</Makeberrymash.description>
+        <Makeberrymash.jobString>Варит основу столового вина.</Makeberrymash.jobString>
 
-  <Makerummash.label>Cerveza de Ron de malta x10</Makerummash.label>
-  <Makerummash.description>Elabora un lote de ron del puré de caña de azúcar. Produce 10.</Makerummash.description>
-  <Makerummash.jobString>Haciendo lote de cerveza de puré de caña de azúcar.</Makerummash.jobString>
+        <Makevodkamash.label>Сварить основу водки</Makevodkamash.label>
+        <Makevodkamash.description>Варить основу для водки из картошки. Производит 10.</Makevodkamash.description>
+        <Makevodkamash.jobString>Варит основу для водки.</Makevodkamash.jobString>
 
-  <!-- Cider Mash -->
+        <Maketequilamash.label>Сварить основу текилы</Maketequilamash.label>
+        <Maketequilamash.description>Варить основу для текилы из агавы. Производит 10.</Maketequilamash.description>
+        <Maketequilamash.jobString>Варит основу для текилы.</Maketequilamash.jobString>
 
-  <Makecidermash.label>Cerveza de puré de Sidra x10</Makecidermash.label>
-  <Makecidermash.description>Elabora un lote de cerveza del puré de manzanas. Produce 10.</Makecidermash.description>
-  <Makecidermash.jobString>Haciendo lote de cerveza de puré de manzanas.</Makecidermash.jobString>
+        <Makewinemash.label>Сварить основу вина</Makewinemash.label>
+        <Makewinemash.description>Варить основу для вина из винограда. Производит 10.</Makewinemash.description>
+        <Makewinemash.jobString>Варит основу для вина.</Makewinemash.jobString>
 
-  <!-- Berry Mash -->
-
-  <Makeberrymash.label>Cerveza de puré de Baya x10</Makeberrymash.label>
-  <Makeberrymash.description>Elabora un lote de cerveza del puré de bayas. Produce 10.</Makeberrymash.description>
-  <Makeberrymash.jobString>Haciendo lote de cerveza del puré de bayas.</Makeberrymash.jobString>
-
-  <!-- Vodka Mash -->
-
-  <Makevodkamash.label>Cerveza de puré de Vodka x10</Makevodkamash.label>
-  <Makevodkamash.description>Elabora un lote de puré de vodka de patatas. Produce 10.</Makevodkamash.description>
-  <Makevodkamash.jobString>Haciendo un lote de puré de vodka de patatas.</Makevodkamash.jobString>
-
-  <!-- Tequila Mash -->
-
-  <Maketequilamash.label>Cerveza de puré de Tequila x10</Maketequilamash.label>
-  <Maketequilamash.description>Elabora un lote de ron del puré de la caña de azúcar. Produce 10.</Maketequilamash.description>
-  <Maketequilamash.jobString>Haciendo un lote de ron del puré de la caña de azúcar.</Maketequilamash.jobString>
-
-  <!-- Wine Mash -->
-
-  <Makewinemash.label>Cerveza de puré de Vino x10</Makewinemash.label>
-  <Makewinemash.description>Elabora un lote de puré de vino de las uvas. Produce 10.</Makewinemash.description>
-  <Makewinemash.jobString>Haciendo un lote de ron del puré de vino de las uvas.</Makewinemash.jobString>
-
- </LanguageData>
+</LanguageData>

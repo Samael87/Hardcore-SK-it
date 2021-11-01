@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PsychicDroneCultist.stages.0.label>Psíquico (mediano)</PsychicDroneCultist.stages.0.label>
-  <PsychicDroneCultist.stages.0.description>Es como una voz calmante en el fondo de mi mente, calmándome, acomodándome los nervios.</PsychicDroneCultist.stages.0.description>
-  <PsychicDroneCultist.stages.1.label>Drone psíquico  (bajo)</PsychicDroneCultist.stages.1.label>
-  <PsychicDroneCultist.stages.1.description>Es como un rasguño en la parte posterior de mi mente. Una voz, susurrando. Sólo puedo distinguir unas palabras, y reconozco la canción que me llama.</PsychicDroneCultist.stages.1.description>
-  <PsychicDroneCultist.stages.2.label>Drone Psíquico  (medio)</PsychicDroneCultist.stages.2.label>
-  <PsychicDroneCultist.stages.2.description>Siento que la voz podría estar llegando a la vuelta de la esquina.</PsychicDroneCultist.stages.2.description>
-  <PsychicDroneCultist.stages.3.label>Zángano psíquico (alto)</PsychicDroneCultist.stages.3.label>
-  <PsychicDroneCultist.stages.3.description>La voz es serena y reconfortante</PsychicDroneCultist.stages.3.description>
-  <PsychicDroneCultist.stages.4.label>Drone psíquico  (extremo)</PsychicDroneCultist.stages.4.label>
-  <PsychicDroneCultist.stages.4.description>Mi corazón late y estoy sudando. La voz que me llamaba, me ha encontrado.</PsychicDroneCultist.stages.4.description>
+	<PsychicDroneCultist.stages.0.label>умиротворение</PsychicDroneCultist.stages.0.label>
+	<PsychicDroneCultist.stages.0.description>Похоже что тихий, успокаивающий голос в подсознании успокаивает меня, приводя в порядок нервную систему.</PsychicDroneCultist.stages.0.description>
+	<PsychicDroneCultist.stages.1.label>слабый гул</PsychicDroneCultist.stages.1.label>
+	<PsychicDroneCultist.stages.1.description>Как будто кто-то скребётся в глубине сознания. Голос... Он что-то шепчет. Я могу разобрать лишь несколько слов, и эта едва различимая песня зовёт меня.</PsychicDroneCultist.stages.1.description>
+	<PsychicDroneCultist.stages.2.label>средний гул</PsychicDroneCultist.stages.2.label>
+	<PsychicDroneCultist.stages.2.description>Мне кажется источник голосов находится где-то рядом, может даже за тем углом..</PsychicDroneCultist.stages.2.description>
+	<PsychicDroneCultist.stages.3.label>сильный гул</PsychicDroneCultist.stages.3.label>
+	<PsychicDroneCultist.stages.3.description>Голос громко раздаётся в голове и приносит блаженство.</PsychicDroneCultist.stages.3.description>
+	<PsychicDroneCultist.stages.4.label>запредельный гул</PsychicDroneCultist.stages.4.label>
+	<PsychicDroneCultist.stages.4.description>Сердце бешено колотится и пот льётся ручьём. Голос нашёл меня!</PsychicDroneCultist.stages.4.description>
 
 
 </LanguageData>

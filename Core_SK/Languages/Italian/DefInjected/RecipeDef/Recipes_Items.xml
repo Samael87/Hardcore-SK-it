@@ -1,45 +1,76 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <MakeMiningHelmet.label>Casco de minería</MakeMiningHelmet.label>
-  <MakeMiningHelmet.description>Hacer un casco de minería. Tiene una luz integrada que aumenta la velocidad de la minería. Produce 1.</MakeMiningHelmet.description>
-  <MakeMiningHelmet.jobString>Haciendo un casco de minería.</MakeMiningHelmet.jobString>
+	<Make_SculptureSmall.label>сделать маленькую скульптуру</Make_SculptureSmall.label>
+	<Make_SculptureSmall.description>Сделать маленькую скульптуру.</Make_SculptureSmall.description>
+	<Make_SculptureSmall.jobString>Делает скульптуру.</Make_SculptureSmall.jobString>
 
-  <MakeCPS.label>Traje de protección química</MakeCPS.label>
-  <MakeCPS.description>Un Traje de Protección Química (también conocido como traje hazmat) puede proteger a las personas de materiales o sustancias peligrosas incluyendo productos químicos, agentes biológicos o materiales radiactivos. Produce 1.</MakeCPS.description>
-  <MakeCPS.jobString>Haciendo un traje de protección química.</MakeCPS.jobString>
+	<Make_SculptureLarge.label>сделать большую скульптуру</Make_SculptureLarge.label>
+	<Make_SculptureLarge.description>Сделать большую скульптуру.</Make_SculptureLarge.description>
+	<Make_SculptureLarge.jobString>Делает скульптуру.</Make_SculptureLarge.jobString>
 
-  <MakeCPH.label>Casco de protección química</MakeCPH.label>
-  <MakeCPH.description>Una parte de un traje de protección química (también conocido como un traje hazmat). Protege a las personas de materiales o sustancias peligrosas, incluyendo productos químicos, agentes biológicos o materiales radiactivos. Produce 1.</MakeCPH.description>
-  <MakeCPH.jobString>Haciendo un casco de protección química.</MakeCPH.jobString>
+	<Make_SculptureGrand.label>сделать огромную скульптуру</Make_SculptureGrand.label>
+	<Make_SculptureGrand.description>Сделать огромную скульптуру.</Make_SculptureGrand.description>
+	<Make_SculptureGrand.jobString>Делает скульптуру.</Make_SculptureGrand.jobString>
 
-  <BuildTFJ_Tool_Woodcutting_Handaxe.label>Hacha</BuildTFJ_Tool_Woodcutting_Handaxe.label>
-  <BuildTFJ_Tool_Woodcutting_Handaxe.description>Hacer un hacha de mano. Produce 1.</BuildTFJ_Tool_Woodcutting_Handaxe.description>
-  <BuildTFJ_Tool_Woodcutting_Handaxe.jobString>Haciendo un hacha de mano.</BuildTFJ_Tool_Woodcutting_Handaxe.jobString>
+	<MakeMiningHelmet.label>Сделать шахтёрскую каску</MakeMiningHelmet.label>
+	<MakeMiningHelmet.description>Шахтёрская каска. Имеет встроенный свет и увеличивает скорость добычи.</MakeMiningHelmet.description>
+	<MakeMiningHelmet.jobString>Делает шахтёрскую каску.</MakeMiningHelmet.jobString>
 
-  <BuildTFJ_Tool_Building_Hammer.label>Martillo</BuildTFJ_Tool_Building_Hammer.label>
-  <BuildTFJ_Tool_Building_Hammer.description>Hacer un martillo. Equiparlo para aumentar la velocidad de construcción. Produce 1.</BuildTFJ_Tool_Building_Hammer.description>
-  <BuildTFJ_Tool_Building_Hammer.jobString>Haciendo un martillo.</BuildTFJ_Tool_Building_Hammer.jobString>
+	<MakeCPS.label>Сделать комбинезон химзащиты</MakeCPS.label>
+	<MakeCPS.description>Общевойсковой комплект химзащиты может защитить людей от опасных материалов или веществ, в том числе химических веществ, биологических вирусов или радиоактивных материалов.</MakeCPS.description>
+	<MakeCPS.jobString>Делает комбинезон химзащиты.</MakeCPS.jobString>
 
-  <BuildTFJ_Tool_Mining_Pickaxe.label>Pico</BuildTFJ_Tool_Mining_Pickaxe.label>
-  <BuildTFJ_Tool_Mining_Pickaxe.description>Fabricar un pico. Equiparlo para aumentar la velocidad de la minería. Produce 1.</BuildTFJ_Tool_Mining_Pickaxe.description>
-  <BuildTFJ_Tool_Mining_Pickaxe.jobString>Haciendo un pico.</BuildTFJ_Tool_Mining_Pickaxe.jobString>
+	<MakeCPH.label>Сделать шлем химзащиты</MakeCPH.label>
+	<MakeCPH.description>Общевойсковой шлем химзащиты может защитить людей от опасных материалов или веществ, в том числе химических веществ, биологических вирусов или радиоактивных материалов.</MakeCPH.description>
+	<MakeCPH.jobString>Делает шлем химзащиты.</MakeCPH.jobString>
 
-  <MakePsychicInsanityLance.label>Lanza psíquica de locura</MakePsychicInsanityLance.label>
-  <MakePsychicInsanityLance.description>Hacer una Lance psíquica de la locura que conduce a cualquier personaje en un estado de locura a cualquier distancia y a través de cualquier pared cercana. Arma muy potente. Produce 1.</MakePsychicInsanityLance.description>
-  <MakePsychicInsanityLance.jobString>Haciendo lanza psíquica de locura</MakePsychicInsanityLance.jobString>
+	<Make_TFJ_Tool_Woodcutting_Handaxe.label>Сделать ручной топор</Make_TFJ_Tool_Woodcutting_Handaxe.label>
+	<Make_TFJ_Tool_Woodcutting_Handaxe.description>Помогает быстрее рубить деревья.</Make_TFJ_Tool_Woodcutting_Handaxe.description>
+	<Make_TFJ_Tool_Woodcutting_Handaxe.jobString>Делает ручной топор</Make_TFJ_Tool_Woodcutting_Handaxe.jobString>
 
-  <MakePsychicShockLance.label>Lanza psíquica de choque</MakePsychicShockLance.label>
-  <MakePsychicShockLance.description>Artefacto de un solo uso que dirige los disturbios psíquicos hacia un carácter, dejándolos caer en un estado de shock psíquico durante algún tiempo. Gran riesgo de daño cerebral. Produce 1.</MakePsychicShockLance.description>
-  <MakePsychicShockLance.jobString>Haciendo lanza de choque psíquico</MakePsychicShockLance.jobString>
+	<Make_TFJ_Tool_Building_Hammer.label>Сделать молоток</Make_TFJ_Tool_Building_Hammer.label>
+	<Make_TFJ_Tool_Building_Hammer.description>Помогает быстрее сооружать конструкции и делать ремонт.</Make_TFJ_Tool_Building_Hammer.description>
+	<Make_TFJ_Tool_Building_Hammer.jobString>Делает молоток</Make_TFJ_Tool_Building_Hammer.jobString>
 
-  <MakePsychicAnimalPulser.label>Pulsador pulser psíquico animal</MakePsychicAnimalPulser.label>
-  <MakePsychicAnimalPulser.description>Artefacto de un solo uso que lleva a todos los animales de la región a una cólera de caza. Produce 1.</MakePsychicAnimalPulser.description>
-  <MakePsychicAnimalPulser.jobString>Haciendo pulsador psíquico animal</MakePsychicAnimalPulser.jobString>
+	<Make_TFJ_Tool_Mining_Pickaxe.label>Сделать кирку</Make_TFJ_Tool_Mining_Pickaxe.label>
+	<Make_TFJ_Tool_Mining_Pickaxe.description>Помогает быстрее проводить горные работы.</Make_TFJ_Tool_Mining_Pickaxe.description>
+	<Make_TFJ_Tool_Mining_Pickaxe.jobString>Делает кирку</Make_TFJ_Tool_Mining_Pickaxe.jobString>
+	
+	<Make_TFJ_Tool_Sickle.label>Сделать серп</Make_TFJ_Tool_Sickle.label>
+	<Make_TFJ_Tool_Sickle.description>Помогает быстрее собирать урожай.</Make_TFJ_Tool_Sickle.description>
+	<Make_TFJ_Tool_Sickle.jobString>Делает серп</Make_TFJ_Tool_Sickle.jobString>
 
-  <MakePsychicSoothePulser.label>Pulsador psíquico calmante</MakePsychicSoothePulser.label>
-  <MakePsychicSoothePulser.description>Artefacto de un solo uso que da una calma temporal a todo el mundo en el mapa. Produce 1.</MakePsychicSoothePulser.description>
-  <MakePsychicSoothePulser.jobString>Haciendo pulsado psíquico calmante</MakePsychicSoothePulser.jobString>
+	<Make_TFJ_Tool_Hoe.label>Сделать мотыгу</Make_TFJ_Tool_Hoe.label>
+	<Make_TFJ_Tool_Hoe.description>Помогает быстрее делать посадки.</Make_TFJ_Tool_Hoe.description>
+	<Make_TFJ_Tool_Hoe.jobString>Делает серп</Make_TFJ_Tool_Hoe.jobString>
+	
+	<Make_TFJ_Tool_Broom.label>Сделать метлу</Make_TFJ_Tool_Broom.label>
+	<Make_TFJ_Tool_Broom.description>Значительно помогает убирать мусор и расчищать снег.</Make_TFJ_Tool_Broom.description>
+	<Make_TFJ_Tool_Broom.jobString>Делает метлу</Make_TFJ_Tool_Broom.jobString>
+	
+	<MakePsychicInsanityLance.label>Сделать копье безумия</MakePsychicInsanityLance.label>
+	<MakePsychicInsanityLance.description>Использование этого артефакта лишает любого персонажа рассудка и он становится безумным. Использование артефакта возможно на любом расстоянии и даже через стены.</MakePsychicInsanityLance.description>
+	<MakePsychicInsanityLance.jobString>Делает копье безумия.</MakePsychicInsanityLance.jobString>
 
+	<MakePsychicShockLance.label>Сделать копье потрясения</MakePsychicShockLance.label>
+	<MakePsychicShockLance.description>Этот артефакт вызывает психическое потрясение у любого персонажа на какое-то время. Осторожно, очень вероятно повреждение головного мозга.</MakePsychicShockLance.description>
+	<MakePsychicShockLance.jobString>Делает копье потрясения.</MakePsychicShockLance.jobString>
+
+	<MakePsychicAnimalPulser.label>Создать генератор психических импульсов (животные)</MakePsychicAnimalPulser.label>
+	<MakePsychicAnimalPulser.description>Использование этого артефакта приводит ВСЕХ животных в регионе в бешенство.</MakePsychicAnimalPulser.description>
+	<MakePsychicAnimalPulser.jobString>Создает генератор психических импульсов (животные).</MakePsychicAnimalPulser.jobString>
+
+	<MakePsychicSoothePulser.label>Создать генератор психических импульсов (успокоение)</MakePsychicSoothePulser.label>
+	<MakePsychicSoothePulser.description>Использование этого артефакта даёт временное повышение к настроению у ВСЕХ существ на карте.</MakePsychicSoothePulser.description>
+	<MakePsychicSoothePulser.jobString>Создает генератор психических импульсов (успокоение).</MakePsychicSoothePulser.jobString>
+
+	<Make_Apparel_ShieldBelt.label>Сделать пояс-щит</Make_Apparel_ShieldBelt.label>
+	<Make_Apparel_ShieldBelt.description>Сделать пояс-щит.</Make_Apparel_ShieldBelt.description>
+	<Make_Apparel_ShieldBelt.jobString>Делает пояс-щит.</Make_Apparel_ShieldBelt.jobString>
+
+	<Make_Apparel_SmokepopBelt.label>Сделать пояс-дымзавеса</Make_Apparel_SmokepopBelt.label>
+	<Make_Apparel_SmokepopBelt.description>Сделать пояс-дымзавеса.</Make_Apparel_SmokepopBelt.description>
+	<Make_Apparel_SmokepopBelt.jobString>Делает пояс-дымзавеса.</Make_Apparel_SmokepopBelt.jobString>
 
 </LanguageData>

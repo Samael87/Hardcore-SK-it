@@ -3,10 +3,10 @@
 
   <!-- Special non-humanoid factions -->
 
-  <Abomination.label>Abominación</Abomination.label>
-  <Abomination.description>Las abominaciones son aberraciones lentas, pesadas e implacables de carne. Sus cuerpos se retuercen y se contorsionan para sanar incluso heridas importantes rápidamente. Su mandíbula mutilada desprende bilis tóxica. Consumirán y asimilarán, cadáver por cadáver.</Abomination.description>
-  <Abomination.fixedName>abominación</Abomination.fixedName>
-  <Abomination.pawnsPlural>abominaciones</Abomination.pawnsPlural>
+	<Abomination.label>Нечто</Abomination.label>
+	<Abomination.description>Нечто - это медленный и неповоротливый кусок плоти. Их уродливые тела могут выкручиваются и изменяться, для того чтобы вылечить у себя даже крупные раны. С изуродованной пасти стекает токсичная желчь. Они будут поедать трупы, чтобы размножаться.</Abomination.description>
+	<Abomination.pawnsPlural>нечто</Abomination.pawnsPlural>
+	<Abomination.fixedName>Нечто</Abomination.fixedName>
 
 
 </LanguageData>

@@ -1,10 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AsariHunters.label>Republica Asari Unida</AsariHunters.label>
-  <AsariHunters.description>Una flota de naves Asaris.\n\nDespués de encontrarse en esta galaxia sin ninguna memoria de donde vinieron, los Asaris están buscando en la galaxia quiénes son y de dónde vinieron. Viajando como nómadas, por lo general no se establecen en los planetas. No confían en los seres humanos, ya que su tecnología parece ser muy superior.</AsariHunters.description>
-  <AsariHunters.pawnsPlural>asaris</AsariHunters.pawnsPlural>
-  <AsariHunters.leaderTitle>Anciano</AsariHunters.leaderTitle>
-
+	<AsariHunters.label>Объединенный флот азари</AsariHunters.label>
+    <AsariHunters.description>Космический флот азари. Они попали сюда, потеряв все воспоминания о своей родине, галактике, в которой они рождены. Поэтому они всеми способами пытаются найти своё место. Путешествуя, как кочевники, они обычно не оседают на планетах. Они относятся недоверчиво к людям, так как их технологии и эволюция стоит гораздо выше, чем людская.</AsariHunters.description>
+    <AsariHunters.leaderTitle>верховный адмирал</AsariHunters.leaderTitle>
+	<AsariHunters.pawnsPlural>азари</AsariHunters.pawnsPlural>
 
 </LanguageData>

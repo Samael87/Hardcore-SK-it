@@ -1,14 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AsariOvermaster.label>Asari Subyugador</AsariOvermaster.label>
-  <AsariOvermaster.labelPlural>Subyugadore Asari</AsariOvermaster.labelPlural>
+  <!-- Villager Base -->
 
-  <AsariEnslaver.label>Asari Esclavizador</AsariEnslaver.label>
-  <AsariEnslaver.labelPlural>Esclavizadores Asari</AsariEnslaver.labelPlural>
+  <AsariVillager.label>житель деревни</AsariVillager.label>
+  <AsariVillager.labelPlural>жители деревни</AsariVillager.labelPlural>
+  <AsariVillager.labelMale>житель деревни</AsariVillager.labelMale>
+  <AsariVillager.labelMalePlural>жители деревни</AsariVillager.labelMalePlural>
+  <AsariVillager.labelFemale>житель деревни</AsariVillager.labelFemale>
+  <AsariVillager.labelFemalePlural>жители деревни</AsariVillager.labelFemalePlural>
 
-  <AsariHunter.label>Asari Cazador</AsariHunter.label>
-  <AsariHunter.labelPlural>Cazadores Asari</AsariHunter.labelPlural>
+  <!-- Refugee -->
 
+  <AsariRefugee.label>беглец</AsariRefugee.label>
+  <AsariRefugee.labelPlural>беглецы</AsariRefugee.labelPlural>
+  <AsariRefugee.labelMale>беглец</AsariRefugee.labelMale>
+  <AsariRefugee.labelMalePlural>беглецы</AsariRefugee.labelMalePlural>
+  <AsariRefugee.labelFemale>беглец</AsariRefugee.labelFemale>
+  <AsariRefugee.labelFemalePlural>беглецы</AsariRefugee.labelFemalePlural>
+
+  <!-- Overmaster -->
+
+  <AsariOvermaster.label>подчинитель воли</AsariOvermaster.label>
+  <AsariOvermaster.labelPlural>подчинители воли</AsariOvermaster.labelPlural>
+  <AsariOvermaster.labelMale>подчинитель воли</AsariOvermaster.labelMale>
+  <AsariOvermaster.labelMalePlural>подчинители воли</AsariOvermaster.labelMalePlural>
+  <AsariOvermaster.labelFemale>подчинительница воли</AsariOvermaster.labelFemale>
+  <AsariOvermaster.labelFemalePlural>подчинительницы воли</AsariOvermaster.labelFemalePlural>
+
+  <!-- Enslaver -->
+
+  <AsariEnslaver.label>поработитель</AsariEnslaver.label>
+  <AsariEnslaver.labelPlural>поработители</AsariEnslaver.labelPlural>
+  <AsariEnslaver.labelMale>поработитель</AsariEnslaver.labelMale>
+  <AsariEnslaver.labelMalePlural>поработители</AsariEnslaver.labelMalePlural>
+  <AsariEnslaver.labelFemale>поработительница</AsariEnslaver.labelFemale>
+  <AsariEnslaver.labelFemalePlural>поработительницы</AsariEnslaver.labelFemalePlural>
+
+  <!-- Hunter -->
+
+  <AsariHunter.label>охотник</AsariHunter.label>
+  <AsariHunter.labelPlural>охотник</AsariHunter.labelPlural>
+  <AsariHunter.labelMale>охотник</AsariHunter.labelMale>
+  <AsariHunter.labelMalePlural>охотники</AsariHunter.labelMalePlural>
+  <AsariHunter.labelFemale>охотница</AsariHunter.labelFemale>
+  <AsariHunter.labelFemalePlural>охотницы</AsariHunter.labelFemalePlural>
 
 </LanguageData>

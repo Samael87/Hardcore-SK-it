@@ -1,53 +1,37 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Yeast -->
+        <Yeast.label>Дрожжи</Yeast.label>
+        <Yeast.description>Готовые дрожжи, используемые для алкогольного брожения.</Yeast.description>
 
-  <Yeast.label>Levadura</Yeast.label>
-  <Yeast.description>Levadura procesada usada en la fermentación.</Yeast.description>
-  <Yeast.stuffProps.stuffAdjective>Levadura</Yeast.stuffProps.stuffAdjective>
+		<!--  Mash Base -->
+	    <!--
+		<Mash.label>Сахарно-дрожжевая смесь</Mash.label>
+        <Mash.description>Смесь дрожжей и сахаросодержащих растений.</Mash.description>
+		-->
 
+        <grainmash.label>Основа для виски</grainmash.label>
+        <grainmash.description>Сахарно-дрожжевая смесь с добавлением пшеницы, необходимая для производства виски.</grainmash.description>
 
-  <!-- Saké Mash -->
+        <sakemash.label>Основа для саке</sakemash.label>
+        <sakemash.description>Сахарно-дрожжевая смесь с добавлением риса, необходимая для производства саке.</sakemash.description>
 
-  <sakemash.label>Mezcla de Saké</sakemash.label>
-  <sakemash.description>Una mezcla de levadura y arroz para fermentar en Saké.</sakemash.description>
+        <rummash.label>Основа для рома</rummash.label>
+        <rummash.description>Сахарно-дрожжевая смесь с добавлением сахарного тростника, необходимая для производства рома.</rummash.description>
 
+        <cidermash.label>Основа для сидра</cidermash.label>
+        <cidermash.description>Сахарно-дрожжевая смесь с добавлением яблок, необходимая для производства сидра.</cidermash.description>
 
-  <!-- Rum Mash -->
+        <berrymash.label>Основа для столового вина</berrymash.label>
+        <berrymash.description>Сахарно-дрожжевая смесь с добавлением разных ягод, необходимая для производства столового вина.</berrymash.description>
 
-  <rummash.label>Mezcla de Ron</rummash.label>
-  <rummash.description>Una mezcla de levadura y caña de azúcar para fermentar en ron.</rummash.description>
+        <vodkamash.label>Основа для водки</vodkamash.label>
+        <vodkamash.description>Сахарно-дрожжевая смесь с добавлением сырого картофеля, необходимая для производства водки.</vodkamash.description>
 
+        <tequilamash.label>Основа для текилы</tequilamash.label>
+        <tequilamash.description>Сахарно-дрожжевая смесь с добавлением голубой агавы, необходимая для производства текилы.</tequilamash.description>
 
-  <!-- Cider Mash -->
-
-  <cidermash.label>Mezcla de Sidra</cidermash.label>
-  <cidermash.description>Una mezcla de levadura y manzanas para fermentar en sidra.</cidermash.description>
-
-
-  <!-- Berry Mash -->
-
-  <berrymash.label>Mezcla de Baya</berrymash.label>
-  <berrymash.description>Una mezcla de levadura y varias bayas para fermentar en Vino de bayas.</berrymash.description>
-
-
-  <!-- Vodka Mash -->
-
-  <vodkamash.label>Mezcla de Vodka</vodkamash.label>
-  <vodkamash.description>Una mezcla de levadura y patatas crudas para fermentar en Vodka.</vodkamash.description>
-
-
-  <!-- Tequila Mash -->
-
-  <tequilamash.label>Mezcla de Tequila</tequilamash.label>
-  <tequilamash.description>Una mezcla de levadura y agave azul para fermentar en Tequila.</tequilamash.description>
-
-
-  <!-- Wine Mash -->
-
-  <winemash.label>Mezcla de vino</winemash.label>
-  <winemash.description>Una mezcla de levadura y uva para fermentar en Vino.</winemash.description>
-
+        <winemash.label>Основа для вина</winemash.label>
+        <winemash.description>Сахарно-дрожжевая смесь с добавлением винограда, необходимая для производства вина.</winemash.description>
 
 </LanguageData>

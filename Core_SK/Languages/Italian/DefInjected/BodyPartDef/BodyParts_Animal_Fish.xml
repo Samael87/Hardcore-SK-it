@@ -1,20 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <FishBody.label>cuerpo</FishBody.label>
-  <FishHead.label>cabeza</FishHead.label>
-  <FishMouth.label>boca</FishMouth.label>
-  <LeftGill.label>Branquia izquierda</LeftGill.label>
-  <RightGill.label>branquia derecha</RightGill.label>
-  <LeftFin.label>aleta izquierda</LeftFin.label>
-  <RightFin.label>aleta derecha</RightFin.label>
-  <DorsalFin.label>aleta derecha</DorsalFin.label>
-  <VentralFin.label>aleta izquierda</VentralFin.label>
-  <CaudalFin.label>aleta derecha</CaudalFin.label>
-  <SquidBody.label>cuerpo</SquidBody.label>
-  <SquidHead.label>cabeza</SquidHead.label>
-  <SquidMouth.label>boca</SquidMouth.label>
-  <Tentacle.label>aleta derecha</Tentacle.label>
-
+	<FishMouth.label>рот</FishMouth.label>
+	<Gill.label>жабра</Gill.label>
+	<Fin.label>плавник</Fin.label>
+	<DorsalFin.label>спинной плавник</DorsalFin.label>
+	<VentralFin.label>брюшной плавник</VentralFin.label>
+	<CaudalFin.label>хвостовой плавник</CaudalFin.label>
+	<SquidBody.label>тело</SquidBody.label>
+	<SquidHead.label>голова</SquidHead.label>
+	<SquidMouth.label>рот</SquidMouth.label>
+	<Tentacle.label>тентакля</Tentacle.label>
 
 </LanguageData>

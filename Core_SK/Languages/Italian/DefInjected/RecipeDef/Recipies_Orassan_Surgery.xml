@@ -1,25 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <InstallOrassanTail.label>Implantar cola</InstallOrassanTail.label>
-  <InstallOrassanTail.description>Implanta cola.</InstallOrassanTail.description>
-  <InstallOrassanTail.jobString>Implantando cola.</InstallOrassanTail.jobString>
+	<CreateClothTail.label>Создать тряпичный хвост</CreateClothTail.label>
+	<CreateClothTail.description>Создать хвост из ткани.</CreateClothTail.description>
+	<CreateClothTail.jobString>Делает тряпичный хвост.</CreateClothTail.jobString>
 
-  <InstallCyberneticTail.label>Implantar cola cibernética</InstallCyberneticTail.label>
-  <InstallCyberneticTail.description>Implanta cola cibernética.</InstallCyberneticTail.description>
-  <InstallCyberneticTail.jobString>Implantando cola cibernética.</InstallCyberneticTail.jobString>
+	<CreatePlasteelClaws.label>Создать продвинутые когти</CreatePlasteelClaws.label>
+	<CreatePlasteelClaws.description>Создать продвинутые когти.</CreatePlasteelClaws.description>
+	<CreatePlasteelClaws.jobString>Создает продвинутые когти.</CreatePlasteelClaws.jobString>
 
-  <InstallPlasteelClaws.label>Implantar garras avanzadas</InstallPlasteelClaws.label>
-  <InstallPlasteelClaws.description>Implanta garras avanzadas.</InstallPlasteelClaws.description>
-  <InstallPlasteelClaws.jobString>Implantando garras avanzadas.</InstallPlasteelClaws.jobString>
+	<CreateBionicTail.label>Создать бионический хвост</CreateBionicTail.label>
+	<CreateBionicTail.description>Создать бионический хвост.</CreateBionicTail.description>
+	<CreateBionicTail.jobString>Создает бионический хвост.</CreateBionicTail.jobString>
 
-  <InstallClothTail.label>Implantar cola de tela</InstallClothTail.label>
-  <InstallClothTail.description>Implanta cola de tela.</InstallClothTail.description>
-  <InstallClothTail.jobString>Implantando de tela.</InstallClothTail.jobString>
-
-  <InstallBionicTail.label>Implantar cola biónica</InstallBionicTail.label>
-  <InstallBionicTail.description>Implanta cola biónica.</InstallBionicTail.description>
-  <InstallBionicTail.jobString>Implantando cola biónica.</InstallBionicTail.jobString>
-
+	<CreateCyberneticTail.label>Создать кибернетический хвост</CreateCyberneticTail.label>
+	<CreateCyberneticTail.description>Улучшить бионический хвост.</CreateCyberneticTail.description>
+	<CreateCyberneticTail.jobString>Создает кибернетический хвост.</CreateCyberneticTail.jobString>
 
 </LanguageData>

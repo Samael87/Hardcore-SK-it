@@ -1,36 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PlayGo.reportString>Yendo a jugar.</PlayGo.reportString>
-  <PlayCards.reportString>Jugando cartas.</PlayCards.reportString>
-  <PlayReversi.reportString>Jugando Reversi.</PlayReversi.reportString>
-  <PlayRimColony.reportString>Jugando ColoniaRim.</PlayRimColony.reportString>
-  <ReadBook.reportString>Leyendo un libro.</ReadBook.reportString>
+	<PlayGo.reportString> Играет в Го.</PlayGo.reportString>
+	<PlayCards.reportString>Играет в карты.</PlayCards.reportString>
+	<PlayReversi.reportString>Играет в "Реверси".</PlayReversi.reportString>
+	<PlayRimColony.reportString>Играет в "РимКолония".</PlayRimColony.reportString>
+	<ReadBook.reportString>Читает книгу.</ReadBook.reportString>
 
-
-  <!-- <JobDef>
-		<defName>GetMassage</defName>
-		<driverClass>JobDriver_WatchBuilding</driverClass>
-		<reportString>Getting a massage.</reportString>
-		<joyDuration>4000</joyDuration>
-		<joyMaxParticipants>1</joyMaxParticipants>
-		<joyGainRate>1</joyGainRate>
-		<joyKind>Meditative</joyKind>
-	</JobDef> -->
-
-  <Doodle.reportString>Garabateando.</Doodle.reportString>
-  <InterpretArt.reportString>Interpretando obra de arte.</InterpretArt.reportString>
-  <PlayArcadeRS.reportString>Jugando Remolino De Ron.</PlayArcadeRS.reportString>
-  <PlayArcadeMC.reportString>Jugando MintCraft.</PlayArcadeMC.reportString>
-  <PlayArcadeHL.reportString>Jugando la vida Halva.</PlayArcadeHL.reportString>
-  <PlayArcadeES.reportString>Jugando  Elder Scones.</PlayArcadeES.reportString>
-  <PlayArcadeBG.reportString>Jugando Baguettris.</PlayArcadeBG.reportString>
-  <PlayArcadeCB.reportString>Jugando Baba Cocinada.</PlayArcadeCB.reportString>
-  <PlayArcadePS.reportString>Jugando Plantas vs Salamis.</PlayArcadePS.reportString>
-  <PlayArcadePK.reportString>Jugando Psycho Knots.</PlayArcadePK.reportString>
-  <PlayArcadeSP.reportString>Jugando Speltunky.</PlayArcadeSP.reportString>
-  <PlayArcadeTZ.reportString>Jugando The Zimz.</PlayArcadeTZ.reportString>
-  <PlayArcadeTV.reportString>Jugando Trauma Vendor.</PlayArcadeTV.reportString>
-
+	<Doodle.reportString>Рисует.</Doodle.reportString>
+	<InterpretArt.reportString>Восхищается картиной.</InterpretArt.reportString>
+	<PlayArcadeRS.reportString>Играет в "Ром".</PlayArcadeRS.reportString>
+	<PlayArcadeMC.reportString>Играет в "Майнкрафт".</PlayArcadeMC.reportString>
+	<PlayArcadeHL.reportString>Играет в "Халва".</PlayArcadeHL.reportString>
+	<PlayArcadeES.reportString>Играет в "Елдер Сконс".</PlayArcadeES.reportString>
+	<PlayArcadeBG.reportString>Играет в "Багитетрис".</PlayArcadeBG.reportString>
+	<PlayArcadeCB.reportString>Играет в "Повар хакаси".</PlayArcadeCB.reportString>
+	<PlayArcadePS.reportString>Играет в "Растения против салямов".</PlayArcadePS.reportString>
+	<PlayArcadePK.reportString>Играет в "Психо пицца".</PlayArcadePK.reportString>
+	<PlayArcadeSP.reportString>Играет в "Выгребная яма".</PlayArcadeSP.reportString>
+	<PlayArcadeTZ.reportString>Играет в "Зимз".</PlayArcadeTZ.reportString>
+	<PlayArcadeTV.reportString>Играет в "Поиск выживших".</PlayArcadeTV.reportString>
 
 </LanguageData>

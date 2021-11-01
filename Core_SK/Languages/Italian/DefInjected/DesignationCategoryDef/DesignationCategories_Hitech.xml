@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0"?>
 <LanguageData>
 
-  <Accessories.label>Accesorios</Accessories.label>
-  <Accessories.description>Pequeñas construcciones.</Accessories.description>
-
-  <OutsideFloors.label>Suelos de exterior</OutsideFloors.label>
-  <OutsideFloors.description>Suelos metálicos y suelos para el crecimiento de plantas.</OutsideFloors.description>
-
-  <NaturalFloors.label>Pisos Naturales</NaturalFloors.label>
-  <NaturalFloors.description>Suelo de baldosas de piedra, arena y arcilla.</NaturalFloors.description>
+	<OutsideFloors.label>Специальный пол</OutsideFloors.label>
+	<NaturalFloors.label>Природный пол</NaturalFloors.label>
+	<Accessories.label>Аксессуары</Accessories.label>
+	<Rugs.label>Ковры</Rugs.label>
+	<SK_category_terraform.label>Терраформирование</SK_category_terraform.label>
+	<ZonesColor.label>ZonesColor(shouldbehidden)</ZonesColor.label>
+	<DumpingZonesColor.label>DumpingZonesColor(shouldbehidden)</DumpingZonesColor.label>
+	<LWM_DS_Storage.label>Хранение</LWM_DS_Storage.label>
 
 </LanguageData>

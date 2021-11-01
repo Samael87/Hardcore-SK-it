@@ -1,41 +1,62 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+	<!-- Disabled because it duplicates regular flour products -->
+	<!-- <HadCornbreadMuffin.label>Съел печёную вкусняшку</HadCornbreadMuffin.label>
+	<HadCornbreadMuffin.description>Вкуснятина.</HadCornbreadMuffin.description> -->
 
-  <HedStew.label>Comió estofado</HedStew.label>
-  <HedStew.stages.0.label>Bien alimentado: Estofado</HedStew.stages.0.label>
+	<HadPizza.label>Съел пиццу</HadPizza.label>
+	<HadPizza.description>Съел пиццу с кучей различных ингредиентов. Кажется мои кости становятся крепче...</HadPizza.description>
 
-  <HedGmeat.label>Comió carne a la parrilla</HedGmeat.label>
-  <HedGmeat.stages.0.label>Bien alimentado: Comida a la parrilla</HedGmeat.stages.0.label>
+	<HadMisoSoup.label>Съел мисо суп</HadMisoSoup.label>
+	<HadMisoSoup.description>Съел чрезвычайно полезное блюдо. Я чувствую, как сила здорового питания течет по моим венам...</HadMisoSoup.description>
 
-  <HedIceCream.label>Comió helado</HedIceCream.label>
-  <HedIceCream.stages.0.label>Bien alimentado: Helado</HedIceCream.stages.0.label>
+	<HadCheeseBurger.label>Съел чизбургер</HadCheeseBurger.label>
+	<HadCheeseBurger.description>Я съел бургер с вкуснейшим сыром. Вау!</HadCheeseBurger.description>
 
-  <HedPizza.label>Comió Pizza</HedPizza.label>
-  <HedPizza.stages.0.label>Bien alimentado: Pizza</HedPizza.stages.0.label>
+	<HadCoconutCurry.label>Съел кокосовое карри</HadCoconutCurry.label>
+	<HadCoconutCurry.description>Съел вкусное экзотическое блюдо.</HadCoconutCurry.description>
 
-  <HedPorridge.label>Comió Gachas de avena </HedPorridge.label>
-  <HedPorridge.stages.0.label>Bien alimentado: Gachas de avena</HedPorridge.stages.0.label>
+	<HadMushroomMadness.label>Съел грибное безумие</HadMushroomMadness.label>
+	<HadMushroomMadness.description>Съел блюдо из галлюциногенных грибов.</HadMushroomMadness.description>
 
-  <HedSmoothie.label>Comió Zalamero</HedSmoothie.label>
-  <HedSmoothie.stages.0.label>Bien alimentado: Zalamero</HedSmoothie.stages.0.label>
+	<HadKebab.label>Съел кебаб</HadKebab.label>
+	<HadKebab.description>Съел вкусный кебаб.</HadKebab.description>
 
-  <HedStirfry.label>Comió Salteado</HedStirfry.label>
-  <HedStirfry.stages.0.label>Bien alimentado: Salteado</HedStirfry.stages.0.label>
+	<HadMakiRolls.label>Съел маки роллы</HadMakiRolls.label>
+	<HadMakiRolls.description>Съел полезные маки роллы.</HadMakiRolls.description>
 
-  <HedTacos.label>Comió Tacos</HedTacos.label>
-  <HedTacos.stages.0.label>Bien alimentado: Tacos</HedTacos.stages.0.label>
+	<HadHeartyStew.label>Съел домашнее рагу</HadHeartyStew.label>
+	<HadHeartyStew.description>Съел вкусное и согревающее рагу.</HadHeartyStew.description>
 
-  <HedYogurt.label>Comió Yogurt</HedYogurt.label>
-  <HedYogurt.stages.0.label>Bien alimentado: Yogurt</HedYogurt.stages.0.label>
+	<HadPotatoesCheese.label>Съел картошку с сыром</HadPotatoesCheese.label>
+	<HadPotatoesCheese.description>Можно мне еще одну порцию этой жареной вкуснятины?</HadPotatoesCheese.description>
+	
+	<HadGrilledCheese.label>Съел бутер с сыром</HadGrilledCheese.label>
+	<HadGrilledCheese.description>Можно мне еще одну порцию этой жареной вкуснятины?</HadGrilledCheese.description>
 
-  <HedGrilledchz.label>Comió el queso asado</HedGrilledchz.label>
-  <HedGrilledchz.stages.0.label>Bien alimentado: Queso asado</HedGrilledchz.stages.0.label>
+	<HadIceCream.label>Съел мороженое</HadIceCream.label>
+	<HadIceCream.description>Это так вкусно! И холодно!</HadIceCream.description>
 
-  <HedSweetbun.label>Comimos un buen horneado.</HedSweetbun.label>
-  <HedSweetbun.stages.0.label>Bien alimentado: Buen Horneado</HedSweetbun.stages.0.label>
+	<HedStew.label>похлебка</HedStew.label>
+	<HedStew.stages.0.label>съел похлебки</HedStew.stages.0.label>
+	<HedStew.description>Питательное блюдо из грибов.</HedStew.description>
 
-  <HedPolenta.label>Comió Polenta</HedPolenta.label>
-  <HedPolenta.stages.0.label>Bien alimentado: Polenta</HedPolenta.stages.0.label>
+	<HedGmeat.label>жаркое</HedGmeat.label>
+	<HedGmeat.stages.0.label>съел жаркого</HedGmeat.stages.0.label>
 
+	<HedPizza.label>пицца</HedPizza.label>
+	<HedPizza.stages.0.label>съел вкусной пиццы</HedPizza.stages.0.label>
+	<HedPizza.description>Лучшая еда в мире!</HedPizza.description>
+
+	<HedYogurt.label>йогурт</HedYogurt.label>
+	<HedYogurt.stages.0.label>вкусный йогурт</HedYogurt.stages.0.label>
+	<HedYogurt.description>Нежный сливочный вкус дарит отличное настроение!</HedYogurt.description>
+
+	<HedGrilledchz.label>плавленый сыр</HedGrilledchz.label>
+	<HedGrilledchz.stages.0.label>съел плавленого сыра</HedGrilledchz.stages.0.label>
+
+	<HedSweetbun.label>печеная вкусняшка</HedSweetbun.label>
+	<HedSweetbun.stages.0.label>съел печеную вкусняшку</HedSweetbun.stages.0.label>
+	<HedSweetbun.description>Меня переполняет энергия, я двигаюсь как Флэш.</HedSweetbun.description>
 
 </LanguageData>

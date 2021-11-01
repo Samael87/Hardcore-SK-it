@@ -1,22 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <ShipMechChunk.label>Trozo mecánico de la nave</ShipMechChunk.label>
-  <ShipMechChunk.description>Un pedazo de una nave espacial. Puede ser deconstruido para producir mecanismos útiles, alambres y componentes electrónicos.</ShipMechChunk.description>
+	<ShipMechChunk.label>Обломок технического отсека</ShipMechChunk.label> 
+	<ShipMechChunk.description>Обломок космического корабля, а точнее - одного из его служебных отсеков. Содержит массу различных устройст и приборов и может быть разобран для получения различных механизмов, проводов и электронных компонентов.</ShipMechChunk.description> 
 
-  <CrashedShipWreck.label>Naufragio</CrashedShipWreck.label>
-  <ShipWreck.label>Naufragio de nave</ShipWreck.label>
+	<CrashedShipWreck.label>Разбившийся обломок корабля</CrashedShipWreck.label> 
+	
+	<ShipWreck.label>Обломок корабля</ShipWreck.label> 
+	
+	<Totem.label>Тотем</Totem.label> 
+	<Totem.description>Целый обломок материи, обработанный скульптором и превращённый в нечто, приятное глазу.</Totem.description> 
 
-  <Totem.label>Tótem</Totem.label>
-  <Totem.description>Una pieza de madera del tamaño de una persona; material esculpido en una forma artística.</Totem.description>
+	<Cairn.label>Каирн</Cairn.label> 
+	<Cairn.description>Пирамидка из обломков материи, обработанная скульптором и превращённая в нечто, приятное глазу.</Cairn.description> 
 
-  <Cairn.label>Mojón</Cairn.label>
-  <Cairn.description>Una pieza de tamaño de una persona, material esculpido en una forma artística.</Cairn.description>
-
-
-  <!-- Landed Skyfallers -->
-
-  <DropPodLanded.label>Naufragio de capsula</DropPodLanded.label>
-  <ShipWreckLanded.label>Naufragio de nave</ShipWreckLanded.label>
-
+	<DropPodLanded.label>Обломок спасательной капсулы</DropPodLanded.label> 
+	
+	<ShipWreckLanded.label>Обломок корабля</ShipWreckLanded.label> 
+	
+	
 </LanguageData>

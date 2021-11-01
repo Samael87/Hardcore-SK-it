@@ -3,7 +3,6 @@
 
   <!-- In-game camera -->
 
-  <FollowSelected.label>Seguir</FollowSelected.label>
-
+	<FollowSelected.label>следовать</FollowSelected.label> 
 
 </LanguageData>

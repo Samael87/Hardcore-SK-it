@@ -1,80 +1,57 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
 <LanguageData>
 
-  <!-- Raw resources -->
+	<ConvertResourcesRaw.label>Конвертировать ресурс в материю</ConvertResourcesRaw.label>
+	<ConvertResourcesRaw.description>Конвертировать ресурс в материю. Производится 150 шт.</ConvertResourcesRaw.description>
+	<ConvertResourcesRaw.jobString>Конвертирует ресурс в материю.</ConvertResourcesRaw.jobString>
 
-  <ConvertResourcesRaw.label>Materia inorgánica x5</ConvertResourcesRaw.label>
-  <ConvertResourcesRaw.description>Hacer materia inorgánica procesando y convirtiendo diversos tipos de recursos crudos. Produce 5.</ConvertResourcesRaw.description>
-  <ConvertResourcesRaw.jobString>Convirtiendo recursos en materia.</ConvertResourcesRaw.jobString>
+	<ConvertToSteel.label>Конвертировать материю в железо</ConvertToSteel.label>
+	<ConvertToSteel.description>Конвертировать материю в железо. Производится 100 шт.</ConvertToSteel.description>
+	<ConvertToSteel.jobString>Конвертирует материю в железо.</ConvertToSteel.jobString>
 
+	<ConvertToCopper.label>Конвертировать материю в медь</ConvertToCopper.label>
+	<ConvertToCopper.description>Конвертировать материю в медь. Производится 100 шт.</ConvertToCopper.description>
+	<ConvertToCopper.jobString>Конвертирует материю в медь.</ConvertToCopper.jobString>
 
-  <!-- steel -->
+	<ConvertToAluminium.label>Конвертировать материю в бокситы</ConvertToAluminium.label>
+	<ConvertToAluminium.description>Конвертировать материю в бокситы. Производится 80 шт.</ConvertToAluminium.description>
+	<ConvertToAluminium.jobString>Конвертирует материю в бокситы.</ConvertToAluminium.jobString>
+	
+	<ConvertToNickel.label>Конвертировать материю в никель</ConvertToNickel.label>
+	<ConvertToNickel.description>Конвертировать материю в никель. Производится 20 шт.</ConvertToNickel.description>
+	<ConvertToNickel.jobString>Конвертирует материю в никель.</ConvertToNickel.jobString>
 
-  <ConvertToSteel.label>Mineral de hierro x25</ConvertToSteel.label>
-  <ConvertToSteel.description>Convertir materia inorgánica en mineral de hierro. Produces 25.</ConvertToSteel.description>
-  <ConvertToSteel.jobString>Convirtiendo de materia en mineral de hierro.</ConvertToSteel.jobString>
+	<ConvertToUranium.label>Конвертировать материю в уран</ConvertToUranium.label>
+	<ConvertToUranium.description>Конвертировать материю в уран. Производится 50 шт.</ConvertToUranium.description>
+	<ConvertToUranium.jobString>Конвертирует материю в уран.</ConvertToUranium.jobString>
 
+	<ConvertToTitanium.label>Конвертировать материю в ильменит</ConvertToTitanium.label>
+	<ConvertToTitanium.description>Конвертировать материю в ильменит. Производится 20 шт.</ConvertToTitanium.description>
+	<ConvertToTitanium.jobString>Конвертирует материю в ильменит.</ConvertToTitanium.jobString>
 
-  <!-- copper -->
+	<ConvertToWolframite.label>Конвертировать материю в вольфрамит</ConvertToWolframite.label>
+	<ConvertToWolframite.description>Конвертировать материю в вольфрамит. Производится 10 шт.</ConvertToWolframite.description>
+	<ConvertToWolframite.jobString>Конвертирует материю в вольфрамит.</ConvertToWolframite.jobString>
 
-  <ConvertToCopper.label>Mineral de cobre x9</ConvertToCopper.label>
-  <ConvertToCopper.description>Convertir materia inorgánica en mineral de cobre. Produces 9.</ConvertToCopper.description>
-  <ConvertToCopper.jobString>Convirtiendo de materia en mineral de cobre.</ConvertToCopper.jobString>
+	<ConvertToSilver.label>Конвертировать материю в серебро</ConvertToSilver.label>
+	<ConvertToSilver.description>Конвертировать материю в серебро. Производится 300 шт.</ConvertToSilver.description>
+	<ConvertToSilver.jobString>Конвертирует материю в серебро.</ConvertToSilver.jobString>
 
+	<ConvertToGold.label>Конвертировать материю в золото</ConvertToGold.label>
+	<ConvertToGold.description>Конвертировать материю в золото. Производится 20 шт.</ConvertToGold.description>
+	<ConvertToGold.jobString>Конвертирует материю в золото.</ConvertToGold.jobString>
 
-  <!-- aluminium -->
+	<ConvertToPolymers.label>Конвертировать материю в полимеры</ConvertToPolymers.label>
+	<ConvertToPolymers.description>Конвертировать материю в полимеры. Производится 100 шт.</ConvertToPolymers.description>
+	<ConvertToPolymers.jobString>Конвертирует материю в полимеры.</ConvertToPolymers.jobString>
+	
+	<ConvertToParaffins.label>Конвертировать материю в парафин</ConvertToParaffins.label>
+	<ConvertToParaffins.description>Конвертировать материю в парафин. Производится 100 шт.</ConvertToParaffins.description>
+	<ConvertToParaffins.jobString>Конвертирует материю в парафин.</ConvertToParaffins.jobString>
 
-  <ConvertToAluminium.label>Mineral de bauxita x20</ConvertToAluminium.label>
-  <ConvertToAluminium.description>Convertir materia inorgánica en mineral de bauxita. Produces 20.</ConvertToAluminium.description>
-  <ConvertToAluminium.jobString>Convirtiendo materia en mineral de bauxita.</ConvertToAluminium.jobString>
-
-
-  <!-- Nickel -->
-
-  <ConvertToNickel.label>Mineral de níquel x2</ConvertToNickel.label>
-  <ConvertToNickel.description>Convertir la materia inorgánica en mineral de níquel. Produce 2.</ConvertToNickel.description>
-  <ConvertToNickel.jobString>Convirtiendo materia en mineral de níquel.</ConvertToNickel.jobString>
-
-
-  <!-- uranium -->
-
-  <ConvertToUranium.label>Mineral de uranio x5</ConvertToUranium.label>
-  <ConvertToUranium.description>Convertir la materia inorgánica en mineral de uranio. Produces 5.</ConvertToUranium.description>
-  <ConvertToUranium.jobString>Convirtiendo materia en mineral de uranio.</ConvertToUranium.jobString>
-
-
-  <!-- ilmenite -->
-
-  <ConvertToTitanium.label>Mineral de Ilmenita x2</ConvertToTitanium.label>
-  <ConvertToTitanium.description>Convertir materia inorgánica en Ilmenita, el mineral de titanio. Produce 2.</ConvertToTitanium.description>
-  <ConvertToTitanium.jobString>Convirtiendo materia en mineral de Ilmenita.</ConvertToTitanium.jobString>
-
-
-  <!-- wolframite -->
-
-  <ConvertToWolframite.label>Mineral de Wolframita x1</ConvertToWolframite.label>
-  <ConvertToWolframite.description>Convertir materia inorgánica en wolframita, el mineral de tungsteno. Produce 1.</ConvertToWolframite.description>
-  <ConvertToWolframite.jobString>Convirtiendo materia en mineral de Wolframita.</ConvertToWolframite.jobString>
-
-
-  <!-- silver -->
-
-  <ConvertToSilver.label>Mineral de plata x50</ConvertToSilver.label>
-  <ConvertToSilver.description>Convertir materia inorgánica en mineral de plata. Produces 50.</ConvertToSilver.description>
-  <ConvertToSilver.jobString>Convirtiendo materia en mineral de plata.</ConvertToSilver.jobString>
-
-
-  <!-- gold -->
-
-  <ConvertToGold.label>Mineral de oro x2</ConvertToGold.label>
-  <ConvertToGold.description>Convertir materia inorgánica en mineral de oro. Produces 2.</ConvertToGold.description>
-  <ConvertToGold.jobString>Convirtiendo de la materia en mineral de oro.</ConvertToGold.jobString>
-
-
-  <!-- Polymers -->
-
-  <ConvertToPolymers.label>Polímeros x25</ConvertToPolymers.label>
-  <ConvertToPolymers.description>Convertir materia inorgánica en polímeros. Produce 25.</ConvertToPolymers.description>
-  <ConvertToPolymers.jobString>Convirtiendo la materia en polímeros.</ConvertToPolymers.jobString>
+	<ConvertToSulphates.label>Конвертировать материю в сульфаты</ConvertToSulphates.label>
+	<ConvertToSulphates.description>Конвертировать материю в сульфаты. Производится 100 шт.</ConvertToSulphates.description>
+	<ConvertToSulphates.jobString>Конвертирует материю в сульфаты.</ConvertToSulphates.jobString>
 
 </LanguageData>

@@ -3,17 +3,10 @@
 
   <!-- Crawler -->
 
-  <MechanicalShell.label>revestimiento</MechanicalShell.label>
-  <PlasmaCutter.label>cortador de plasma</PlasmaCutter.label>
-  <MechanicalAntenna.label>antena</MechanicalAntenna.label>
-  <MechanicalCore.label>núcleo</MechanicalCore.label>
-  <FrontLeftMechanicalLeg.label>pierna delantera izquierda</FrontLeftMechanicalLeg.label>
-  <FrontRightMechanicalLeg.label>pierna delantera derecha</FrontRightMechanicalLeg.label>
-  <MiddleLeftMechanicalLeg.label>pierna media izquierda</MiddleLeftMechanicalLeg.label>
-  <MiddleRightMechanicalLeg.label>pierna media derecha</MiddleRightMechanicalLeg.label>
-  <RearLeftMechanicalLeg.label>pierna posterior izquierda</RearLeftMechanicalLeg.label>
-  <RearRightMechanicalLeg.label>pierna posterior derecha</RearRightMechanicalLeg.label>
-  <MechanicalGearBox.label>caja de Cambios</MechanicalGearBox.label>
-
+ <MechanicalShell.label>Панцирь</MechanicalShell.label>
+ <PlasmaCutter.label>Плазменный резец</PlasmaCutter.label>
+ <MechanicalAntenna.label>Механическая антенна</MechanicalAntenna.label>
+ <MechanicalCore.label>Ядро</MechanicalCore.label>
+ <MechanicalGearBox.label>Коробка передач</MechanicalGearBox.label>
 
 </LanguageData>

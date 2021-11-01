@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <MechanoidTerraformer.label>Artefacto extraño</MechanoidTerraformer.label>
-  <MechanoidTerraformer.description>Este extraño artefacto parece modificar el clima local. Debes enviar a alguien para que lo estudie. Sin embargo, tenga cuidado; esta cosa apesta a tecnología Mecanoide...</MechanoidTerraformer.description>
+	<MechanoidTerraformer.label>Террафомер механоидов</MechanoidTerraformer.label>
+	<MechanoidTerraformer.description>Этот странный артефакт, кажется, изменил местную погоду. Вы должны послать кого-нибудь для его изучения.
+Но будьте осторожны, эта штука инопланетного происхождения!</MechanoidTerraformer.description>
 
-  <MechanoidPylon.label>Pilón (Poste) Mecanoide</MechanoidPylon.label>
-  <MechanoidPylon.description>Un pilón (Poste) Mecanoide, usado para aprovechar el poder del cielo. Parece estar protegido por un escudo alimentado por el terraformador.</MechanoidPylon.description>
+	<MechanoidPylon.label>Пилон терраформера</MechanoidPylon.label>
+	<MechanoidPylon.description>Пилон терраформера, каким-то образом взаимодействует с терраформером, высвобождая огромное количество энергии!</MechanoidPylon.description>
 
-  <MechanoidPylonDestructible.label>Pilón (Poste) Mecanoide</MechanoidPylonDestructible.label>
-  <MechanoidPylonDestructible.description>Un pilón Mecanoide, usado para aprovechar el poder del cielo. Parece estar protegido por un escudo alimentado por la terraformadora.</MechanoidPylonDestructible.description>
-
-
+	<MechanoidPylonDestructible.label>Пилон терраформера</MechanoidPylonDestructible.label>
+	<MechanoidPylonDestructible.description>Пилон терраформера, каким-то образом взаимодействует с терраформером, высвобождая огромное количество энергии!</MechanoidPylonDestructible.description>
+	
 </LanguageData>

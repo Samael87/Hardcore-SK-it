@@ -1,29 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PredatorsRaven.label>Cuervo - Predadores</PredatorsRaven.label>
-  <PredatorsRaven.labelPlural>Predators Ravens</PredatorsRaven.labelPlural>
+  <PredatorsRaven.label>Ворон хищников</PredatorsRaven.label>
+  <PredatorsRaven.labelPlural>Вороны хищников</PredatorsRaven.labelPlural>
+  <PredatorsRaven.labelMale>Ворон хищников</PredatorsRaven.labelMale>
+  <PredatorsRaven.labelMalePlural>Вороны хищников</PredatorsRaven.labelMalePlural>
+  <PredatorsRaven.labelFemale>Ворон хищников</PredatorsRaven.labelFemale>
+  <PredatorsRaven.labelFemalePlural>Вороны хищников</PredatorsRaven.labelFemalePlural>
 
-  <PredatorsLynx.label>Ojo de lince - Predatores</PredatorsLynx.label>
-  <PredatorsLynx.labelPlural>Predators Lynxs</PredatorsLynx.labelPlural>
+  <PredatorsLynx.label>Рысь хищников</PredatorsLynx.label>
+  <PredatorsLynx.labelPlural>Рысь хищников</PredatorsLynx.labelPlural>
 
-  <PredatorsWolf.label>Lobo - Predadores</PredatorsWolf.label>
-  <PredatorsWolf.labelPlural>Predators Wolfs</PredatorsWolf.labelPlural>
+  <PredatorsWolf.label>Волк хищников</PredatorsWolf.label>
+  <PredatorsWolf.labelPlural>Волки хищников</PredatorsWolf.labelPlural>
 
-  <PredatorsHawkeye.label>Ojo de Halcon - Predadores</PredatorsHawkeye.label>
-  <PredatorsHawkeye.labelPlural>Predators Hawkeyes</PredatorsHawkeye.labelPlural>
+  <PredatorsHawkeye.label>Ястреб хищников</PredatorsHawkeye.label>
+  <PredatorsHawkeye.labelPlural>Ястреб хищников</PredatorsHawkeye.labelPlural>
 
-  <PredatorsBomber.label>Bombardero - Predadores</PredatorsBomber.label>
-  <PredatorsBomber.labelPlural>Predators Bombers</PredatorsBomber.labelPlural>
+  <PredatorsBomber.label>Бумкрыс хищников</PredatorsBomber.label>
+  <PredatorsBomber.labelPlural>Бумкрыс хищников</PredatorsBomber.labelPlural>
 
-  <PredatorsShaman.label>Predadores Shaman</PredatorsShaman.label>
-  <PredatorsShaman.labelPlural>Predators Shamans</PredatorsShaman.labelPlural>
+  <PredatorsShaman.label>Шаман хищников</PredatorsShaman.label>
+  <PredatorsShaman.labelPlural>Шаман хищников</PredatorsShaman.labelPlural>
 
-  <PredatorsSlasher.label>Degollador - Predadores</PredatorsSlasher.label>
-  <PredatorsSlasher.labelPlural>Predators Slashers</PredatorsSlasher.labelPlural>
+  <PredatorsSlasher.label>Гепард хищников</PredatorsSlasher.label>
+  <PredatorsSlasher.labelPlural>Гепард хищников</PredatorsSlasher.labelPlural>
+  <PredatorsSlasher.labelMale>Гепард хищников</PredatorsSlasher.labelMale>
+  <PredatorsSlasher.labelMalePlural>Гепард хищников</PredatorsSlasher.labelMalePlural>
+  <PredatorsSlasher.labelFemale>Гепард хищников</PredatorsSlasher.labelFemale>
+  <PredatorsSlasher.labelFemalePlural>Гепард хищников</PredatorsSlasher.labelFemalePlural>
 
-  <PredatorsTrader.label>Comerciante - Predadores</PredatorsTrader.label>
-  <PredatorsTrader.labelPlural>Predators traders</PredatorsTrader.labelPlural>
-
+  <PredatorsTrader.label>Торговец хищников</PredatorsTrader.label>
+  <PredatorsTrader.labelPlural>Торговцы хищников</PredatorsTrader.labelPlural>
+  <PredatorsTrader.labelMale>Торговец хищников</PredatorsTrader.labelMale>
+  <PredatorsTrader.labelMalePlural>Торговцы хищников</PredatorsTrader.labelMalePlural>
+  <PredatorsTrader.labelFemale>Торговец хищников</PredatorsTrader.labelFemale>
+  <PredatorsTrader.labelFemalePlural>Торговцы хищников</PredatorsTrader.labelFemalePlural>
 
 </LanguageData>

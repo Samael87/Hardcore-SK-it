@@ -1,10 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Insectoid.label>Colmena Insectoide</Insectoid.label>
-  <Insectoid.description>Una colmena de insectos modificados genéticamente. Se creó originalmente para luchar contra la invasión mecanoide. Para lograr esta hazaña, fueron programados para seguir fielmente a su reina en un sistema de mentalidad de colmena. Desafortunadamente, en el momento en que probaron carne humana, los insectos se interesaron más en los seres humanos que en los mecanoides y ahora representan un gran peligro para la humanidad.</Insectoid.description>
-  <Insectoid.fixedName>insectoide</Insectoid.fixedName>
-  <Insectoid.pawnsPlural>insectoide</Insectoid.pawnsPlural>
-
+	<Insectoid.label>рой Инсектоидов</Insectoid.label>
+	<Insectoid.description>Улей генно-модифицированных насекомых, которые были первоначально созданы для борьбы против вторжения Механоидов. Для этого они были запрограммированы подчиняться своей королеве в улье, как в централизованной системе. К сожалению, в тот момент, когда они попробовали человеческое мясо, насекомые стали больше интересоваться людьми, чем Механоидами и теперь представляют собой большую опасность для человечества.</Insectoid.description>
+	<Insectoid.pawnsPlural>инсектоиды</Insectoid.pawnsPlural>
+	<Insectoid.fixedName>роя Инсектоидов</Insectoid.fixedName>
 
 </LanguageData>
