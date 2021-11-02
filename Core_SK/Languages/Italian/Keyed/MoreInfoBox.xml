@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <MIB.Speed>Speed: {0}\n</MIB.Speed>
-  <MIB.Fertility>Fertility: {0}\n</MIB.Fertility>
-  <MIB.Beauty>Beauty: {0}\n</MIB.Beauty>
-  <MIB.Cleanliness>Cleanliness: {0}\n</MIB.Cleanliness>
-  <MIB.Impassable>Impassable</MIB.Impassable>
+  <MIB.Speed>Velocità: {0}\n</MIB.Speed>
+  <MIB.Fertility>Fertilità: {0}\n</MIB.Fertility>
+  <MIB.Beauty>Bellezza: {0}\n</MIB.Beauty>
+  <MIB.Cleanliness>Pulizia: {0}\n</MIB.Cleanliness>
+  <MIB.Impassable>Impraticabile</MIB.Impassable>
 
 </LanguageData>

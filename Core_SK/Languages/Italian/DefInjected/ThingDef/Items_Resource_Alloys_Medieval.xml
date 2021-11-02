@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CopperBar.label>copper alloy</CopperBar.label>
-  <CopperBar.description>Copper is an alloy of Copper Ore. It is mainly used for its high conductivity in electrical applications. Copper is not a magnetic metal.</CopperBar.description>
-  <CopperBar.stuffProps.stuffAdjective>copper</CopperBar.stuffProps.stuffAdjective>
+  <CopperBar.label>lega di rame</CopperBar.label>
+  <CopperBar.description>Il rame è una lega di rame minerale. Viene utilizzato principalmente per la sua elevata conducibilità in applicazioni elettriche. Il rame è un metallo non magnetico.</CopperBar.description>
+  <CopperBar.stuffProps.stuffAdjective>rame</CopperBar.stuffProps.stuffAdjective>
 
-  <TinBar.label>tin alloy</TinBar.label>
-  <TinBar.description>Tin is an alloy of Tin Ore.</TinBar.description>
-  <TinBar.stuffProps.stuffAdjective>Tin</TinBar.stuffProps.stuffAdjective>
+  <TinBar.label>lega di stagno</TinBar.label>
+  <TinBar.description>Lo stagno è una lega di stagno minerale.</TinBar.description>
+  <TinBar.stuffProps.stuffAdjective>stagno</TinBar.stuffProps.stuffAdjective>
 
-  <Bronze.label>bronze alloy</Bronze.label>
-  <Bronze.description>Bronze is an alloy consisting primarily of copper, commonly with about 12% tin and often with the addition of other metals such as aluminium, nickel.</Bronze.description>
-  <Bronze.stuffProps.stuffAdjective>Bronze</Bronze.stuffProps.stuffAdjective>
+  <Bronze.label>lega di bronzo</Bronze.label>
+  <Bronze.description>Il bronzo è una lega costituita principalmente da rame, comunemente con circa il 12% di stagno e spesso con l'aggiunta di altri metalli come alluminio, nichel.</Bronze.description>
+  <Bronze.stuffProps.stuffAdjective>bronzo</Bronze.stuffProps.stuffAdjective>
 
-  <GoldBar.label>gold alloy</GoldBar.label>
-  <GoldBar.description>Gold is a beautiful, precious alloy of Gold and Copper or Bauxite. Gold is not a magnetic metal.</GoldBar.description>
-  <GoldBar.stuffProps.stuffAdjective>golden</GoldBar.stuffProps.stuffAdjective>
+  <GoldBar.label>lega in oro</GoldBar.label>
+  <GoldBar.description>L'oro è una bellae preziosa lega di oro e rame o bauxite. L'oro è un metallo non magnetico.</GoldBar.description>
+  <GoldBar.stuffProps.stuffAdjective>oro</GoldBar.stuffProps.stuffAdjective>
 
-  <SilverBar.label>sterling silver alloy</SilverBar.label>
-  <SilverBar.description>Sterling Silver is a valuable alloy of Silver and Copper or Bauxite. Sterling Silver is not a magnetic metal.</SilverBar.description>
-  <SilverBar.stuffProps.stuffAdjective>silver</SilverBar.stuffProps.stuffAdjective>
+  <SilverBar.label>lega di argento sterling</SilverBar.label>
+  <SilverBar.description>L'argento sterling è una lega preziosa di argento e rame o Bauxite. L'argento sterling è un metallo non magnetico.</SilverBar.description>
+  <SilverBar.stuffProps.stuffAdjective>argento</SilverBar.stuffProps.stuffAdjective>
 
 
 </LanguageData>

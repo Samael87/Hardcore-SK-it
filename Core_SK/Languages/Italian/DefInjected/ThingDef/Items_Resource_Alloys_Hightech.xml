@@ -1,35 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Tungsten.label>tungsten alloy</Tungsten.label>
-  <Tungsten.description>Tungsten, also known as Wolfram or Wolframite, is a hard, rare metal. Tungsten's hardness and high density give it military applications in penetrative projectiles. Tungsten compounds are also often used as industrial catalysts. Tungsten is not a magnetic metal.</Tungsten.description>
+  <Tungsten.label>lega di tungsteno</Tungsten.label>
+  <Tungsten.description>Il tungsteno, noto anche come Wolfram o Wolframite, è un duro e raro metallo. La durezza e l'alta densità del tungsteno lo rendono ideale per applicazioni militari come i proiettili penetranti. I composti di tungsteno sono spesso utilizzati anche come catalizzatori industriali. Tungsteno è un metallo non magnetico.</Tungsten.description>
 
-  <StelliteAlloy.label>stellite alloy</StelliteAlloy.label>
-  <StelliteAlloy.description>Stellite is a magnetic alloy of Cobalt, Chromium and Tungsten designed for increased wear resistance.</StelliteAlloy.description>
+  <StelliteAlloy.label>lega di stellite</StelliteAlloy.label>
+  <StelliteAlloy.description>Lo stellite è una lega magnetica di cobalto, cromo e tungsteno progettato per una maggiore resistenza all'usura.</StelliteAlloy.description>
   <StelliteAlloy.stuffProps.stuffAdjective>Stellite</StelliteAlloy.stuffProps.stuffAdjective>
 
-  <TitaniumBar.label>ferrotitanium alloy</TitaniumBar.label>
-  <TitaniumBar.description>Ferrotitanium is an alloy of Steel, Titanium and Carbon Fiber Alloy. It is very durable and somewhat beautiful. Ferrotitanium is not a magnetic metal.</TitaniumBar.description>
-  <TitaniumBar.stuffProps.stuffAdjective>Ferrotitanium</TitaniumBar.stuffProps.stuffAdjective>
+  <TitaniumBar.label>lega di ferrotitanio</TitaniumBar.label>
+  <TitaniumBar.description>Il ferrotitanio è una lega di acciaio, titanio e lega in fibra di carbonio. E' molto resistente e un po' bello. Il ferrotitanio è un metallo non magnetico.</TitaniumBar.description>
+  <TitaniumBar.stuffProps.stuffAdjective>Ferrotitanio</TitaniumBar.stuffProps.stuffAdjective>
 
-  <NitinolAlloy.label>nitinol alloy</NitinolAlloy.label>
-  <NitinolAlloy.description>Nitinol is an alloy of Nickel and Titanium. Nitinol is exceedingly difficult to make due to the exceptionally tight compositional control required, and the tremendous reactivity of Titanium. It is exceptionally durable and somewhat beautiful. Nitinol is not a magnetic metal.</NitinolAlloy.description>
-  <NitinolAlloy.stuffProps.stuffAdjective>Nitinol</NitinolAlloy.stuffProps.stuffAdjective>
+  <NitinolAlloy.label>lega di nitinolo</NitinolAlloy.label>
+  <NitinolAlloy.description>Il nitinolo è una lega di nichel e titanio. Il nitinolo è estremamente difficile da produrre a causa del controllo di composizione eccezionalmente stretto richiesto e della tremenda reattività del titanio. E' eccezionalmente durevole e un po' bello. Nitinol è un metallo non magnetico.</NitinolAlloy.description>
+  <NitinolAlloy.stuffProps.stuffAdjective>Nitinolo</NitinolAlloy.stuffProps.stuffAdjective>
 
-  <PobediteAlloy.label>pobedite alloy</PobediteAlloy.label>
-  <PobediteAlloy.description>Pobedite is a magnetic alloy of Carbon Fiber Alloy, Tungsten and Cobalt. This composite alloy possesses a particularly high hardness, similar to that of a diamond.</PobediteAlloy.description>
+  <PobediteAlloy.label>lega di pobedite</PobediteAlloy.label>
+  <PobediteAlloy.description>Il pobedite è una lega magnetica di lega di fibra di carbonio, tungsteno e cobalto. Questa lega composita possiede una durezza particolarmente elevata, simile a quella di un diamante.</PobediteAlloy.description>
   <PobediteAlloy.stuffProps.stuffAdjective>Pobedite</PobediteAlloy.stuffProps.stuffAdjective>
 
   <Titanium.label>titanium alloy</Titanium.label>
-  <Titanium.description>Titanium is a chemical element. It is a lustrous transition metal with a silver color, low density and high strength. It is highly resistant to corrosion in sea water, aqua regia and chlorine. Titanium is paramagnetic (it becomes attracted to magnetic metals to strengthen the magnetic bond).</Titanium.description>
-  <Titanium.stuffProps.stuffAdjective>Titanium</Titanium.stuffProps.stuffAdjective>
+  <Titanium.description>Il titanio è un elemento chimico. È un metallo di transizione, lucido e dal colore argenteo, a bassa densità ed alta resistenza. È altamente resistente alla corrosione in acqua di mare, acqua regia e cloro. Il titanio è paramagnetico (viene attratto dai metalli magnetici per rafforzare il legame magnetico).</Titanium.description>
+  <Titanium.stuffProps.stuffAdjective>Titanio</Titanium.stuffProps.stuffAdjective>
 
   <AlphaPoly.label>alpha poly</AlphaPoly.label>
-  <AlphaPoly.description>The first iteration in artificially constructed, atomically assembled dense matter. This man-made, extremely rare material is only assembled in high end matter assemblers and is good for building structures in the chromosphere of stars.</AlphaPoly.description>
+  <AlphaPoly.description>La prima iterazione nella costruzione artificiale di materia densa assemblata atomicamente. Questo materiale artificiale, estremamente raro, è assemblato solo in assemblatori di materia di fascia alta ed è buono per la costruzione di strutture nella cromosfera delle stelle.</AlphaPoly.description>
   <AlphaPoly.stuffProps.stuffAdjective>Alpha Poly</AlphaPoly.stuffProps.stuffAdjective>
 
   <BetaPoly.label>beta poly</BetaPoly.label>
-  <BetaPoly.description>The second iteration in artificially constructed, atomically assembled dense matter. This man-made, extremely rare material is too expensive to be mass produced, and has only been used as material for indestructible space suits, unstoppable kinetic slugs and containment for miniature black holes.</BetaPoly.description>
+  <BetaPoly.description>La seconda iterazione nella costruzione artificiale di materia densa assemblata atomicamente. Questo materiale artificiale, estremamente raro, è troppo costoso per essere prodotto in massa. Viene utilizzato solo come materiale per tute spaziali indistruttibili, inalterabili lumache cinetiche e pre il contenimento dei buchi neri in miniatura.</BetaPoly.description>
   <BetaPoly.stuffProps.stuffAdjective>Beta Poly</BetaPoly.stuffProps.stuffAdjective>
 
 

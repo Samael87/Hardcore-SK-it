@@ -3,128 +3,128 @@
 
   <!-- Basic leathers -->
 
-  <Leather_Plain.label>plain leather</Leather_Plain.label>
-  <Leather_Plain.stuffProps.stuffAdjective>plain leather</Leather_Plain.stuffProps.stuffAdjective>
-  <Leather_Plain.description>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</Leather_Plain.description>
+  <Leather_Plain.label>cuoio</Leather_Plain.label>
+  <Leather_Plain.stuffProps.stuffAdjective>di cuoio</Leather_Plain.stuffProps.stuffAdjective>
+  <Leather_Plain.description>Pelle conciata, seccata e raschiata. Un buon materiale tradizionale per realizzare abiti e borse.</Leather_Plain.description>
 
-  <Leather_Dog.label>dog leather</Leather_Dog.label>
-  <Leather_Dog.stuffProps.stuffAdjective>dog leather</Leather_Dog.stuffProps.stuffAdjective>
-  <Leather_Dog.description>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</Leather_Dog.description>
+  <Leather_Dog.label>pelle di cane</Leather_Dog.label>
+  <Leather_Dog.stuffProps.stuffAdjective>di pelle di cane</Leather_Dog.stuffProps.stuffAdjective>
+  <Leather_Dog.description>Pelle conciata, seccata e raschiata. Un buon materiale tradizionale per realizzare abiti e borse.</Leather_Dog.description>
 
-  <Leather_Wolf.label>wolf fur pelt</Leather_Wolf.label>
-  <Leather_Wolf.description>A soft furry pelt harvested from a wolf-like creature. It is difficult to pierce and insulates well against cold.</Leather_Wolf.description>
-  <Leather_Wolf.stuffProps.stuffAdjective>wolf fur pelt</Leather_Wolf.stuffProps.stuffAdjective>
+  <Leather_Wolf.label>pelliccia di lupo</Leather_Wolf.label>
+  <Leather_Wolf.description>Una morbida pelliccia recuperata da una creatura simile a un lupo. È difficile da perforare e isola bene dal freddo.</Leather_Wolf.description>
+  <Leather_Wolf.stuffProps.stuffAdjective>di pelliccia di lupo</Leather_Wolf.stuffProps.stuffAdjective>
 
-  <Leather_Nightling.label>nightling fur pelt</Leather_Nightling.label>
-  <Leather_Nightling.description>A soft furry pelt harvested from a nighling creature. It is difficult to pierce and insulates well against cold.</Leather_Nightling.description>
-  <Leather_Nightling.stuffProps.stuffAdjective>nightling fur pelt</Leather_Nightling.stuffProps.stuffAdjective>
+  <Leather_Nightling.label>pelliccia di nightling</Leather_Nightling.label>
+  <Leather_Nightling.description>Una morbida pelliccia recuperata da una creatura nighling. E 'difficile da perforare e isola bene contro il freddo.</Leather_Nightling.description>
+  <Leather_Nightling.stuffProps.stuffAdjective>pelliccia di nightling</Leather_Nightling.stuffProps.stuffAdjective>
 
-  <Leather_Panthera.label>big cat fur pelt</Leather_Panthera.label>
-  <Leather_Panthera.description>A soft furry pelt harvested from a big cat. It is difficult to pierce and insulates well against heat.</Leather_Panthera.description>
-  <Leather_Panthera.stuffProps.stuffAdjective>big cat fur pelt</Leather_Panthera.stuffProps.stuffAdjective>
+  <Leather_Panthera.label>pelliccia di grandi felini</Leather_Panthera.label>
+  <Leather_Panthera.description>Una morbida pelliccia raccolta da un grosso felino. È difficile da perforare e isolare bene dal calore.</Leather_Panthera.description>
+  <Leather_Panthera.stuffProps.stuffAdjective>pelliccia di grandi felini</Leather_Panthera.stuffProps.stuffAdjective>
 
-  <Leather_Camel.label>camel leather</Leather_Camel.label>
-  <Leather_Camel.description>Tanned, dried, scraped camel skin. Good at temperature regulation in hot climates.</Leather_Camel.description>
-  <Leather_Camel.stuffProps.stuffAdjective>camel leather</Leather_Camel.stuffProps.stuffAdjective>
+  <Leather_Camel.label>pelle di cammello</Leather_Camel.label>
+  <Leather_Camel.description>Pelle di cammello conciata, seccata e raschiata. Buona per la termoregolazione nei climi caldi.</Leather_Camel.description>
+  <Leather_Camel.stuffProps.stuffAdjective>pelle di cammello</Leather_Camel.stuffProps.stuffAdjective>
 
-  <Leather_Bluefur.label>blue fur pelt</Leather_Bluefur.label>
-  <Leather_Bluefur.description>The furry pelt of muffalo. Recognizable by its distinctive blue tint. Good at temperature regulation in cold climates.</Leather_Bluefur.description>
-  <Leather_Bluefur.stuffProps.stuffAdjective>blue fur pelt</Leather_Bluefur.stuffProps.stuffAdjective>
+  <Leather_Bluefur.label>pelliccia blu</Leather_Bluefur.label>
+  <Leather_Bluefur.description>La folta pelliccia di muffalo. Riconoscibile per il suo caratteristico colore blu. Buona per la regolazione della temperatura in climi freddi.</Leather_Bluefur.description>
+  <Leather_Bluefur.stuffProps.stuffAdjective>pelliccia blu</Leather_Bluefur.stuffProps.stuffAdjective>
 
-  <Leather_Bear.label>bear fur pelt</Leather_Bear.label>
-  <Leather_Bear.description>The strong furry leather of a bear. Compared to most leather, it is quite a bit tougher and a bit better at all kinds of temperature regulation.</Leather_Bear.description>
-  <Leather_Bear.stuffProps.stuffAdjective>bear fur pelt</Leather_Bear.stuffProps.stuffAdjective>
+  <Leather_Bear.label>pelliccia d'orso</Leather_Bear.label>
+  <Leather_Bear.description>La resistente pelliccia di un orso. In confronto alla maggior parte delle pelli, è un po' più resistente e migliore nella regolazione di ogni tipo di temperatura.</Leather_Bear.description>
+  <Leather_Bear.stuffProps.stuffAdjective>pelliccia d'orso</Leather_Bear.stuffProps.stuffAdjective>
 
 
   <!-- Basic leathers: skin -->
 
-  <Leather_Human.label>human leather</Leather_Human.label>
-  <Leather_Human.description>Tanned, dried, scraped human skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well.</Leather_Human.description>
-  <Leather_Human.stuffProps.stuffAdjective>human leather</Leather_Human.stuffProps.stuffAdjective>
+  <Leather_Human.label>pelle umana</Leather_Human.label>
+  <Leather_Human.description>Pelle umana conciata, seccata e raschiata. La maggior parte della gente trova questo materiale orribile. Alcuni lo trovano affascinante. Sebbene sia una buona pelle, non protegge né isola particolarmente bene.</Leather_Human.description>
+  <Leather_Human.stuffProps.stuffAdjective>pelle umana</Leather_Human.stuffProps.stuffAdjective>
 
-  <Leather_Pig.label>pig leather</Leather_Pig.label>
-  <Leather_Pig.description>Tanned, dried, scraped pig skin. While a decent leather, it neither protects nor insulates particularly well.</Leather_Pig.description>
+  <Leather_Pig.label>pelle di suino</Leather_Pig.label>
+  <Leather_Pig.description>Pelle di suino conciata, seccata e raschiata. Sebbene sia una buona pelle, non protegge né isola particolarmente bene.</Leather_Pig.description>
   <Leather_Pig.stuffProps.stuffAdjective>pig leather</Leather_Pig.stuffProps.stuffAdjective>
 
 
   <!-- Thin leathers -->
 
-  <Leather_Light.label>light leather</Leather_Light.label>
-  <Leather_Light.description>Lightweight, thin leather. Probably harvested from a small animal. Not as protective as thicker leathers.</Leather_Light.description>
-  <Leather_Light.stuffProps.stuffAdjective>light leather</Leather_Light.stuffProps.stuffAdjective>
+  <Leather_Light.label>pelle leggera</Leather_Light.label>
+  <Leather_Light.description>Pelle sottile e leggera. Recuperata probabilmente da un piccolo animale. Non così protettiva come pelli più spesse.</Leather_Light.description>
+  <Leather_Light.stuffProps.stuffAdjective>pelle leggera</Leather_Light.stuffProps.stuffAdjective>
 
-  <Leather_Bird.label>bird leather</Leather_Bird.label>
-  <Leather_Bird.description>Tanned, dried, scraped bird skin. It is quite delicate. Without its feathers, it provides little protection from heat or cold.</Leather_Bird.description>
-  <Leather_Bird.stuffProps.stuffAdjective>bird leather</Leather_Bird.stuffProps.stuffAdjective>
+  <Leather_Bird.label>pelle d'uccello</Leather_Bird.label>
+  <Leather_Bird.description>Pelle d'uccello conciata, seccata e raschiata. E' piuttosto delicata. Senza le sue piume, fornisce poca protezione dal caldo o dal freddo.</Leather_Bird.description>
+  <Leather_Bird.stuffProps.stuffAdjective>pelle d'uccello</Leather_Bird.stuffProps.stuffAdjective>
 
-  <Leather_GuineaPig.label>guinea pig fur</Leather_GuineaPig.label>
-  <Leather_GuineaPig.description>Sheets of guinea pig fur. It is delicate, but luxurious.</Leather_GuineaPig.description>
-  <Leather_GuineaPig.stuffProps.stuffAdjective>guinea pig fur</Leather_GuineaPig.stuffProps.stuffAdjective>
+  <Leather_GuineaPig.label>pelliccia di porcellino d'India</Leather_GuineaPig.label>
+  <Leather_GuineaPig.description>Fogli di pelliccia di porcellino d'India. Sono delicati, ma lussuosi.</Leather_GuineaPig.description>
+  <Leather_GuineaPig.stuffProps.stuffAdjective>pelliccia di porcellino d'India</Leather_GuineaPig.stuffProps.stuffAdjective>
 
-  <Leather_Chinchilla.label>chinchilla fur pelt</Leather_Chinchilla.label>
-  <Leather_Chinchilla.description>Tanned, dried, scraped chinchilla skin. Known as an extremely luxurious and insulating fur, it is exceptionally valuable.</Leather_Chinchilla.description>
-  <Leather_Chinchilla.stuffProps.stuffAdjective>chinchilla fur pelt</Leather_Chinchilla.stuffProps.stuffAdjective>
+  <Leather_Chinchilla.label>pelliccia di cincillà</Leather_Chinchilla.label>
+  <Leather_Chinchilla.description>Pelliccia di cincillà conciata, seccata e raschiata. Nota come una pelliccia estremamente lussuosa e isolante, è straordinariamente preziosa.</Leather_Chinchilla.description>
+  <Leather_Chinchilla.stuffProps.stuffAdjective>pelliccia di cincillà</Leather_Chinchilla.stuffProps.stuffAdjective>
 
-  <Leather_Fox.label>fox fur pelt</Leather_Fox.label>
-  <Leather_Fox.description>The pelt of a fox. It protects well from the cold and is quite luxurious, fetching a high price.</Leather_Fox.description>
-  <Leather_Fox.stuffProps.stuffAdjective>fox fur pelt</Leather_Fox.stuffProps.stuffAdjective>
+  <Leather_Fox.label>pelliccia di volpe</Leather_Fox.label>
+  <Leather_Fox.description>La pelliccia di una volpe. Protegge bene dal freddo ed è abbastanza lussuosa, valendo molto denaro.</Leather_Fox.description>
+  <Leather_Fox.stuffProps.stuffAdjective>pelliccia di volpe</Leather_Fox.stuffProps.stuffAdjective>
 
-  <Leather_Lizard.label>lizard leather</Leather_Lizard.label>
-  <Leather_Lizard.description>The tanned skin of a cold-blooded reptile. Lizard leather is reasonably tough, but does not insulate well at all.</Leather_Lizard.description>
+  <Leather_Lizard.label>pelle di rettile/Leather_Lizard.label>
+  <Leather_Lizard.description>La pelle conciata di un rettile a sangue freddo. La pelle di rettile è ragionevolmente resistente, ma non isola per niente bene.</Leather_Lizard.description>
   <Leather_Lizard.stuffProps.stuffAdjective>lizard leather</Leather_Lizard.stuffProps.stuffAdjective>
 
-  <Leather_Boomanimal.label>boomanimal leather</Leather_Boomanimal.label>
-  <Leather_Boomanimal.description>Lightweight leather from a boom animal like boomrat or boomalope. More flammable than other leathers.</Leather_Boomanimal.description>
-  <Leather_Boomanimal.stuffProps.stuffAdjective>boomanimal leather</Leather_Boomanimal.stuffProps.stuffAdjective>
+  <Leather_Boomanimal.label>pelle di boomanimale</Leather_Boomanimal.label>
+  <Leather_Boomanimal.description>Pelle leggera di un boomanimale come i boomrat o i boomalope. Più infiammabile rispetto ad altre pelli.</Leather_Boomanimal.description>
+  <Leather_Boomanimal.stuffProps.stuffAdjective>pelle di boomanimale</Leather_Boomanimal.stuffProps.stuffAdjective>
 
 
   <!-- Tough leathers -->
 
-  <Leather_Elephant.label>elephant leather</Leather_Elephant.label>
-  <Leather_Elephant.description>Tanned, dried, scraped elephant skin. While quite tough, it is a poor insulator.</Leather_Elephant.description>
+  <Leather_Elephant.label>pelle di elefante</Leather_Elephant.label>
+  <Leather_Elephant.description>Pelle di elefante conciata, seccata e raschiata. Sebbene abbastanza resistente, è un cattivo isolante.</Leather_Elephant.description>
   <Leather_Elephant.stuffProps.stuffAdjective>elephant leather</Leather_Elephant.stuffProps.stuffAdjective>
 
-  <Leather_Heavy.label>heavy fur</Leather_Heavy.label>
-  <Leather_Heavy.description>Thick leather covered in a long, rugged mat of fur. Harvested from a large, hardy animal. This thick skin insulates and protects very well.</Leather_Heavy.description>
+  <Leather_Heavy.label>pelliccia pesante</Leather_Heavy.label>
+  <Leather_Heavy.description>Spessa pelle ricoperta di un lungo e robusto strato di pelo. Recuperata da un grosso e robusto animale. Questa pelle spessa isola e protegge molto bene.</Leather_Heavy.description>
   <Leather_Heavy.stuffProps.stuffAdjective>heavy fur</Leather_Heavy.stuffProps.stuffAdjective>
 
-  <Leather_Rhinoceros.label>rhinoceros leather</Leather_Rhinoceros.label>
-  <Leather_Rhinoceros.description>Tanned, dried, scraped rhinocerous skin. It is exceptionally durable in combat, but provides little protection from weather.</Leather_Rhinoceros.description>
+  <Leather_Rhinoceros.label>pelle di rinoceronte</Leather_Rhinoceros.label>
+  <Leather_Rhinoceros.description>Pelle di rinoceronte conciata, seccata e raschiata. E' straordinariamente resistente in combattimento, ma fornisce poca protezione contro le intemperie.</Leather_Rhinoceros.description>
   <Leather_Rhinoceros.stuffProps.stuffAdjective>rhinoceros leather</Leather_Rhinoceros.stuffProps.stuffAdjective>
 
 
   <!-- Super leathers -->
 
-  <Leather_Thrumbo.label>magic fur</Leather_Thrumbo.label>
-  <Leather_Thrumbo.description>Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength.</Leather_Thrumbo.description>
-  <Leather_Thrumbo.stuffProps.stuffAdjective>magic fur</Leather_Thrumbo.stuffProps.stuffAdjective>
+  <Leather_Thrumbo.label>pelliccia magica</Leather_Thrumbo.label>
+  <Leather_Thrumbo.description>Lussuosa e straordinariamente resistente. Utilizzato per l'artigianato di alta qualità per il suo isolamento e la resistenza.</Leather_Thrumbo.description>
+  <Leather_Thrumbo.stuffProps.stuffAdjective>pelliccia magica</Leather_Thrumbo.stuffProps.stuffAdjective>
 
-  <Leather_FireDragonskin.label>feenix dragonskin scales</Leather_FireDragonskin.label>
-  <Leather_FireDragonskin.description>Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength.</Leather_FireDragonskin.description>
-  <Leather_FireDragonskin.stuffProps.stuffAdjective>feenix dragonskin scales</Leather_FireDragonskin.stuffProps.stuffAdjective>
+  <Leather_FireDragonskin.label>pelle a scaglie della fenice</Leather_FireDragonskin.label>
+  <Leather_FireDragonskin.description>Lussuosa e straordinariamente resistente. Utilizzato per l'artigianato di alta qualità per il suo isolamento e la resistenza.</Leather_FireDragonskin.description>
+  <Leather_FireDragonskin.stuffProps.stuffAdjective>pelle a scaglie della fenice</Leather_FireDragonskin.stuffProps.stuffAdjective>
 
-  <Leather_KirinHide.label>kirin fur pelt</Leather_KirinHide.label>
-  <Leather_KirinHide.description>Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength.</Leather_KirinHide.description>
-  <Leather_KirinHide.stuffProps.stuffAdjective>kirin fur pelt</Leather_KirinHide.stuffProps.stuffAdjective>
+  <Leather_KirinHide.label>pelliccia di kirin</Leather_KirinHide.label>
+  <Leather_KirinHide.description>Lussuosa e straordinariamente resistente. Utilizzato per l'artigianato di alta qualità per il suo isolamento e la resistenza.</Leather_KirinHide.description>
+  <Leather_KirinHide.stuffProps.stuffAdjective>pelliccia di kirin</Leather_KirinHide.stuffProps.stuffAdjective>
 
-  <Leather_FeatheredRaptorLeather.label>feathered raptor leather</Leather_FeatheredRaptorLeather.label>
-  <Leather_FeatheredRaptorLeather.description>Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength.</Leather_FeatheredRaptorLeather.description>
-  <Leather_FeatheredRaptorLeather.stuffProps.stuffAdjective>feathered raptor leather</Leather_FeatheredRaptorLeather.stuffProps.stuffAdjective>
+  <Leather_FeatheredRaptorLeather.label>pelle di rapace piumato</Leather_FeatheredRaptorLeather.label>
+  <Leather_FeatheredRaptorLeather.description>Lussuosa e straordinariamente resistente. Utilizzato per l'artigianato di alta qualità per il suo isolamento e la resistenza.</Leather_FeatheredRaptorLeather.description>
+  <Leather_FeatheredRaptorLeather.stuffProps.stuffAdjective>pelle di rapace piumato</Leather_FeatheredRaptorLeather.stuffProps.stuffAdjective>
 
-  <Leather_BarghestFur.label>barghest fur pelt</Leather_BarghestFur.label>
-  <Leather_BarghestFur.description>Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength.</Leather_BarghestFur.description>
-  <Leather_BarghestFur.stuffProps.stuffAdjective>barghest fur pelt</Leather_BarghestFur.stuffProps.stuffAdjective>
+  <Leather_BarghestFur.label>pelliccia di barghest</Leather_BarghestFur.label>
+  <Leather_BarghestFur.description>Lussuosa e straordinariamente resistente. Utilizzato per l'artigianato di alta qualità per il suo isolamento e la resistenza.</Leather_BarghestFur.description>
+  <Leather_BarghestFur.stuffProps.stuffAdjective>pelliccia di barghest</Leather_BarghestFur.stuffProps.stuffAdjective>
 
-  <Chitin.label>Chitin</Chitin.label>
-  <Chitin.description>Chitin is a long-chain polymer. It can be obtained from the exoskeletons of insects or shelled creatures. It can be used like leather, but it is quite difficult and expensive.</Chitin.description>
-  <Chitin.stuffProps.stuffAdjective>Chitin</Chitin.stuffProps.stuffAdjective>
+  <Chitin.label>chitina</Chitin.label>
+  <Chitin.description>La chitina è un polimero a catena lunga. Può essere ottenuta dagli esoscheletri di insetti o creature con guscio. Può essere usato come cuoio, ma è abbastanza difficile e costoso.</Chitin.description>
+  <Chitin.stuffProps.stuffAdjective>chitina</Chitin.stuffProps.stuffAdjective>
 
 
   <!-- Awful leathers -->
 
-  <Leather_Patch.label>patch leather</Leather_Patch.label>
-  <Leather_Patch.description>A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather.</Leather_Patch.description>
-  <Leather_Patch.stuffProps.stuffAdjective>patch leather</Leather_Patch.stuffProps.stuffAdjective>
+  <Leather_Patch.label>patchwork</Leather_Patch.label>
+  <Leather_Patch.description>Un tessuto fragile creato tagliando e cucendo insieme vari tipi di pelli. Indipendentemente da quale tipo di pelle è stata usata per crearlo, le cuciture irregolari del patchwork lo rendono meno resistente e meno isolante di qualsiasi pelle intatta.</Leather_Patch.description>
+  <Leather_Patch.stuffProps.stuffAdjective>patchwork</Leather_Patch.stuffProps.stuffAdjective>
 
 
 </LanguageData>

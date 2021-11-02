@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Bandagekitcrude.label>Crude Bandage Kit</Bandagekitcrude.label>
-  <Bandagekitcrude.description>A pack of makeshift bandages. Looks bad, probably bad for your wounds. Good for stopping bleeding but nothing more.</Bandagekitcrude.description>
+  <Bandagekitcrude.label>kit di bendaggio grezzo</Bandagekitcrude.label>
+  <Bandagekitcrude.description>Un pacchetto di bende di fortuna. Sembra brutto, probabilmente cattivo per le tue ferite. Buono per fermare il sanguinamento, ma niente di più.</Bandagekitcrude.description>
 
-  <Bandagekit.label>Bandage Kit</Bandagekit.label>
-  <Bandagekit.description>A pack of bandages made from cloth. Less potent than medical kits.</Bandagekit.description>
+  <Bandagekit.label>kit di bendaggio</Bandagekit.label>
+  <Bandagekit.description>Una confezione di bende di stoffa. Meno potente dei kit medici.</Bandagekit.description>
 
-  <Herbmedicine.label>basic medicine kit</Herbmedicine.label>
-  <Herbmedicine.description>A pack of mix herbs. Less potent than industrial pharmaceuticals. \n\nMade from aloe and cloth.</Herbmedicine.description>
+  <Herbmedicine.label>kit medico di base</Herbmedicine.label>
+  <Herbmedicine.description>Un pacchetto di erbe miscelate. Meno potente di prodotti farmaceutici industriali. \n\nProdotto con aloe e stoffa.</Herbmedicine.description>
 
-  <MedicalDrink.label>Antibiotics</MedicalDrink.label>
-  <MedicalDrink.description>A concentrated extract of Healroot and some hops. Tastes awful but boosts the immune system.</MedicalDrink.description>
+  <MedicalDrink.label>antibiotici</MedicalDrink.label>
+  <MedicalDrink.description>Estratto concentrato di radice curativa e luppolo. Ha un sapore orribile, ma aumenta il sistema immunitario.</MedicalDrink.description>
 
-  <MushroomTincture.label>mushroom tincture</MushroomTincture.label>
-  <MushroomTincture.description>A concentrated extract from mushrooms. A good, natural medicine source.</MushroomTincture.description>
+  <MushroomTincture.label>tintura di funghi</MushroomTincture.label>
+  <MushroomTincture.description>Un estratto concentrato di funghi. Una buona fonte di medicina naturale.</MushroomTincture.description>
 
-  <HealrootTincture.label>healroot tincture</HealrootTincture.label>
-  <HealrootTincture.description>A concentrated extract from healroot. A good, natural medicine source.</HealrootTincture.description>
+  <HealrootTincture.label>tintura di radice curativa</HealrootTincture.label>
+  <HealrootTincture.description>A concentrated extract from healroot. Una buona fonte di medicina naturale.</HealrootTincture.description>
 
 
 </LanguageData>

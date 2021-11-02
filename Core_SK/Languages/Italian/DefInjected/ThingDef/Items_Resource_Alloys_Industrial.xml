@@ -1,51 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Chromium.label>chromium alloy</Chromium.label>
-  <Chromium.description>Chromium is a steely-gray, lustrous, hard but brittle metal. It is a remarkably magnetic metal, but needs to be combined with other metals to be of use.</Chromium.description>
+  <Chromium.label>lega di cromo</Chromium.label>
+  <Chromium.description>Il cromo è un metallo grigio-acciaio, lucente, duro ma fragile. È un metallo notevolmente magnetico, ma deve essere combinato con altri metalli per essere utilizzato.</Chromium.description>
 
-  <LeadBar.label>lead alloy</LeadBar.label>
-  <LeadBar.description>Lead is an alloy of Anglesite Ore. It is a heavy metal that is denser than most common materials. Lead is soft and malleable, and has a relatively low melting point.</LeadBar.description>
-  <LeadBar.stuffProps.stuffAdjective>lead</LeadBar.stuffProps.stuffAdjective>
+  <LeadBar.label>lega di piombo</LeadBar.label>
+  <LeadBar.description>Il piombo è una lega di minerale di Anglesite. È un metallo pesante che è più denso dei materiali più comuni. Il piombo è morbido e malleabile e ha un punto di fusione relativamente basso.</LeadBar.description>
+  <LeadBar.stuffProps.stuffAdjective>Piombo</LeadBar.stuffProps.stuffAdjective>
 
-  <NickelBar.label>nickel alloy</NickelBar.label>
-  <NickelBar.description>Nickel belongs to the transition metals and is hard and ductile. Nickel is a silvery-white metal with a slight golden tinge that takes a high polish. Nickel is ferromagnetic (it can become magnetized when paired with a magnetic metal).</NickelBar.description>
-  <NickelBar.stuffProps.stuffAdjective>nickel</NickelBar.stuffProps.stuffAdjective>
+  <NickelBar.label>lega di nichel</NickelBar.label>
+  <NickelBar.description>Il nichel appartiene ai metalli di transizione ed è duro e duttile. Il nichel è un metallo bianco-argenteo con una leggera sfumatura dorata che richiede un'alta lucidatura. Il nichel è ferromagnetico (può diventare magnetizzato se accoppiato con un metallo magnetico).</NickelBar.description>
+  <NickelBar.stuffProps.stuffAdjective>Nickel</NickelBar.stuffProps.stuffAdjective>
 
-  <Cobalt.label>cobalt alloy</Cobalt.label>
-  <Cobalt.description>Cobalt-based blue pigments have been used since ancient times for jewelry and paints, and to impart a distinctive blue tint to glass. The color was later thought by alchemists to have been caused by the metal known as bismuth. Cobalt is a magnetic metal.</Cobalt.description>
+  <Cobalt.label>lega di cobalto</Cobalt.label>
+  <Cobalt.description>I pigmenti blu a base di cobalto sono stati utilizzati fin dall'antichità per gioielli, vernici e per conferire una caratteristica colorazione blu al vetro. In seguito gli alchimisti pensarono che il colore fosse stato causato dal metallo noto come bismuto. Il cobalto è un metallo magnetico.</Cobalt.description>
 
-  <AluminiumBar.label>aluminium alloy</AluminiumBar.label>
-  <AluminiumBar.description>Aluminium is an alloy of Bauxite Ore. A similar and less valuable metal than Copper, it is mainly used for its high conductivity in electrical applications. Aluminum Alloy processing requires electrical currents to function, so it cannot be done by hand at an unpowered smelter. Aluminum is paramagnetic (it becomes attracted to magnetic metals to strengthen the magnetic bond)..</AluminiumBar.description>
-  <AluminiumBar.stuffProps.stuffAdjective>Aluminium</AluminiumBar.stuffProps.stuffAdjective>
+  <AluminiumBar.label>lega d'alluminio</AluminiumBar.label>
+  <AluminiumBar.description>L'alluminio è una lega ottenuta dai minerali di Bauxite. Un metallo simile e meno prezioso del rame, è utilizzato principalmente per la sua elevata conducibilità in applicazioni elettriche. La lavorazione della lega di alluminio richiede correnti elettriche, quindi non può essere fatto a mano in una fonderia senza elettricità. L'alluminio è paramagnetico (diventa attratto dai metalli magnetici per rafforzare il legame magnetico).</AluminiumBar.description>
+  <AluminiumBar.stuffProps.stuffAdjective>Alluminio</AluminiumBar.stuffProps.stuffAdjective>
 
-  <Plasteel.label>steel alloy</Plasteel.label>
-  <Plasteel.description>Steel Alloy is a group of iron-carbon alloys with a carbon content less than 2%. A tougher metal than cast-iron that comes with a higher production cost. Steel is ferromagnetic (it can become magnetized when paired with a magnetic metal).</Plasteel.description>
-  <Plasteel.stuffProps.stuffAdjective>Steel</Plasteel.stuffProps.stuffAdjective>
+  <Plasteel.label>lega d'acciaio</Plasteel.label>
+  <Plasteel.description>Le leghe d'acciaio sono un gruppo di leghe ferro-carbonio con un contenuto di carbonio inferiore al 2%. Un metallo più duro della ghisa che ha un costo di produzione più elevato. L'acciaio è ferromagnetico (può diventare magnetizzato se accoppiato con un metallo magnetico).</Plasteel.description>
+  <Plasteel.stuffProps.stuffAdjective>Acciaio</Plasteel.stuffProps.stuffAdjective>
 
-  <FerrosiliconAlloy.label>sendust alloy</FerrosiliconAlloy.label>
-  <FerrosiliconAlloy.description>Sendust Alloy is produced by the reduction of Silicon in presence of Iron and Aluminum. Sendust is useful as a deoxidizing agent with other metals. It is more durable than standard Cast-Iron or Steel. Sendust is not a magnetic metal.</FerrosiliconAlloy.description>
+  <FerrosiliconAlloy.label>lega di sendust</FerrosiliconAlloy.label>
+  <FerrosiliconAlloy.description>La lega di sendust è prodotta dalla riduzione del silicio in presenza di ferro e alluminio. Sendust è utile come agente disossidante con altri metalli. È più resistente della ghisa standard o dell'acciaio. Il sendust non è un metallo magnetico.</FerrosiliconAlloy.description>
   <FerrosiliconAlloy.stuffProps.stuffAdjective>Sendust</FerrosiliconAlloy.stuffProps.stuffAdjective>
 
-  <CupronickelAlloy.label>melchior alloy</CupronickelAlloy.label>
-  <CupronickelAlloy.description>Melchior is an alloy of Copper and Nickel. This alloy combination has a higher resistance to corrosion and electricity than standard alloys of Copper. Melchior Alloy is a magnetic metal.</CupronickelAlloy.description>
+  <CupronickelAlloy.label>lega di melchior</CupronickelAlloy.label>
+  <CupronickelAlloy.description>Il melchior è una lega di rame e nichel. Questa combinazione di lega ha una maggiore resistenza alla corrosione ed elettricità rispetto alle leghe standard di rame. La lega di melchior è un metallo magnetico.</CupronickelAlloy.description>
   <CupronickelAlloy.stuffProps.stuffAdjective>Melchior</CupronickelAlloy.stuffProps.stuffAdjective>
 
-  <SteelBar.label>stein alloy</SteelBar.label>
-  <SteelBar.description>Stein is an alloy of Iron, Nickel. This combination produces a metal alloy that is tougher than Sendust Alloy. Stein Alloy is a magnetic metal.</SteelBar.description>
+  <SteelBar.label>lega di stein</SteelBar.label>
+  <SteelBar.description>Lo stein è una lega di ferro e nichel. Questa combinazione produce una lega metallica che è più resistente della lega Sendust. Stein lega è un metallo magnetico.</SteelBar.description>
   <SteelBar.stuffProps.stuffAdjective>Stein</SteelBar.stuffProps.stuffAdjective>
 
-  <AlnicoAlloy.label>alnico alloy</AlnicoAlloy.label>
-  <AlnicoAlloy.description>Alnico is an alloy of Steel, Nickel, Aluminum and Cobalt. It has a high coercively (resistance to loss of magnetism) and is useful to make permanent magnets or magnetic shielding.</AlnicoAlloy.description>
+  <AlnicoAlloy.label>lega di alnico</AlnicoAlloy.label>
+  <AlnicoAlloy.description>l'alnico è una lega di acciaio, nichel, alluminio e cobalto. Ha un alto coercitivo (resistenza alla perdita di magnetismo) ed è utile per fare magneti permanenti o schermature magnetica.</AlnicoAlloy.description>
   <AlnicoAlloy.stuffProps.stuffAdjective>Alnico</AlnicoAlloy.stuffProps.stuffAdjective>
 
-  <DepletedUranium.label>depleted uranium alloy</DepletedUranium.label>
-  <DepletedUranium.description>Depleted Uranium Alloy is created by refining Uranium Ore through a Gas Centrifuge. The dangerous radiation has been removed, resulting in a unique high density and strong metal ideal for armor plating or armor-piercing projectiles.</DepletedUranium.description>
-  <DepletedUranium.stuffProps.stuffAdjective>Depleted Uranium</DepletedUranium.stuffProps.stuffAdjective>
+  <DepletedUranium.label>lega di uranio impoverito</DepletedUranium.label>
+  <DepletedUranium.description>La lega di uranio impoverito è creata raffinando il minerale di uranio attraverso una centrifuga a gas. La radiazione pericolosa è stata rimossa, risultando un metallo unico per resistenza ed alta densità, ideale per la creazione di armature o proiettili perforanti.</DepletedUranium.description>
+  <DepletedUranium.stuffProps.stuffAdjective>Uranio impoverito</DepletedUranium.stuffProps.stuffAdjective>
 
-  <CarbonAlloy.label>carbon fiber alloy</CarbonAlloy.label>
-  <CarbonAlloy.description>Carbon Fiber Alloy is an extremely strong and light fiber-reinforced nanomaterial polymer, which contains carbon fibers. It is created at a Chemical Laboratory.</CarbonAlloy.description>
-  <CarbonAlloy.stuffProps.stuffAdjective>Carbon Fiber Alloy</CarbonAlloy.stuffProps.stuffAdjective>
+  <CarbonAlloy.label>lega in fibra di carbonio</CarbonAlloy.label>
+  <CarbonAlloy.description>Carbon Fiber Alloy è un nanomateriale polimero estremamente resistente e leggero, rinforzato con fibre di carbonio. Viene creato in un laboratorio chimico.</CarbonAlloy.description>
+  <CarbonAlloy.stuffProps.stuffAdjective>lega in fibra di carbonio</CarbonAlloy.stuffProps.stuffAdjective>
 
 
 </LanguageData>

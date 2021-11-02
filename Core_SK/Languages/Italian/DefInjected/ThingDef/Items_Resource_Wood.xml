@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WoodLog.label>wood log</WoodLog.label>
-  <WoodLog.description>Wood from trees or other fibrous plants. Useful for building structures, weapons, and even simple prosthetics. A raw stick of wood can be used as a weapon in a pinch. It can be processed into planks or kindling.</WoodLog.description>
-  <WoodLog.stuffProps.stuffAdjective>wood log</WoodLog.stuffProps.stuffAdjective>
+  <WoodLog.label>tronco di legno</WoodLog.label>
+  <WoodLog.description>Il legno di alberi o altre piante fibrose. Utile per la costruzione di strutture, armi e protesi semplici. Un bastone di legno grezzo può essere utilizzato come arma improvvisata. Può essere trasformato in assi o legna da ardere.</WoodLog.description>
+  <WoodLog.stuffProps.stuffAdjective>legno grezzo</WoodLog.stuffProps.stuffAdjective>
 
-  <RedWoodLog.label>redwood</RedWoodLog.label>
-  <RedWoodLog.description>Wood from redwood and sequoia trees or other fibrous plants. Red, valuable and more fireproof than regular wood. Useful for building structures, weapons, and even simple prosthetics. A raw stick of wood can be used as a weapon in a pinch.</RedWoodLog.description>
-  <RedWoodLog.stuffProps.stuffAdjective>redwood</RedWoodLog.stuffProps.stuffAdjective>
+  <RedWoodLog.label>legno di sequoia</RedWoodLog.label>
+  <RedWoodLog.description>Il legno prodotto dalla sequoia o altre piante fibrose. Rosso, prezioso e più ignifugo del legno normale. Utile per la costruzione di strutture, armi e protesi semplici. Un bastone di legno grezzo può essere utilizzato come arma improvvisata.</RedWoodLog.description>
+  <RedWoodLog.stuffProps.stuffAdjective>legno di sequoia grezzo</RedWoodLog.stuffProps.stuffAdjective>
 
-  <WoodPlank.label>wood plank</WoodPlank.label>
-  <WoodPlank.description>Wood planks crafted from wood logs. Useful for building structures, weapons, and even simple prosthetics.</WoodPlank.description>
-  <WoodPlank.stuffProps.stuffAdjective>wooden</WoodPlank.stuffProps.stuffAdjective>
+  <WoodPlank.label>asse di legno</WoodPlank.label>
+  <WoodPlank.description>Le assi in legno sono ricavate dai tronchi di legno. Utili per costruire strutture, armi e anche  protesi semplici.</WoodPlank.description>
+  <WoodPlank.stuffProps.stuffAdjective>legno</WoodPlank.stuffProps.stuffAdjective>
 
-  <Bamboo.label>bamboo log</Bamboo.label>
-  <Bamboo.description>Bamboo Logs are a type of wood-like grass. It is a fast growing wood alternative that is useful for construction.</Bamboo.description>
-  <Bamboo.stuffProps.stuffAdjective>bamboo log</Bamboo.stuffProps.stuffAdjective>
+  <Bamboo.label>tronco di bambù</Bamboo.label>
+  <Bamboo.description>I tronchi di bambù sono un tipo di erba simile al legno. È un'alternativa al legno, a rapida crescita, utile per la costruzione.</Bamboo.description>
+  <Bamboo.stuffProps.stuffAdjective>di bambù grezzo</Bamboo.stuffProps.stuffAdjective>
 
-  <BambooPlank.label>bamboo plank</BambooPlank.label>
-  <BambooPlank.description>Bamboo Planks are crafted from Bamboo Logs. They are useful for building structures, weapons and even simple prosthetics.</BambooPlank.description>
-  <BambooPlank.stuffProps.stuffAdjective>bamboo</BambooPlank.stuffProps.stuffAdjective>
+  <BambooPlank.label>asse di bambù</BambooPlank.label>
+  <BambooPlank.description>Le assi di bambù sono realizzate con tronchi di bambù. Utili per costruire strutture, armi e anche  protesi semplici.</BambooPlank.description>
+  <BambooPlank.stuffProps.stuffAdjective>bambù</BambooPlank.stuffProps.stuffAdjective>
 
-  <RedWoodPlank.label>redwood plank</RedWoodPlank.label>
-  <RedWoodPlank.description>Redwood planks crafted from redwood logs. Useful for building structures, weapons, and even simple prosthetics.</RedWoodPlank.description>
-  <RedWoodPlank.stuffProps.stuffAdjective>redwood</RedWoodPlank.stuffProps.stuffAdjective>
+  <RedWoodPlank.label>asse di legno di sequoia</RedWoodPlank.label>
+  <RedWoodPlank.description>Le assi in legno di sequoia sono ricavate dai tronchi di legno di sequoia. Utili per costruire strutture, armi e anche  protesi semplici.</RedWoodPlank.description>
+  <RedWoodPlank.stuffProps.stuffAdjective>legno di sequoia</RedWoodPlank.stuffProps.stuffAdjective>
 
-  <Kindling.label>firewood</Kindling.label>
-  <Kindling.description>Firewood is either created by cutting logs, or salvaged from breaking down bushes. It can act as a fuel for various low-tech buildings, including the steam generator. It burns twice as long compared to unprocessed wood.</Kindling.description>
-  <Kindling.stuffProps.stuffAdjective>wooden</Kindling.stuffProps.stuffAdjective>
+  <Kindling.label>legna da ardere</Kindling.label>
+  <Kindling.description>La legna da ardere viene creata tagliando i tronchi o recuperata dalla demolizione dei cespugli. Può fungere da combustibile per vari edifici low-tech, tra cui il generatore di vapore. Brucia due volte più a lungo rispetto al legno non trasformato.</Kindling.description>
+  <Kindling.stuffProps.stuffAdjective>legno</Kindling.stuffProps.stuffAdjective>
 
 
 </LanguageData>

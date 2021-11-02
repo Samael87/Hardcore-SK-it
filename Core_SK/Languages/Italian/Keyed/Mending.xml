@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Repair.tableTab>Items</Repair.tableTab>
-  <Repair.tabSuspend>Suspend</Repair.tabSuspend>
-  <Repair.tabStockpile>Haul to Stockpile</Repair.tabStockpile>
-  <Repair.tabOutside>Outside Items</Repair.tabOutside>
-  <Repair.tabSearch>Search Radius:</Repair.tabSearch>
+  <Repair.tableTab>Oggetti</Repair.tableTab>
+  <Repair.tabSuspend>Sospendi</Repair.tabSuspend>
+  <Repair.tabStockpile>Trasporta al Deposito</Repair.tabStockpile>
+  <Repair.tabOutside>Oggetti Esterni</Repair.tabOutside>
+  <Repair.tabSearch>Raggio di ricerca:</Repair.tabSearch>
 
-  <Mending_progressiveMending>Progressive mending</Mending_progressiveMending>
-  <Mending_progressiveMending_Tooltip>The level of repairing an item depends on the skill of the pawn responsible for performing the repair (by default, Crafting). \n\nEach new pawn skill level increases the repair limit by 5%. 100% repair corresponds to level 20 pawn skill. \n\nThe amount of the bonus is added to the pawn's skill level, but the resulting repair level cannot exceed 100%.</Mending_progressiveMending_Tooltip>
+  <Mending_progressiveMending>Riparazione progressiva</Mending_progressiveMending>
+  <Mending_progressiveMending_Tooltip>Il livello di riparazione di un oggetto dipende dall'abilità della persona responsabile per l'esecuzione della riparazione (di default, Artigianato). \n\nOgni nuovo livello di abilità della persona aumenta il limite di riparazione del 5%. La riparazione del 100% corrisponde all'abilità di livello 20. \n\nL'importo del bonus viene aggiunto al livello di abilità, ma il livello di riparazione risultante non può superare il 100%.</Mending_progressiveMending_Tooltip>
 
-  <Mending_pawnFreeSkillBonus_Label>Repair skill bonus: (+{0})</Mending_pawnFreeSkillBonus_Label>
-  <Mending_pawnFreeSkillBonus_ToolTip>The number of bonus points for the pawn repair skill. Allows you to reach the maximum repair level earlier.</Mending_pawnFreeSkillBonus_ToolTip>
+  <Mending_pawnFreeSkillBonus_Label>Bonus di abilità di riparazione: (+{0})</Mending_pawnFreeSkillBonus_Label>
+  <Mending_pawnFreeSkillBonus_ToolTip>Il numero di punti bonus per l'abilità di riparazione. Consente di raggiungere anticipatamente il livello massimo di riparazione.</Mending_pawnFreeSkillBonus_ToolTip>
 
-  <Mending_decreaseQualityOnFail>Reduce the quality of an item on error</Mending_decreaseQualityOnFail>
-  <Mending_decreaseQualityOnFail_Tooltip>Failure during Mending cause decreasing the quality of the item by 1 step.</Mending_decreaseQualityOnFail_Tooltip>
+  <Mending_decreaseQualityOnFail>Riduce la qualità di un oggetto in caso di errore</Mending_decreaseQualityOnFail>
+  <Mending_decreaseQualityOnFail_Tooltip>Il fallimento quando si rammenda un oggetto comporta la riduzione della qualità del prodotto di 1.</Mending_decreaseQualityOnFail_Tooltip>
 
-  <Mending_allowToRemoveDebuff>Remove debuffs from clothing</Mending_allowToRemoveDebuff>
-  <Mending_allowToRemoveDebuff_Tooltip>Removes "worn by a corpse" debuff from clothing upon completion of repair</Mending_allowToRemoveDebuff_Tooltip>
+  <Mending_allowToRemoveDebuff>Rimuove penalità dagli abiti</Mending_allowToRemoveDebuff>
+  <Mending_allowToRemoveDebuff_Tooltip>Rimuove dagli abiti la penalità "indossato da un cadavere" al termine della riparazione.</Mending_allowToRemoveDebuff_Tooltip>
 
   <Mending_ResetButton>Сброс</Mending_ResetButton>
 

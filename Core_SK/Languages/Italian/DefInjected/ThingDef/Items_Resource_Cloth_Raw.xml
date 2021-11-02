@@ -3,14 +3,14 @@
 
   <!-- Raw Materials -->
 
-  <RawCotton.label>Raw Cotton</RawCotton.label>
-  <RawCotton.description>Raw Cotton from a Cotton Bush. It can be spun into Cloth at a Tailor's Workbench.</RawCotton.description>
+  <RawCotton.label>Cotone grezzo</RawCotton.label>
+  <RawCotton.description>Cotone grezzo estratto da un cespuglio di cotone. Può essere filato in stoffa in un banco da lavoro da sarto.</RawCotton.description>
 
-  <RawFlax.label>Raw flax</RawFlax.label>
-  <RawFlax.description>Raw flax. It can be spun into cloth or sold to a trader.</RawFlax.description>
+  <RawFlax.label>Lino grezzo</RawFlax.label>
+  <RawFlax.description>Lino grezzo. Può essere filato in tessuto o venduto a un commerciante.</RawFlax.description>
 
-  <RawDevilstrand.label>Raw Devilstrand</RawDevilstrand.label>
-  <RawDevilstrand.description>Raw Devilstrand from a Devilstrand Mushroom. It can be spun into Devilstrand Cloth at a Tailor's Workbench.</RawDevilstrand.description>
+  <RawDevilstrand.label>Devilstrand grezzo</RawDevilstrand.label>
+  <RawDevilstrand.description>Devilstrand grezzo estratto da un fungo Devilstrand. Può essere filato in stoffa Devilstrand al banco di lavoro da sarto.</RawDevilstrand.description>
 
 
 </LanguageData>

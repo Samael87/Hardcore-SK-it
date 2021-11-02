@@ -3,51 +3,51 @@
 
   <!-- REALISTIC PRODUCTION SK MOD -->
 
-  <Silicon.label>silicon</Silicon.label>
-  <Silicon.description>Silicon is the one of the most common elements in the universe by mass, but very rarely occurs as the pure free element in nature. It can be produced by smelting Sand.</Silicon.description>
+  <Silicon.label>silicio</Silicon.label>
+  <Silicon.description>Il silicio è uno degli elementi più comuni nell'universo per massa, ma molto raramente si trova in natura come elemento puro. Può essere prodotto dalla fusione di sabbia.</Silicon.description>
 
-  <Biomatter.label>biomatter</Biomatter.label>
-  <Biomatter.description>BioMatter can be extracted from a humanlike corpse. It can be used to grow natural organs in an Organ Vat.</Biomatter.description>
+  <Biomatter.label>biomateria</Biomatter.label>
+  <Biomatter.description>La biomateria può essere ricavata da un cadavere umano. Può essere utilizzata per la crescita di organi naturali nelle vasche di organo coltura.</Biomatter.description>
 
-  <Ash.label>ash</Ash.label>
-  <Ash.description>Ash is obtained by burning corpses or other materials in a crematorium or fire pit.</Ash.description>
+  <Ash.label>cenere</Ash.label>
+  <Ash.description>La cenere si ottiene bruciando cadaveri o altri materiali in un forno crematorio o in una fossa.</Ash.description>
 
-  <ConcreteResource.label>concrete</ConcreteResource.label>
-  <ConcreteResource.description>Concrete is a composite material composed of sand and rubble. It is a fluid material that bonds into a solid material over time. It can have metals added to create reinforced concrete, a durable and solid building material.</ConcreteResource.description>
-  <ConcreteResource.stuffProps.stuffAdjective>concrete</ConcreteResource.stuffProps.stuffAdjective>
+  <ConcreteResource.label>cemento</ConcreteResource.label>
+  <ConcreteResource.description>Il cemento è un materiale composito, composto da sabbia e pietrisco. È una miscela fluida che nel tempo si lega  in un materiale solido. Possono essere aggiunti dei metalli per creare il cemento armato, un materiale da costruzione durevole e solido.</ConcreteResource.description>
+  <ConcreteResource.stuffProps.stuffAdjective>cemento</ConcreteResource.stuffProps.stuffAdjective>
 
-  <ClayBrick.label>clay bricks</ClayBrick.label>
-  <ClayBrick.description>A brick of hardened clay baked at a kiln. It can be used for construction purposes.</ClayBrick.description>
-  <ClayBrick.stuffProps.stuffAdjective>Clay Bricks</ClayBrick.stuffProps.stuffAdjective>
+  <ClayBrick.label>mattoni di argilla</ClayBrick.label>
+  <ClayBrick.description>Un mattone di argilla indurita cotto in un forno. Può essere utilizzato per scopi di costruzione.</ClayBrick.description>
+  <ClayBrick.stuffProps.stuffAdjective>Mattoni di argilla</ClayBrick.stuffProps.stuffAdjective>
 
-  <Ceramics.label>Ceramics</Ceramics.label>
-  <Ceramics.description>Glazed ceramics made using high-temperature kiln. Smooth and beautiful but fragile.</Ceramics.description>
-  <Ceramics.stuffProps.stuffAdjective>Ceramic</Ceramics.stuffProps.stuffAdjective>
+  <Ceramics.label>ceramiche</Ceramics.label>
+  <Ceramics.description>Ceramica smaltata realizzata con forno ad alta temperatura. Liscia e bella ma fragile.</Ceramics.description>
+  <Ceramics.stuffProps.stuffAdjective>Ceramica</Ceramics.stuffProps.stuffAdjective>
 
 
   <!-- Matter -->
 
-  <Matter.label>inorganic matter</Matter.label>
-  <Matter.description>A container of inorganic matter. It can be made at an inorganic matter converter from various types of raw resources or refined into specific resources. It can be used to feed a hadron collider for antimatter production.</Matter.description>
+  <Matter.label>materia inorganica</Matter.label>
+  <Matter.description>Un contenitore di materia inorganica. Può essere realizzato in un convertitore di materia inorganica da vari tipi di risorse grezze o raffinato in risorse specifiche. Può essere utilizzato per alimentare un collisore di adroni per la produzione di antimateria.</Matter.description>
 
-  <PileOfBooks.label>pile of books</PileOfBooks.label>
-  <PileOfBooks.description>A random assortment of books. Most are old and discarded classics, but occasionally a good quality book can be found.</PileOfBooks.description>
+  <PileOfBooks.label>pila di libri</PileOfBooks.label>
+  <PileOfBooks.description>Un assortimento casuale di libri. La maggior parte sono vecchi classici scartati, ma a volte si può trovare anche un libro di buona qualità.</PileOfBooks.description>
 
-  <PaintingSupplies.label>painting supplies</PaintingSupplies.label>
-  <PaintingSupplies.description>A large assortment of brushes and paints. Perfect for any aspiring artist.</PaintingSupplies.description>
-  <PaintingSupplies.stuffProps.stuffAdjective>painting supplies</PaintingSupplies.stuffProps.stuffAdjective>
+  <PaintingSupplies.label>forniture per pittura</PaintingSupplies.label>
+  <PaintingSupplies.description>Un vasto assortimento di pennelli e vernici. Perfetto per ogni aspirante artista.</PaintingSupplies.description>
+  <PaintingSupplies.stuffProps.stuffAdjective>forniture per pittura</PaintingSupplies.stuffProps.stuffAdjective>
 
-  <MineralSonarModule.label>mineral sonar module</MineralSonarModule.label>
-  <MineralSonarModule.description>This is a mineral sonar module. When deployed on the field with some energy packs, it can scan the surrounding area for metallic objects or hidden deposits of ores.</MineralSonarModule.description>
+  <MineralSonarModule.label>modulo sonar minerario</MineralSonarModule.label>
+  <MineralSonarModule.description>Questo è un modulo sonar minerario. Quando viene dislocato sul campo con alcuni pacchetti di energia, può scansionare l'area circostante alla ricerca di oggetti metallici o depositi di minerali nascosti.</MineralSonarModule.description>
 
 
   <!-- mai items -->
 
-  <RobotParts.label>robot parts</RobotParts.label>
-  <RobotParts.description>These parts could be used to create a robot.</RobotParts.description>
+  <RobotParts.label>parti di robot</RobotParts.label>
+  <RobotParts.description>Queste parti potrebbero essere utilizzate per creare un robot.</RobotParts.description>
 
-  <MendingKit.label>mending kit</MendingKit.label>
-  <MendingKit.description>Miscellaneous cloth, bits and parts. Necessary for repairing weapons and mending apparel.</MendingKit.description>
+  <MendingKit.label>kit di riparazione</MendingKit.label>
+  <MendingKit.description>Stoffe varie, pezzetti e parti. Necessarie per riparare armi e rammendare indumenti.</MendingKit.description>
 
 
 </LanguageData>

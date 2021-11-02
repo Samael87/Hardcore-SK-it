@@ -3,26 +3,26 @@
 
   <!-- Terraforming -->
 
-  <Dirt.label>Pile of dirt</Dirt.label>
-  <Dirt.description>Simple soil dug out of the ground.</Dirt.description>
+  <Dirt.label>pila di terra</Dirt.label>
+  <Dirt.description>Del semplice terriccio ricavato dal suolo.</Dirt.description>
 
-  <SandResource.label>Sand</SandResource.label>
-  <SandResource.description>Sand can be crushed from Rubble or gathered from the ground. It is a necessary ingredient in making Glass Batch and Silicon.</SandResource.description>
+  <SandResource.label>sabbia</SandResource.label>
+  <SandResource.description>Sabbia può essere ricavata frantumando pietrisco o raccolta dal terreno. È un ingrediente necessario per fare un lotto di vetro e il silicio.</SandResource.description>
 
-  <CrushedStone.label>rubble</CrushedStone.label>
-  <CrushedStone.description>Rough Rubble stones are created by smashing stone chunks or blocks. It can be gathered from gravel on the ground. It is a useful ingredient for concrete. It can also be smashed further to produce Sand.</CrushedStone.description>
+  <CrushedStone.label>pietrisco</CrushedStone.label>
+  <CrushedStone.description>il pietrisco grezzo viene creato frantumando pezzi di pietra o blocchi. Può essere raccolto dalla ghiaia sul terreno. È un ingrediente utile per creare il calcestruzzo. Può anche essere frantumato ulteriormente per produrre sabbia.</CrushedStone.description>
 
   <Compost.label>compost</Compost.label>
-  <Compost.description>A mix of food wastes. Rather disgusting, but useful if you want to make fertilizer.</Compost.description>
+  <Compost.description>Un mix di rifiuti alimentari. Piuttosto disgustoso, ma utile se si vuole produrre fertilizzante.</Compost.description>
 
-  <Fertilizer.label>fertilizer</Fertilizer.label>
-  <Fertilizer.description>Fertilizer enhances soil to speed the growth of plants.</Fertilizer.description>
+  <Fertilizer.label>fertilizzante</Fertilizer.label>
+  <Fertilizer.description>Il fertilizzante migliora il terreno per accelerare la crescita delle piante.</Fertilizer.description>
 
-  <RottedMeat.label>rotted meat</RottedMeat.label>
-  <RottedMeat.description>This apparently used to be meat of some sort, but now it's just a disgusting pile of rotted mush. Useful for making compost, perhaps, but not for much else.</RottedMeat.description>
+  <RottedMeat.label>carne marcia</RottedMeat.label>
+  <RottedMeat.description>A quanto pare questa era un qualche tipo di carne, ma ora è solo un disgustoso mucchio di poltiglia marcia. Utile per fare il compost, forse, ma non per molto altro.</RottedMeat.description>
 
-  <RottedMush.label>rotted mush</RottedMush.label>
-  <RottedMush.description>Whatever this used to be, it's now just a disgusting pile of rotted mush. Useful for making compost, perhaps, but not for much else.</RottedMush.description>
+  <RottedMush.label>poltiglia marcia</RottedMush.label>
+  <RottedMush.description>Qualunque cosa fosse, ora è solo un disgustoso mucchio di poltiglia marcia. Utile per fare compost, forse, ma non per molto altro.</RottedMush.description>
 
 
 </LanguageData>

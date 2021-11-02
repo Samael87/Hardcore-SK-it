@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RawCorn.label>Corn</RawCorn.label>
-  <RawCorn.description>Corn comes from the Corn Plant. The leafy stalk of the plant produces ears which contain the grain. Corn can be cooked for food or made into Ethanol Fuel. Corn is also known as Maize.</RawCorn.description>
-  <RawCorn.stuffProps.stuffAdjective>Corn</RawCorn.stuffProps.stuffAdjective>
+  <RawCorn.label>mais</RawCorn.label>
+  <RawCorn.description>Il mais proviene dalla medesima coltivazione. Il gambo frondoso della pianta produce pannocchie che contengono il grano. Il mais può essere sia consumato come alimento che trasformato in etanolo combustibile. Il mais è anche conosciuto come granturco.</RawCorn.description>
+  <RawCorn.stuffProps.stuffAdjective>Mais</RawCorn.stuffProps.stuffAdjective>
 
-  <RawRice.label>Rice</RawRice.label>
-  <RawRice.description>Rice are the small edible seeds of the Rice Plant. Not enjoyable when eaten raw, as the seeds are hard and numerous. It is a quick growing food source that can also be used for Ethanol Fuel or the alcoholic drink called Sake.</RawRice.description>
-  <RawRice.stuffProps.stuffAdjective>Rice</RawRice.stuffProps.stuffAdjective>
+  <RawRice.label>riso</RawRice.label>
+  <RawRice.description>Il riso sono i piccoli semi commestibili della pianta del riso. Non è piacevole se consumato crudo, poiché i semi sono duri e numerosi. Si tratta di una fonte di cibo a rapida crescita che può essere utilizzato anche per produrre etanolo combustibile o la bevanda alcolica chiamata Sake.</RawRice.description>
+  <RawRice.stuffProps.stuffAdjective>Riso</RawRice.stuffProps.stuffAdjective>
 
-  <Rawwheat.label>Wheat</Rawwheat.label>
-  <Rawwheat.description>Wheat is a cereal grain. It can be milled into Flour for use in baking bread.</Rawwheat.description>
-  <Rawwheat.stuffProps.stuffAdjective>Wheat</Rawwheat.stuffProps.stuffAdjective>
+  <Rawwheat.label>grano</Rawwheat.label>
+  <Rawwheat.description>Il grano è un cereale. Può essere macinato in farina per produrre il pane.</Rawwheat.description>
+  <Rawwheat.stuffProps.stuffAdjective>Grano</Rawwheat.stuffProps.stuffAdjective>
 
-  <Rawcocoa.label>Cocoa Beans</Rawcocoa.label>
-  <Rawcocoa.description>Cocoa Beans are the seeds of cocoa pods from a Cocoa Tree. They can be refined into chocolate.</Rawcocoa.description>
-  <Rawcocoa.stuffProps.stuffAdjective>Cocoa Beans</Rawcocoa.stuffProps.stuffAdjective>
+  <Rawcocoa.label>semi di cacaos</Rawcocoa.label>
+  <Rawcocoa.description>I semi di cacao sono i semi dei baccelli di cacao di un albero di cacao. Possono essere raffinati in cioccolato.</Rawcocoa.description>
+  <Rawcocoa.stuffProps.stuffAdjective>Semi di cacao</Rawcocoa.stuffProps.stuffAdjective>
 
-  <Rawsugarcane.label>Sugarcane</Rawsugarcane.label>
-  <Rawsugarcane.description>Sugarcane is a type of long grass from the Sugarcane Plant. The grass stalks are rich in sucrose, which can be milled to produce Sugar.</Rawsugarcane.description>
-  <Rawsugarcane.stuffProps.stuffAdjective>Sugarcane</Rawsugarcane.stuffProps.stuffAdjective>
+  <Rawsugarcane.label>canna da zucchero</Rawsugarcane.label>
+  <Rawsugarcane.description>La canna da zucchero è un tipo di erba lunga dalla pianta della canna da zucchero. I gambi dell'erba sono ricchi di saccarosio, che può essere macinato per produrre zucchero.</Rawsugarcane.description>
+  <Rawsugarcane.stuffProps.stuffAdjective>Canna da zucchero</Rawsugarcane.stuffProps.stuffAdjective>
 
-  <RawTobacco.label>Tobacco Leaves</RawTobacco.label>
-  <RawTobacco.description>Raw Tobacco Leaves from a Tobacco Plant. Not recommended for eating. Tobacco can be rolled and smoked as a stimulating drug. They are addicting and are associated with a number of health problems for long term use.</RawTobacco.description>
-  <RawTobacco.stuffProps.stuffAdjective>Tobacco Leaves</RawTobacco.stuffProps.stuffAdjective>
+  <RawTobacco.label>foglie di tabacco</RawTobacco.label>
+  <RawTobacco.description>Foglie di tabacco grezzo da una pianta di tabacco. Non raccomandato per l'alimentazione. Il tabacco può essere arrotolato e fumato come farmaco stimolante. Produce dipendenza e vengono associati al suo consumo una serie di problemi di salute per l'uso a lungo termine.</RawTobacco.description>
+  <RawTobacco.stuffProps.stuffAdjective>Foglie di tabacco</RawTobacco.stuffProps.stuffAdjective>
 
 
   <!-- <ThingDef ParentName="SK_RoughPlantBase">
@@ -37,7 +37,7 @@
 		<statBases>
 			<MarketValue>3</MarketValue>
 		</statBases>
-		<tickerType>Rare</tickerType>   
+		<tickerType>Rare</tickerType>
 		<thingCategories>
 			<li>CookingSupplies</li>
 		</thingCategories>
@@ -55,17 +55,17 @@
 		<stackLimit>100</stackLimit>
 	</ThingDef> -->
 
-  <RawCoffee.label>Coffee Beans</RawCoffee.label>
-  <RawCoffee.description>Raw Coffee Beans from a Coffee Plant. When roasted with water, they make for a delicious beverage called Coffee.</RawCoffee.description>
-  <RawCoffee.stuffProps.stuffAdjective>Coffee Beans</RawCoffee.stuffProps.stuffAdjective>
+  <RawCoffee.label>chicchi di caffè</RawCoffee.label>
+  <RawCoffee.description>Chicchi di caffè crudo da una pianta di caffè. Quando tostato, con l'acqua, si produce una deliziosa bevanda chiamata caffè.</RawCoffee.description>
+  <RawCoffee.stuffProps.stuffAdjective>Chicchi di caffè</RawCoffee.stuffProps.stuffAdjective>
 
-  <RawTea.label>Tea Leaves</RawTea.label>
-  <RawTea.description>Tea Leaves from a Tea Shrub. When brewed with water, it produces a relaxing beverage called Tea.</RawTea.description>
-  <RawTea.stuffProps.stuffAdjective>Tea Leaves</RawTea.stuffProps.stuffAdjective>
+  <RawTea.label>foglie di tè</RawTea.label>
+  <RawTea.description>Foglie di tè da un arbusto di tè. Quando infuso con acqua, produce una bevanda rilassante chiamato tè.</RawTea.description>
+  <RawTea.stuffProps.stuffAdjective>Foglie di tè</RawTea.stuffProps.stuffAdjective>
 
-  <RawFungus.label>raw fungus</RawFungus.label>
-  <RawFungus.description>Raw fungus.</RawFungus.description>
-  <RawFungus.stuffProps.stuffAdjective>raw fungus</RawFungus.stuffProps.stuffAdjective>
+  <RawFungus.label>funghi crudi</RawFungus.label>
+  <RawFungus.description>Funghi crudi.</RawFungus.description>
+  <RawFungus.stuffProps.stuffAdjective>Funghi crudi</RawFungus.stuffProps.stuffAdjective>
 
 
 </LanguageData>
