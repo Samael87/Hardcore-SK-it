@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Animal_A1.label>Animal husbandry I</Animal_A1.label>
-  <Animal_A1.description>Allows you to care about your animals</Animal_A1.description>
+  <Animal_A1.label>Allevamento degli animali I</Animal_A1.label>
+  <Animal_A1.description>Ti permette di prenderti cura dei tuoi animali</Animal_A1.description>
 
-  <Animal_A2.label>Animal husbandry II</Animal_A2.label>
-  <Animal_A2.description>Allow you to make some food for your animals, and some cool stuff for your cats</Animal_A2.description>
+  <Animal_A2.label>Allevamento degli animali II</Animal_A2.label>
+  <Animal_A2.description>Consente di produrre cibi per i vostri animali e alcune strutture per i gatti</Animal_A2.description>
 
-  <Animal_C1.label>Animal husbandry III</Animal_C1.label>
-  <Animal_C1.description>Beds for animals to every house!</Animal_C1.description>
+  <Animal_C1.label>Allevamento degli animali III</Animal_C1.label>
+  <Animal_C1.description>Letti per gli animali in ogni casa!</Animal_C1.description>
 
-  <Fish_A1.label>Fishing I</Fish_A1.label>
-  <Fish_A1.description>This one allows you to fish(its really cool for your pawns!)</Fish_A1.description>
+  <Fish_A1.label>Pesca I</Fish_A1.label>
+  <Fish_A1.description>Questo ti permette di pescare (è davvero figo per i tuoi coloni!)</Fish_A1.description>
 
-  <Fish_C1.label>Fishing II</Fish_C1.label>
-  <Fish_C1.description>Fishing has never been so easy!</Fish_C1.description>
+  <Fish_C1.label>Pesca II</Fish_C1.label>
+  <Fish_C1.description>La pesca non è mai stata così facile!</Fish_C1.description>
 
 
 </LanguageData>
