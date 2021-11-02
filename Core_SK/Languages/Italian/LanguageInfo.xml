@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageInfo>
-  <friendlyNameNative>Italiano-SK</friendlyNameNative>
-  <friendlyNameEnglish>Italian-SK</friendlyNameEnglish>
+  <friendlyNameNative>Italiano</friendlyNameNative>
+  <friendlyNameEnglish>Italian</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
   <credits>
     <li Class="CreditRecord_Role">
