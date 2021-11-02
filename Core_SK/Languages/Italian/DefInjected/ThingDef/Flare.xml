@@ -3,15 +3,15 @@
 
   <!-- Ammo -->
 
-  <Flare.label>Flare</Flare.label>
+  <Flare.label>flare</Flare.label>
 
-  <Ammo_Flare.label>flare round</Ammo_Flare.label>
-  <Ammo_Flare.description>A flare round for illumination.</Ammo_Flare.description>
+  <Ammo_Flare.label>munizione flare</Ammo_Flare.label>
+  <Ammo_Flare.description>Una munizione flare per l'illuminazione.</Ammo_Flare.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_Flare.label>flare</Bullet_Flare.label>
+  <Bullet_Flare.label>bengala</Bullet_Flare.label>
 
 
 </LanguageData>
