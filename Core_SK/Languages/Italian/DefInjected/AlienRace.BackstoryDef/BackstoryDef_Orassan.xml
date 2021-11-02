@@ -21,7 +21,7 @@
 
   <Orassan_PsiWarrior.title>Guerriero psionico</Orassan_PsiWarrior.title>
   <Orassan_PsiWarrior.titleShort>Psionico</Orassan_PsiWarrior.titleShort>
-  <Orassan_PsiWarrior.baseDescription>Pochi orassiano dimostrano abilità psioniche latenti. [PAWN_nameDef] è un{PAWN_gender ? o:a} di questi. Una volta scoperto dall'impero, [PAWN_pronoun] è stato reclutato per diventare un guerriero psionico.</Orassan_PsiWarrior.baseDescription>
+  <Orassan_PsiWarrior.baseDescription>Pochi orassian dimostrano abilità psioniche latenti. [PAWN_nameDef] è un{PAWN_gender ? o:a} di questi. Una volta scoperto dall'impero, [PAWN_pronoun] è stato reclutato per diventare un guerriero psionico.</Orassan_PsiWarrior.baseDescription>
 
   <Orassan_Constructor.title>Costruttore</Orassan_Constructor.title>
   <Orassan_Constructor.titleShort>Costruttore</Orassan_Constructor.titleShort>
