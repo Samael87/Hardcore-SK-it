@@ -44,7 +44,7 @@
 
   <Leather_Pig.label>pelle di suino</Leather_Pig.label>
   <Leather_Pig.description>Pelle di suino conciata, seccata e raschiata. Sebbene sia una buona pelle, non protegge né isola particolarmente bene.</Leather_Pig.description>
-  <Leather_Pig.stuffProps.stuffAdjective>pig leather</Leather_Pig.stuffProps.stuffAdjective>
+  <Leather_Pig.stuffProps.stuffAdjective>pelle di suino</Leather_Pig.stuffProps.stuffAdjective>
 
 
   <!-- Thin leathers -->
@@ -69,9 +69,9 @@
   <Leather_Fox.description>La pelliccia di una volpe. Protegge bene dal freddo ed è abbastanza lussuosa, valendo molto denaro.</Leather_Fox.description>
   <Leather_Fox.stuffProps.stuffAdjective>pelliccia di volpe</Leather_Fox.stuffProps.stuffAdjective>
 
-  <Leather_Lizard.label>pelle di rettile/Leather_Lizard.label>
+  <Leather_Lizard.label>pelle di rettile</Leather_Lizard.label>
   <Leather_Lizard.description>La pelle conciata di un rettile a sangue freddo. La pelle di rettile è ragionevolmente resistente, ma non isola per niente bene.</Leather_Lizard.description>
-  <Leather_Lizard.stuffProps.stuffAdjective>lizard leather</Leather_Lizard.stuffProps.stuffAdjective>
+  <Leather_Lizard.stuffProps.stuffAdjective>pelle di rettile</Leather_Lizard.stuffProps.stuffAdjective>
 
   <Leather_Boomanimal.label>pelle di boomanimale</Leather_Boomanimal.label>
   <Leather_Boomanimal.description>Pelle leggera di un boomanimale come i boomrat o i boomalope. Più infiammabile rispetto ad altre pelli.</Leather_Boomanimal.description>
@@ -82,15 +82,15 @@
 
   <Leather_Elephant.label>pelle di elefante</Leather_Elephant.label>
   <Leather_Elephant.description>Pelle di elefante conciata, seccata e raschiata. Sebbene abbastanza resistente, è un cattivo isolante.</Leather_Elephant.description>
-  <Leather_Elephant.stuffProps.stuffAdjective>elephant leather</Leather_Elephant.stuffProps.stuffAdjective>
+  <Leather_Elephant.stuffProps.stuffAdjective>pelle di elefante</Leather_Elephant.stuffProps.stuffAdjective>
 
   <Leather_Heavy.label>pelliccia pesante</Leather_Heavy.label>
   <Leather_Heavy.description>Spessa pelle ricoperta di un lungo e robusto strato di pelo. Recuperata da un grosso e robusto animale. Questa pelle spessa isola e protegge molto bene.</Leather_Heavy.description>
-  <Leather_Heavy.stuffProps.stuffAdjective>heavy fur</Leather_Heavy.stuffProps.stuffAdjective>
+  <Leather_Heavy.stuffProps.stuffAdjective>pelliccia pesante</Leather_Heavy.stuffProps.stuffAdjective>
 
   <Leather_Rhinoceros.label>pelle di rinoceronte</Leather_Rhinoceros.label>
   <Leather_Rhinoceros.description>Pelle di rinoceronte conciata, seccata e raschiata. E' straordinariamente resistente in combattimento, ma fornisce poca protezione contro le intemperie.</Leather_Rhinoceros.description>
-  <Leather_Rhinoceros.stuffProps.stuffAdjective>rhinoceros leather</Leather_Rhinoceros.stuffProps.stuffAdjective>
+  <Leather_Rhinoceros.stuffProps.stuffAdjective>pelle di rinoceronte</Leather_Rhinoceros.stuffProps.stuffAdjective>
 
 
   <!-- Super leathers -->

@@ -13,16 +13,16 @@
   <Ash.description>La cenere si ottiene bruciando cadaveri o altri materiali in un forno crematorio o in una fossa.</Ash.description>
 
   <ConcreteResource.label>cemento</ConcreteResource.label>
-  <ConcreteResource.description>Il cemento è un materiale composito, composto da sabbia e pietrisco. È una miscela fluida che nel tempo si lega  in un materiale solido. Possono essere aggiunti dei metalli per creare il cemento armato, un materiale da costruzione durevole e solido.</ConcreteResource.description>
+  <ConcreteResource.description>Il cemento è un materiale composto da sabbia e pietrisco. È una miscela fluida che nel tempo si lega  in un materiale solido. Possono essere aggiunti dei metalli per creare il cemento armato, un materiale da costruzione durevole e solido.</ConcreteResource.description>
   <ConcreteResource.stuffProps.stuffAdjective>cemento</ConcreteResource.stuffProps.stuffAdjective>
 
   <ClayBrick.label>mattoni di argilla</ClayBrick.label>
   <ClayBrick.description>Un mattone di argilla indurita cotto in un forno. Può essere utilizzato per scopi di costruzione.</ClayBrick.description>
-  <ClayBrick.stuffProps.stuffAdjective>Mattoni di argilla</ClayBrick.stuffProps.stuffAdjective>
+  <ClayBrick.stuffProps.stuffAdjective>mattoni di argilla</ClayBrick.stuffProps.stuffAdjective>
 
   <Ceramics.label>ceramiche</Ceramics.label>
   <Ceramics.description>Ceramica smaltata realizzata con forno ad alta temperatura. Liscia e bella ma fragile.</Ceramics.description>
-  <Ceramics.stuffProps.stuffAdjective>Ceramica</Ceramics.stuffProps.stuffAdjective>
+  <Ceramics.stuffProps.stuffAdjective>ceramica</Ceramics.stuffProps.stuffAdjective>
 
 
   <!-- Matter -->

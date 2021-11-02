@@ -5,7 +5,7 @@
 
   <Cloth.label>tessuto</Cloth.label>
   <Cloth.description>Il tessuto è prodotto dalla filatura dalle fibre organiche grezze estratte dal cespuglio di cotone. Queste fibre sono chiamate cotone grezzo.</Cloth.description>
-  <Cloth.stuffProps.stuffAdjective>Tessuto</Cloth.stuffProps.stuffAdjective>
+  <Cloth.stuffProps.stuffAdjective>tessuto</Cloth.stuffProps.stuffAdjective>
 
   <WoolMegasloth.label>Megasloth wool</WoolMegasloth.label>
   <WoolMegasloth.description>While somewhat coarse, Megasloth wool's long fibers make it very strong. It is very warm.</WoolMegasloth.description>
@@ -13,54 +13,54 @@
 
   <WoolMuffalo.label>lana di muffalo</WoolMuffalo.label>
   <WoolMuffalo.description>Morbida, leggera e garantisce un ottimo isolamento. I vestiti in lana di muffalo possono tenere il corpo al caldo anche in condizioni molto fredde.</WoolMuffalo.description>
-  <WoolMuffalo.stuffProps.stuffAdjective>Lana di muffalo</WoolMuffalo.stuffProps.stuffAdjective>
+  <WoolMuffalo.stuffProps.stuffAdjective>lana di muffalo</WoolMuffalo.stuffProps.stuffAdjective>
 
   <WoolDromedary.label>pelo di dromedario</WoolDromedary.label>
   <WoolDromedary.description>Abbigliamento in pelo di dromedario è solitamente indossato dai viaggiatori del deserto per proteggerli dal calore. Fornisce un eccellente isolamento grazie alle sue proprietà termostatiche.</WoolDromedary.description>
-  <WoolDromedary.stuffProps.stuffAdjective>Pelo di dromedario</WoolDromedary.stuffProps.stuffAdjective>
+  <WoolDromedary.stuffProps.stuffAdjective>pelo di dromedario</WoolDromedary.stuffProps.stuffAdjective>
 
   <WoolAlpaca.label>lana di alpaca</WoolAlpaca.label>
   <WoolAlpaca.description>Questa è la morbida lana di un alpaca. È utile per l'abbigliamento.</WoolAlpaca.description>
-  <WoolAlpaca.stuffProps.stuffAdjective>Lana di alpaca</WoolAlpaca.stuffProps.stuffAdjective>
+  <WoolAlpaca.stuffProps.stuffAdjective>lana di alpaca</WoolAlpaca.stuffProps.stuffAdjective>
 
   <WoolBison.label>lana di bisonte</WoolBison.label>
   <WoolBison.description>Lana spessa e grossolana di un bisonte. Abbastanza caldo.</WoolBison.description>
-  <WoolBison.stuffProps.stuffAdjective>Lana di bisonte</WoolBison.stuffProps.stuffAdjective>
+  <WoolBison.stuffProps.stuffAdjective>lana di bisonte</WoolBison.stuffProps.stuffAdjective>
 
   <WoolSheep.label>lana di pecora</WoolSheep.label>
   <WoolSheep.description>Lana di pecora. Fornisce un buon isolamento.</WoolSheep.description>
-  <WoolSheep.stuffProps.stuffAdjective>Lana di pecora</WoolSheep.stuffProps.stuffAdjective>
+  <WoolSheep.stuffProps.stuffAdjective>lana di pecora</WoolSheep.stuffProps.stuffAdjective>
 
   <HempCloth.label>canapa</HempCloth.label>
   <HempCloth.description>La canapa è un tipo di tessuto prodotto dalla filatura delle fibre della medesima pianta. E' la stessa pianta che piace fumare alla gente. Attenzione alle fonti di fuoco!</HempCloth.description>
-  <HempCloth.stuffProps.stuffAdjective>Canapa</HempCloth.stuffProps.stuffAdjective>
+  <HempCloth.stuffProps.stuffAdjective>canapa</HempCloth.stuffProps.stuffAdjective>
 
   <Velour.label>Velluto</Velour.label>
   <Velour.stuffProps.stuffAdjective>velluto</Velour.stuffProps.stuffAdjective>
 
   <Flaxcloth.label>tessuto di lino</Flaxcloth.label>
   <Flaxcloth.description>Un tessuto progettato per fare vestiti. È morbido, leggero e resistente.</Flaxcloth.description>
-  <Flaxcloth.stuffProps.stuffAdjective>Tessuto di lino</Flaxcloth.stuffProps.stuffAdjective>
+  <Flaxcloth.stuffProps.stuffAdjective>tessuto di lino</Flaxcloth.stuffProps.stuffAdjective>
 
   <DevilstrandCloth.label>tessuto di devilstrand</DevilstrandCloth.label>
   <DevilstrandCloth.description>Tessuto filato da microfibre estratte dalla seta prodotta dai funghi Devilstrand. Molto resistente, ma non isola come stoffa.</DevilstrandCloth.description>
-  <DevilstrandCloth.stuffProps.stuffAdjective>Tessuto di devilstrand</DevilstrandCloth.stuffProps.stuffAdjective>
+  <DevilstrandCloth.stuffProps.stuffAdjective>tessuto di devilstrand</DevilstrandCloth.stuffProps.stuffAdjective>
 
   <Synthread.label>sintessuto</Synthread.label>
   <Synthread.description>Tessuto sintetico, derivato dalla tecnologia spaziale, progettato per la realizzazione di vestiti ordinari. E' morbido, leggero, resistente e isola bene.</Synthread.description>
-  <Synthread.stuffProps.stuffAdjective>Sintessuto</Synthread.stuffProps.stuffAdjective>
+  <Synthread.stuffProps.stuffAdjective>sintessuto</Synthread.stuffProps.stuffAdjective>
 
   <Hyperweave.label>iperfibra</Hyperweave.label>
   <Hyperweave.description>Nano-fibre high-tech intrecciate in fogli. È un po' pesante, ma è incredibilmente difficile da rompere. I segreti della sua produzione sono noti solo alle più avanzate culture Glitterworld.</Hyperweave.description>
-  <Hyperweave.stuffProps.stuffAdjective>Iperfibra</Hyperweave.stuffProps.stuffAdjective>
+  <Hyperweave.stuffProps.stuffAdjective>iperfibra</Hyperweave.stuffProps.stuffAdjective>
 
   <Kevlar.label>Kevlar</Kevlar.label>
   <Kevlar.description>Il Kevlar è una combinazione di fibre sintetiche e di plastica, che viene spesso utilizzato per le armature protettive da combattimento.</Kevlar.description>
-  <Kevlar.stuffProps.stuffAdjective>Kevlar</Kevlar.stuffProps.stuffAdjective>
+  <Kevlar.stuffProps.stuffAdjective>kevlar</Kevlar.stuffProps.stuffAdjective>
 
   <ChitinPlating.label>placcatura di chitina</ChitinPlating.label>
   <ChitinPlating.description>Una versione modificata dell'esoscheletro dell'insetto. Ha una maggiore durata e facilità d'uso come tessuto.</ChitinPlating.description>
-  <ChitinPlating.stuffProps.stuffAdjective>Placcatura di chitina</ChitinPlating.stuffProps.stuffAdjective>
+  <ChitinPlating.stuffProps.stuffAdjective>placcatura di chitina</ChitinPlating.stuffProps.stuffAdjective>
 
   <Compaste.label>Pasta composita</Compaste.label>
   <Compaste.description>Una bottiglia di pasta composita, utilizzata per vari processi di lavorazione. L'etichetta recita: "NON BERE! Evitare di attaccare le dita sulle superfici dopo l'uso!".</Compaste.description>

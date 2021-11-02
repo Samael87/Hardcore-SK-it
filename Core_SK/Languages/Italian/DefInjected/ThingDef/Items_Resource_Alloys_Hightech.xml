@@ -4,33 +4,33 @@
   <Tungsten.label>lega di tungsteno</Tungsten.label>
   <Tungsten.description>Il tungsteno, noto anche come Wolfram o Wolframite, è un duro e raro metallo. La durezza e l'alta densità del tungsteno lo rendono ideale per applicazioni militari come i proiettili penetranti. I composti di tungsteno sono spesso utilizzati anche come catalizzatori industriali. Tungsteno è un metallo non magnetico.</Tungsten.description>
 
-  <StelliteAlloy.label>lega di stellite</StelliteAlloy.label>
+  <StelliteAlloy.label>stellite</StelliteAlloy.label>
   <StelliteAlloy.description>Lo stellite è una lega magnetica di cobalto, cromo e tungsteno progettato per una maggiore resistenza all'usura.</StelliteAlloy.description>
-  <StelliteAlloy.stuffProps.stuffAdjective>Stellite</StelliteAlloy.stuffProps.stuffAdjective>
+  <StelliteAlloy.stuffProps.stuffAdjective>stellite</StelliteAlloy.stuffProps.stuffAdjective>
 
-  <TitaniumBar.label>lega di ferrotitanio</TitaniumBar.label>
+  <TitaniumBar.label>ferrotitanio</TitaniumBar.label>
   <TitaniumBar.description>Il ferrotitanio è una lega di acciaio, titanio e lega in fibra di carbonio. E' molto resistente e un po' bello. Il ferrotitanio è un metallo non magnetico.</TitaniumBar.description>
-  <TitaniumBar.stuffProps.stuffAdjective>Ferrotitanio</TitaniumBar.stuffProps.stuffAdjective>
+  <TitaniumBar.stuffProps.stuffAdjective>ferrotitanio</TitaniumBar.stuffProps.stuffAdjective>
 
-  <NitinolAlloy.label>lega di nitinolo</NitinolAlloy.label>
+  <NitinolAlloy.label>nitinolo</NitinolAlloy.label>
   <NitinolAlloy.description>Il nitinolo è una lega di nichel e titanio. Il nitinolo è estremamente difficile da produrre a causa del controllo di composizione eccezionalmente stretto richiesto e della tremenda reattività del titanio. E' eccezionalmente durevole e un po' bello. Nitinol è un metallo non magnetico.</NitinolAlloy.description>
-  <NitinolAlloy.stuffProps.stuffAdjective>Nitinolo</NitinolAlloy.stuffProps.stuffAdjective>
+  <NitinolAlloy.stuffProps.stuffAdjective>nitinolo</NitinolAlloy.stuffProps.stuffAdjective>
 
-  <PobediteAlloy.label>lega di pobedite</PobediteAlloy.label>
+  <PobediteAlloy.label>pobedite</PobediteAlloy.label>
   <PobediteAlloy.description>Il pobedite è una lega magnetica di lega di fibra di carbonio, tungsteno e cobalto. Questa lega composita possiede una durezza particolarmente elevata, simile a quella di un diamante.</PobediteAlloy.description>
-  <PobediteAlloy.stuffProps.stuffAdjective>Pobedite</PobediteAlloy.stuffProps.stuffAdjective>
+  <PobediteAlloy.stuffProps.stuffAdjective>pobedite</PobediteAlloy.stuffProps.stuffAdjective>
 
-  <Titanium.label>titanium alloy</Titanium.label>
+  <Titanium.label>titanio</Titanium.label>
   <Titanium.description>Il titanio è un elemento chimico. È un metallo di transizione, lucido e dal colore argenteo, a bassa densità ed alta resistenza. È altamente resistente alla corrosione in acqua di mare, acqua regia e cloro. Il titanio è paramagnetico (viene attratto dai metalli magnetici per rafforzare il legame magnetico).</Titanium.description>
-  <Titanium.stuffProps.stuffAdjective>Titanio</Titanium.stuffProps.stuffAdjective>
+  <Titanium.stuffProps.stuffAdjective>titanio</Titanium.stuffProps.stuffAdjective>
 
   <AlphaPoly.label>alpha poly</AlphaPoly.label>
   <AlphaPoly.description>La prima iterazione nella costruzione artificiale di materia densa assemblata atomicamente. Questo materiale artificiale, estremamente raro, è assemblato solo in assemblatori di materia di fascia alta ed è buono per la costruzione di strutture nella cromosfera delle stelle.</AlphaPoly.description>
-  <AlphaPoly.stuffProps.stuffAdjective>Alpha Poly</AlphaPoly.stuffProps.stuffAdjective>
+  <AlphaPoly.stuffProps.stuffAdjective>alfa Poly</AlphaPoly.stuffProps.stuffAdjective>
 
   <BetaPoly.label>beta poly</BetaPoly.label>
   <BetaPoly.description>La seconda iterazione nella costruzione artificiale di materia densa assemblata atomicamente. Questo materiale artificiale, estremamente raro, è troppo costoso per essere prodotto in massa. Viene utilizzato solo come materiale per tute spaziali indistruttibili, inalterabili lumache cinetiche e pre il contenimento dei buchi neri in miniatura.</BetaPoly.description>
-  <BetaPoly.stuffProps.stuffAdjective>Beta Poly</BetaPoly.stuffProps.stuffAdjective>
+  <BetaPoly.stuffProps.stuffAdjective>beta Poly</BetaPoly.stuffProps.stuffAdjective>
 
 
 </LanguageData>

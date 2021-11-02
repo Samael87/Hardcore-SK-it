@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CopperBar.label>lega di rame</CopperBar.label>
-  <CopperBar.description>Il rame è una lega di rame minerale. Viene utilizzato principalmente per la sua elevata conducibilità in applicazioni elettriche. Il rame è un metallo non magnetico.</CopperBar.description>
+  <CopperBar.label>rame</CopperBar.label>
+  <CopperBar.description>Il rame è ricavato dal rame minerale. Viene utilizzato principalmente per la sua elevata conducibilità in applicazioni elettriche. Il rame è un metallo non magnetico.</CopperBar.description>
   <CopperBar.stuffProps.stuffAdjective>rame</CopperBar.stuffProps.stuffAdjective>
 
-  <TinBar.label>lega di stagno</TinBar.label>
-  <TinBar.description>Lo stagno è una lega di stagno minerale.</TinBar.description>
+  <TinBar.label>stagno</TinBar.label>
+  <TinBar.description>Lo stagno è ricavato dallo stagno minerale.</TinBar.description>
   <TinBar.stuffProps.stuffAdjective>stagno</TinBar.stuffProps.stuffAdjective>
 
-  <Bronze.label>lega di bronzo</Bronze.label>
+  <Bronze.label>bronzo</Bronze.label>
   <Bronze.description>Il bronzo è una lega costituita principalmente da rame, comunemente con circa il 12% di stagno e spesso con l'aggiunta di altri metalli come alluminio, nichel.</Bronze.description>
   <Bronze.stuffProps.stuffAdjective>bronzo</Bronze.stuffProps.stuffAdjective>
 
-  <GoldBar.label>lega in oro</GoldBar.label>
-  <GoldBar.description>L'oro è una bellae preziosa lega di oro e rame o bauxite. L'oro è un metallo non magnetico.</GoldBar.description>
+  <GoldBar.label>oro</GoldBar.label>
+  <GoldBar.description>L'oro è una bella e preziosa lega di oro e rame o bauxite. L'oro è un metallo non magnetico.</GoldBar.description>
   <GoldBar.stuffProps.stuffAdjective>oro</GoldBar.stuffProps.stuffAdjective>
 
-  <SilverBar.label>lega di argento sterling</SilverBar.label>
-  <SilverBar.description>L'argento sterling è una lega preziosa di argento e rame o Bauxite. L'argento sterling è un metallo non magnetico.</SilverBar.description>
+  <SilverBar.label>argento sterling</SilverBar.label>
+  <SilverBar.description>L'argento sterling è una lega preziosa di argento e rame o bauxite. L'argento sterling è un metallo non magnetico.</SilverBar.description>
   <SilverBar.stuffProps.stuffAdjective>argento</SilverBar.stuffProps.stuffAdjective>
 
 
