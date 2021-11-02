@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <JobDef_ScoutStrangeArtifact.reportString>Scouting strange artifact.</JobDef_ScoutStrangeArtifact.reportString>
-  <JobDef_SecureStrangeArtifact.reportString>Securing strange artifact.</JobDef_SecureStrangeArtifact.reportString>
-  <JobDef_StudyStrangeArtifact.reportString>Studying strange artifact.</JobDef_StudyStrangeArtifact.reportString>
-  <JobDef_ReroutePower.reportString>Rerouting power.</JobDef_ReroutePower.reportString>
-  <JobDef_ExtractWeatherController.reportString>Extracting weather controller.</JobDef_ExtractWeatherController.reportString>
-  <JobDef_DisableBeacon.reportString>Disabling terraformer beacon.</JobDef_DisableBeacon.reportString>
+  <JobDef_ScoutStrangeArtifact.reportString>Esplora lo strano artefatto.</JobDef_ScoutStrangeArtifact.reportString>
+  <JobDef_SecureStrangeArtifact.reportString>Mette in sicurezza lo strano artefatto.</JobDef_SecureStrangeArtifact.reportString>
+  <JobDef_StudyStrangeArtifact.reportString>Studia lo strano artefatto.</JobDef_StudyStrangeArtifact.reportString>
+  <JobDef_ReroutePower.reportString>Ripristinando l'energia.</JobDef_ReroutePower.reportString>
+  <JobDef_ExtractWeatherController.reportString>Estraendo il controllo metereologico.</JobDef_ExtractWeatherController.reportString>
+  <JobDef_DisableBeacon.reportString>Disattivazione del segnale del terraformatore.</JobDef_DisableBeacon.reportString>
 
 
 </LanguageData>

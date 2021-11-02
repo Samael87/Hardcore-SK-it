@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <FillUniversalFermenter.reportString>filling TargetA.</FillUniversalFermenter.reportString>
-  <TakeProductOutOfUniversalFermenter.reportString>taking product out of TargetA.</TakeProductOutOfUniversalFermenter.reportString>
+  <FillUniversalFermenter.reportString>Riempendo TargetA.</FillUniversalFermenter.reportString>
+  <TakeProductOutOfUniversalFermenter.reportString>Recuperando il prodotto da TargetA.</TakeProductOutOfUniversalFermenter.reportString>
 
 
 </LanguageData>

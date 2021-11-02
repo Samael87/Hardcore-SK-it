@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TendPawnOnGround.reportString>Tending to {0}</TendPawnOnGround.reportString>
-  <LockingDoorBasic.reportString>Locking/Unlocking doors.</LockingDoorBasic.reportString>
-  <JobDef_StudyAncientStargate.reportString>Studying ancient artifact.</JobDef_StudyAncientStargate.reportString>
+  <TendPawnOnGround.reportString>Curando {0}</TendPawnOnGround.reportString>
+  <LockingDoorBasic.reportString>Bloccando/Sbloccando porte.</LockingDoorBasic.reportString>
+  <JobDef_StudyAncientStargate.reportString>Studiando antichi artefatti.</JobDef_StudyAncientStargate.reportString>
 
 
   <!-- <JobDef>
@@ -14,16 +14,16 @@
 		<allowOpportunisticPrefix>true</allowOpportunisticPrefix>
 	</JobDef> -->
 
-  <RefuelBurner.reportString>Doing something.</RefuelBurner.reportString>
-  <WatchGlassTelevision.reportString>Watching movies.</WatchGlassTelevision.reportString>
-  <LockerBasic.reportString>Going to locker.</LockerBasic.reportString>
+  <RefuelBurner.reportString>Facendo qualcosa.</RefuelBurner.reportString>
+  <WatchGlassTelevision.reportString>Guardando film.</WatchGlassTelevision.reportString>
+  <LockerBasic.reportString>Andando all'armadietto.</LockerBasic.reportString>
   <ColorChanger.reportString>Going coloring station.</ColorChanger.reportString>
   <HSC.reportString>Going styling station.</HSC.reportString>
-  <BeatFireWithTool.reportString>Beating fire out</BeatFireWithTool.reportString>
-  <Mend.reportString>Mending TargetB.</Mend.reportString>
-  <Recycle.reportString>Recycling TargetB.</Recycle.reportString>
-  <UseSignalFire.reportString>using signal fire.</UseSignalFire.reportString>
-  <HuntAndLeave.reportString>hunting TargetA.</HuntAndLeave.reportString>
+  <BeatFireWithTool.reportString>Spegnendo il fuoco</BeatFireWithTool.reportString>
+  <Mend.reportString>Aggiustando TargetB.</Mend.reportString>
+  <Recycle.reportString>Riciclando TargetB.</Recycle.reportString>
+  <UseSignalFire.reportString>usando segnali di fuoco.</UseSignalFire.reportString>
+  <HuntAndLeave.reportString>cacciando TargetA.</HuntAndLeave.reportString>
 
 
 </LanguageData>

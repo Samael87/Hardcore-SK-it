@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <JobDef_StartFeast.reportString>Going to a campfire party.</JobDef_StartFeast.reportString>
-  <JobDef_WanderAroundFeast.reportString>Wandering around fire.</JobDef_WanderAroundFeast.reportString>
-  <JobDef_PlayTheGuitarFeast.reportString>Playing the guitar.</JobDef_PlayTheGuitarFeast.reportString>
-  <JobDef_DanceFeast.reportString>Dancing.</JobDef_DanceFeast.reportString>
-  <JobDef_IngestDrugFeast.reportString>Drinking an alcohol.</JobDef_IngestDrugFeast.reportString>
-  <JobDef_DropClothesFeast.reportString>Getting free from clothes' dictatorship.</JobDef_DropClothesFeast.reportString>
-  <JobDef_ShootUpinTheAirFeast.reportString>Shooting up in the air.</JobDef_ShootUpinTheAirFeast.reportString>
-  <JobDef_UpdateThoughtFeast.reportString>Enjoying at campfire party.</JobDef_UpdateThoughtFeast.reportString>
+  <JobDef_StartFeast.reportString>Andando alla festa al falò.</JobDef_StartFeast.reportString>
+  <JobDef_WanderAroundFeast.reportString>Vagando intorno al fuoco.</JobDef_WanderAroundFeast.reportString>
+  <JobDef_PlayTheGuitarFeast.reportString>Suonando la chitarra.</JobDef_PlayTheGuitarFeast.reportString>
+  <JobDef_DanceFeast.reportString>Ballando.</JobDef_DanceFeast.reportString>
+  <JobDef_IngestDrugFeast.reportString>Bevendo alcol.</JobDef_IngestDrugFeast.reportString>
+  <JobDef_DropClothesFeast.reportString>Liberandosi dalla dittatura dei vestiti.</JobDef_DropClothesFeast.reportString>
+  <JobDef_ShootUpinTheAirFeast.reportString>Sparando in aria.</JobDef_ShootUpinTheAirFeast.reportString>
+  <JobDef_UpdateThoughtFeast.reportString>Divertendosi alla festa al falò.</JobDef_UpdateThoughtFeast.reportString>
 
 
 </LanguageData>

@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <JobDef_FishAtFishingPier.reportString>Fishing on pier.</JobDef_FishAtFishingPier.reportString>
-  <JobDef_FishAtFishingZone.reportString>Fishing.</JobDef_FishAtFishingZone.reportString>
-  <JobDef_AquacultureBasinHarvest.reportString>Harvesting TargetA.</JobDef_AquacultureBasinHarvest.reportString>
-  <JobDef_AquacultureBasinChangeSpecies.reportString>Changing species at TargetA.</JobDef_AquacultureBasinChangeSpecies.reportString>
-  <JobDef_AquacultureBasinMaintain.reportString>Maintaining TargetA.</JobDef_AquacultureBasinMaintain.reportString>
+  <JobDef_FishAtFishingPier.reportString>Pesca sul molo.</JobDef_FishAtFishingPier.reportString>
+  <JobDef_FishAtFishingZone.reportString>Pescando.</JobDef_FishAtFishingZone.reportString>
+  <JobDef_AquacultureBasinHarvest.reportString>Raccogliendo TargetA.</JobDef_AquacultureBasinHarvest.reportString>
+  <JobDef_AquacultureBasinChangeSpecies.reportString>Cambiamendo di specie aTargetA.</JobDef_AquacultureBasinChangeSpecies.reportString>
+  <JobDef_AquacultureBasinMaintain.reportString>Effettuando la manutenzione a TargetA.</JobDef_AquacultureBasinMaintain.reportString>
 
 
 </LanguageData>

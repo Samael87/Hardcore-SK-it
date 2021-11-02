@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Production.label>Production</Production.label>
-  <Furniture.label>Furniture</Furniture.label>
-  <Accessories.label>Accessories</Accessories.label>
+  <Production.label>Produzione</Production.label>
+  <Furniture.label>Arredamenti</Furniture.label>
+  <Accessories.label>Accessori</Accessories.label>
   <Security.label>Security</Security.label>
-  <Power.label>Power</Power.label>
-  <Floors.label>Home Floors</Floors.label>
-  <OutsideFloors.label>Special Floors</OutsideFloors.label>
+  <Power.label>Energia</Power.label>
+  <Floors.label>Pavimenti interni</Floors.label>
+  <OutsideFloors.label>Pavimenti speciali</OutsideFloors.label>
   <Misc.label>Misc</Misc.label>
-  <NaturalFloors.label>Natural Floors</NaturalFloors.label>
+  <NaturalFloors.label>Pavimenti naturali</NaturalFloors.label>
   <Ship.label>Ship</Ship.label>
-  <Temperature.label>Temperature</Temperature.label>
-  <Joy.label>Joy</Joy.label>
+  <Temperature.label>Temperatura</Temperature.label>
+  <Joy.label>Divertimento</Joy.label>
 
 
 </LanguageData>

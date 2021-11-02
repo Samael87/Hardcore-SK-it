@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DeployTent.reportString>deploying a tent.</DeployTent.reportString>
-  <PackTent.reportString>packing a tent.</PackTent.reportString>
-  <RepairTent.reportString>repairing a tent.</RepairTent.reportString>
+  <DeployTent.reportString>Dispiegando una tenda</DeployTent.reportString>
+  <PackTent.reportString>Ripiegando una tenda</PackTent.reportString>
+  <RepairTent.reportString>Riparando una tenda</RepairTent.reportString>
 
 
 </LanguageData>

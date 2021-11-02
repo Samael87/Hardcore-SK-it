@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <StoneArrow.label>stone arrow</StoneArrow.label>
-  <StoneArrow.description>A sharpened stone is attached as an arrow head. Cuts exposed tissue fairly well but is ineffective against any kind of armor.</StoneArrow.description>
+  <StoneArrow.label>freccia di pietra</StoneArrow.label>
+  <StoneArrow.description>Una pietra affilata è attaccata in testa alla freccia. Taglia abbastanza bene il tessuto esposto ma è inefficace contro qualsiasi tipo di armatura.</StoneArrow.description>
 
-  <MetallicArrow.label>metallic arrow</MetallicArrow.label>
-  <MetallicArrow.description>The arrow head is made from steel to enhance armor penetration.</MetallicArrow.description>
+  <MetallicArrow.label>freccia metallica</MetallicArrow.label>
+  <MetallicArrow.description>La punta della freccia è in acciaio per migliorarne la penetrazione dell'armatura.</MetallicArrow.description>
 
-  <ExplosiveArrow.label>explosive arrow</ExplosiveArrow.label>
-  <ExplosiveArrow.description>Fitted with a explosive head to make additional explosion damage.</ExplosiveArrow.description>
+  <ExplosiveArrow.label>freccia esplosiva</ExplosiveArrow.label>
+  <ExplosiveArrow.description>Dotato di una testa esplosiva per causare ulteriori danni da esplosione.</ExplosiveArrow.description>
 
-  <BalistaBolt.label>balista bolt</BalistaBolt.label>
-  <BalistaBolt.description>The balista bolt head is made from steel to enhance armor penetration.</BalistaBolt.description>
+  <BalistaBolt.label>dardo da balista</BalistaBolt.label>
+  <BalistaBolt.description>La testa del dardo da balista è in acciaio per migliorarne la penetrazione dell'armatura.</BalistaBolt.description>
 
-  <StoneBall.label>stone ball</StoneBall.label>
-  <StoneBall.description>A stone ball used for catapult.</StoneBall.description>
+  <StoneBall.label>palla di pietra</StoneBall.label>
+  <StoneBall.description>Una palla di pietra usata per la catapulta.</StoneBall.description>
 
-  <ExplosiveBall.label>explosive ball</ExplosiveBall.label>
-  <ExplosiveBall.description>An explosive ball used for catapult.</ExplosiveBall.description>
+  <ExplosiveBall.label>palla esplosiva</ExplosiveBall.label>
+  <ExplosiveBall.description>Una palla esplosiva usata per la catapulta.</ExplosiveBall.description>
 
-  <Poison.label>poison</Poison.label>
-  <Poison.description>Weapon with poison effect.</Poison.description>
+  <Poison.label>velenoso</Poison.label>
+  <Poison.description>Arma con effetto velenoso.</Poison.description>
 
   <Shock.label>shock</Shock.label>
-  <Shock.description>Special non-lethal shock type ammo.</Shock.description>
+  <Shock.description>Speciale munizione non letale da shock.</Shock.description>
 
 
 </LanguageData>

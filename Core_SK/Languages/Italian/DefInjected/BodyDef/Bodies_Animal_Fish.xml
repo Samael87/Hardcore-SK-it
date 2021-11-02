@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Fish.label>fish</Fish.label>
-  <Fish.corePart.parts.3.customLabel>left gill</Fish.corePart.parts.3.customLabel>
-  <Fish.corePart.parts.4.customLabel>right gill</Fish.corePart.parts.4.customLabel>
-  <Fish.corePart.parts.5.customLabel>left kidney</Fish.corePart.parts.5.customLabel>
-  <Fish.corePart.parts.6.customLabel>right kidney</Fish.corePart.parts.6.customLabel>
-  <Fish.corePart.parts.8.parts.1.customLabel>left eye</Fish.corePart.parts.8.parts.1.customLabel>
-  <Fish.corePart.parts.8.parts.2.customLabel>right eye</Fish.corePart.parts.8.parts.2.customLabel>
-  <Fish.corePart.parts.9.customLabel>left fin</Fish.corePart.parts.9.customLabel>
-  <Fish.corePart.parts.10.customLabel>right fin</Fish.corePart.parts.10.customLabel>
+  <Fish.label>pesce</Fish.label>
+  <Fish.corePart.parts.3.customLabel>branchia sinistra</Fish.corePart.parts.3.customLabel>
+  <Fish.corePart.parts.4.customLabel>branchia destra</Fish.corePart.parts.4.customLabel>
+  <Fish.corePart.parts.5.customLabel>rene sinistro</Fish.corePart.parts.5.customLabel>
+  <Fish.corePart.parts.6.customLabel>rene destro</Fish.corePart.parts.6.customLabel>
+  <Fish.corePart.parts.8.parts.1.customLabel>occhio sinistro</Fish.corePart.parts.8.parts.1.customLabel>
+  <Fish.corePart.parts.8.parts.2.customLabel>occhio destro</Fish.corePart.parts.8.parts.2.customLabel>
+  <Fish.corePart.parts.9.customLabel>pinna sinistra</Fish.corePart.parts.9.customLabel>
+  <Fish.corePart.parts.10.customLabel>pinna destra</Fish.corePart.parts.10.customLabel>
 
-  <Squid.label>squid</Squid.label>
-  <Squid.corePart.parts.2.customLabel>gill</Squid.corePart.parts.2.customLabel>
-  <Squid.corePart.parts.3.customLabel>kidney</Squid.corePart.parts.3.customLabel>
-  <Squid.corePart.parts.5.parts.1.customLabel>left eye</Squid.corePart.parts.5.parts.1.customLabel>
-  <Squid.corePart.parts.5.parts.2.customLabel>right eye</Squid.corePart.parts.5.parts.2.customLabel>
-  <Squid.corePart.parts.6.customLabel>first tentacle</Squid.corePart.parts.6.customLabel>
-  <Squid.corePart.parts.7.customLabel>second tentacle</Squid.corePart.parts.7.customLabel>
-  <Squid.corePart.parts.8.customLabel>third tentacle</Squid.corePart.parts.8.customLabel>
-  <Squid.corePart.parts.9.customLabel>fourth tentacle</Squid.corePart.parts.9.customLabel>
-  <Squid.corePart.parts.10.customLabel>fifth tentacle</Squid.corePart.parts.10.customLabel>
-  <Squid.corePart.parts.11.customLabel>sixth tentacle</Squid.corePart.parts.11.customLabel>
-  <Squid.corePart.parts.12.customLabel>seventh tentacle</Squid.corePart.parts.12.customLabel>
-  <Squid.corePart.parts.13.customLabel>eighth tentacle</Squid.corePart.parts.13.customLabel>
+  <Squid.label>calamaro</Squid.label>
+  <Squid.corePart.parts.2.customLabel>branchia</Squid.corePart.parts.2.customLabel>
+  <Squid.corePart.parts.3.customLabel>rene</Squid.corePart.parts.3.customLabel>
+  <Squid.corePart.parts.5.parts.1.customLabel>occhio sinistro</Squid.corePart.parts.5.parts.1.customLabel>
+  <Squid.corePart.parts.5.parts.2.customLabel>occhio destro</Squid.corePart.parts.5.parts.2.customLabel>
+  <Squid.corePart.parts.6.customLabel>primo tentacolo</Squid.corePart.parts.6.customLabel>
+  <Squid.corePart.parts.7.customLabel>secondo tentacolo</Squid.corePart.parts.7.customLabel>
+  <Squid.corePart.parts.8.customLabel>terzo tentacolo</Squid.corePart.parts.8.customLabel>
+  <Squid.corePart.parts.9.customLabel>quarto tentacolo</Squid.corePart.parts.9.customLabel>
+  <Squid.corePart.parts.10.customLabel>quinto tentacolo</Squid.corePart.parts.10.customLabel>
+  <Squid.corePart.parts.11.customLabel>sesto tentacolo</Squid.corePart.parts.11.customLabel>
+  <Squid.corePart.parts.12.customLabel>settimo tentacolo</Squid.corePart.parts.12.customLabel>
+  <Squid.corePart.parts.13.customLabel>ottavo tentacolo</Squid.corePart.parts.13.customLabel>
 
 
 </LanguageData>

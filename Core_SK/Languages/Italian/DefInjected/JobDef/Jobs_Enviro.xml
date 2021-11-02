@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Kill.reportString>Kill TargetA.</Kill.reportString>
+  <Kill.reportString>Uccide TargetA.</Kill.reportString>
   <Segmentation.reportString>Segmentation through TargetA.</Segmentation.reportString>
-  <CrushDoor.reportString>Crush TargetB.</CrushDoor.reportString>
-  <Absorb.reportString>Absorbs TargetA.</Absorb.reportString>
-  <SuckBlood.reportString>Suck TargetA blood.</SuckBlood.reportString>
+  <CrushDoor.reportString>Frantuma TargetB.</CrushDoor.reportString>
+  <Absorb.reportString>Assorbe TargetA.</Absorb.reportString>
+  <SuckBlood.reportString>Succhia il sangue a TargetA.</SuckBlood.reportString>
 
 
 </LanguageData>

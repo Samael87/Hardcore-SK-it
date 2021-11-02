@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PlayGo.reportString>Playing Go.</PlayGo.reportString>
-  <PlayCards.reportString>Playing a card game.</PlayCards.reportString>
-  <PlayReversi.reportString>Playing Reversi.</PlayReversi.reportString>
-  <PlayRimColony.reportString>Playing RimColony.</PlayRimColony.reportString>
-  <ReadBook.reportString>Reading a book.</ReadBook.reportString>
+  <PlayGo.reportString>Giocando a Go.</PlayGo.reportString>
+  <PlayCards.reportString>Giocando a carte.</PlayCards.reportString>
+  <PlayReversi.reportString>Giocando a Reversi.</PlayReversi.reportString>
+  <PlayRimColony.reportString>Giocando a RimColony.</PlayRimColony.reportString>
+  <ReadBook.reportString>Leggendo un libro.</ReadBook.reportString>
 
 
   <!-- <JobDef>
@@ -18,19 +18,19 @@
 		<joyKind>Meditative</joyKind>
 	</JobDef> -->
 
-  <Doodle.reportString>Doodling.</Doodle.reportString>
-  <InterpretArt.reportString>Interpreting artwork.</InterpretArt.reportString>
-  <PlayArcadeRS.reportString>Playing Rum Swirled.</PlayArcadeRS.reportString>
-  <PlayArcadeMC.reportString>Playing MintCraft.</PlayArcadeMC.reportString>
-  <PlayArcadeHL.reportString>Playing Halva Life.</PlayArcadeHL.reportString>
-  <PlayArcadeES.reportString>Playing Elder Scones.</PlayArcadeES.reportString>
-  <PlayArcadeBG.reportString>Playing Baguettris.</PlayArcadeBG.reportString>
-  <PlayArcadeCB.reportString>Playing Cooking Baba.</PlayArcadeCB.reportString>
-  <PlayArcadePS.reportString>Playing Plants Vs. Salamis.</PlayArcadePS.reportString>
-  <PlayArcadePK.reportString>Playing Psycho Knots.</PlayArcadePK.reportString>
-  <PlayArcadeSP.reportString>Playing Speltunky.</PlayArcadeSP.reportString>
-  <PlayArcadeTZ.reportString>Playing The Zimz.</PlayArcadeTZ.reportString>
-  <PlayArcadeTV.reportString>Playing Trauma Vendor.</PlayArcadeTV.reportString>
+  <Doodle.reportString>Scarabocchiando.</Doodle.reportString>
+  <InterpretArt.reportString>Interpretando un'opera d'arte.</InterpretArt.reportString>
+  <PlayArcadeRS.reportString>Giocando a Rum Swirled.</PlayArcadeRS.reportString>
+  <PlayArcadeMC.reportString>Giocando a MintCraft.</PlayArcadeMC.reportString>
+  <PlayArcadeHL.reportString>Giocando a Halva Life.</PlayArcadeHL.reportString>
+  <PlayArcadeES.reportString>Giocando a Elder Scones.</PlayArcadeES.reportString>
+  <PlayArcadeBG.reportString>Giocando a Baguettris.</PlayArcadeBG.reportString>
+  <PlayArcadeCB.reportString>Giocando a Cooking Baba.</PlayArcadeCB.reportString>
+  <PlayArcadePS.reportString>Giocando a Plants Vs. Salamis.</PlayArcadePS.reportString>
+  <PlayArcadePK.reportString>Giocando a Psycho Knots.</PlayArcadePK.reportString>
+  <PlayArcadeSP.reportString>Giocando a Speltunky.</PlayArcadeSP.reportString>
+  <PlayArcadeTZ.reportString>Giocando a The Zimz.</PlayArcadeTZ.reportString>
+  <PlayArcadeTV.reportString>Giocando a Trauma Vendor.</PlayArcadeTV.reportString>
 
 
 </LanguageData>
