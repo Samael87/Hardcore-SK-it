@@ -4,47 +4,47 @@
   <!-- NOVA -->
 
   <Alien_Nova.label>Nova</Alien_Nova.label>
-  <Alien_Nova.description>Nova are a human-like race from a planet where the temperature is almost always freezing or below. They are well tolerated to cold temperatures because their bodies are unusually warm. They are much quicker than humans.</Alien_Nova.description>
-  <Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
-  <Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
-  <Alien_Nova.tools.0.label>left fist</Alien_Nova.tools.0.label>
-  <Alien_Nova.tools.1.label>right fist</Alien_Nova.tools.1.label>
-  <Alien_Nova.tools.2.label>teeth</Alien_Nova.tools.2.label>
-  <Alien_Nova.tools.3.label>head</Alien_Nova.tools.3.label>
+  <Alien_Nova.description>I Nova sono una razza umanoide nativa di un pianeta dove la temperatura è quasi sempre gelida. Sono ben tollerati delle temperature fredde perché i loro corpi sono insolitamente caldi. Sono molto più veloci degli esseri umani.</Alien_Nova.description>
+  <Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>pelle</Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>capelli</Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <Alien_Nova.tools.0.label>pugno sinistro</Alien_Nova.tools.0.label>
+  <Alien_Nova.tools.1.label>pugno destro</Alien_Nova.tools.1.label>
+  <Alien_Nova.tools.2.label>denti</Alien_Nova.tools.2.label>
+  <Alien_Nova.tools.3.label>testa</Alien_Nova.tools.3.label>
 
 
   <!-- DOVA -->
 
   <Alien_Dova.label>Dova</Alien_Dova.label>
-  <Alien_Dova.description>The Dova. Originating from their Dovian homeworld and a cruel, harsh society which has left its impact even on those on the Rim. Whether sent here as punishment, or as escape and a search for better things, these Dova are here now.</Alien_Dova.description>
-  <Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
-  <Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
-  <Alien_Dova.tools.0.label>left fist</Alien_Dova.tools.0.label>
-  <Alien_Dova.tools.1.label>right fist</Alien_Dova.tools.1.label>
-  <Alien_Dova.tools.2.label>teeth</Alien_Dova.tools.2.label>
-  <Alien_Dova.tools.3.label>head</Alien_Dova.tools.3.label>
+  <Alien_Dova.description>I Dova. Originari di Dovian, il loro pianeta natale, e provenienti da una società crudele e dura che ha lasciato il suo impatto anche su quelli sul Rim. Che siano stati mandati qui come punizione, o siano invece fuggiti alla ricerca di cose migliori, questi Dova sono qui adesso.</Alien_Dova.description>
+  <Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>pelle</Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>capelli</Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <Alien_Dova.tools.0.label>pugno sinistro</Alien_Dova.tools.0.label>
+  <Alien_Dova.tools.1.label>pugno destro</Alien_Dova.tools.1.label>
+  <Alien_Dova.tools.2.label>denti</Alien_Dova.tools.2.label>
+  <Alien_Dova.tools.3.label>testa</Alien_Dova.tools.3.label>
 
 
   <!-- NORBAL -->
 
-  <Norbal.label>norbal</Norbal.label>
-  <Norbal.description>Norbals are baseline, tribal humans that have been hardened by colder climates. They are hairy and strong, but are unable to deal with high temperatures. They lack in technology but make up for it by mastering the basic weapons that they can forge.</Norbal.description>
-  <Norbal.tools.0.label>left fist</Norbal.tools.0.label>
-  <Norbal.tools.1.label>right fist</Norbal.tools.1.label>
-  <Norbal.tools.2.label>teeth</Norbal.tools.2.label>
-  <Norbal.tools.3.label>head</Norbal.tools.3.label>
+  <Norbal.label>Norbal</Norbal.label>
+  <Norbal.description>I norbal sono la base, degli umani tribali che sono stati induriti dai climi più freddi. Sono forti ma non sono in grado di affrontare le alte temperature. Mancano di tecnologia, ma compensano padroneggiando le armi di base che possono forgiare.</Norbal.description>
+  <Norbal.tools.0.label>pugno sinistro</Norbal.tools.0.label>
+  <Norbal.tools.1.label>pugno destro</Norbal.tools.1.label>
+  <Norbal.tools.2.label>denti</Norbal.tools.2.label>
+  <Norbal.tools.3.label>testa</Norbal.tools.3.label>
 
 
   <!-- ORASSAN -->
 
   <Alien_Orassan.label>Orassan</Alien_Orassan.label>
-  <Alien_Orassan.description>A baseline orassan, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Orass planets. A humanoid feline race.</Alien_Orassan.description>
-  <Alien_Orassan.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</Alien_Orassan.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
-  <Alien_Orassan.tools.0.label>teeth</Alien_Orassan.tools.0.label>
-  <Alien_Orassan.tools.1.label>left fist</Alien_Orassan.tools.1.label>
-  <Alien_Orassan.tools.2.label>right fist</Alien_Orassan.tools.2.label>
-  <Alien_Orassan.tools.3.label>tail</Alien_Orassan.tools.3.label>
-  <Alien_Orassan.tools.4.label>head</Alien_Orassan.tools.4.label>
+  <Alien_Orassan.description>Una linea di base Orassan, per lo più non modificato dall'ingegneria genica e dalle pressioni evolutive sui pianeti non-Orass. Una razza felina umanoide.</Alien_Orassan.description>
+  <Alien_Orassan.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>pelle</Alien_Orassan.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Alien_Orassan.tools.0.label>denti</Alien_Orassan.tools.0.label>
+  <Alien_Orassan.tools.1.label>pugno sinistro</Alien_Orassan.tools.1.label>
+  <Alien_Orassan.tools.2.label>pugno destro</Alien_Orassan.tools.2.label>
+  <Alien_Orassan.tools.3.label>coda</Alien_Orassan.tools.3.label>
+  <Alien_Orassan.tools.4.label>testa</Alien_Orassan.tools.4.label>
 
 
 </LanguageData>

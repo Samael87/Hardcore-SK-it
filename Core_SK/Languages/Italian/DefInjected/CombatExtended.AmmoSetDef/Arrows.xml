@@ -3,12 +3,12 @@
 
   <!-- Other bows -->
 
-  <AmmoSet_Arrow.label>arrows</AmmoSet_Arrow.label>
+  <AmmoSet_Arrow.label>frecce</AmmoSet_Arrow.label>
 
 
   <!-- Recurve bow -->
 
-  <AmmoSet_StreamlinedArrow.label>arrows</AmmoSet_StreamlinedArrow.label>
+  <AmmoSet_StreamlinedArrow.label>frecce</AmmoSet_StreamlinedArrow.label>
 
 
 </LanguageData>
