@@ -6,11 +6,11 @@
   <Accessories.label>Accessori</Accessories.label>
   <Security.label>Security</Security.label>
   <Power.label>Energia</Power.label>
-  <Floors.label>Pavimenti interni</Floors.label>
-  <OutsideFloors.label>Pavimenti speciali</OutsideFloors.label>
+  <Floors.label>Pav. interni</Floors.label>
+  <OutsideFloors.label>Pav. speciali</OutsideFloors.label>
   <Misc.label>Misc</Misc.label>
-  <NaturalFloors.label>Pavimenti naturali</NaturalFloors.label>
-  <Ship.label>Ship</Ship.label>
+  <NaturalFloors.label>Pav. naturali</NaturalFloors.label>
+  <Ship.label>Nave</Ship.label>
   <Temperature.label>Temperatura</Temperature.label>
   <Joy.label>Divertimento</Joy.label>
 
