@@ -87,7 +87,7 @@
   <SubCategory_Containers.label>Stoccaggio scoperto</SubCategory_Containers.label>
   <SubCategory_Containers.description>Generalmente per lo stoccaggio al coperto.</SubCategory_Containers.description>
 
-  <SubCategory_FoodContainers.label>Conservazione di alimenti/farmaci</SubCategory_FoodContainers.label>
+  <SubCategory_FoodContainers.label>Conservaz. alimenti/farmaci</SubCategory_FoodContainers.label>
   <SubCategory_FoodContainers.description>Immagazzina o preserva alimenti e farmaci.</SubCategory_FoodContainers.description>
 
   <SubCategory_ApparelStorage.label>Abbigliamento e prodotti tessili</SubCategory_ApparelStorage.label>
