@@ -3,29 +3,29 @@
 
   <!-- Ammo -->
 
-  <Ammo_12Gauge_Buck.label>12 gauge shell (Buck)</Ammo_12Gauge_Buck.label>
-  <Ammo_12Gauge_Buck.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_Buck.description>
+  <Ammo_12Gauge_Buck.label>cartuccia calibro 12 (Buckshot)</Ammo_12Gauge_Buck.label>
+  <Ammo_12Gauge_Buck.description>Calibro di fucile estremamente comune utilizzato in quasi tutte le applicazioni, dalla caccia, al controllo delle rivolte, alle armi da fuoco militari.</Ammo_12Gauge_Buck.description>
 
-  <Ammo_12Gauge_Bird.label>12 gauge shell (Bird)</Ammo_12Gauge_Bird.label>
-  <Ammo_12Gauge_Bird.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_Bird.description>
+  <Ammo_12Gauge_Bird.label>cartuccia calibro 12 (Birdshot)</Ammo_12Gauge_Bird.label>
+  <Ammo_12Gauge_Bird.description>Calibro di fucile estremamente comune utilizzato in quasi tutte le applicazioni, dalla caccia, al controllo delle rivolte, alle armi da fuoco militari.</Ammo_12Gauge_Bird.description>
 
-  <Ammo_12Gauge_Slug.label>12 gauge shell (Slug)</Ammo_12Gauge_Slug.label>
-  <Ammo_12Gauge_Slug.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_Slug.description>
+  <Ammo_12Gauge_Slug.label>cartuccia calibro 12 (Slug)</Ammo_12Gauge_Slug.label>
+  <Ammo_12Gauge_Slug.description>Calibro di fucile estremamente comune utilizzato in quasi tutte le applicazioni, dalla caccia, al controllo delle rivolte, alle armi da fuoco militari.</Ammo_12Gauge_Slug.description>
 
-  <Ammo_12Gauge_Beanbag.label>12 gauge shell (Bean)</Ammo_12Gauge_Beanbag.label>
-  <Ammo_12Gauge_Beanbag.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_Beanbag.description>
+  <Ammo_12Gauge_Beanbag.label>cartuccia calibro 12  (Bean)</Ammo_12Gauge_Beanbag.label>
+  <Ammo_12Gauge_Beanbag.description>Calibro di fucile estremamente comune utilizzato in quasi tutte le applicazioni, dalla caccia, al controllo delle rivolte, alle armi da fuoco militari.</Ammo_12Gauge_Beanbag.description>
 
-  <Ammo_12Gauge_ElectroSlug.label>12 gauge shell (EMP)</Ammo_12Gauge_ElectroSlug.label>
-  <Ammo_12Gauge_ElectroSlug.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_ElectroSlug.description>
+  <Ammo_12Gauge_ElectroSlug.label>cartuccia calibro 12 (EMP)</Ammo_12Gauge_ElectroSlug.label>
+  <Ammo_12Gauge_ElectroSlug.description>Calibro di fucile estremamente comune utilizzato in quasi tutte le applicazioni, dalla caccia, al controllo delle rivolte, alle armi da fuoco militari.</Ammo_12Gauge_ElectroSlug.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_12Gauge_Buck.label>buckshot pellet</Bullet_12Gauge_Buck.label>
-  <Bullet_12Gauge_Bird.label>birdshot pellet</Bullet_12Gauge_Bird.label>
-  <Bullet_12Gauge_Slug.label>shotgun slug</Bullet_12Gauge_Slug.label>
+  <Bullet_12Gauge_Buck.label>pallino buckshot</Bullet_12Gauge_Buck.label>
+  <Bullet_12Gauge_Bird.label>pallino birdshot</Bullet_12Gauge_Bird.label>
+  <Bullet_12Gauge_Slug.label>pallettone da shotgun</Bullet_12Gauge_Slug.label>
   <Bullet_12Gauge_Beanbag.label>beanbag</Bullet_12Gauge_Beanbag.label>
-  <Bullet_12Gauge_ElectroSlug.label>EMP slug</Bullet_12Gauge_ElectroSlug.label>
+  <Bullet_12Gauge_ElectroSlug.label>pallettone EMP</Bullet_12Gauge_ElectroSlug.label>
 
 
 </LanguageData>

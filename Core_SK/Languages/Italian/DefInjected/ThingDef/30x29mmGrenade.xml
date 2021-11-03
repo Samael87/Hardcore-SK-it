@@ -3,17 +3,17 @@
 
   <!-- Ammo -->
 
-  <Ammo_30x29mmGrenade_HE.label>30x29mm grenade (HE)</Ammo_30x29mmGrenade_HE.label>
-  <Ammo_30x29mmGrenade_HE.description>Relatively small, low velocity grenade for use in grenade launchers.</Ammo_30x29mmGrenade_HE.description>
+  <Ammo_30x29mmGrenade_HE.label>Granata 30x29mm (HE)</Ammo_30x29mmGrenade_HE.label>
+  <Ammo_30x29mmGrenade_HE.description>Granata relativamente piccola, a bassa velocità, per l'uso con i lanciagranate.</Ammo_30x29mmGrenade_HE.description>
 
-  <Ammo_30x29mmGrenade_EMP.label>30x29mm grenade (EMP)</Ammo_30x29mmGrenade_EMP.label>
-  <Ammo_30x29mmGrenade_EMP.description>Relatively small, low velocity grenade for use in grenade launchers.</Ammo_30x29mmGrenade_EMP.description>
+  <Ammo_30x29mmGrenade_EMP.label>Granata 30x29mm (EMP)</Ammo_30x29mmGrenade_EMP.label>
+  <Ammo_30x29mmGrenade_EMP.description>Granata relativamente piccola a bassa velocità per l'uso nei lanciagranate.</Ammo_30x29mmGrenade_EMP.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_30x29mmGrenade_HE.label>30x29mm grenade (HE)</Bullet_30x29mmGrenade_HE.label>
-  <Bullet_30x29mmGrenade_EMP.label>30x29mm grenade (EMP)</Bullet_30x29mmGrenade_EMP.label>
+  <Bullet_30x29mmGrenade_HE.label>Granata 30x29mm (HE)</Bullet_30x29mmGrenade_HE.label>
+  <Bullet_30x29mmGrenade_EMP.label>Granata 30x29mm (EMP)</Bullet_30x29mmGrenade_EMP.label>
 
 
 </LanguageData>

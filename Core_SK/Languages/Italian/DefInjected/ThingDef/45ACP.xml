@@ -3,21 +3,21 @@
 
   <!-- Ammo -->
 
-  <Ammo_45ACP_FMJ.label>.45 ACP cartridge (FMJ)</Ammo_45ACP_FMJ.label>
-  <Ammo_45ACP_FMJ.description>Pistol cartridge favoured for its above average stopping power.</Ammo_45ACP_FMJ.description>
+  <Ammo_45ACP_FMJ.label>Cartuccia .45 ACP (FMJ)</Ammo_45ACP_FMJ.label>
+  <Ammo_45ACP_FMJ.description>Una cartuccia per pistola preferita per la sua potenza di arresto superiore alla media.</Ammo_45ACP_FMJ.description>
 
-  <Ammo_45ACP_AP.label>.45 ACP cartridge (AP)</Ammo_45ACP_AP.label>
-  <Ammo_45ACP_AP.description>Pistol cartridge favoured for its above average stopping power.</Ammo_45ACP_AP.description>
+  <Ammo_45ACP_AP.label>Cartuccia .45 ACP (AP)</Ammo_45ACP_AP.label>
+  <Ammo_45ACP_AP.description>Una cartuccia per pistola preferita per la sua potenza di arresto superiore alla media.</Ammo_45ACP_AP.description>
 
-  <Ammo_45ACP_HP.label>.45 ACP cartridge (HP)</Ammo_45ACP_HP.label>
-  <Ammo_45ACP_HP.description>Pistol cartridge favoured for its above average stopping power.</Ammo_45ACP_HP.description>
+  <Ammo_45ACP_HP.label>Cartuccia .45 ACP (HP)</Ammo_45ACP_HP.label>
+  <Ammo_45ACP_HP.description>Una cartuccia per pistola preferita per la sua potenza di arresto superiore alla media.</Ammo_45ACP_HP.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_45ACP_FMJ.label>.45 ACP bullet (FMJ)</Bullet_45ACP_FMJ.label>
-  <Bullet_45ACP_AP.label>.45 ACP bullet (AP)</Bullet_45ACP_AP.label>
-  <Bullet_45ACP_HP.label>.45 ACP bullet (HP)</Bullet_45ACP_HP.label>
+  <Bullet_45ACP_FMJ.label>Proiettile .45 ACP (FMJ)</Bullet_45ACP_FMJ.label>
+  <Bullet_45ACP_AP.label>Proiettile .45 ACP (AP)</Bullet_45ACP_AP.label>
+  <Bullet_45ACP_HP.label>Proiettile .45 ACP (HP)</Bullet_45ACP_HP.label>
 
 
 </LanguageData>

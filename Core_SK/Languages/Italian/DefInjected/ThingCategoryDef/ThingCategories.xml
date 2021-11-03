@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Ammo.label>ammunition</Ammo.label>
-  <AmmoAdvanced.label>advanced</AmmoAdvanced.label>
-  <AmmoGrenades.label>grenade</AmmoGrenades.label>
-  <AmmoHighCaliber.label>high caliber</AmmoHighCaliber.label>
-  <AmmoPistols.label>pistol</AmmoPistols.label>
-  <AmmoRifles.label>rifle</AmmoRifles.label>
-  <AmmoShotguns.label>shotgun</AmmoShotguns.label>
-  <AmmoRockets.label>rocket</AmmoRockets.label>
-  <AmmoShells.label>shell</AmmoShells.label>
-  <AmmoNeolithic.label>neolithic</AmmoNeolithic.label>
+  <Ammo.label>Munizioni</Ammo.label>
+  <AmmoAdvanced.label>Avvanzate</AmmoAdvanced.label>
+  <AmmoGrenades.label>Granate</AmmoGrenades.label>
+  <AmmoHighCaliber.label>Grosso Calibro</AmmoHighCaliber.label>
+  <AmmoPistols.label>Pistole</AmmoPistols.label>
+  <AmmoRifles.label>Fucili</AmmoRifles.label>
+  <AmmoShotguns.label>Shotgun</AmmoShotguns.label>
+  <AmmoRockets.label>Razzi</AmmoRockets.label>
+  <AmmoShells.label>Proiettili</AmmoShells.label>
+  <AmmoNeolithic.label>Neolitiche</AmmoNeolithic.label>
 
 
 </LanguageData>

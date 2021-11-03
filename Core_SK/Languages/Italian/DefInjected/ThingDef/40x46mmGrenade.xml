@@ -3,17 +3,17 @@
 
   <!-- Ammo -->
 
-  <Ammo_40x46mmGrenade_HE.label>40x46mm grenade (HE)</Ammo_40x46mmGrenade_HE.label>
-  <Ammo_40x46mmGrenade_HE.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_HE.description>
+  <Ammo_40x46mmGrenade_HE.label>Granata 40x46mm (HE)</Ammo_40x46mmGrenade_HE.label>
+  <Ammo_40x46mmGrenade_HE.description>Granata a bassa velocità lanciata da lanciagranate portatili.</Ammo_40x46mmGrenade_HE.description>
 
-  <Ammo_40x46mmGrenade_EMP.label>40x46mm grenade (EMP)</Ammo_40x46mmGrenade_EMP.label>
-  <Ammo_40x46mmGrenade_EMP.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_EMP.description>
+  <Ammo_40x46mmGrenade_EMP.label>Granata 40x46mm (EMP)</Ammo_40x46mmGrenade_EMP.label>
+  <Ammo_40x46mmGrenade_EMP.description>Granata a bassa velocità lanciata da lanciagranate portatili.</Ammo_40x46mmGrenade_EMP.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_40x46mmGrenade_HE.label>40x46mm grenade (HE)</Bullet_40x46mmGrenade_HE.label>
-  <Bullet_40x46mmGrenade_EMP.label>40x46mm grenade (EMP)</Bullet_40x46mmGrenade_EMP.label>
+  <Bullet_40x46mmGrenade_HE.label>Granata 40x46mm (HE)</Bullet_40x46mmGrenade_HE.label>
+  <Bullet_40x46mmGrenade_EMP.label>Granata 40x46mm (EMP)</Bullet_40x46mmGrenade_EMP.label>
 
 
 </LanguageData>
