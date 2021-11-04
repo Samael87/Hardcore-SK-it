@@ -133,207 +133,207 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
   </comps>
 </ThingDef> -->
 
-  <!--[Duplicated] <LWM_DeepStorage_Blueprint.label>LWM_DeepStorage (blueprint)</LWM_DeepStorage_Blueprint.label>-->
-  <LWM_DeepStorage_Blueprint_Install.label>LWM_DeepStorage (blueprint)</LWM_DeepStorage_Blueprint_Install.label>
-  <!--[Duplicated] <LWM_DeepStorage_Frame.label>LWM_DeepStorage (building)</LWM_DeepStorage_Frame.label>-->
+  <!--[Duplicated] <LWM_DeepStorage_Blueprint.label>LWM_DeepStorage (progetto)</LWM_DeepStorage_Blueprint.label>-->
+  <LWM_DeepStorage_Blueprint_Install.label>LWM_DeepStorage (progetto)</LWM_DeepStorage_Blueprint_Install.label>
+  <!--[Duplicated] <LWM_DeepStorage_Frame.label>LWM_DeepStorage (struttura)</LWM_DeepStorage_Frame.label>-->
   <!--[Duplicated] <LWM_DeepStorage_Frame.description>LWM_DeepStorage</LWM_DeepStorage_Frame.description>-->
 
-  <LWM_DeepStorage_Blueprint.label>LWM_DeepStorage (blueprint)</LWM_DeepStorage_Blueprint.label>
-  <LWM_DeepStorage_Frame.label>LWM_DeepStorage (building)</LWM_DeepStorage_Frame.label>
+  <LWM_DeepStorage_Blueprint.label>LWM_DeepStorage (progetto)</LWM_DeepStorage_Blueprint.label>
+  <LWM_DeepStorage_Frame.label>LWM_DeepStorage (struttura)</LWM_DeepStorage_Frame.label>
   <LWM_DeepStorage_Frame.description>LWM_DeepStorage</LWM_DeepStorage_Frame.description>
 
 
   <!-- Pallet -->
 
-  <LWM_Pallet.label>Pallet</LWM_Pallet.label>
-  <LWM_Pallet.description>A cheap, flat pallet for packing things. Does not protect against the weather. Difficult to manage if storing a variety of items.</LWM_Pallet.description>
-  <LWM_Pallet_Blueprint.label>Pallet (blueprint)</LWM_Pallet_Blueprint.label>
-  <LWM_Pallet_Blueprint_Install.label>Pallet (blueprint)</LWM_Pallet_Blueprint_Install.label>
-  <LWM_Pallet_Frame.label>Pallet (building)</LWM_Pallet_Frame.label>
-  <LWM_Pallet_Frame.description>A cheap, flat pallet for packing things. Does not protect against the weather. Difficult to manage if storing a variety of items.</LWM_Pallet_Frame.description>
+  <LWM_Pallet.label>pallet</LWM_Pallet.label>
+  <LWM_Pallet.description>Un pallet piatto ed economico per imballare le cose. Non protegge dalle intemperie. Difficile da gestire se si immagazzinano una varietà di oggetti.</LWM_Pallet.description>
+  <LWM_Pallet_Blueprint.label>Pallet (progetto)</LWM_Pallet_Blueprint.label>
+  <LWM_Pallet_Blueprint_Install.label>Pallet (progetto)</LWM_Pallet_Blueprint_Install.label>
+  <LWM_Pallet_Frame.label>Pallet (struttura)</LWM_Pallet_Frame.label>
+  <LWM_Pallet_Frame.description>Un pallet piatto ed economico per imballare le cose. Non protegge dalle intemperie. Difficile da gestire se si immagazzinano una varietà di oggetti.</LWM_Pallet_Frame.description>
 
 
   <!-- Small Pallet -->
 
-  <PalletSmall.label>Small Pallet</PalletSmall.label>
-  <PalletSmall.description>A cheap, flat pallet for packing things. Does not protect against the weather. Difficult to manage if storing a variety of items.</PalletSmall.description>
-  <PalletSmall_Blueprint.label>Small Pallet (blueprint)</PalletSmall_Blueprint.label>
-  <PalletSmall_Blueprint_Install.label>Small Pallet (blueprint)</PalletSmall_Blueprint_Install.label>
-  <PalletSmall_Frame.label>Small Pallet (building)</PalletSmall_Frame.label>
-  <PalletSmall_Frame.description>A cheap, flat pallet for packing things. Does not protect against the weather. Difficult to manage if storing a variety of items.</PalletSmall_Frame.description>
+  <PalletSmall.label>pallet piccolo</PalletSmall.label>
+  <PalletSmall.description>Un pallet piatto ed economico per imballare le cose. Non protegge dalle intemperie. Difficile da gestire se si immagazzinano una varietà di oggetti.</PalletSmall.description>
+  <PalletSmall_Blueprint.label>pallet piccolo (progetto)</PalletSmall_Blueprint.label>
+  <PalletSmall_Blueprint_Install.label>pallet piccolo (progetto)</PalletSmall_Blueprint_Install.label>
+  <PalletSmall_Frame.label>pallet piccolo (struttura)</PalletSmall_Frame.label>
+  <PalletSmall_Frame.description>Un pallet piatto ed economico per imballare le cose. Non protegge dalle intemperie. Difficile da gestire se si immagazzinano una varietà di oggetti.</PalletSmall_Frame.description>
 
 
   <!-- Pallet Rack -->
 
-  <PalletRack.label>PalletRack</PalletRack.label>
-  <PalletRack.description>A large warehouse shelving unit complete with pallets which allows you to stack stacks of things. More organized and easier to use than plain old pallets and it's the only feasible way of stacking large items like stone chunks and even other buildings.</PalletRack.description>
-  <PalletRack_Blueprint.label>PalletRack (blueprint)</PalletRack_Blueprint.label>
-  <PalletRack_Blueprint_Install.label>PalletRack (blueprint)</PalletRack_Blueprint_Install.label>
-  <PalletRack_Frame.label>PalletRack (building)</PalletRack_Frame.label>
-  <PalletRack_Frame.description>A large warehouse shelving unit complete with pallets which allows you to stack stacks of things. More organized and easier to use than plain old pallets and it's the only feasible way of stacking large items like stone chunks and even other buildings.</PalletRack_Frame.description>
+  <PalletRack.label>portapallet</PalletRack.label>
+  <PalletRack.description>Una grande scaffalatura da magazzino completa di bancali che permette di impilare pile di cose. Più organizzato e più facile da usare rispetto ai semplici vecchi pallet ed è l'unico modo fattibile per impilare oggetti di grandi dimensioni come pezzi di pietra e persino altri edifici.</PalletRack.description>
+  <PalletRack_Blueprint.label>portapallet (progetto)</PalletRack_Blueprint.label>
+  <PalletRack_Blueprint_Install.label>portapallet (progetto)</PalletRack_Blueprint_Install.label>
+  <PalletRack_Frame.label>portapallet (struttura)</PalletRack_Frame.label>
+  <PalletRack_Frame.description>Una grande scaffalatura da magazzino completa di bancali che permette di impilare pile di cose. Più organizzato e più facile da usare rispetto ai semplici vecchi pallet ed è l'unico modo fattibile per impilare oggetti di grandi dimensioni come pezzi di pietra e persino altri edifici.</PalletRack_Frame.description>
 
 
   <!-- Skip -->
 
-  <LWM_DeepStorage_Skip.label>Skip</LWM_DeepStorage_Skip.label>
-  <LWM_DeepStorage_Skip.description>A large metal bin. Best for storing big, heavy items unless you want to spend hours rooting around for that missing sock - it's easier to find when it's still attached to the body. These skips are not covered; they are open to the weather, but sturdier than a pallet.</LWM_DeepStorage_Skip.description>
-  <LWM_DeepStorage_Skip_Blueprint.label>Skip (blueprint)</LWM_DeepStorage_Skip_Blueprint.label>
-  <LWM_DeepStorage_Skip_Blueprint_Install.label>Skip (blueprint)</LWM_DeepStorage_Skip_Blueprint_Install.label>
-  <LWM_DeepStorage_Skip_Frame.label>Skip (building)</LWM_DeepStorage_Skip_Frame.label>
-  <LWM_DeepStorage_Skip_Frame.description>A large metal bin. Best for storing big, heavy items unless you want to spend hours rooting around for that missing sock - it's easier to find when it's still attached to the body. These skips are not covered; they are open to the weather, but sturdier than a pallet.</LWM_DeepStorage_Skip_Frame.description>
+  <LWM_DeepStorage_Skip.label>Cassone</LWM_DeepStorage_Skip.label>
+  <LWM_DeepStorage_Skip.description>Un grande contenitore di metallo. Ideale per riporre oggetti grandi e pesanti, a meno che tu non voglia passare ore a cercare quel calzino mancante: è più facile da trovare quando è ancora attaccato al corpo. Questi salti non sono coperti; sono aperti alle intemperie, ma più robusti di un pallet.</LWM_DeepStorage_Skip.description>
+  <LWM_DeepStorage_Skip_Blueprint.label>Cassone (progetto)</LWM_DeepStorage_Skip_Blueprint.label>
+  <LWM_DeepStorage_Skip_Blueprint_Install.label>Cassone (progetto)</LWM_DeepStorage_Skip_Blueprint_Install.label>
+  <LWM_DeepStorage_Skip_Frame.label>Cassone (struttura)</LWM_DeepStorage_Skip_Frame.label>
+  <LWM_DeepStorage_Skip_Frame.description>Un grande contenitore di metallo. Ideale per riporre oggetti grandi e pesanti, a meno che tu non voglia passare ore a cercare quel calzino mancante: è più facile da trovare quando è ancora attaccato al corpo. Questi salti non sono coperti; sono aperti alle intemperie, ma più robusti di un pallet.</LWM_DeepStorage_Skip_Frame.description>
 
 
   <!-- Wall Shelves - no pathcost -->
 
-  <LWM_BigShelf.label>Wall shelves</LWM_BigShelf.label>
-  <LWM_BigShelf.description>Shelves attached to a wall for storing things. Looks nice and doesn't impede traffic.</LWM_BigShelf.description>
-  <LWM_BigShelf_Blueprint.label>Wall shelves (blueprint)</LWM_BigShelf_Blueprint.label>
-  <LWM_BigShelf_Blueprint_Install.label>Wall shelves (blueprint)</LWM_BigShelf_Blueprint_Install.label>
-  <LWM_BigShelf_Frame.label>Wall shelves (building)</LWM_BigShelf_Frame.label>
-  <LWM_BigShelf_Frame.description>Shelves attached to a wall for storing things. Looks nice and doesn't impede traffic.</LWM_BigShelf_Frame.description>
+  <LWM_BigShelf.label>Mensole a muro</LWM_BigShelf.label>
+  <LWM_BigShelf.description>Scaffali attaccati a una parete per riporre le cose. Carino da vedere e non ostacola il passaggio.</LWM_BigShelf.description>
+  <LWM_BigShelf_Blueprint.label>Mensole a muro (progetto)</LWM_BigShelf_Blueprint.label>
+  <LWM_BigShelf_Blueprint_Install.label>Mensole a muro (progetto)</LWM_BigShelf_Blueprint_Install.label>
+  <LWM_BigShelf_Frame.label>Mensole a muro (struttura)</LWM_BigShelf_Frame.label>
+  <LWM_BigShelf_Frame.description>Scaffali attaccati a una parete per riporre le cose. Carino da vedere e non ostacola il passaggio.</LWM_BigShelf_Frame.description>
 
 
   <!-- Utility Racks - organized -->
 
-  <LWM_VeryBigShelf.label>Utility Racks</LWM_VeryBigShelf.label>
-  <LWM_VeryBigShelf.description>A fairly sturdy set of wire racks for storing things. More organized than pallets.</LWM_VeryBigShelf.description>
-  <LWM_VeryBigShelf_Blueprint.label>Utility Racks (blueprint)</LWM_VeryBigShelf_Blueprint.label>
-  <LWM_VeryBigShelf_Blueprint_Install.label>Utility Racks (blueprint)</LWM_VeryBigShelf_Blueprint_Install.label>
-  <LWM_VeryBigShelf_Frame.label>Utility Racks (building)</LWM_VeryBigShelf_Frame.label>
-  <LWM_VeryBigShelf_Frame.description>A fairly sturdy set of wire racks for storing things. More organized than pallets.</LWM_VeryBigShelf_Frame.description>
+  <LWM_VeryBigShelf.label>Rastrelliera</LWM_VeryBigShelf.label>
+  <LWM_VeryBigShelf.description>Un set abbastanza robusto di griglie per riporre le cose. Più organizzato dei pallet.</LWM_VeryBigShelf.description>
+  <LWM_VeryBigShelf_Blueprint.label>Rastrelliera (progetto)</LWM_VeryBigShelf_Blueprint.label>
+  <LWM_VeryBigShelf_Blueprint_Install.label>Rastrelliera (progetto)</LWM_VeryBigShelf_Blueprint_Install.label>
+  <LWM_VeryBigShelf_Frame.label>Rastrelliera (struttura)</LWM_VeryBigShelf_Frame.label>
+  <LWM_VeryBigShelf_Frame.description>Un set abbastanza robusto di griglie per riporre le cose. Più organizzato dei pallet.</LWM_VeryBigShelf_Frame.description>
 
 
   <!-- Display Case - beauty -->
 
-  <DisplayCase.label>display case</DisplayCase.label>
-  <DisplayCase.description>A glass case for showing off your wares to guests.</DisplayCase.description>
-  <DisplayCase_Blueprint.label>display case (blueprint)</DisplayCase_Blueprint.label>
-  <DisplayCase_Blueprint_Install.label>display case (blueprint)</DisplayCase_Blueprint_Install.label>
-  <DisplayCase_Frame.label>display case (building)</DisplayCase_Frame.label>
-  <DisplayCase_Frame.description>A glass case for showing off your wares to guests.</DisplayCase_Frame.description>
+  <DisplayCase.label>vetrina</DisplayCase.label>
+  <DisplayCase.description>Una teca di vetro per mostrare la tua merce agli ospiti.</DisplayCase.description>
+  <DisplayCase_Blueprint.label>vetrina (progetto)</DisplayCase_Blueprint.label>
+  <DisplayCase_Blueprint_Install.label>vetrina (progetto)</DisplayCase_Blueprint_Install.label>
+  <DisplayCase_Frame.label>vetrina (struttura)</DisplayCase_Frame.label>
+  <DisplayCase_Frame.description>Una teca di vetro per mostrare la tua merce agli ospiti.</DisplayCase_Frame.description>
 
 
   <!-- Wicker Basket- also helps preserve fruits, veggies -->
 
-  <Basket.label>Wicker basket</Basket.label>
-  <Basket.description>A woven container made typically of plant matierals, but may also be fashioned with synthetic ingredients. Can store just about anything, protects from the elements, and does well keeping fruits and veggies fresh by reducing spoilage by 30%.</Basket.description>
-  <Basket_Blueprint.label>Wicker basket (blueprint)</Basket_Blueprint.label>
-  <Basket_Blueprint_Install.label>Wicker basket (blueprint)</Basket_Blueprint_Install.label>
-  <Basket_Frame.label>Wicker basket (building)</Basket_Frame.label>
-  <Basket_Frame.description>A woven container made typically of plant matierals, but may also be fashioned with synthetic ingredients. Can store just about anything, protects from the elements, and does well keeping fruits and veggies fresh by reducing spoilage by 30%.</Basket_Frame.description>
+  <Basket.label>cesto di vimini</Basket.label>
+  <Basket.description>Un contenitore intrecciato fatto tipicamente di materiali vegetali, ma può anche essere modellato con ingredienti sintetici. Può contenere qualsiasi cosa, protegge dagli elementi e mantiene fresche frutta e verdura riducendo il deterioramento del 30%.</Basket.description>
+  <Basket_Blueprint.label>cesto di vimini (progetto)</Basket_Blueprint.label>
+  <Basket_Blueprint_Install.label>cesto di vimini (progetto)</Basket_Blueprint_Install.label>
+  <Basket_Frame.label>cesto di vimini (struttura)</Basket_Frame.label>
+  <Basket_Frame.description>Un contenitore intrecciato fatto tipicamente di materiali vegetali, ma può anche essere modellato con ingredienti sintetici. Può contenere qualsiasi cosa, protegge dagli elementi e mantiene fresche frutta e verdura riducendo il deterioramento del 30%.</Basket_Frame.description>
 
 
   <!-- Barrel -->
 
-  <Barrel.label>barrel</Barrel.label>
-  <Barrel.description>A barrel made of wood or metal. Used to store various things inside, though easier to manage when it's all that same type of thing. Up to 5 items.</Barrel.description>
-  <Barrel_Blueprint.label>barrel (blueprint)</Barrel_Blueprint.label>
-  <Barrel_Blueprint_Install.label>barrel (blueprint)</Barrel_Blueprint_Install.label>
-  <Barrel_Frame.label>barrel (building)</Barrel_Frame.label>
-  <Barrel_Frame.description>A barrel made of wood or metal. Used to store various things inside, though easier to manage when it's all that same type of thing. Up to 5 items.</Barrel_Frame.description>
+  <Barrel.label>barile</Barrel.label>
+  <Barrel.description>Una botte di legno o metallo. Utilizzato per immagazzinare varie cose all'interno, anche se più facile da gestire quando contiene lo stesso tipo di cose. Contiene fino a 5 articoli.</Barrel.description>
+  <Barrel_Blueprint.label>barile (progetto)</Barrel_Blueprint.label>
+  <Barrel_Blueprint_Install.label>barile (progetto)</Barrel_Blueprint_Install.label>
+  <Barrel_Frame.label>barile (struttura)</Barrel_Frame.label>
+  <Barrel_Frame.description>Una botte di legno o metallo. Utilizzato per immagazzinare varie cose all'interno, anche se più facile da gestire quando contiene lo stesso tipo di cose. Contiene fino a 5 articoli.</Barrel_Frame.description>
 
 
   <!-- Chest -->
 
-  <Chest.label>chest</Chest.label>
-  <Chest.description>A chest with compartments for quicker organization. Up to 6 items.</Chest.description>
-  <Chest_Blueprint.label>chest (blueprint)</Chest_Blueprint.label>
-  <Chest_Blueprint_Install.label>chest (blueprint)</Chest_Blueprint_Install.label>
-  <Chest_Frame.label>chest (building)</Chest_Frame.label>
-  <Chest_Frame.description>A chest with compartments for quicker organization. Up to 6 items.</Chest_Frame.description>
+  <Chest.label>baule</Chest.label>
+  <Chest.description>Un baule con scomparti per un'organizzazione più rapida. Contiene fino a 6 articoli.</Chest.description>
+  <Chest_Blueprint.label>baule (progetto)</Chest_Blueprint.label>
+  <Chest_Blueprint_Install.label>baule (progetto)</Chest_Blueprint_Install.label>
+  <Chest_Frame.label>baule (struttura)</Chest_Frame.label>
+  <Chest_Frame.description>Un baule con scomparti per un'organizzazione più rapida. Contiene fino a 6 articoli.</Chest_Frame.description>
 
 
   <!-- Armored Chest -->
 
-  <IndustrialChest.label>armored chest</IndustrialChest.label>
-  <IndustrialChest.description>An armored chest made of metal. Used to store various things inside. Up to 6 items.</IndustrialChest.description>
-  <IndustrialChest_Blueprint.label>armored chest (blueprint)</IndustrialChest_Blueprint.label>
-  <IndustrialChest_Blueprint_Install.label>armored chest (blueprint)</IndustrialChest_Blueprint_Install.label>
-  <IndustrialChest_Frame.label>armored chest (building)</IndustrialChest_Frame.label>
-  <IndustrialChest_Frame.description>An armored chest made of metal. Used to store various things inside. Up to 6 items.</IndustrialChest_Frame.description>
+  <IndustrialChest.label>baule blindato</IndustrialChest.label>
+  <IndustrialChest.description>Una cassa blindata in metallo. Utilizzato per riporre varie cose all'interno. Contiene fino a 6 articoli.</IndustrialChest.description>
+  <IndustrialChest_Blueprint.label>baule blindato (progetto)</IndustrialChest_Blueprint.label>
+  <IndustrialChest_Blueprint_Install.label>armored chest (progetto)</IndustrialChest_Blueprint_Install.label>
+  <IndustrialChest_Frame.label>baule blindato (struttura)</IndustrialChest_Frame.label>
+  <IndustrialChest_Frame.description>Una cassa blindata in metallo. Utilizzato per riporre varie cose all'interno. Contiene fino a 6 articoli.</IndustrialChest_Frame.description>
 
 
-  <!-- Bin Rack - quick and organized -->
+  <!-- scaffale con cassette - quick and organized -->
 
-  <BinRack.label>Bin rack</BinRack.label>
-  <BinRack.description>A cabinet of bins with lids. They slide out and open with ease and are labelled for optimum organization. Lightning fast.</BinRack.description>
-  <BinRack_Blueprint.label>Bin rack (blueprint)</BinRack_Blueprint.label>
-  <BinRack_Blueprint_Install.label>Bin rack (blueprint)</BinRack_Blueprint_Install.label>
-  <BinRack_Frame.label>Bin rack (building)</BinRack_Frame.label>
-  <BinRack_Frame.description>A cabinet of bins with lids. They slide out and open with ease and are labelled for optimum organization. Lightning fast.</BinRack_Frame.description>
+  <BinRack.label>scaffale con cassette</BinRack.label>
+  <BinRack.description>Un armadietto di contenitori con coperchi. Scorrono e si aprono con facilità e sono etichettati per un'organizzazione ottimale. Veloce come un fulmine.</BinRack.description>
+  <BinRack_Blueprint.label>scaffale con cassette (progetto)</BinRack_Blueprint.label>
+  <BinRack_Blueprint_Install.label>scaffale con cassette (progetto)</BinRack_Blueprint_Install.label>
+  <BinRack_Frame.label>scaffale con cassette (struttura)</BinRack_Frame.label>
+  <BinRack_Frame.description>Un armadietto di contenitori con coperchi. Scorrono e si aprono con facilità e sono etichettati per un'organizzazione ottimale. Veloce come un fulmine.</BinRack_Frame.description>
 
 
   <!-- Shed - food, bodies -->
 
-  <Shed.label>shed</Shed.label>
-  <Shed.description>An all purpose shed. You can store your tools, use it as a pantry, or hide the bodies. Has shelves and hangers for better organization. Slows spoilage by 25%.</Shed.description>
-  <Shed_Blueprint.label>shed (blueprint)</Shed_Blueprint.label>
-  <Shed_Blueprint_Install.label>shed (blueprint)</Shed_Blueprint_Install.label>
-  <Shed_Frame.label>shed (building)</Shed_Frame.label>
-  <Shed_Frame.description>An all purpose shed. You can store your tools, use it as a pantry, or hide the bodies. Has shelves and hangers for better organization. Slows spoilage by 25%.</Shed_Frame.description>
+  <Shed.label>capanno</Shed.label>
+  <Shed.description>Un capanno per tutti gli usi. Puoi conservarci i tuoi strumenti, usarla come dispensa o nasconderci i corpi. Dispone di ripiani e appendini per una migliore organizzazione. Rallenta il deterioramento del 25%.</Shed.description>
+  <Shed_Blueprint.label>capanno (progetto)</Shed_Blueprint.label>
+  <Shed_Blueprint_Install.label>capanno (progetto)</Shed_Blueprint_Install.label>
+  <Shed_Frame.label>shed (struttura)</Shed_Frame.label>
+  <Shed_Frame.description>Un capanno per tutti gli usi. Puoi conservarci i tuoi strumenti, usarla come dispensa o nasconderci i corpi. Dispone di ripiani e appendini per una migliore organizzazione. Rallenta il deterioramento del 25%.</Shed_Frame.description>
 
 
   <!-- Pot -->
 
-  <Pot.label>pot</Pot.label>
-  <Pot.description>A big pot made of wood, metal or ceramics; used to preserve food. Slows rotting process by 40%.</Pot.description>
-  <Pot_Blueprint.label>pot (blueprint)</Pot_Blueprint.label>
-  <Pot_Blueprint_Install.label>pot (blueprint)</Pot_Blueprint_Install.label>
-  <Pot_Frame.label>pot (building)</Pot_Frame.label>
-  <Pot_Frame.description>A big pot made of wood, metal or ceramics; used to preserve food. Slows rotting process by 40%.</Pot_Frame.description>
+  <Pot.label>vaso</Pot.label>
+  <Pot.description>Un grande vaso in legno, metallo o ceramica; usato per conservare il cibo. Rallenta il processo di decomposizione del 40%.</Pot.description>
+  <Pot_Blueprint.label>vaso (progetto)</Pot_Blueprint.label>
+  <Pot_Blueprint_Install.label>vaso (progetto)</Pot_Blueprint_Install.label>
+  <Pot_Frame.label>vaso (struttura)</Pot_Frame.label>
+  <Pot_Frame.description>Un grande vaso in legno, metallo o ceramica; usato per conservare il cibo. Rallenta il processo di decomposizione del 40%.</Pot_Frame.description>
 
 
   <!-- Meat Hook -->
 
-  <LWM_Meat_Hook.label>Meat Hook</LWM_Meat_Hook.label>
-  <LWM_Meat_Hook.description>A tall metal frame with several hooks hanging from chains.  A simple crank allows hoisting several hanging things into the air.  A way to store the dead bodies of fellow animals you have killed, before cutting them up and consuming their flesh.  You monster.
+  <LWM_Meat_Hook.label>uncino per la carne</LWM_Meat_Hook.label>
+  <LWM_Meat_Hook.description>Un'alta struttura in metallo con diversi ganci appesi a catene. Una semplice manovella consente di sollevare in aria diverse cose sospese. Un modo per conservare i cadaveri di altri animali che hai ucciso, prima di tagliarli e consumarne la carne. Sei un mostro.
 
-			Note that you can only fit so many giant corpses into one space, even if you stack them.  The frame will only hold so much weight.</LWM_Meat_Hook.description>
-  <LWM_Meat_Hook_Blueprint.label>Meat Hook (blueprint)</LWM_Meat_Hook_Blueprint.label>
-  <LWM_Meat_Hook_Blueprint_Install.label>Meat Hook (blueprint)</LWM_Meat_Hook_Blueprint_Install.label>
-  <LWM_Meat_Hook_Frame.label>Meat Hook (building)</LWM_Meat_Hook_Frame.label>
-  <LWM_Meat_Hook_Frame.description>A tall metal frame with several hooks hanging from chains.  A simple crank allows hoisting several hanging things into the air.  A way to store the dead bodies of fellow animals you have killed, before cutting them up and consuming their flesh.  You monster.
+			Nota che puoi inserire solo così tanti cadaveri giganti in uno spazio, anche se li accatastati. Il telaio reggerà solo così tanto peso.</LWM_Meat_Hook.description>
+  <LWM_Meat_Hook_Blueprint.label>uncino per la carne (progetto)</LWM_Meat_Hook_Blueprint.label>
+  <LWM_Meat_Hook_Blueprint_Install.label>uncino per la carne (progetto)</LWM_Meat_Hook_Blueprint_Install.label>
+  <LWM_Meat_Hook_Frame.label>uncino per la carne (struttura)</LWM_Meat_Hook_Frame.label>
+  <LWM_Meat_Hook_Frame.description>Un'alta struttura in metallo con diversi ganci appesi a catene. Una semplice manovella consente di sollevare in aria diverse cose sospese. Un modo per conservare i cadaveri di altri animali che hai ucciso, prima di tagliarli e consumarne la carne. Sei un mostro.
 
-			Note that you can only fit so many giant corpses into one space, even if you stack them.  The frame will only hold so much weight.</LWM_Meat_Hook_Frame.description>
+			Nota che puoi inserire solo così tanti cadaveri giganti in uno spazio, anche se li accatastati. Il telaio reggerà solo così tanto peso.</LWM_Meat_Hook_Frame.description>
 
 
   <!-- Feeding Bowl -->
 
-  <FeedingBowl.label>feeding bowl</FeedingBowl.label>
-  <FeedingBowl.description>Your animals will love this bowl so much that they'll go eat out of here first!</FeedingBowl.description>
-  <FeedingBowl_Blueprint.label>feeding bowl (blueprint)</FeedingBowl_Blueprint.label>
-  <FeedingBowl_Blueprint_Install.label>feeding bowl (blueprint)</FeedingBowl_Blueprint_Install.label>
-  <FeedingBowl_Frame.label>feeding bowl (building)</FeedingBowl_Frame.label>
-  <FeedingBowl_Frame.description>Your animals will love this bowl so much that they'll go eat out of here first!</FeedingBowl_Frame.description>
+  <FeedingBowl.label>ciotola per gli animali</FeedingBowl.label>
+  <FeedingBowl.description>I tuoi animali adoreranno così tanto questa ciotola che prima andranno a mangiaranno da qui!</FeedingBowl.description>
+  <FeedingBowl_Blueprint.label>ciotola per gli animali (p per gli animalirogetto)</FeedingBowl_Blueprint.label>
+  <FeedingBowl_Blueprint_Install.label>ciotola per gli animali (progetto)</FeedingBowl_Blueprint_Install.label>
+  <FeedingBowl_Frame.label>ciotola per gli animali (struttura)</FeedingBowl_Frame.label>
+  <FeedingBowl_Frame.description>I tuoi animali adoreranno così tanto questa ciotola che prima andranno a mangiaranno da qui!</FeedingBowl_Frame.description>
 
 
   <!-- Hamper -->
 
-  <FabricHamperSingle.label>Hamper</FabricHamperSingle.label>
-  <FabricHamperSingle.description>This is a smaller hamper made out of fabric with a lid for protecting the contents. On the glitterworlds, it's used for collecting dirty laundry, but out here on the Rim, it's more commonly used by farmers and gatherers to drop off their harvests.</FabricHamperSingle.description>
-  <FabricHamperSingle_Blueprint.label>Hamper (blueprint)</FabricHamperSingle_Blueprint.label>
-  <FabricHamperSingle_Blueprint_Install.label>Hamper (blueprint)</FabricHamperSingle_Blueprint_Install.label>
-  <FabricHamperSingle_Frame.label>Hamper (building)</FabricHamperSingle_Frame.label>
-  <FabricHamperSingle_Frame.description>This is a smaller hamper made out of fabric with a lid for protecting the contents. On the glitterworlds, it's used for collecting dirty laundry, but out here on the Rim, it's more commonly used by farmers and gatherers to drop off their harvests.</FabricHamperSingle_Frame.description>
+  <FabricHamperSingle.label>cesta</FabricHamperSingle.label>
+  <FabricHamperSingle.description>Questo è un cesto più piccolo realizzato in tessuto con un coperchio per proteggere il contenuto. Sui mondi luccicanti, è usato per raccogliere la biancheria sporca, ma qui sul Rim è più comunemente usato da agricoltori e raccoglitori per lasciare i loro raccolti.</FabricHamperSingle.description>
+  <FabricHamperSingle_Blueprint.label>cesta (progetto)</FabricHamperSingle_Blueprint.label>
+  <FabricHamperSingle_Blueprint_Install.label>cesta (progetto)</FabricHamperSingle_Blueprint_Install.label>
+  <FabricHamperSingle_Frame.label>cesta (struttura)</FabricHamperSingle_Frame.label>
+  <FabricHamperSingle_Frame.description>Questo è un cesto più piccolo realizzato in tessuto con un coperchio per proteggere il contenuto. Sui mondi luccicanti, è usato per raccogliere la biancheria sporca, ma qui sul Rim è più comunemente usato da agricoltori e raccoglitori per lasciare i loro raccolti.</FabricHamperSingle_Frame.description>
 
 
   <!-- Hayloft -->
 
-  <LWM_Hayloft.label>Hay barn</LWM_Hayloft.label>
-  <LWM_Hayloft.description>This structure can be used to store hay, silage, and various other plant materials to keep it dry and protect it from the weather.</LWM_Hayloft.description>
-  <LWM_Hayloft_Blueprint.label>Hay barn (blueprint)</LWM_Hayloft_Blueprint.label>
-  <LWM_Hayloft_Blueprint_Install.label>Hay barn (blueprint)</LWM_Hayloft_Blueprint_Install.label>
-  <LWM_Hayloft_Frame.label>Hay barn (building)</LWM_Hayloft_Frame.label>
-  <LWM_Hayloft_Frame.description>This structure can be used to store hay, silage, and various other plant materials to keep it dry and protect it from the weather.</LWM_Hayloft_Frame.description>
+  <LWM_Hayloft.label>fienile</LWM_Hayloft.label>
+  <LWM_Hayloft.description>Questa struttura può essere utilizzata per conservare fieno, insilato e vari altri materiali vegetali per mantenerlo asciutto e proteggerlo dalle intemperie.</LWM_Hayloft.description>
+  <LWM_Hayloft_Blueprint.label>fienile (progetto)</LWM_Hayloft_Blueprint.label>
+  <LWM_Hayloft_Blueprint_Install.label>fienile (progetto)</LWM_Hayloft_Blueprint_Install.label>
+  <LWM_Hayloft_Frame.label>fienile (struttura)</LWM_Hayloft_Frame.label>
+  <LWM_Hayloft_Frame.description>Questa struttura può essere utilizzata per conservare fieno, insilato e vari altri materiali vegetali per mantenerlo asciutto e proteggerlo dalle intemperie.</LWM_Hayloft_Frame.description>
 
 
   <!-- Clothing Rack -->
 
   <Shelf.label>Clothing Rack</Shelf.label>
   <Shelf.description>A rack for storing clothing for easy, quick access and a tidy room. Is not protected from the elements.</Shelf.description>
-  <Shelf_Blueprint.label>Clothing Rack (blueprint)</Shelf_Blueprint.label>
-  <Shelf_Blueprint_Install.label>Clothing Rack (blueprint)</Shelf_Blueprint_Install.label>
-  <Shelf_Frame.label>Clothing Rack (building)</Shelf_Frame.label>
+  <Shelf_Blueprint.label>Clothing Rack (progetto)</Shelf_Blueprint.label>
+  <Shelf_Blueprint_Install.label>Clothing Rack (progetto)</Shelf_Blueprint_Install.label>
+  <Shelf_Frame.label>Clothing Rack (struttura)</Shelf_Frame.label>
   <Shelf_Frame.description>A rack for storing clothing for easy, quick access and a tidy room. Is not protected from the elements.</Shelf_Frame.description>
 
 
@@ -341,28 +341,28 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 
   <SmallClothingRack.label>Small Clothing Rack</SmallClothingRack.label>
   <SmallClothingRack.description>A rack for storing clothing for easy, quick access and a tidy room. Is not protected from the elements. Hold considerably less than the larger version, but good for displaying.</SmallClothingRack.description>
-  <SmallClothingRack_Blueprint.label>Small Clothing Rack (blueprint)</SmallClothingRack_Blueprint.label>
-  <SmallClothingRack_Blueprint_Install.label>Small Clothing Rack (blueprint)</SmallClothingRack_Blueprint_Install.label>
-  <SmallClothingRack_Frame.label>Small Clothing Rack (building)</SmallClothingRack_Frame.label>
+  <SmallClothingRack_Blueprint.label>Small Clothing Rack (progetto)</SmallClothingRack_Blueprint.label>
+  <SmallClothingRack_Blueprint_Install.label>Small Clothing Rack (progetto)</SmallClothingRack_Blueprint_Install.label>
+  <SmallClothingRack_Frame.label>Small Clothing Rack (struttura)</SmallClothingRack_Frame.label>
   <SmallClothingRack_Frame.description>A rack for storing clothing for easy, quick access and a tidy room. Is not protected from the elements. Hold considerably less than the larger version, but good for displaying.</SmallClothingRack_Frame.description>
 
 
   <!-- Root Cellar- outdoors only, diggable terrain -->
 
-  <RootCellar.label>root cellar</RootCellar.label>
-  <RootCellar.description>A cellar dug into the ground to keep produce cool and dry. Reduces spoilage by 40%. Slow to store and retrieve items, since it takes a bit of time to "root" around in there. Can store up to 27 items but takes of 3x3 space.</RootCellar.description>
-  <RootCellar_Blueprint.label>root cellar (blueprint)</RootCellar_Blueprint.label>
-  <RootCellar_Frame.label>root cellar (building)</RootCellar_Frame.label>
-  <RootCellar_Frame.description>A cellar dug into the ground to keep produce cool and dry. Reduces spoilage by 40%. Slow to store and retrieve items, since it takes a bit of time to "root" around in there. Can store up to 27 items but takes of 3x3 space.</RootCellar_Frame.description>
+  <RootCellar.label>cantina</RootCellar.label>
+  <RootCellar.description>Una cantina scavata nel terreno per mantenere i prodotti freschi e asciutti. Riduce il deterioramento del 40%. Lento per archiviare e recuperare gli oggetti. Può contenere fino a 27 articoli ma occupa 3x3 spazio.</RootCellar.description>
+  <RootCellar_Blueprint.label>cantina (progetto)</RootCellar_Blueprint.label>
+  <RootCellar_Frame.label>cantina (struttura)</RootCellar_Frame.label>
+  <RootCellar_Frame.description>Una cantina scavata nel terreno per mantenere i prodotti freschi e asciutti. Riduce il deterioramento del 40%. Lento per archiviare e recuperare gli oggetti. Può contenere fino a 27 articoli ma occupa 3x3 spazio.</RootCellar_Frame.description>
 
 
   <!-- Bar Shelf -->
 
   <BarShelf.label>Mounted Bar Shelf</BarShelf.label>
   <BarShelf.description>Shelves attached to a wall for storing bottles and jars. Perfect for that crampt space behind a bar.</BarShelf.description>
-  <BarShelf_Blueprint.label>Mounted Bar Shelf (blueprint)</BarShelf_Blueprint.label>
-  <BarShelf_Blueprint_Install.label>Mounted Bar Shelf (blueprint)</BarShelf_Blueprint_Install.label>
-  <BarShelf_Frame.label>Mounted Bar Shelf (building)</BarShelf_Frame.label>
+  <BarShelf_Blueprint.label>Mounted Bar Shelf (progetto)</BarShelf_Blueprint.label>
+  <BarShelf_Blueprint_Install.label>Mounted Bar Shelf (progetto)</BarShelf_Blueprint_Install.label>
+  <BarShelf_Frame.label>Mounted Bar Shelf (struttura)</BarShelf_Frame.label>
   <BarShelf_Frame.description>Shelves attached to a wall for storing bottles and jars. Perfect for that crampt space behind a bar.</BarShelf_Frame.description>
 
 
@@ -370,9 +370,9 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 
   <Sack.label>Tow Sack</Sack.label>
   <Sack.description>A woven bag for filling with rice, potatoes, sand, assorted lengths of wire, etc. Quick to use if you only fill it with one kind of thing. Reduces spoilage by 25%.</Sack.description>
-  <Sack_Blueprint.label>Tow Sack (blueprint)</Sack_Blueprint.label>
-  <Sack_Blueprint_Install.label>Tow Sack (blueprint)</Sack_Blueprint_Install.label>
-  <Sack_Frame.label>Tow Sack (building)</Sack_Frame.label>
+  <Sack_Blueprint.label>Tow Sack (progetto)</Sack_Blueprint.label>
+  <Sack_Blueprint_Install.label>Tow Sack (progetto)</Sack_Blueprint_Install.label>
+  <Sack_Frame.label>Tow Sack (struttura)</Sack_Frame.label>
   <Sack_Frame.description>A woven bag for filling with rice, potatoes, sand, assorted lengths of wire, etc. Quick to use if you only fill it with one kind of thing. Reduces spoilage by 25%.</Sack_Frame.description>
 
 
@@ -380,9 +380,9 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 
   <TrayRackSingle.label>serving table</TrayRackSingle.label>
   <TrayRackSingle.description>A small table for keeping meals fresh, complete with sneeze-guard.</TrayRackSingle.description>
-  <TrayRackSingle_Blueprint.label>serving table (blueprint)</TrayRackSingle_Blueprint.label>
-  <TrayRackSingle_Blueprint_Install.label>serving table (blueprint)</TrayRackSingle_Blueprint_Install.label>
-  <TrayRackSingle_Frame.label>serving table (building)</TrayRackSingle_Frame.label>
+  <TrayRackSingle_Blueprint.label>serving table (progetto)</TrayRackSingle_Blueprint.label>
+  <TrayRackSingle_Blueprint_Install.label>serving table (progetto)</TrayRackSingle_Blueprint_Install.label>
+  <TrayRackSingle_Frame.label>serving table (struttura)</TrayRackSingle_Frame.label>
   <TrayRackSingle_Frame.description>A small table for keeping meals fresh, complete with sneeze-guard.</TrayRackSingle_Frame.description>
 
 
@@ -390,9 +390,9 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 
   <FoodDisplayCounter.label>food display counter</FoodDisplayCounter.label>
   <FoodDisplayCounter.description>A glass case for displaying meals, baked goods, or even drugs, and helps keep them fresh longer.</FoodDisplayCounter.description>
-  <FoodDisplayCounter_Blueprint.label>food display counter (blueprint)</FoodDisplayCounter_Blueprint.label>
-  <FoodDisplayCounter_Blueprint_Install.label>food display counter (blueprint)</FoodDisplayCounter_Blueprint_Install.label>
-  <FoodDisplayCounter_Frame.label>food display counter (building)</FoodDisplayCounter_Frame.label>
+  <FoodDisplayCounter_Blueprint.label>food display counter (progetto)</FoodDisplayCounter_Blueprint.label>
+  <FoodDisplayCounter_Blueprint_Install.label>food display counter (progetto)</FoodDisplayCounter_Blueprint_Install.label>
+  <FoodDisplayCounter_Frame.label>food display counter (struttura)</FoodDisplayCounter_Frame.label>
   <FoodDisplayCounter_Frame.description>A glass case for displaying meals, baked goods, or even drugs, and helps keep them fresh longer.</FoodDisplayCounter_Frame.description>
 
 
@@ -400,9 +400,9 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 
   <LWM_Medicine_Cabinet.label>Medical cart</LWM_Medicine_Cabinet.label>
   <LWM_Medicine_Cabinet.description>A cart for quickly organizing medicine and sanitation materials. Makes it easier to keep exam rooms clean.</LWM_Medicine_Cabinet.description>
-  <LWM_Medicine_Cabinet_Blueprint.label>Medical cart (blueprint)</LWM_Medicine_Cabinet_Blueprint.label>
-  <LWM_Medicine_Cabinet_Blueprint_Install.label>Medical cart (blueprint)</LWM_Medicine_Cabinet_Blueprint_Install.label>
-  <LWM_Medicine_Cabinet_Frame.label>Medical cart (building)</LWM_Medicine_Cabinet_Frame.label>
+  <LWM_Medicine_Cabinet_Blueprint.label>Medical cart (progetto)</LWM_Medicine_Cabinet_Blueprint.label>
+  <LWM_Medicine_Cabinet_Blueprint_Install.label>Medical cart (progetto)</LWM_Medicine_Cabinet_Blueprint_Install.label>
+  <LWM_Medicine_Cabinet_Frame.label>Medical cart (struttura)</LWM_Medicine_Cabinet_Frame.label>
   <LWM_Medicine_Cabinet_Frame.description>A cart for quickly organizing medicine and sanitation materials. Makes it easier to keep exam rooms clean.</LWM_Medicine_Cabinet_Frame.description>
 
 
@@ -410,9 +410,9 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 
   <LWM_WeaponsCabinet.label>Weapons Cabinet</LWM_WeaponsCabinet.label>
   <LWM_WeaponsCabinet.description>A sturdy cabinet for storing multiple weapons. A must-have furniture item for any hunting lodge. Items stored in this will not deteriorate, even if outside.</LWM_WeaponsCabinet.description>
-  <LWM_WeaponsCabinet_Blueprint.label>Weapons Cabinet (blueprint)</LWM_WeaponsCabinet_Blueprint.label>
-  <LWM_WeaponsCabinet_Blueprint_Install.label>Weapons Cabinet (blueprint)</LWM_WeaponsCabinet_Blueprint_Install.label>
-  <LWM_WeaponsCabinet_Frame.label>Weapons Cabinet (building)</LWM_WeaponsCabinet_Frame.label>
+  <LWM_WeaponsCabinet_Blueprint.label>Weapons Cabinet (progetto)</LWM_WeaponsCabinet_Blueprint.label>
+  <LWM_WeaponsCabinet_Blueprint_Install.label>Weapons Cabinet (progetto)</LWM_WeaponsCabinet_Blueprint_Install.label>
+  <LWM_WeaponsCabinet_Frame.label>Weapons Cabinet (struttura)</LWM_WeaponsCabinet_Frame.label>
   <LWM_WeaponsCabinet_Frame.description>A sturdy cabinet for storing multiple weapons. A must-have furniture item for any hunting lodge. Items stored in this will not deteriorate, even if outside.</LWM_WeaponsCabinet_Frame.description>
 
 
@@ -420,9 +420,9 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 
   <LWM_WeaponsLocker.label>Weapons Locker</LWM_WeaponsLocker.label>
   <LWM_WeaponsLocker.description>A high-capacity metal locker for securely storing many weapons. Items stored in this will not deteriorate, even if outside.</LWM_WeaponsLocker.description>
-  <LWM_WeaponsLocker_Blueprint.label>Weapons Locker (blueprint)</LWM_WeaponsLocker_Blueprint.label>
-  <LWM_WeaponsLocker_Blueprint_Install.label>Weapons Locker (blueprint)</LWM_WeaponsLocker_Blueprint_Install.label>
-  <LWM_WeaponsLocker_Frame.label>Weapons Locker (building)</LWM_WeaponsLocker_Frame.label>
+  <LWM_WeaponsLocker_Blueprint.label>Weapons Locker (progetto)</LWM_WeaponsLocker_Blueprint.label>
+  <LWM_WeaponsLocker_Blueprint_Install.label>Weapons Locker (progetto)</LWM_WeaponsLocker_Blueprint_Install.label>
+  <LWM_WeaponsLocker_Frame.label>Weapons Locker (struttura)</LWM_WeaponsLocker_Frame.label>
   <LWM_WeaponsLocker_Frame.description>A high-capacity metal locker for securely storing many weapons. Items stored in this will not deteriorate, even if outside.</LWM_WeaponsLocker_Frame.description>
 
 
@@ -430,9 +430,9 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 
   <Storage_HazMatContainer.label>ammo storage</Storage_HazMatContainer.label>
   <Storage_HazMatContainer.description>Stores ammo; prevents deterioration. Up to 9 items.</Storage_HazMatContainer.description>
-  <Storage_HazMatContainer_Blueprint.label>ammo storage (blueprint)</Storage_HazMatContainer_Blueprint.label>
-  <Storage_HazMatContainer_Blueprint_Install.label>ammo storage (blueprint)</Storage_HazMatContainer_Blueprint_Install.label>
-  <Storage_HazMatContainer_Frame.label>ammo storage (building)</Storage_HazMatContainer_Frame.label>
+  <Storage_HazMatContainer_Blueprint.label>ammo storage (progetto)</Storage_HazMatContainer_Blueprint.label>
+  <Storage_HazMatContainer_Blueprint_Install.label>ammo storage (progetto)</Storage_HazMatContainer_Blueprint_Install.label>
+  <Storage_HazMatContainer_Frame.label>ammo storage (struttura)</Storage_HazMatContainer_Frame.label>
   <Storage_HazMatContainer_Frame.description>Stores ammo; prevents deterioration. Up to 9 items.</Storage_HazMatContainer_Frame.description>
 
 
@@ -440,9 +440,9 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 
   <Storage_ExplosiveContainer.label>armored ammo box</Storage_ExplosiveContainer.label>
   <Storage_ExplosiveContainer.description>Stores and protects ammo; prevents deterioration. Up to 8 items.</Storage_ExplosiveContainer.description>
-  <Storage_ExplosiveContainer_Blueprint.label>armored ammo box (blueprint)</Storage_ExplosiveContainer_Blueprint.label>
-  <Storage_ExplosiveContainer_Blueprint_Install.label>armored ammo box (blueprint)</Storage_ExplosiveContainer_Blueprint_Install.label>
-  <Storage_ExplosiveContainer_Frame.label>armored ammo box (building)</Storage_ExplosiveContainer_Frame.label>
+  <Storage_ExplosiveContainer_Blueprint.label>armored ammo box (progetto)</Storage_ExplosiveContainer_Blueprint.label>
+  <Storage_ExplosiveContainer_Blueprint_Install.label>armored ammo box (progetto)</Storage_ExplosiveContainer_Blueprint_Install.label>
+  <Storage_ExplosiveContainer_Frame.label>armored ammo box (struttura)</Storage_ExplosiveContainer_Frame.label>
   <Storage_ExplosiveContainer_Frame.description>Stores and protects ammo; prevents deterioration. Up to 8 items.</Storage_ExplosiveContainer_Frame.description>
 
 
@@ -450,9 +450,9 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 
   <ClutterLockerA.label>vault safe</ClutterLockerA.label>
   <ClutterLockerA.description>Strong and secure safe which protects dangerous or valuable items in case of disaster. Flame-proof, and nearly explosion-proof, but can still be destroyed by conventional methods. Stores up to 8 items...slowly.</ClutterLockerA.description>
-  <ClutterLockerA_Blueprint.label>vault safe (blueprint)</ClutterLockerA_Blueprint.label>
-  <ClutterLockerA_Blueprint_Install.label>vault safe (blueprint)</ClutterLockerA_Blueprint_Install.label>
-  <ClutterLockerA_Frame.label>vault safe (building)</ClutterLockerA_Frame.label>
+  <ClutterLockerA_Blueprint.label>vault safe (progetto)</ClutterLockerA_Blueprint.label>
+  <ClutterLockerA_Blueprint_Install.label>vault safe (progetto)</ClutterLockerA_Blueprint_Install.label>
+  <ClutterLockerA_Frame.label>vault safe (struttura)</ClutterLockerA_Frame.label>
   <ClutterLockerA_Frame.description>Strong and secure safe which protects dangerous or valuable items in case of disaster. Flame-proof, and nearly explosion-proof, but can still be destroyed by conventional methods. Stores up to 8 items...slowly.</ClutterLockerA_Frame.description>
 
 
@@ -460,20 +460,20 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 
   <TextileRack.label>Textile rack</TextileRack.label>
   <TextileRack.description>Bins and hangers for storing bolts of textile.</TextileRack.description>
-  <TextileRack_Blueprint.label>Textile rack (blueprint)</TextileRack_Blueprint.label>
-  <TextileRack_Blueprint_Install.label>Textile rack (blueprint)</TextileRack_Blueprint_Install.label>
-  <TextileRack_Frame.label>Textile rack (building)</TextileRack_Frame.label>
+  <TextileRack_Blueprint.label>Textile rack (progetto)</TextileRack_Blueprint.label>
+  <TextileRack_Blueprint_Install.label>Textile rack (progetto)</TextileRack_Blueprint_Install.label>
+  <TextileRack_Frame.label>Textile rack (struttura)</TextileRack_Frame.label>
   <TextileRack_Frame.description>Bins and hangers for storing bolts of textile.</TextileRack_Frame.description>
 
 
   <!-- Commode / Wardrobe -->
 
-  <Commode.label>wardrobe</Commode.label>
-  <Commode.description>A dresser for colonists to store and organize their clothes.</Commode.description>
-  <Commode_Blueprint.label>wardrobe (blueprint)</Commode_Blueprint.label>
-  <Commode_Blueprint_Install.label>wardrobe (blueprint)</Commode_Blueprint_Install.label>
-  <Commode_Frame.label>wardrobe (building)</Commode_Frame.label>
-  <Commode_Frame.description>A dresser for colonists to store and organize their clothes.</Commode_Frame.description>
+  <Commode.label>guardaroba</Commode.label>
+  <Commode.description>Una cassettiera per i coloni per riporre e organizzare i propri vestiti.</Commode.description>
+  <Commode_Blueprint.label>guardaroba (progetto)</Commode_Blueprint.label>
+  <Commode_Blueprint_Install.label>guardaroba (progetto)</Commode_Blueprint_Install.label>
+  <Commode_Frame.label>guardaroba (struttura)</Commode_Frame.label>
+  <Commode_Frame.description>Una cassettiera per i coloni per riporre e organizzare i propri vestiti.</Commode_Frame.description>
 
 
 </LanguageData>
