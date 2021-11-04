@@ -3,29 +3,29 @@
 
   <!-- Walls -->
 
-  <Wall.label>wall</Wall.label>
-  <Wall.description>An impassable wall. It is capable of holding up a roof.</Wall.description>
-  <Wall_Blueprint.label>wall (blueprint)</Wall_Blueprint.label>
-  <Wall_Frame.label>wall (building)</Wall_Frame.label>
-  <Wall_Frame.description>An impassable wall. It is capable of holding up a roof.</Wall_Frame.description>
+  <Wall.label>muro</Wall.label>
+  <Wall.description>Un muro invalicabile. È in grado di sostenere un tetto.</Wall.description>
+  <Wall_Blueprint.label>muro (progetto)</Wall_Blueprint.label>
+  <Wall_Frame.label>muro (struttura)</Wall_Frame.label>
+  <Wall_Frame.description>Un muro invalicabile. È in grado di sostenere un tetto.</Wall_Frame.description>
 
-  <Fence.label>fence</Fence.label>
-  <Fence.description>A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside.</Fence.description>
-  <Fence_Blueprint.label>fence (blueprint)</Fence_Blueprint.label>
-  <Fence_Frame.label>fence (building)</Fence_Frame.label>
-  <Fence_Frame.description>A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside.</Fence_Frame.description>
+  <Fence.label>recinzione</Fence.label>
+  <Fence.description>Una recinzione fatta di pali uniti da traverse utilizzate per costruire recinti per alcuni tipi di animali. Alcuni tipi di animali possono superare i recinti. I predatori non daranno la caccia alle creature dall'altra parte di una recinzione, ma potrebbero comunque vagare all'interno.</Fence.description>
+  <Fence_Blueprint.label>recinzione (progetto)</Fence_Blueprint.label>
+  <Fence_Frame.label>recinzione (struttura)</Fence_Frame.label>
+  <Fence_Frame.description>Una recinzione fatta di pali uniti da traverse utilizzate per costruire recinti per alcuni tipi di animali. Alcuni tipi di animali possono superare i recinti. I predatori non daranno la caccia alle creature dall'altra parte di una recinzione, ma potrebbero comunque vagare all'interno.</Fence_Frame.description>
 
-  <ClutterSilverWall.label>panel reinforced wall</ClutterSilverWall.label>
-  <ClutterSilverWall.description>A reinforced wall with thick panels attached to strengthen it further.</ClutterSilverWall.description>
-  <ClutterSilverWall_Blueprint.label>panel reinforced wall (blueprint)</ClutterSilverWall_Blueprint.label>
-  <ClutterSilverWall_Frame.label>panel reinforced wall (building)</ClutterSilverWall_Frame.label>
-  <ClutterSilverWall_Frame.description>A reinforced wall with thick panels attached to strengthen it further.</ClutterSilverWall_Frame.description>
+  <ClutterSilverWall.label>muro rinforzato a pannelli</ClutterSilverWall.label>
+  <ClutterSilverWall.description>Un muro rinforzato con pannelli spessi attaccati per rafforzarlo ulteriormente.</ClutterSilverWall.description>
+  <ClutterSilverWall_Blueprint.label>muro rinforzato a pannelli (progetto)</ClutterSilverWall_Blueprint.label>
+  <ClutterSilverWall_Frame.label>muro rinforzato a pannelli (struttura)</ClutterSilverWall_Frame.label>
+  <ClutterSilverWall_Frame.description>Un muro rinforzato con pannelli spessi attaccati per rafforzarlo ulteriormente.</ClutterSilverWall_Frame.description>
 
-  <ClutterUWallLight.label>utility wall with lights</ClutterUWallLight.label>
-  <ClutterUWallLight.description>Upgraded version of basic walls, with the ability to easily attach things, like centuries old dust! This version comes with lights to show off your beautiful dust collection.</ClutterUWallLight.description>
-  <ClutterUWallLight_Blueprint.label>utility wall with lights (blueprint)</ClutterUWallLight_Blueprint.label>
-  <ClutterUWallLight_Frame.label>utility wall with lights (building)</ClutterUWallLight_Frame.label>
-  <ClutterUWallLight_Frame.description>Upgraded version of basic walls, with the ability to easily attach things, like centuries old dust! This version comes with lights to show off your beautiful dust collection.</ClutterUWallLight_Frame.description>
+  <ClutterUWallLight.label>muro con luce di servizio</ClutterUWallLight.label>
+  <ClutterUWallLight.description>Versione aggiornata delle pareti di base, con la possibilità di attaccare facilmente oggetti, come la polvere secolare! Questa versione è dotata di luci per mostrare la tua bella collezione di polvere.</ClutterUWallLight.description>
+  <ClutterUWallLight_Blueprint.label>muro con luce di servizio (progetto)</ClutterUWallLight_Blueprint.label>
+  <ClutterUWallLight_Frame.label>muro con luce di servizio (struttura)</ClutterUWallLight_Frame.label>
+  <ClutterUWallLight_Frame.description>Versione aggiornata delle pareti di base, con la possibilità di attaccare facilmente oggetti, come la polvere secolare! Questa versione è dotata di luci per mostrare la tua bella collezione di polvere.</ClutterUWallLight_Frame.description>
 
 
   <!-- SK new walls
@@ -79,7 +79,7 @@
 		<defName>Wall</defName>
 		<label>stone wall</label>
 		<thingClass>SK.Wall_Multi</thingClass>
-		<description>An impassable wall. It is capable of holding up a roof.</description>
+		<description>An impassable wall. È in grado di sostenere un tetto.</description>
 		<graphicData>
 			<texPath>Things/Building/Walls/StoneWall_Atlas</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -117,7 +117,7 @@
     <label>metallic wall</label>
     <thingClass>SK.Wall_Multi</thingClass>
     <category>Building</category>
-   <description>An impassable wall. It is capable of holding up a roof.</description>
+   <description>An impassable wall. È in grado di sostenere un tetto.</description>
    <graphicData>
      <texPath>Things/Building/Walls/MetallWall_Atlas</texPath>
 	<graphicClass>Graphic_Single</graphicClass>
@@ -178,7 +178,7 @@
 	<SecondaryMaterialPath>Things/Building/Walls/MetallWallA_Atlas</SecondaryMaterialPath>
 	<ThirdMaterialPath>Things/Building/Walls/MetallWallB_Atlas</ThirdMaterialPath>
   </ThingDef>
-  
+
     <ThingDef Class="SK.StructureThingDefs" ParentName="WallBase">
 		<defName>ClutterUWallLight</defName>
 		<label>metallic wall with lights</label>
@@ -242,8 +242,8 @@
 		</comps>
 	<PowerOffMaterialPath>Things/Building/Walls/UWallYellowOff</PowerOffMaterialPath>
 	</ThingDef>
-	
-	
+
+
 	<ThingDef ParentName="WallBase">
 		<defName>ClutterSilverWall</defName>
 		<label>panel reinforced wall</label>
@@ -293,11 +293,11 @@
 		<designationCategory>Structure</designationCategory>
 		<researchPrerequisites><li>SK_ConstructionIII</li></researchPrerequisites>
 	</ThingDef>
-	
+
 	<ThingDef ParentName="WallBase">
 		<defName>BWall</defName>
 		<label>masonry</label>
-		<description>An impassable wall. It is capable of holding up a roof.</description>
+		<description>An impassable wall. È in grado di sostenere un tetto.</description>
 		<graphicData>
 			<texPath>Things/Building/Walls/BrickWall_Atlas</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -479,11 +479,11 @@
 		<useHitPoints>false</useHitPoints>
 	</ThingDef> -->
 
-  <Column.label>column</Column.label>
-  <Column.description>A structural column capable of holding up a roof. It does not impede movement or provide cover.</Column.description>
-  <Column_Blueprint.label>column (blueprint)</Column_Blueprint.label>
-  <Column_Frame.label>column (building)</Column_Frame.label>
-  <Column_Frame.description>A structural column capable of holding up a roof. It does not impede movement or provide cover.</Column_Frame.description>
+  <Column.label>colonna</Column.label>
+  <Column.description>Una colonna strutturale in grado di sostenere un tetto. Non impedisce il movimento né fornisce copertura.</Column.description>
+  <Column_Blueprint.label>colonna (progetto)</Column_Blueprint.label>
+  <Column_Frame.label>colonna (struttura)</Column_Frame.label>
+  <Column_Frame.description>Una colonna strutturale in grado di sostenere un tetto. Non impedisce il movimento né fornisce copertura.</Column_Frame.description>
 
 
 </LanguageData>
