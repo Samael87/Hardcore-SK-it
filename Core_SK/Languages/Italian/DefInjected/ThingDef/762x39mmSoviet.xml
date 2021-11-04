@@ -3,21 +3,21 @@
 
   <!-- Ammo -->
 
-  <Ammo_762x39mmSoviet_FMJ.label>7.62x39mm cartridge (FMJ)</Ammo_762x39mmSoviet_FMJ.label>
-  <Ammo_762x39mmSoviet_FMJ.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_FMJ.description>
+  <Ammo_762x39mmSoviet_FMJ.label>Cartuccia 7.62x39mm (FMJ)</Ammo_762x39mmSoviet_FMJ.label>
+  <Ammo_762x39mmSoviet_FMJ.description>Cartuccia intermedia usata da alcuni vecchi fucili d'assalto.</Ammo_762x39mmSoviet_FMJ.description>
 
-  <Ammo_762x39mmSoviet_AP.label>7.62x39mm cartridge (AP)</Ammo_762x39mmSoviet_AP.label>
-  <Ammo_762x39mmSoviet_AP.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_AP.description>
+  <Ammo_762x39mmSoviet_AP.label>Cartuccia 7.62x39mm (AP)</Ammo_762x39mmSoviet_AP.label>
+  <Ammo_762x39mmSoviet_AP.description>Cartuccia intermedia usata da alcuni vecchi fucili d'assalto.</Ammo_762x39mmSoviet_AP.description>
 
-  <Ammo_762x39mmSoviet_HP.label>7.62x39mm cartridge (HP)</Ammo_762x39mmSoviet_HP.label>
-  <Ammo_762x39mmSoviet_HP.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_HP.description>
+  <Ammo_762x39mmSoviet_HP.label>Cartuccia 7.62x39mm (HP)</Ammo_762x39mmSoviet_HP.label>
+  <Ammo_762x39mmSoviet_HP.description>Cartuccia intermedia usata da alcuni vecchi fucili d'assalto.</Ammo_762x39mmSoviet_HP.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_762x39mmSoviet_FMJ.label>7.62mm bullet (FMJ)</Bullet_762x39mmSoviet_FMJ.label>
-  <Bullet_762x39mmSoviet_AP.label>7.62mm bullet (AP)</Bullet_762x39mmSoviet_AP.label>
-  <Bullet_762x39mmSoviet_HP.label>7.62mm bullet (HP)</Bullet_762x39mmSoviet_HP.label>
+  <Bullet_762x39mmSoviet_FMJ.label>Proiettile 7.62x39mm (FMJ)</Bullet_762x39mmSoviet_FMJ.label>
+  <Bullet_762x39mmSoviet_AP.label>Proiettile 7.62x39mm (AP)</Bullet_762x39mmSoviet_AP.label>
+  <Bullet_762x39mmSoviet_HP.label>Proiettile 7.62x39mm (HP)</Bullet_762x39mmSoviet_HP.label>
 
 
 </LanguageData>

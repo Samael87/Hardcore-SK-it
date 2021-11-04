@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparel_ShieldBelt.label>shield belt</Apparel_ShieldBelt.label>
-  <Apparel_ShieldBelt.description>A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP.</Apparel_ShieldBelt.description>
+  <Apparel_ShieldBelt.label>cintura scudo</Apparel_ShieldBelt.label>
+  <Apparel_ShieldBelt.description>Un dispositivo di repulsione del proiettile. Tenterà di fermare i proiettili o gli shrapnel in arrivo, ma ha effetto contro gli attacchi di mischia o calore. Impedisce a chi lo indossa di sparare oltre lo scudo e si disattiva istantaneamente se colpito da EMP.</Apparel_ShieldBelt.description>
 
 
   <!-- <ThingDef ParentName="ApparelShieldBase">
@@ -21,7 +21,7 @@
 			<Bulk>3</Bulk>
 			<WornBulk>1</WornBulk>
 			<SmokepopBeltRadius>4</SmokepopBeltRadius>
-			<EquipDelay>1.8</EquipDelay>			
+			<EquipDelay>1.8</EquipDelay>
 			<StuffEffectMultiplierInsulation_Cold>0.10</StuffEffectMultiplierInsulation_Cold>
 			<StuffEffectMultiplierInsulation_Heat>0.10</StuffEffectMultiplierInsulation_Heat>
 			<StuffEffectMultiplierArmor>0.8</StuffEffectMultiplierArmor>
@@ -92,8 +92,8 @@
 		</thingCategories>
 	</ThingDef> -->
 
-  <Apparello_SheildGaurdian.label>guardian shield</Apparello_SheildGaurdian.label>
-  <Apparello_SheildGaurdian.description>An outdated single-person energy shield device, It's not known how the Norbals have gotten their hands on this level of technology or how they're able to manufacture them. It will attempt to stop any rapidly-moving projectile or energy attack that comes from a distance. It does nothing against melee attacks or shots from point-blank range. It prevents firing out as well.</Apparello_SheildGaurdian.description>
+  <Apparello_SheildGaurdian.label>scudo del guardiano</Apparello_SheildGaurdian.label>
+  <Apparello_SheildGaurdian.description>Un dispositivo a scudo energetico per singola persona obsoleto, non si sa come i Norbals abbiano messo le mani su questo livello di tecnologia o come siano in grado di produrli. Tenterà di fermare qualsiasi proiettile in rapido movimento o attacco di energia che proviene da una distanza. Non fa nulla contro gli attacchi corpo a corpo o colpi a bruciapelo. Impedisce di sparare oltre lo scudo.</Apparello_SheildGaurdian.description>
 
 
 </LanguageData>

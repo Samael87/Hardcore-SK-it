@@ -3,13 +3,13 @@
 
   <!-- Raw Materials -->
 
-  <RawCotton.label>Cotone grezzo</RawCotton.label>
+  <RawCotton.label>cotone grezzo</RawCotton.label>
   <RawCotton.description>Cotone grezzo estratto da un cespuglio di cotone. Può essere filato in stoffa in un banco da lavoro da sarto.</RawCotton.description>
 
-  <RawFlax.label>Lino grezzo</RawFlax.label>
+  <RawFlax.label>lino grezzo</RawFlax.label>
   <RawFlax.description>Lino grezzo. Può essere filato in tessuto o venduto a un commerciante.</RawFlax.description>
 
-  <RawDevilstrand.label>Devilstrand grezzo</RawDevilstrand.label>
+  <RawDevilstrand.label>devilstrand grezzo</RawDevilstrand.label>
   <RawDevilstrand.description>Devilstrand grezzo estratto da un fungo Devilstrand. Può essere filato in stoffa Devilstrand al banco di lavoro da sarto.</RawDevilstrand.description>
 
 

@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <FishingPierSpawner.label>fishing pier</FishingPierSpawner.label>
-  <FishingPierSpawner.description>A simple and solid fishing pier. Keeps your feet dry while fishing.</FishingPierSpawner.description>
-  <FishingPierSpawner_Blueprint.label>fishing pier (blueprint)</FishingPierSpawner_Blueprint.label>
-  <FishingPierSpawner_Frame.label>fishing pier (building)</FishingPierSpawner_Frame.label>
-  <FishingPierSpawner_Frame.description>A simple and solid fishing pier. Keeps your feet dry while fishing.</FishingPierSpawner_Frame.description>
+  <FishingPierSpawner.label>molo per la pesca</FishingPierSpawner.label>
+  <FishingPierSpawner.description>Un semplice e solido molo per la pesca. Mantiene i piedi asciutti durante la pesca.</FishingPierSpawner.description>
+  <FishingPierSpawner_Blueprint.label>molo per la pesca (progetto)</FishingPierSpawner_Blueprint.label>
+  <FishingPierSpawner_Frame.label>molo per la pesca (struttura)</FishingPierSpawner_Frame.label>
+  <FishingPierSpawner_Frame.description>Un semplice e solido molo per la pesca. Mantiene i piedi asciutti durante la pesca.</FishingPierSpawner_Frame.description>
 
-  <FishingPierSpawnerOnMud.label>fishing pier (on mud)</FishingPierSpawnerOnMud.label>
-  <FishingPierSpawnerOnMud.description>A simple and solid fishing pier. Keeps your feet dry while fishing. Can be built over mud be requires more time and building materials.</FishingPierSpawnerOnMud.description>
-  <FishingPierSpawnerOnMud_Blueprint.label>fishing pier (on mud) (blueprint)</FishingPierSpawnerOnMud_Blueprint.label>
-  <FishingPierSpawnerOnMud_Frame.label>fishing pier (on mud) (building)</FishingPierSpawnerOnMud_Frame.label>
-  <FishingPierSpawnerOnMud_Frame.description>A simple and solid fishing pier. Keeps your feet dry while fishing. Can be built over mud be requires more time and building materials.</FishingPierSpawnerOnMud_Frame.description>
+  <FishingPierSpawnerOnMud.label>molo per la pesca (su fango)</FishingPierSpawnerOnMud.label>
+  <FishingPierSpawnerOnMud.description>Un semplice e solido molo per la pesca. Mantiene i piedi asciutti durante la pesca. Può essere costruito sul fango e richiede più tempo e materiali da costruzione.</FishingPierSpawnerOnMud.description>
+  <FishingPierSpawnerOnMud_Blueprint.label>molo per la pesca (su fango) (progetto)</FishingPierSpawnerOnMud_Blueprint.label>
+  <FishingPierSpawnerOnMud_Frame.label>molo per la pesca (su fango) (struttura)</FishingPierSpawnerOnMud_Frame.label>
+  <FishingPierSpawnerOnMud_Frame.description>Un semplice e solido molo per la pesca. Mantiene i piedi asciutti durante la pesca. Può essere costruito sul fango e richiede più tempo e materiali da costruzione.</FishingPierSpawnerOnMud_Frame.description>
 
-  <FishingPier.label>Fishing pier</FishingPier.label>
-  <FishingPier.description>A simple and solid fishing pier. Keeps your feet dry when fishing.</FishingPier.description>
+  <FishingPier.label>molo per la pesca</FishingPier.label>
+  <FishingPier.description>Un semplice e solido molo per la pesca. Mantiene i piedi asciutti durante la pesca.</FishingPier.description>
 
 
 </LanguageData>

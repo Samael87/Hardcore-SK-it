@@ -35,7 +35,7 @@
   <HempCloth.description>La canapa è un tipo di tessuto prodotto dalla filatura delle fibre della medesima pianta. E' la stessa pianta che piace fumare alla gente. Attenzione alle fonti di fuoco!</HempCloth.description>
   <HempCloth.stuffProps.stuffAdjective>canapa</HempCloth.stuffProps.stuffAdjective>
 
-  <Velour.label>Velluto</Velour.label>
+  <Velour.label>velluto</Velour.label>
   <Velour.stuffProps.stuffAdjective>velluto</Velour.stuffProps.stuffAdjective>
 
   <Flaxcloth.label>tessuto di lino</Flaxcloth.label>

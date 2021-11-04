@@ -43,7 +43,7 @@
   <DepletedUranium.description>La lega di uranio impoverito è creata raffinando il minerale di uranio attraverso una centrifuga a gas. La radiazione pericolosa è stata rimossa, risultando un metallo unico per resistenza ed alta densità, ideale per la creazione di armature o proiettili perforanti.</DepletedUranium.description>
   <DepletedUranium.stuffProps.stuffAdjective>uranio impoverito</DepletedUranium.stuffProps.stuffAdjective>
 
-  <CarbonAlloy.label>ibra di carbonio</CarbonAlloy.label>
+  <CarbonAlloy.label>fibra di carbonio</CarbonAlloy.label>
   <CarbonAlloy.description>Carbon Fiber Alloy è un nanomateriale polimero estremamente resistente e leggero, rinforzato con fibre di carbonio. Viene creato in un laboratorio chimico.</CarbonAlloy.description>
   <CarbonAlloy.stuffProps.stuffAdjective>lega in fibra di carbonio</CarbonAlloy.stuffProps.stuffAdjective>
 

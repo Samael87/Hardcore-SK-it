@@ -3,21 +3,21 @@
 
   <!-- Ammo -->
 
-  <Ammo_556x45mmNATO_FMJ.label>5.56x45mm cartridge (FMJ)</Ammo_556x45mmNATO_FMJ.label>
-  <Ammo_556x45mmNATO_FMJ.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_FMJ.description>
+  <Ammo_556x45mmNATO_FMJ.label>Cartuccia 5.56x45mm (FMJ)</Ammo_556x45mmNATO_FMJ.label>
+  <Ammo_556x45mmNATO_FMJ.description>Piccolo proiettile ad alta velocità usato in svariati fucili d'assalto.</Ammo_556x45mmNATO_FMJ.description>
 
-  <Ammo_556x45mmNATO_AP.label>5.56x45mm cartridge (AP)</Ammo_556x45mmNATO_AP.label>
-  <Ammo_556x45mmNATO_AP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_AP.description>
+  <Ammo_556x45mmNATO_AP.label>Cartuccia 5.56x45mm (AP)</Ammo_556x45mmNATO_AP.label>
+  <Ammo_556x45mmNATO_AP.description>Piccolo proiettile ad alta velocità usato in svariati fucili d'assalto.</Ammo_556x45mmNATO_AP.description>
 
-  <Ammo_556x45mmNATO_HP.label>5.56x45mm cartridge (HP)</Ammo_556x45mmNATO_HP.label>
-  <Ammo_556x45mmNATO_HP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_HP.description>
+  <Ammo_556x45mmNATO_HP.label>Cartuccia 5.56x45mm (HP)</Ammo_556x45mmNATO_HP.label>
+  <Ammo_556x45mmNATO_HP.description>Piccolo proiettile ad alta velocità usato in svariati fucili d'assalto.</Ammo_556x45mmNATO_HP.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_556x45mmNATO_FMJ.label>5.56mm bullet (FMJ)</Bullet_556x45mmNATO_FMJ.label>
-  <Bullet_556x45mmNATO_AP.label>5.56mm bullet (AP)</Bullet_556x45mmNATO_AP.label>
-  <Bullet_556x45mmNATO_HP.label>5.56mm bullet (HP)</Bullet_556x45mmNATO_HP.label>
+  <Bullet_556x45mmNATO_FMJ.label>Proiettile 5.56x45mm (FMJ)</Bullet_556x45mmNATO_FMJ.label>
+  <Bullet_556x45mmNATO_AP.label>Proiettile 5.56x45mm (AP)</Bullet_556x45mmNATO_AP.label>
+  <Bullet_556x45mmNATO_HP.label>Proiettile 5.56x45mm (HP)</Bullet_556x45mmNATO_HP.label>
 
 
 </LanguageData>

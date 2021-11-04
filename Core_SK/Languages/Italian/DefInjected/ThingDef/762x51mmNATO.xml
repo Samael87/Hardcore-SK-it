@@ -3,21 +3,21 @@
 
   <!-- Ammo -->
 
-  <Ammo_762x51mmNATO_FMJ.label>7.62x51mm cartridge (FMJ)</Ammo_762x51mmNATO_FMJ.label>
-  <Ammo_762x51mmNATO_FMJ.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_FMJ.description>
+  <Ammo_762x51mmNATO_FMJ.label>Cartuccia 7.62x51mm (FMJ)</Ammo_762x51mmNATO_FMJ.label>
+  <Ammo_762x51mmNATO_FMJ.description>Un grosso proiettile usato nelle mitragliatrici, nei fucili da cecchino e occasionalmente nei fucili d'assalto.</Ammo_762x51mmNATO_FMJ.description>
 
-  <Ammo_762x51mmNATO_AP.label>7.62x51mm cartridge (AP)</Ammo_762x51mmNATO_AP.label>
-  <Ammo_762x51mmNATO_AP.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_AP.description>
+  <Ammo_762x51mmNATO_AP.label>Cartuccia 7.62x51mm (AP)</Ammo_762x51mmNATO_AP.label>
+  <Ammo_762x51mmNATO_AP.description>Un grosso proiettile usato nelle mitragliatrici, nei fucili da cecchino e occasionalmente nei fucili d'assalto.</Ammo_762x51mmNATO_AP.description>
 
-  <Ammo_762x51mmNATO_HP.label>7.62x51mm cartridge (HP)</Ammo_762x51mmNATO_HP.label>
-  <Ammo_762x51mmNATO_HP.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_HP.description>
+  <Ammo_762x51mmNATO_HP.label>Cartuccia 7.62x51mm (HP)</Ammo_762x51mmNATO_HP.label>
+  <Ammo_762x51mmNATO_HP.description>Un grosso proiettile usato nelle mitragliatrici, nei fucili da cecchino e occasionalmente nei fucili d'assalto.</Ammo_762x51mmNATO_HP.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_762x51mmNATO_FMJ.label>7.62mm bullet (FMJ)</Bullet_762x51mmNATO_FMJ.label>
-  <Bullet_762x51mmNATO_AP.label>7.62mm bullet (AP)</Bullet_762x51mmNATO_AP.label>
-  <Bullet_762x51mmNATO_HP.label>7.62mm bullet (HP)</Bullet_762x51mmNATO_HP.label>
+  <Bullet_762x51mmNATO_FMJ.label>Proiettile 7.62mm (FMJ)</Bullet_762x51mmNATO_FMJ.label>
+  <Bullet_762x51mmNATO_AP.label>Proiettile 7.62mm (AP)</Bullet_762x51mmNATO_AP.label>
+  <Bullet_762x51mmNATO_HP.label>Proiettile 7.62mm (HP)</Bullet_762x51mmNATO_HP.label>
 
 
 </LanguageData>

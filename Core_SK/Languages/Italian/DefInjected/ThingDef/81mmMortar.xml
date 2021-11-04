@@ -3,33 +3,33 @@
 
   <!-- Ammo -->
 
-  <Shell_HighExplosive.label>Bomba da mortaio da 81mm (HE)</Shell_HighExplosive.label>
-  <Shell_HighExplosive.description>Low-velocity shell designed to be fired from a mortar.</Shell_HighExplosive.description>
+  <Shell_HighExplosive.label>Granata per mortaio da 81mm (HE)</Shell_HighExplosive.label>
+  <Shell_HighExplosive.description>Granata a bassa velocità progettata per essere sparata da un mortaio.</Shell_HighExplosive.description>
 
-  <Shell_Incendiary.label>Bomba da mortaio da 81mm (Incendiaria)</Shell_Incendiary.label>
-  <Shell_Incendiary.description>Low-velocity shell designed to be fired from a mortar.</Shell_Incendiary.description>
+  <Shell_Incendiary.label>Granata per mortaio da 81mm (Incendiaria)</Shell_Incendiary.label>
+  <Shell_Incendiary.description>Granata a bassa velocità progettata per essere sparata da un mortaio.</Shell_Incendiary.description>
 
-  <Shell_EMP.label>Bomba da mortaio da 81mm (EMP)</Shell_EMP.label>
-  <Shell_EMP.description>Low-velocity shell designed to be fired from a mortar.</Shell_EMP.description>
+  <Shell_EMP.label>Granata per mortaio da 81mm (EMP)</Shell_EMP.label>
+  <Shell_EMP.description>Granata a bassa velocità progettata per essere sparata da un mortaio.</Shell_EMP.description>
 
-  <Shell_Firefoam.label>Bomba da mortaio da 81mm (Antincendio)</Shell_Firefoam.label>
-  <Shell_Firefoam.description>A pressurized shell filled with fire-extinguishing foam. Can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_Firefoam.description>
+  <Shell_Firefoam.label>Granata per mortaio da 81mm (Antincendio)</Shell_Firefoam.label>
+  <Shell_Firefoam.description>Una granata pressurizzata riempita con schiuma estinguente. Può essere sparata da mortai o installata come una trappola. Esplode quando danneggiata.</Shell_Firefoam.description>
 
-  <Shell_Smoke.label>Bomba da mortaio da 81mm (Fumogena)</Shell_Smoke.label>
-  <Shell_Smoke.description>A shell that generates a cloud of smoke when detonated, obscuring incoming shots and preventing turrets from locking on. Can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_Smoke.description>
+  <Shell_Smoke.label>Granata per mortaio da 81mm (Fumogena)</Shell_Smoke.label>
+  <Shell_Smoke.description>Una granata che genera una nuvola di fumo quando viene detonata, oscurando i colpi in arrivo e impedendo alle torrette di ingaggiare. Può essere sparata da mortai o installata come una trappola. Esplode quando danneggiata.</Shell_Smoke.description>
 
-  <Shell_AntigrainWarhead.label>Bomba da mortaio da 81mm (Anti)</Shell_AntigrainWarhead.label>
-  <Shell_AntigrainWarhead.description>Low-velocity shell designed to be fired from a mortar.</Shell_AntigrainWarhead.description>
+  <Shell_AntigrainWarhead.label>Granata per mortaio da 81mm (Anti)</Shell_AntigrainWarhead.label>
+  <Shell_AntigrainWarhead.description>Granata a bassa velocità progettata per essere sparata da un mortaio.</Shell_AntigrainWarhead.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_81mmMortarShell_HE.label>Bomba da mortaio da 81mm (HE)</Bullet_81mmMortarShell_HE.label>
-  <Bullet_81mmMortarShell_Incendiary.label>Bomba da mortaio da 81mm (Incendiaria)</Bullet_81mmMortarShell_Incendiary.label>
-  <Bullet_81mmMortarShell_EMP.label>Bomba da mortaio da 81mm (EMP)</Bullet_81mmMortarShell_EMP.label>
-  <Bullet_81mmMortarShell_FireFoam.label>Bomba da mortaio da 81mm (Antincendio)</Bullet_81mmMortarShell_FireFoam.label>
-  <Bullet_81mmMortarShell_Smoke.label>Bomba da mortaio da 81mm (Fumogena)</Bullet_81mmMortarShell_Smoke.label>
-  <Bullet_81mmMortarShell_Antigrain.label>Bomba da mortaio da 81mm (Anti)</Bullet_81mmMortarShell_Antigrain.label>
+  <Bullet_81mmMortarShell_HE.label>Granata per mortaio da 81mm (HE)</Bullet_81mmMortarShell_HE.label>
+  <Bullet_81mmMortarShell_Incendiary.label>Granata per mortaio da 81mm (Incendiaria)</Bullet_81mmMortarShell_Incendiary.label>
+  <Bullet_81mmMortarShell_EMP.label>Granata per mortaio da 81mm (EMP)</Bullet_81mmMortarShell_EMP.label>
+  <Bullet_81mmMortarShell_FireFoam.label>Granata per mortaio da 81mm (Antincendio)</Bullet_81mmMortarShell_FireFoam.label>
+  <Bullet_81mmMortarShell_Smoke.label>Granata per mortaio da 81mm (Fumogena)</Bullet_81mmMortarShell_Smoke.label>
+  <Bullet_81mmMortarShell_Antigrain.label>Granata per mortaio da 81mm (Anti)</Bullet_81mmMortarShell_Antigrain.label>
 
 
 </LanguageData>

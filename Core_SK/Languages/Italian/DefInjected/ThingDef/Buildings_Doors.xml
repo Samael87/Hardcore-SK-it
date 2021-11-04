@@ -1,56 +1,56 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Door.label>rustic door</Door.label>
-  <Door.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</Door.description>
-  <Door_Blueprint.label>rustic door (blueprint)</Door_Blueprint.label>
-  <Door_Frame.label>rustic door (building)</Door_Frame.label>
-  <Door_Frame.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</Door_Frame.description>
+  <Door.label>porta rustica</Door.label>
+  <Door.description>Divide le stanze. Una porta semplice che deve essere aperta manualmente e che rallenta le persone. La quantità di rallentamento dipende dal materiale di cui è fatta la porta.</Door.description>
+  <Door_Blueprint.label>porta rustica (progetto)</Door_Blueprint.label>
+  <Door_Frame.label>porta rustica (struttura)</Door_Frame.label>
+  <Door_Frame.description>Divide le stanze. Una porta semplice che deve essere aperta manualmente e che rallenta le persone. La quantità di rallentamento dipende dal materiale di cui è fatta la porta.</Door_Frame.description>
 
-  <MDoor.label>metal door</MDoor.label>
-  <MDoor.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</MDoor.description>
-  <MDoor_Blueprint.label>metal door (blueprint)</MDoor_Blueprint.label>
-  <MDoor_Frame.label>metal door (building)</MDoor_Frame.label>
-  <MDoor_Frame.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</MDoor_Frame.description>
+  <MDoor.label>porta metallica</MDoor.label>
+  <MDoor.description>Divide le stanze. Una porta semplice che deve essere aperta manualmente e che rallenta le persone. La quantità di rallentamento dipende dal materiale di cui è fatta la porta.</MDoor.description>
+  <MDoor_Blueprint.label>metal door (progetto)</MDoor_Blueprint.label>
+  <MDoor_Frame.label>metal door (struttura)</MDoor_Frame.label>
+  <MDoor_Frame.description>Divide le stanze. Una porta semplice che deve essere aperta manualmente e che rallenta le persone. La quantità di rallentamento dipende dal materiale di cui è fatta la porta.</MDoor_Frame.description>
 
-  <CellDoor.label>cell door</CellDoor.label>
-  <CellDoor.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</CellDoor.description>
+  <CellDoor.label>porta della cella</CellDoor.label>
+  <CellDoor.description>Divide le stanze. Una porta semplice che deve essere aperta manualmente e che rallenta le persone. La quantità di rallentamento dipende dal materiale di cui è fatta la porta.</CellDoor.description>
 
-  <Autodoor.label>autodoor</Autodoor.label>
-  <Autodoor.description>A door divides rooms with a closable opening. Powered operation allows people to move through the door without slowing down.</Autodoor.description>
-  <Autodoor_Blueprint.label>autodoor (blueprint)</Autodoor_Blueprint.label>
-  <Autodoor_Frame.label>autodoor (building)</Autodoor_Frame.label>
-  <Autodoor_Frame.description>A door divides rooms with a closable opening. Powered operation allows people to move through the door without slowing down.</Autodoor_Frame.description>
+  <Autodoor.label>porta automatica</Autodoor.label>
+  <Autodoor.description>Una porta divide le stanze con un'apertura richiudibile. Il funzionamento a motore consente alle persone di passare attraverso la porta senza rallentare.</Autodoor.description>
+  <Autodoor_Blueprint.label>porta automatica (progetto)</Autodoor_Blueprint.label>
+  <Autodoor_Frame.label>porta automatica (struttura)</Autodoor_Frame.label>
+  <Autodoor_Frame.description>Una porta divide le stanze con un'apertura richiudibile. Il funzionamento a motore consente alle persone di passare attraverso la porta senza rallentare.</Autodoor_Frame.description>
 
-  <FenceGate.label>fence gate</FenceGate.label>
-  <FenceGate.description>A simple gate made of posts and crossbars. It blocks some animals like a fence. Handlers can lead animals in and out of the pen through these gates.</FenceGate.description>
-  <FenceGate_Blueprint.label>fence gate (blueprint)</FenceGate_Blueprint.label>
-  <FenceGate_Frame.label>fence gate (building)</FenceGate_Frame.label>
-  <FenceGate_Frame.description>A simple gate made of posts and crossbars. It blocks some animals like a fence. Handlers can lead animals in and out of the pen through these gates.</FenceGate_Frame.description>
+  <FenceGate.label>cancello della recinzione</FenceGate.label>
+  <FenceGate.description>Un semplice cancello fatto di pali e traverse. Blocca alcuni animali come una recinzione. Un allevatore può portare gli animali dentro e fuori dal recinto attraverso questi cancelli.</FenceGate.description>
+  <FenceGate_Blueprint.label>cancello della recinzione (progetto)</FenceGate_Blueprint.label>
+  <FenceGate_Frame.label>cancello della recinzione (struttura)</FenceGate_Frame.label>
+  <FenceGate_Frame.description>Un semplice cancello fatto di pali e traverse. Blocca alcuni animali come una recinzione. Un allevatore può portare gli animali dentro e fuori dal recinto attraverso questi cancelli.</FenceGate_Frame.description>
 
-  <AnimalFlap.label>animal flap</AnimalFlap.label>
-  <AnimalFlap.description>A doorway hung with thick overlapping strips of fabric or leather. It allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep.</AnimalFlap.description>
-  <AnimalFlap_Blueprint.label>animal flap (blueprint)</AnimalFlap_Blueprint.label>
-  <AnimalFlap_Frame.label>animal flap (building)</AnimalFlap_Frame.label>
-  <AnimalFlap_Frame.description>A doorway hung with thick overlapping strips of fabric or leather. It allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep.</AnimalFlap_Frame.description>
+  <AnimalFlap.label>ribalta per animali</AnimalFlap.label>
+  <AnimalFlap.description>Un portale composto da spesse strisce sovrapposte di tessuto o pelle appese. Permette agli animali di passare, isolando la temperatura della stanza. Le ribalte per animali sono comunemente usate come porte del fienile per dare agli animali nel recinto un posto al riparo per dormire.</AnimalFlap.description>
+  <AnimalFlap_Blueprint.label>ribalta per animali (progetto)</AnimalFlap_Blueprint.label>
+  <AnimalFlap_Frame.label>ribalta per animali (struttura)</AnimalFlap_Frame.label>
+  <AnimalFlap_Frame.description>Un portale composto da spesse strisce sovrapposte di tessuto o pelle appese. Permette agli animali di passare, isolando la temperatura della stanza. Le ribalte per animali sono comunemente usate come porte del fienile per dare agli animali nel recinto un posto al riparo per dormire.</AnimalFlap_Frame.description>
 
-  <Blastdoor.label>blast autodoor</Blastdoor.label>
-  <Blastdoor.description>A powered, reinforced door that allows people to move through the door without slowing down.</Blastdoor.description>
-  <Blastdoor_Blueprint.label>blast autodoor (blueprint)</Blastdoor_Blueprint.label>
-  <Blastdoor_Frame.label>blast autodoor (building)</Blastdoor_Frame.label>
-  <Blastdoor_Frame.description>A powered, reinforced door that allows people to move through the door without slowing down.</Blastdoor_Frame.description>
+  <Blastdoor.label>porta blindata automatica</Blastdoor.label>
+  <Blastdoor.description>Una porta motorizzata e rinforzata che permette alle persone di passare senza essere rallentate.</Blastdoor.description>
+  <Blastdoor_Blueprint.label>porta blindata automatica (progetto)</Blastdoor_Blueprint.label>
+  <Blastdoor_Frame.label>porta blindata automatica (struttura)</Blastdoor_Frame.label>
+  <Blastdoor_Frame.description>Una porta motorizzata e rinforzata che permette alle persone di passare senza essere rallentate.</Blastdoor_Frame.description>
 
-  <OpenBlastDoor.label>large armor gate (open)</OpenBlastDoor.label>
-  <OpenBlastDoor.description>A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is currently open.</OpenBlastDoor.description>
+  <OpenBlastDoor.label>Cancello corazzato grande (aperto)</OpenBlastDoor.label>
+  <OpenBlastDoor.description>Un cancello molto grande che fornisce protezione contro entità esterne ostili. Richiede elettricità e deve essere aperto e chiuso manualmente. Il cancello è attualmente aperto.</OpenBlastDoor.description>
 
-  <ClosedBlastDoor.label>large armor gate (closed)</ClosedBlastDoor.label>
-  <ClosedBlastDoor.description>A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is currently closed.</ClosedBlastDoor.description>
-  <ClosedBlastDoor_Blueprint.label>large armor gate (closed) (blueprint)</ClosedBlastDoor_Blueprint.label>
-  <ClosedBlastDoor_Frame.label>large armor gate (closed) (building)</ClosedBlastDoor_Frame.label>
-  <ClosedBlastDoor_Frame.description>A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is currently closed.</ClosedBlastDoor_Frame.description>
+  <ClosedBlastDoor.label>Cancello corazzato grande (chiuso)</ClosedBlastDoor.label>
+  <ClosedBlastDoor.description>Un cancello molto grande che fornisce protezione contro entità esterne ostili. Richiede elettricità e deve essere aperto e chiuso manualmente. Il cancello è attualmente chiuso.</ClosedBlastDoor.description>
+  <ClosedBlastDoor_Blueprint.label>Cancello corazzato grande (chiuso) (progetto)</ClosedBlastDoor_Blueprint.label>
+  <ClosedBlastDoor_Frame.label>Cancello corazzato grande (chiuso) (struttura)</ClosedBlastDoor_Frame.label>
+  <ClosedBlastDoor_Frame.description>Un cancello molto grande che fornisce protezione contro entità esterne ostili. Richiede elettricità e deve essere aperto e chiuso manualmente. Il cancello è attualmente chiuso.</ClosedBlastDoor_Frame.description>
 
-  <JammedBlastDoor.label>large armor gate (jammed)</JammedBlastDoor.label>
-  <JammedBlastDoor.description>A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is jammed.</JammedBlastDoor.description>
+  <JammedBlastDoor.label>Cancello corazzato grande (inceppato)</JammedBlastDoor.label>
+  <JammedBlastDoor.description>Un cancello molto grande che fornisce protezione contro entità esterne ostili. Richiede elettricità e deve essere aperto e chiuso manualmente. Il cancello è inceppato.</JammedBlastDoor.description>
 
 
 </LanguageData>
